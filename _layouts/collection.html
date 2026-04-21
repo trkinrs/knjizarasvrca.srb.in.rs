@@ -1,0 +1,27 @@
+---
+layout: page
+---
+
+<table>
+  <thead>
+    <tr>
+      <th>SKU</th>
+      <th>Title</th>
+      <th>Price</th>
+      <th>Srbobran</th>
+      <th>Futog</th>
+    </tr>
+  </thead>
+  <tbody>
+    {% assign articles = site[page.collection_name] %}
+    {% for article in articles %}
+    <tr>
+      <td>{{ article.sku }}</td>
+      <td><a href="{{ article.url }}">{{ article.title }}</a></td>
+      <td>{% if article.price %}{{ article.price }}{% endif %}</td>
+      <td>{% if article.srbobran %}{{ article.srbobran }}{% endif %}</td>
+      <td>{% if article.futog %}{{ article.futog }}{% endif %}</td>
+    </tr>
+    {% endfor %}
+  </tbody>
+</table>

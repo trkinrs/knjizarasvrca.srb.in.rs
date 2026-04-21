@@ -1,0 +1,18 @@
+---
+layout: page
+_schema:
+  layout: static_field
+  title: static_field
+  sku: number_field
+  price: number_field
+  srbobran: number_field
+  futog: number_field
+---
+
+<dl>
+  <dt>SKU</dt><dd>{{ page.sku }}</dd>
+  <dt>Price</dt><dd>{% if page.price %}{{ page.price }}{% endif %}</dd>
+  <dt>Srbobran</dt><dd>{% if page.srbobran %}{{ page.srbobran }}{% endif %}</dd>
+  <dt>Futog</dt><dd>{% if page.futog %}{{ page.futog }}{% endif %}</dd>
+
+</dl>
