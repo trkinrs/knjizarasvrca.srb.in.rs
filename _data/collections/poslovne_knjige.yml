@@ -1,291 +1,291 @@
 ---
-- sifra: 21
-  naziv: INDEX A/5
-  mpcena: 610.0
+21:
+  title: INDEX A/5
+  price: 610.0
   srbobran: 1
-- sifra: 22
-  naziv: INDEX A/4
-  mpcena: 730.0
+22:
+  title: INDEX A/4
+  price: 730.0
   srbobran: 1
   futog: 1
-- sifra: 300
-  naziv: KALKULACIJA A/4
-  mpcena: 220.0
+300:
+  title: KALKULACIJA A/4
+  price: 220.0
   srbobran: 2
-- sifra: 627
-  naziv: KNJIGA KEP
-  mpcena: 395.0
+627:
+  title: KNJIGA KEP
+  price: 395.0
   srbobran: 0
-- sifra: 630
-  naziv: PREVOZNICA A/5
-  mpcena: 180.0
+630:
+  title: PREVOZNICA A/5
+  price: 180.0
   srbobran: 8
   futog: 5
-- sifra: 746
-  naziv: OBRAZAC 1 1+1
-  mpcena: 130.0
+746:
+  title: OBRAZAC 1 1+1
+  price: 130.0
   srbobran: 15
   futog: 6
-- sifra: 748
-  naziv: OBRAZAC 1 1+2
-  mpcena: 160.0
+748:
+  title: OBRAZAC 1 1+2
+  price: 160.0
   srbobran: 3
-- sifra: 750
-  naziv: OBRAZAC 3 1+1
-  mpcena: 130.0
+750:
+  title: OBRAZAC 3 1+1
+  price: 130.0
   srbobran: 9
   futog: 5
-- sifra: 751
-  naziv: 'OBRAZAC 2 1+1 '
-  mpcena: 130.0
+751:
+  title: 'OBRAZAC 2 1+1 '
+  price: 130.0
   srbobran: 9
   futog: 5
-- sifra: 819
-  naziv: PRIZNANICA A/6
-  mpcena: 100.0
+819:
+  title: PRIZNANICA A/6
+  price: 100.0
   srbobran: 9
   futog: 0
-- sifra: 820
-  naziv: SANITARNA KNJIZICA
-  mpcena: 120.0
+820:
+  title: SANITARNA KNJIZICA
+  price: 120.0
   srbobran: 28
   futog: 11
-- sifra: 845
-  naziv: NALOG-NAPLATI
-  mpcena: 180.0
+845:
+  title: NALOG-NAPLATI
+  price: 180.0
   srbobran: 5
-- sifra: 846
-  naziv: NALOG-ISPLATI
-  mpcena: 160.0
+846:
+  title: NALOG-ISPLATI
+  price: 160.0
   srbobran: 1
-- sifra: 847
-  naziv: NALOG MAGACINU DA IZDA
-  mpcena: 120.0
+847:
+  title: NALOG MAGACINU DA IZDA
+  price: 120.0
   srbobran: 7
-- sifra: 848
-  naziv: NALOG MAGACINU DA PRIMI
-  mpcena: 120.0
+848:
+  title: NALOG MAGACINU DA PRIMI
+  price: 120.0
   srbobran: 7
-- sifra: 849
-  naziv: NALOG ZA SL PUTOVANJE
-  mpcena: 165.0
+849:
+  title: NALOG ZA SL PUTOVANJE
+  price: 165.0
   srbobran: 6
   futog: 5
-- sifra: 850
-  naziv: PRIZNANICA DNEVNOG PAZARA
-  mpcena: 120.0
+850:
+  title: PRIZNANICA DNEVNOG PAZARA
+  price: 120.0
   srbobran: 2
-- sifra: 851
-  naziv: OBRAZAC BR-70
-  mpcena: 220.0
+851:
+  title: OBRAZAC BR-70
+  price: 220.0
   srbobran: 1
-- sifra: 852
-  naziv: TREBOVANJE A/5
-  mpcena: 160.0
+852:
+  title: TREBOVANJE A/5
+  price: 160.0
   srbobran: 5
-- sifra: 853
-  naziv: KNJIGA DPU
-  mpcena: 310.0
+853:
+  title: KNJIGA DPU
+  price: 310.0
   srbobran: 3
-- sifra: 855
-  naziv: NALOG ZA KNJIZENJE A/4
-  mpcena: 260.0
+855:
+  title: NALOG ZA KNJIZENJE A/4
+  price: 260.0
   srbobran: 2
-- sifra: 856
-  naziv: IZVESTAJ O KNJIZENJU A/5
-  mpcena: 120.0
+856:
+  title: IZVESTAJ O KNJIZENJU A/5
+  price: 120.0
   srbobran: 3
-- sifra: 858
-  naziv: REVERS A/5
-  mpcena: 155.0
+858:
+  title: REVERS A/5
+  price: 155.0
   srbobran: 2
-- sifra: 860
-  naziv: RACUN A/5 PDV
-  mpcena: 160.0
+860:
+  title: RACUN A/5 PDV
+  price: 160.0
   srbobran: 1
-- sifra: 861
-  naziv: OTPREMNICA A/5
-  mpcena: 180.0
+861:
+  title: OTPREMNICA A/5
+  price: 180.0
   srbobran: 9
   futog: 15
-- sifra: 862
-  naziv: OTPREMNICA-PRIJEMNICA A/4
-  mpcena: 240.0
+862:
+  title: OTPREMNICA-PRIJEMNICA A/4
+  price: 240.0
   srbobran: 0
-- sifra: 863
-  naziv: OTPREMNICA-PRIJEMNICA A/5
-  mpcena: 150.0
+863:
+  title: OTPREMNICA-PRIJEMNICA A/5
+  price: 150.0
   srbobran: 5
-- sifra: 864
-  naziv: OTPREMNICA A/4
-  mpcena: 350.0
+864:
+  title: OTPREMNICA A/4
+  price: 350.0
   srbobran: 3
   futog: 0
-- sifra: 865
-  naziv: OTPREMNICA A/5 PDV
-  mpcena: 180.0
+865:
+  title: OTPREMNICA A/5 PDV
+  price: 180.0
   srbobran: 4
   futog: 10
-- sifra: 866
-  naziv: OTKUPNI LIST A/5
-  mpcena: 210.0
+866:
+  title: OTKUPNI LIST A/5
+  price: 210.0
   srbobran: 4
   futog: 0
-- sifra: 867
-  naziv: SPECIFIKACIJA CEKOVA
-  mpcena: 180.0
+867:
+  title: SPECIFIKACIJA CEKOVA
+  price: 180.0
   srbobran: 2
-- sifra: 869
-  naziv: ZBIRNA SPECIFIKACIJA CEKOVA
-  mpcena: 165.0
+869:
+  title: ZBIRNA SPECIFIKACIJA CEKOVA
+  price: 165.0
   srbobran: 0
-- sifra: 870
-  naziv: POPIS ROBE A/4
-  mpcena: 340.0
+870:
+  title: POPIS ROBE A/4
+  price: 340.0
   srbobran: 1
   futog: 2
-- sifra: 872
-  naziv: POPIS ROBE SA NIVELACIJOM
-  mpcena: 325.0
+872:
+  title: POPIS ROBE SA NIVELACIJOM
+  price: 325.0
   srbobran: 5
   futog: 3
-- sifra: 873
-  naziv: IZJAVA O KOMPENZACIJI
-- sifra: 875
-  naziv: KNJIGA SANKA T
-  mpcena: 335.0
+873:
+  title: IZJAVA O KOMPENZACIJI
+875:
+  title: KNJIGA SANKA T
+  price: 335.0
   srbobran: 6
   futog: 0
-- sifra: 876
-  naziv: KNJIGA SANKA NCR
-  mpcena: 340.0
+876:
+  title: KNJIGA SANKA NCR
+  price: 340.0
   srbobran: 4
   futog: 5
-- sifra: 878
-  naziv: RACUN A/4 NCR
-  mpcena: 360.0
+878:
+  title: RACUN A/4 NCR
+  price: 360.0
   srbobran: 2
   futog: 0
-- sifra: 879
-  naziv: DNEVNIK BLAGAJNE
-  mpcena: 320.0
+879:
+  title: DNEVNIK BLAGAJNE
+  price: 320.0
   srbobran: 3
-- sifra: 882
-  naziv: PUTNI NALOG TMV
-  mpcena: 330.0
+882:
+  title: PUTNI NALOG TMV
+  price: 330.0
   srbobran: 1
-- sifra: 886
-  naziv: PUTNI NALOG AUTOBUS
-  mpcena: 250.0
+886:
+  title: PUTNI NALOG AUTOBUS
+  price: 250.0
   srbobran: 1
-- sifra: 887
-  naziv: GRADJEVINSKI LIST
-  mpcena: 300.0
+887:
+  title: GRADJEVINSKI LIST
+  price: 300.0
   srbobran: 5
   futog: 2
-- sifra: 888
-  naziv: GRADJEVINSKI DNEVNIK
-  mpcena: 300.0
+888:
+  title: GRADJEVINSKI DNEVNIK
+  price: 300.0
   srbobran: 3
   futog: 5
-- sifra: 897
-  naziv: KNJIGA ZARADA
-  mpcena: 290.0
+897:
+  title: KNJIGA ZARADA
+  price: 290.0
   srbobran: 1
   futog: 1
-- sifra: 899
-  naziv: KNJIGA KPO
-  mpcena: 465.0
+899:
+  title: KNJIGA KPO
+  price: 465.0
   srbobran: 1
   futog: 1
-- sifra: 901
-  naziv: SKRACENI DELOVODNIK
-  mpcena: 380.0
+901:
+  title: SKRACENI DELOVODNIK
+  price: 380.0
   srbobran: 1
   futog: 1
-- sifra: 903
-  naziv: DOSTAVNA KNJIGA ZA POSTU
-  mpcena: 330.0
+903:
+  title: DOSTAVNA KNJIGA ZA POSTU
+  price: 330.0
   srbobran: 4
-- sifra: 904
-  naziv: DOSTAVNA KNJIGA ZA MESTO
-  mpcena: 265.0
+904:
+  title: DOSTAVNA KNJIGA ZA MESTO
+  price: 265.0
   srbobran: 1
-- sifra: 905
-  naziv: KNJIGA KEP
-  mpcena: 415.0
+905:
+  title: KNJIGA KEP
+  price: 415.0
   srbobran: 2
-- sifra: 907
-  naziv: KR-1 EVIDENCIJA KOMISIONE ROBE
-  mpcena: 210.0
+907:
+  title: KR-1 EVIDENCIJA KOMISIONE ROBE
+  price: 210.0
   srbobran: 4
-- sifra: 918
-  naziv: MATICNA KNJIGA RADNIKA
-  mpcena: 290.0
+918:
+  title: MATICNA KNJIGA RADNIKA
+  price: 290.0
   srbobran: 1
-- sifra: 920
-  naziv: OTKUPNI LIST A/6
-  mpcena: 75.0
+920:
+  title: OTKUPNI LIST A/6
+  price: 75.0
   srbobran: 7
-- sifra: 929
-  naziv: KONTROLNIK IZVOZA
-  mpcena: 285.0
+929:
+  title: KONTROLNIK IZVOZA
+  price: 285.0
   srbobran: 2
-- sifra: 970
-  naziv: POTVRDA O REKLAMACIJI A/5
-  mpcena: 120.0
+970:
+  title: POTVRDA O REKLAMACIJI A/5
+  price: 120.0
   srbobran: 0
-- sifra: 971
-  naziv: DELOVODNIK 200L
-  mpcena: 1135.0
+971:
+  title: DELOVODNIK 200L
+  price: 1135.0
   srbobran: 0
-- sifra: 1278
-  naziv: KNJIGA INSPEKCIJE
-  mpcena: 320.0
+1278:
+  title: KNJIGA INSPEKCIJE
+  price: 320.0
   srbobran: 2
-- sifra: 1333
-  naziv: ARHIVSKA KNJIGA
-  mpcena: 360.0
+1333:
+  title: ARHIVSKA KNJIGA
+  price: 360.0
   srbobran: 2
   futog: 1
-- sifra: 1334
-  naziv: KNJIGA ULAZNIH FAKTURA
-  mpcena: 415.0
+1334:
+  title: KNJIGA ULAZNIH FAKTURA
+  price: 415.0
   srbobran: 0
-- sifra: 1336
-  naziv: KNJIGA ODLUKA
-  mpcena: 290.0
+1336:
+  title: KNJIGA ODLUKA
+  price: 290.0
   srbobran: 1
   futog: 1
-- sifra: 1337
-  naziv: KNJIGA PK-1
-  mpcena: 290.0
+1337:
+  title: KNJIGA PK-1
+  price: 290.0
   srbobran: 6
-- sifra: 1410
-  naziv: KNJIGA IZDATIH RACUNA
-  mpcena: 415.0
+1410:
+  title: KNJIGA IZDATIH RACUNA
+  price: 415.0
   srbobran: 1
   futog: 1
-- sifra: 1411
-  naziv: KNJIGA PRIMLJENIH RACUNA
-  mpcena: 395.0
+1411:
+  title: KNJIGA PRIMLJENIH RACUNA
+  price: 395.0
   srbobran: 0
   futog: 1
-- sifra: 2008
-  naziv: KONTROLNIK UVOZA
-  mpcena: 285.0
+2008:
+  title: KONTROLNIK UVOZA
+  price: 285.0
   srbobran: 1
-- sifra: 2109
-  naziv: KNJIGA UTISAKA
-  mpcena: 415.0
+2109:
+  title: KNJIGA UTISAKA
+  price: 415.0
   srbobran: 0
   futog: 0
-- sifra: 2155
-  naziv: KNJIGA REKLAMACIJA
-  mpcena: 460.0
+2155:
+  title: KNJIGA REKLAMACIJA
+  price: 460.0
   srbobran: 1
   futog: 0
-- sifra: 2208
-  naziv: FAKTURA A/4
-  mpcena: 310.0
+2208:
+  title: FAKTURA A/4
+  price: 310.0
   srbobran: 1

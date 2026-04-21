@@ -1,132 +1,132 @@
 ---
-- sifra: 11
-  naziv: SVESKA A/5 TP SC
-  mpcena: 115.0
+11:
+  title: SVESKA A/5 TP SC
+  price: 115.0
   srbobran: 144
   futog: 50
-- sifra: 12
-  naziv: SVESKA A/5 TP 80L
-  mpcena: 85.0
+12:
+  title: SVESKA A/5 TP 80L
+  price: 85.0
   srbobran: 6
-- sifra: 13
-  naziv: SVESKA A/5 S
-  mpcena: 160.0
+13:
+  title: SVESKA A/5 S
+  price: 160.0
   srbobran: 6
   futog: 8
-- sifra: 17
-  naziv: SVESKA A/4 TP SC
-  mpcena: 215.0
+17:
+  title: SVESKA A/4 TP SC
+  price: 215.0
   srbobran: 2
-- sifra: 18
-  naziv: SVESKA A/4 200L
-  mpcena: 560.0
+18:
+  title: SVESKA A/4 200L
+  price: 560.0
   srbobran: 1
-- sifra: 20
-  naziv: SVESKA A/4 60L
-  mpcena: 180.0
+20:
+  title: SVESKA A/4 60L
+  price: 180.0
   srbobran: 10
   futog: 51
-- sifra: 25
-  naziv: SVESKA A/4 60L
-  mpcena: 170.0
+25:
+  title: SVESKA A/4 60L
+  price: 170.0
   srbobran: 1
-- sifra: 27
-  naziv: SVESKA A/4 TP
-  mpcena: 320.0
+27:
+  title: SVESKA A/4 TP
+  price: 320.0
   srbobran: 29
   futog: 16
-- sifra: 39
-  naziv: SVESKA A/4 TP SPEKTRA
-  mpcena: 270.0
+39:
+  title: SVESKA A/4 TP SPEKTRA
+  price: 270.0
   srbobran: 39
   futog: 30
-- sifra: 48
-  naziv: SVESKA A/5 52L
-  mpcena: 30.0
+48:
+  title: SVESKA A/5 52L
+  price: 30.0
   srbobran: 3
-- sifra: 49
-  naziv: SVESKA A/4 SNUPI
-  mpcena: 190.0
+49:
+  title: SVESKA A/4 SNUPI
+  price: 190.0
   srbobran: 0
-- sifra: 486
-  naziv: SVESKA A/5 60L
-  mpcena: 90.0
+486:
+  title: SVESKA A/5 60L
+  price: 90.0
   srbobran: 18
   futog: 14
-- sifra: 490
-  naziv: SVESKA A/4 SC
-- sifra: 491
-  naziv: SVESKA A/5 SC
-  mpcena: 70.0
+490:
+  title: SVESKA A/4 SC
+491:
+  title: SVESKA A/5 SC
+  price: 70.0
   srbobran: 66
   futog: 34
-- sifra: 494
-  naziv: SVESKA A/4 SC
-  mpcena: 170.0
+494:
+  title: SVESKA A/4 SC
+  price: 170.0
   srbobran: 20
   futog: 7
-- sifra: 496
-  naziv: SVESKA A/5  200L
-  mpcena: 410.0
+496:
+  title: SVESKA A/5  200L
+  price: 410.0
   srbobran: 0
-- sifra: 498
-  naziv: SVESKA A/4 SC
-  mpcena: 170.0
+498:
+  title: SVESKA A/4 SC
+  price: 170.0
   srbobran: 0
   futog: 12
-- sifra: 522
-  naziv: SVESKA A/6
-- sifra: 996
-  naziv: SVESKA A/4 300L TP
-  mpcena: 1050.0
+522:
+  title: SVESKA A/6
+996:
+  title: SVESKA A/4 300L TP
+  price: 1050.0
   srbobran: 1
-- sifra: 1311
-  naziv: SVESKA A/5 S
-  mpcena: 180.0
+1311:
+  title: SVESKA A/5 S
+  price: 180.0
   srbobran: 0
-- sifra: 1344
-  naziv: SVESKA A/6 SP
-- sifra: 1803
-  naziv: SVESKA A/4 S
-  mpcena: 290.0
+1344:
+  title: SVESKA A/6 SP
+1803:
+  title: SVESKA A/4 S
+  price: 290.0
   srbobran: 4
   futog: 1
-- sifra: 1986
-  naziv: SVESKA A/6 OF
-- sifra: 2102
-  naziv: SVESKA A/4 S
-  mpcena: 310.0
+1986:
+  title: SVESKA A/6 OF
+2102:
+  title: SVESKA A/4 S
+  price: 310.0
   srbobran: 0
-- sifra: 2127
-  naziv: SVESKA A/4 S
-  mpcena: 320.0
+2127:
+  title: SVESKA A/4 S
+  price: 320.0
   srbobran: 0
-- sifra: 2914
-  naziv: SVESKA A/4 METALIK
-  mpcena: 170.0
+2914:
+  title: SVESKA A/4 METALIK
+  price: 170.0
   srbobran: 4
   futog: 7
-- sifra: 3646
-  naziv: SVESKA A/5 52L LATAJN/M
-  mpcena: 105.0
+3646:
+  title: SVESKA A/5 52L LATAJN/M
+  price: 105.0
   srbobran: 4
   futog: 3
-- sifra: 3666
-  naziv: SVESKA A/5 SPORT/SNUPI
-  mpcena: 90.0
+3666:
+  title: SVESKA A/5 SPORT/SNUPI
+  price: 90.0
   srbobran: 127
   futog: 56
-- sifra: 3965
-  naziv: SVESKA A5 TP
-  mpcena: 75.0
+3965:
+  title: SVESKA A5 TP
+  price: 75.0
   srbobran: 49
   futog: 20
-- sifra: 3969
-  naziv: TO 2MM SC
-  mpcena: 70.0
+3969:
+  title: TO 2MM SC
+  price: 70.0
   srbobran: 5
   futog: 3
-- sifra: 3985
-  naziv: SVESKA A4 TP S PERO
-  mpcena: 980.0
+3985:
+  title: SVESKA A4 TP S PERO
+  price: 980.0
   srbobran: 0

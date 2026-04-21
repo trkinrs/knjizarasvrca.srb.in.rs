@@ -1,1842 +1,1842 @@
 ---
-- sifra: 33
-  naziv: SUNDJER ZA BELU TABLU
-  mpcena: 90.0
+33:
+  title: SUNDJER ZA BELU TABLU
+  price: 90.0
   srbobran: 3
   futog: 4
-- sifra: 36
-  naziv: TESARSKA OL
-  mpcena: 45.0
+36:
+  title: TESARSKA OL
+  price: 45.0
   srbobran: 5
   futog: 4
-- sifra: 81
-  naziv: DOSIJE 30 DZEPOVA
-  mpcena: 315.0
+81:
+  title: DOSIJE 30 DZEPOVA
+  price: 315.0
   srbobran: 2
   futog: 0
-- sifra: 83
-  naziv: ROKOVNIK B/5 CROCO
-  mpcena: 700.0
+83:
+  title: ROKOVNIK B/5 CROCO
+  price: 700.0
   srbobran: 0
-- sifra: 86
-  naziv: FINELINER 1/12
-  mpcena: 265.0
+86:
+  title: FINELINER 1/12
+  price: 265.0
   srbobran: 1
-- sifra: 88
-  naziv: FOLIJA BUS
-  mpcena: 20.0
+88:
+  title: FOLIJA BUS
+  price: 20.0
   srbobran: 6
-- sifra: 90
-  naziv: PRIZNANICA A/5
-  mpcena: 150.0
+90:
+  title: PRIZNANICA A/5
+  price: 150.0
   srbobran: 10
   futog: 4
-- sifra: 110
-  naziv: JASTUČE ZA PEČAT 3
-  mpcena: 135.0
+110:
+  title: JASTUČE ZA PEČAT 3
+  price: 135.0
   srbobran: 1
   futog: 0
-- sifra: 119
-  naziv: NALEPNICA A/4
-  mpcena: 90.0
+119:
+  title: NALEPNICA A/4
+  price: 90.0
   srbobran: 8
-- sifra: 153
-  naziv: 'HO A PLUS '
-  mpcena: 60.0
+153:
+  title: 'HO A PLUS '
+  price: 60.0
   srbobran: 33
   futog: 0
-- sifra: 155
-  naziv: NALEPNICE
-  mpcena: 20.0
+155:
+  title: NALEPNICE
+  price: 20.0
   srbobran: 45
   futog: 12
-- sifra: 156
-  naziv: HO OF EASY GLIDE
-  mpcena: 60.0
+156:
+  title: HO OF EASY GLIDE
+  price: 60.0
   srbobran: 8
   futog: 30
-- sifra: 160
-  naziv: KALKULATOR ELEVEN CMB-1201-BK
-  mpcena: 1025.0
+160:
+  title: KALKULATOR ELEVEN CMB-1201-BK
+  price: 1025.0
   srbobran: 0
   futog: 1
-- sifra: 167
-  naziv: OBOSTRANO LEPLJIVA TRAKA 18MM
-  mpcena: 180.0
+167:
+  title: OBOSTRANO LEPLJIVA TRAKA 18MM
+  price: 180.0
   srbobran: 1
   futog: 1
-- sifra: 169
-  naziv: STONI PLANER NAPURA
-  mpcena: 495.0
+169:
+  title: STONI PLANER NAPURA
+  price: 495.0
   srbobran: 0
-- sifra: 171
-  naziv: NALEPNICE P
-  mpcena: 30.0
+171:
+  title: NALEPNICE P
+  price: 30.0
   srbobran: 5
   futog: 5
-- sifra: 181
-  naziv: NEDELJNI PLANER A/5
-  mpcena: 415.0
+181:
+  title: NEDELJNI PLANER A/5
+  price: 415.0
   srbobran: 3
-- sifra: 185
-  naziv: PLANER A/5
-  mpcena: 915.0
+185:
+  title: PLANER A/5
+  price: 915.0
   srbobran: 2
   futog: 2
-- sifra: 186
-  naziv: SET HO+PENKALO TTO
-  mpcena: 1250.0
+186:
+  title: SET HO+PENKALO TTO
+  price: 1250.0
   srbobran: 1
   futog: 2
-- sifra: 188
-  naziv: ROKOVNIK B/5 DATUMIRANI
-  mpcena: 940.0
+188:
+  title: ROKOVNIK B/5 DATUMIRANI
+  price: 940.0
   srbobran: 0
-- sifra: 193
-  naziv: SET HO+ROLER ELDORADO
-  mpcena: 2255.0
+193:
+  title: SET HO+ROLER ELDORADO
+  price: 2255.0
   srbobran: 1
   futog: 0
-- sifra: 195
-  naziv: SET HO+NP HEMINGWAY
-  mpcena: 2315.0
+195:
+  title: SET HO+NP HEMINGWAY
+  price: 2315.0
   srbobran: 0
-- sifra: 197
-  naziv: 'SET HO+ROLER '
-  mpcena: 1200.0
+197:
+  title: 'SET HO+ROLER '
+  price: 1200.0
   srbobran: 1
-- sifra: 199
-  naziv: NOTES SA GUMOM
-  mpcena: 285.0
+199:
+  title: NOTES SA GUMOM
+  price: 285.0
   srbobran: 0
-- sifra: 203
-  naziv: GEL OLOVKA TG
-  mpcena: 195.0
+203:
+  title: GEL OLOVKA TG
+  price: 195.0
   srbobran: 16
   futog: 13
-- sifra: 205
-  naziv: HO 6 BOJA
-  mpcena: 135.0
+205:
+  title: HO 6 BOJA
+  price: 135.0
   srbobran: 12
   futog: 14
-- sifra: 206
-  naziv: HO 10 BOJA
-  mpcena: 195.0
+206:
+  title: HO 10 BOJA
+  price: 195.0
   srbobran: 10
   futog: 9
-- sifra: 213
-  naziv: NOTES SA GUMOM
-- sifra: 225
-  naziv: BOJA ZA STAKLO FC
-  mpcena: 710.0
+213:
+  title: NOTES SA GUMOM
+225:
+  title: BOJA ZA STAKLO FC
+  price: 710.0
   srbobran: 3
   futog: 2
-- sifra: 227
-  naziv: AUTO KARTA FG
-  mpcena: 325.0
+227:
+  title: AUTO KARTA FG
+  price: 325.0
   srbobran: 2
-- sifra: 230
-  naziv: MARKER 1/1 BELA TABLA
-  mpcena: 140.0
+230:
+  title: MARKER 1/1 BELA TABLA
+  price: 140.0
   srbobran: 15
-- sifra: 243
-  naziv: KREP PAPIR ANIMAL PRINT
-  mpcena: 90.0
+243:
+  title: KREP PAPIR ANIMAL PRINT
+  price: 90.0
   srbobran: 3
-- sifra: 257
-  naziv: PREGRADNI KARTON A/4 A/Z
-  mpcena: 265.0
+257:
+  title: PREGRADNI KARTON A/4 A/Z
+  price: 265.0
   srbobran: 2
-- sifra: 259
-  naziv: OTPREMNICA A5 PDV SVRCA
-  mpcena: 99.67
+259:
+  title: OTPREMNICA A5 PDV SVRCA
+  price: 99.67
   srbobran: 0
   futog: 0
-- sifra: 265
-  naziv: UKRASNE TAPETE
-  mpcena: 180.0
+265:
+  title: UKRASNE TAPETE
+  price: 180.0
   srbobran: 42
-- sifra: 267
-  naziv: MARKER CP
-  mpcena: 90.0
+267:
+  title: MARKER CP
+  price: 90.0
   srbobran: 24
   futog: 7
-- sifra: 280
-  naziv: MASTILO ZA NP
-  mpcena: 125.0
+280:
+  title: MASTILO ZA NP
+  price: 125.0
   srbobran: 0
-- sifra: 287
-  naziv: CELOFAN 100/70
-  mpcena: 30.0
+287:
+  title: CELOFAN 100/70
+  price: 30.0
   srbobran: 6
   futog: 2
-- sifra: 289
-  naziv: PRIVEZAK BOVA
-  mpcena: 59.0
+289:
+  title: PRIVEZAK BOVA
+  price: 59.0
   srbobran: 14
-- sifra: 291
-  naziv: STALAK ZA SELOTEJP
-  mpcena: 210.0
+291:
+  title: STALAK ZA SELOTEJP
+  price: 210.0
   srbobran: 0
-- sifra: 293
-  naziv: PROTOKOL BOLESNIKA
-  mpcena: 1100.0
+293:
+  title: PROTOKOL BOLESNIKA
+  price: 1100.0
   srbobran: 0
-- sifra: 302
-  naziv: KALKULATOR ELEVEN LC-310N
-  mpcena: 625.0
+302:
+  title: KALKULATOR ELEVEN LC-310N
+  price: 625.0
   srbobran: 0
   futog: 1
-- sifra: 328
-  naziv: JEDERMAN
-  mpcena: 55.0
+328:
+  title: JEDERMAN
+  price: 55.0
   srbobran: 21
-- sifra: 330
-  naziv: SUPER LEPAK BOND 3G
-  mpcena: 220.0
+330:
+  title: SUPER LEPAK BOND 3G
+  price: 220.0
   srbobran: 3
   futog: 2
-- sifra: 336
-  naziv: MAKAZE KOHINOOR
-  mpcena: 325.0
+336:
+  title: MAKAZE KOHINOOR
+  price: 325.0
   srbobran: 1
-- sifra: 346
-  naziv: HO A + NANO SLICK
-  mpcena: 90.0
+346:
+  title: HO A + NANO SLICK
+  price: 90.0
   srbobran: 1
   futog: 20
-- sifra: 359
-  naziv: TO 0,5 ROTRING
-  mpcena: 650.0
+359:
+  title: TO 0,5 ROTRING
+  price: 650.0
   srbobran: 3
   futog: 3
-- sifra: 360
-  naziv: SPAJALICE 33MM
-  mpcena: 70.0
+360:
+  title: SPAJALICE 33MM
+  price: 70.0
   srbobran: 0
-- sifra: 363
-  naziv: FOTO PAPIR 190G
-  mpcena: 20.0
+363:
+  title: FOTO PAPIR 190G
+  price: 20.0
   srbobran: 0
-- sifra: 369
-  naziv: UL ROLER PILOT 0,5/0,7
-  mpcena: 310.0
+369:
+  title: UL ROLER PILOT 0,5/0,7
+  price: 310.0
   srbobran: 4
-- sifra: 405
-  naziv: MAKAZE 22CM
-  mpcena: 200.0
+405:
+  title: MAKAZE 22CM
+  price: 200.0
   srbobran: 2
   futog: 1
-- sifra: 409
-  naziv: STIPALJKA 41MM
-  mpcena: 15.0
+409:
+  title: STIPALJKA 41MM
+  price: 15.0
   srbobran: 1
-- sifra: 414
-  naziv: SIGNIR GLITTER SET 1/6
-  mpcena: 330.0
+414:
+  title: SIGNIR GLITTER SET 1/6
+  price: 330.0
   srbobran: 0
   futog: 1
-- sifra: 419
-  naziv: MAKAZE EK 13,5CM
-  mpcena: 130.0
+419:
+  title: MAKAZE EK 13,5CM
+  price: 130.0
   srbobran: 9
   futog: 11
-- sifra: 422
-  naziv: KALKULATOR ELEVEN SR-135NE
-  mpcena: 1625.0
+422:
+  title: KALKULATOR ELEVEN SR-135NE
+  price: 1625.0
   srbobran: 1
-- sifra: 423
-  naziv: KUTIJA ZA CD
-  mpcena: 40.0
+423:
+  title: KUTIJA ZA CD
+  price: 40.0
   srbobran: 3
-- sifra: 432
-  naziv: TERMO ROLNA 57/48MM
-  mpcena: 90.0
+432:
+  title: TERMO ROLNA 57/48MM
+  price: 90.0
   srbobran: 75
   futog: 20
-- sifra: 434
-  naziv: FILM FA 93 1/1
-  mpcena: 735.0
+434:
+  title: FILM FA 93 1/1
+  price: 735.0
   srbobran: 0
-- sifra: 437
-  naziv: CASA 0,1
-  mpcena: 3.0
+437:
+  title: CASA 0,1
+  price: 3.0
   srbobran: 224
-- sifra: 439
-  naziv: HO SC RESTYLE
-  mpcena: 60.0
+439:
+  title: HO SC RESTYLE
+  price: 60.0
   srbobran: 27
   futog: 33
-- sifra: 440
-  naziv: HO AH 567C
-  mpcena: 30.0
+440:
+  title: HO AH 567C
+  price: 30.0
   srbobran: 0
   futog: 44
-- sifra: 443
-  naziv: VIZITAR POST
-  mpcena: 475.0
+443:
+  title: VIZITAR POST
+  price: 475.0
   srbobran: 14
-- sifra: 444
-  naziv: 'GEL OL 0,5 '
-  mpcena: 30.0
+444:
+  title: 'GEL OL 0,5 '
+  price: 30.0
   srbobran: 13
   futog: 11
-- sifra: 445
-  naziv: ROLER PILOT G2 0,5
-  mpcena: 295.0
+445:
+  title: ROLER PILOT G2 0,5
+  price: 295.0
   srbobran: 1
-- sifra: 447
-  naziv: ROLER PILOT PISI/BRISI
-  mpcena: 480.0
+447:
+  title: ROLER PILOT PISI/BRISI
+  price: 480.0
   srbobran: 4
   futog: 0
-- sifra: 450
-  naziv: LINER 0,3
-  mpcena: 85.0
+450:
+  title: LINER 0,3
+  price: 85.0
   srbobran: 2
-- sifra: 452
-  naziv: MARKER METALIK KOHINOOR
-  mpcena: 199.0
+452:
+  title: MARKER METALIK KOHINOOR
+  price: 199.0
   srbobran: 2
-- sifra: 456
-  naziv: HO R301
-  mpcena: 40.0
+456:
+  title: HO R301
+  price: 40.0
   srbobran: 70
   futog: 48
-- sifra: 457
-  naziv: UL ZA HO PENAC 1/2
-  mpcena: 299.0
+457:
+  title: UL ZA HO PENAC 1/2
+  price: 299.0
   srbobran: 3
-- sifra: 458
-  naziv: UL ZA HO PVC
-  mpcena: 5.0
+458:
+  title: UL ZA HO PVC
+  price: 5.0
   srbobran: 191
   futog: 62
-- sifra: 459
-  naziv: UL ZA HO PARKER METALNI
-  mpcena: 30.0
+459:
+  title: UL ZA HO PARKER METALNI
+  price: 30.0
   srbobran: 0
-- sifra: 460
-  naziv: UL ZA HO PARKER PVC
-  mpcena: 20.0
+460:
+  title: UL ZA HO PARKER PVC
+  price: 20.0
   srbobran: 31
   futog: 25
-- sifra: 461
-  naziv: UL ZA HO 4404E
-  mpcena: 10.0
+461:
+  title: UL ZA HO 4404E
+  price: 10.0
   srbobran: 278
-- sifra: 463
-  naziv: HO SC
-  mpcena: 40.0
+463:
+  title: HO SC
+  price: 40.0
   srbobran: 7
-- sifra: 466
-  naziv: HEFT MAŠINA MOD-45
-  mpcena: 440.0
+466:
+  title: HEFT MAŠINA MOD-45
+  price: 440.0
   srbobran: 0
   futog: 1
-- sifra: 467
-  naziv: GEL OLOVKA PIŠI-BRIŠI
-  mpcena: 210.0
+467:
+  title: GEL OLOVKA PIŠI-BRIŠI
+  price: 210.0
   srbobran: 10
   futog: 10
-- sifra: 477
-  naziv: HO BIC ROUND
-  mpcena: 75.0
+477:
+  title: HO BIC ROUND
+  price: 75.0
   srbobran: 19
   futog: 0
-- sifra: 479
-  naziv: NOZ ZA SKALPEL
-  mpcena: 80.0
+479:
+  title: NOZ ZA SKALPEL
+  price: 80.0
   srbobran: 2
-- sifra: 480
-  naziv: JEMSTVENIK
-  mpcena: 165.0
+480:
+  title: JEMSTVENIK
+  price: 165.0
   srbobran: 0
-- sifra: 481
-  naziv: HO VINSON FASHION
-  mpcena: 50.0
+481:
+  title: HO VINSON FASHION
+  price: 50.0
   srbobran: 32
   futog: 36
-- sifra: 482
-  naziv: HO AH 567
-  mpcena: 40.0
+482:
+  title: HO AH 567
+  price: 40.0
   srbobran: 102
   futog: 59
-- sifra: 484
-  naziv: UL HO OF441
-  mpcena: 25.0
+484:
+  title: UL HO OF441
+  price: 25.0
   srbobran: 33
-- sifra: 492
-  naziv: HO OSCAR
-  mpcena: 50.0
+492:
+  title: HO OSCAR
+  price: 50.0
   srbobran: 0
-- sifra: 499
-  naziv: SIGNIR CONNECT
-  mpcena: 85.0
+499:
+  title: SIGNIR CONNECT
+  price: 85.0
   srbobran: 6
   futog: 9
-- sifra: 502
-  naziv: SIGNIR OF
-  mpcena: 55.0
+502:
+  title: SIGNIR OF
+  price: 55.0
   srbobran: 7
   futog: 20
-- sifra: 503
-  naziv: SIGNIR MAPED
-  mpcena: 110.0
+503:
+  title: SIGNIR MAPED
+  price: 110.0
   srbobran: 2
-- sifra: 504
-  naziv: SIGNIR FC
-  mpcena: 130.0
+504:
+  title: SIGNIR FC
+  price: 130.0
   srbobran: 4
-- sifra: 514
-  naziv: ADING ROLNA 57 1+0
-  mpcena: 45.0
+514:
+  title: ADING ROLNA 57 1+0
+  price: 45.0
   srbobran: 8
-- sifra: 517
-  naziv: ROKOVNIK B/5 PLIŠ
-  mpcena: 930.0
+517:
+  title: ROKOVNIK B/5 PLIŠ
+  price: 930.0
   srbobran: 1
-- sifra: 524
-  naziv: TERMO ROLNA 57/40MM
-  mpcena: 60.0
+524:
+  title: TERMO ROLNA 57/40MM
+  price: 60.0
   srbobran: 120
   futog: 54
-- sifra: 525
-  naziv: TERMO ROLNA 57/60MM
-  mpcena: 120.0
+525:
+  title: TERMO ROLNA 57/60MM
+  price: 120.0
   srbobran: 0
-- sifra: 528
-  naziv: SELOTEJP 50/50 T/M
-- sifra: 529
-  naziv: UP ISCRA
-  mpcena: 55.0
+528:
+  title: SELOTEJP 50/50 T/M
+529:
+  title: UP ISCRA
+  price: 55.0
   srbobran: 0
-- sifra: 530
-  naziv: 'SELOTEJP 50/50 '
-  mpcena: 95.0
+530:
+  title: 'SELOTEJP 50/50 '
+  price: 95.0
   srbobran: 16
   futog: 21
-- sifra: 531
-  naziv: SELOTEJP 15/60
-  mpcena: 50.0
+531:
+  title: SELOTEJP 15/60
+  price: 50.0
   srbobran: 0
   futog: 8
-- sifra: 533
-  naziv: KOVERAT DUGME A/4
-  mpcena: 250.0
+533:
+  title: KOVERAT DUGME A/4
+  price: 250.0
   srbobran: 2
   futog: 1
-- sifra: 534
-  naziv: SELOTEJP 50/50
-  mpcena: 80.0
+534:
+  title: SELOTEJP 50/50
+  price: 80.0
   srbobran: 1
   futog: 0
-- sifra: 536
-  naziv: STALAK ZA SELOTEJP
-  mpcena: 410.0
+536:
+  title: STALAK ZA SELOTEJP
+  price: 410.0
   srbobran: 1
   futog: 1
-- sifra: 537
-  naziv: STALAK ZA SELOTEJP OF185
-  mpcena: 250.0
+537:
+  title: STALAK ZA SELOTEJP OF185
+  price: 250.0
   srbobran: 0
   futog: 0
-- sifra: 538
-  naziv: STALAK ZA SELOTEJP OF186
-  mpcena: 350.0
+538:
+  title: STALAK ZA SELOTEJP OF186
+  price: 350.0
   srbobran: 1
   futog: 1
-- sifra: 539
-  naziv: STALAK ZA SELOTEJP
-- sifra: 543
-  naziv: BUSAC 8L
-- sifra: 545
-  naziv: KREP PAPIR SILVER
-  mpcena: 180.0
+539:
+  title: STALAK ZA SELOTEJP
+543:
+  title: BUSAC 8L
+545:
+  title: KREP PAPIR SILVER
+  price: 180.0
   srbobran: 9
   futog: 10
-- sifra: 547
-  naziv: DOSIJE POLUMEHANIKA
-  mpcena: 60.0
+547:
+  title: DOSIJE POLUMEHANIKA
+  price: 60.0
   srbobran: 38
   futog: 0
-- sifra: 548
-  naziv: RASHTEFTIVAC
-  mpcena: 110.0
+548:
+  title: RASHTEFTIVAC
+  price: 110.0
   srbobran: 2
   futog: 1
-- sifra: 553
-  naziv: MARKER ZA CD
-  mpcena: 75.0
+553:
+  title: MARKER ZA CD
+  price: 75.0
   srbobran: 1
   futog: 26
-- sifra: 555
-  naziv: MARKER  LUMO
-  mpcena: 155.0
+555:
+  title: MARKER  LUMO
+  price: 155.0
   srbobran: 0
   futog: 10
-- sifra: 556
-  naziv: MARKER CN KOSI VRH
-  mpcena: 80.0
+556:
+  title: MARKER CN KOSI VRH
+  price: 80.0
   srbobran: 16
   futog: 10
-- sifra: 558
-  naziv: INDIGO
-  mpcena: 10.0
+558:
+  title: INDIGO
+  price: 10.0
   srbobran: 11
   futog: 100
-- sifra: 564
-  naziv: HO SCOOL COOL
-  mpcena: 50.0
+564:
+  title: HO SCOOL COOL
+  price: 50.0
   srbobran: 41
   futog: 27
-- sifra: 567
-  naziv: BLOK BELESKE A/5
-  mpcena: 140.0
+567:
+  title: BLOK BELESKE A/5
+  price: 140.0
   srbobran: 1
-- sifra: 568
-  naziv: MEMO BLOKČIĆ SPIRALA
-  mpcena: 200.0
+568:
+  title: MEMO BLOKČIĆ SPIRALA
+  price: 200.0
   srbobran: 1
   futog: 1
-- sifra: 569
-  naziv: BLOK KOCKA BOJA
-  mpcena: 195.0
+569:
+  title: BLOK KOCKA BOJA
+  price: 195.0
   srbobran: 6
   futog: 4
-- sifra: 572
-  naziv: BLOK SL 1/400
-  mpcena: 180.0
+572:
+  title: BLOK SL 1/400
+  price: 180.0
   srbobran: 5
   futog: 0
-- sifra: 573
-  naziv: BLOK KOCKA
-  mpcena: 180.0
+573:
+  title: BLOK KOCKA
+  price: 180.0
   srbobran: 25
   futog: 6
-- sifra: 574
-  naziv: GUMICE ZA AKTA
-  mpcena: 120.0
+574:
+  title: GUMICE ZA AKTA
+  price: 120.0
   srbobran: 0
   futog: 2
-- sifra: 576
-  naziv: BLOK SL 1/100
-  mpcena: 50.0
+576:
+  title: BLOK SL 1/100
+  price: 50.0
   srbobran: 15
   futog: 15
-- sifra: 578
-  naziv: BLOK SL 1/500
-  mpcena: 270.0
+578:
+  title: BLOK SL 1/500
+  price: 270.0
   srbobran: 0
-- sifra: 580
-  naziv: KOVERAT AMERIKEN SL
-  mpcena: 7.0
+580:
+  title: KOVERAT AMERIKEN SL
+  price: 7.0
   srbobran: 241
   futog: 82
-- sifra: 582
-  naziv: KOVERAT AMERIKEN SL
-  mpcena: 5.0
+582:
+  title: KOVERAT AMERIKEN SL
+  price: 5.0
   srbobran: 400
   futog: 300
-- sifra: 583
-  naziv: KOVERAT B/6 SL
-  mpcena: 5.0
+583:
+  title: KOVERAT B/6 SL
+  price: 5.0
   srbobran: 500
   futog: 200
-- sifra: 584
-  naziv: KOVERAT VAZDUSNI BR-5
-  mpcena: 40.0
+584:
+  title: KOVERAT VAZDUSNI BR-5
+  price: 40.0
   srbobran: 0
-- sifra: 585
-  naziv: KOVERAT VAZDUSNI BR-2
-  mpcena: 25.0
+585:
+  title: KOVERAT VAZDUSNI BR-2
+  price: 25.0
   srbobran: 2
   futog: 1
-- sifra: 586
-  naziv: KOVERAT VAZDUSNI BR-7
-  mpcena: 60.0
+586:
+  title: KOVERAT VAZDUSNI BR-7
+  price: 60.0
   srbobran: 2
   futog: 1
-- sifra: 587
-  naziv: KOVERAT A/4 SL
-  mpcena: 25.0
+587:
+  title: KOVERAT A/4 SL
+  price: 25.0
   srbobran: 35
   futog: 100
-- sifra: 588
-  naziv: KOVERAT CD
-  mpcena: 5.0
+588:
+  title: KOVERAT CD
+  price: 5.0
   srbobran: 81
-- sifra: 590
-  naziv: KOVERAT B/5 SL
-  mpcena: 15.0
+590:
+  title: KOVERAT B/5 SL
+  price: 15.0
   srbobran: 79
   futog: 273
-- sifra: 592
-  naziv: KOVERAT B/5 SL
-  mpcena: 13.0
+592:
+  title: KOVERAT B/5 SL
+  price: 13.0
   srbobran: 100
   futog: 100
-- sifra: 594
-  naziv: KOVERAT VAZDUSNI BR-9
-  mpcena: 80.0
+594:
+  title: KOVERAT VAZDUSNI BR-9
+  price: 80.0
   srbobran: 2
-- sifra: 595
-  naziv: KOVERAT A/4 SL
-  mpcena: 30.0
+595:
+  title: KOVERAT A/4 SL
+  price: 30.0
   srbobran: 32
   futog: 49
-- sifra: 596
-  naziv: DOSIJE KROMO 280G
-- sifra: 597
-  naziv: DOSIJE KROMO
-  mpcena: 40.0
+596:
+  title: DOSIJE KROMO 280G
+597:
+  title: DOSIJE KROMO
+  price: 40.0
   srbobran: 17
   futog: 41
-- sifra: 598
-  naziv: DOSIJE SA GUMOM
-  mpcena: 120.0
+598:
+  title: DOSIJE SA GUMOM
+  price: 120.0
   srbobran: 26
   futog: 18
-- sifra: 599
-  naziv: DOSIJE BOJA
-  mpcena: 60.0
+599:
+  title: DOSIJE BOJA
+  price: 60.0
   srbobran: 39
   futog: 30
-- sifra: 602
-  naziv: DOSIJE L
-  mpcena: 15.0
+602:
+  title: DOSIJE L
+  price: 15.0
   srbobran: 61
-- sifra: 604
-  naziv: DOSIJE 11 RUPA 50MIC
-  mpcena: 8.0
+604:
+  title: DOSIJE 11 RUPA 50MIC
+  price: 8.0
   srbobran: 0
-- sifra: 606
-  naziv: DOSIJE 11 RUPA 60MIC
-  mpcena: 10.0
+606:
+  title: DOSIJE 11 RUPA 60MIC
+  price: 10.0
   srbobran: 0
-- sifra: 612
-  naziv: CASA 0,2
-  mpcena: 5.0
+612:
+  title: CASA 0,2
+  price: 5.0
   srbobran: 200
   futog: 0
-- sifra: 613
-  naziv: CASA ZICANA
-  mpcena: 120.0
+613:
+  title: CASA ZICANA
+  price: 120.0
   srbobran: 3
-- sifra: 615
-  naziv: CASA 0,2
-- sifra: 616
-  naziv: CASA 0,5
-  mpcena: 8.0
+615:
+  title: CASA 0,2
+616:
+  title: CASA 0,5
+  price: 8.0
   srbobran: 83
-- sifra: 618
-  naziv: ETIKETE BR
-  mpcena: 90.0
+618:
+  title: ETIKETE BR
+  price: 90.0
   srbobran: 13
   futog: 0
-- sifra: 620
-  naziv: JEDERMAN
-  mpcena: 65.0
+620:
+  title: JEDERMAN
+  price: 65.0
   srbobran: 24
   futog: 11
-- sifra: 621
-  naziv: ETIKETE ZA CENE
-  mpcena: 130.0
+621:
+  title: ETIKETE ZA CENE
+  price: 130.0
   srbobran: 12
   futog: 5
-- sifra: 625
-  naziv: ATAŠE MAPA PVC
-  mpcena: 350.0
+625:
+  title: ATAŠE MAPA PVC
+  price: 350.0
   srbobran: 1
   futog: 1
-- sifra: 626
-  naziv: MAKAZE 24CM
-- sifra: 629
-  naziv: PAPIR BOJA A/4 1/250 JARKE BOJE
-  mpcena: 780.0
+626:
+  title: MAKAZE 24CM
+629:
+  title: PAPIR BOJA A/4 1/250 JARKE BOJE
+  price: 780.0
   srbobran: 1
   futog: 0
-- sifra: 631
-  naziv: PAPIR BOJA A/4 1/250 PASTELNE BOJE
-  mpcena: 715.0
+631:
+  title: PAPIR BOJA A/4 1/250 PASTELNE BOJE
+  price: 715.0
   srbobran: 1
   futog: 1
-- sifra: 632
-  naziv: PAPIR A/4 80G
-  mpcena: 3750.0
+632:
+  title: PAPIR A/4 80G
+  price: 3750.0
   srbobran: 2
   futog: 5
-- sifra: 633
-  naziv: PAPIR A/4 80G
-  mpcena: 680.0
+633:
+  title: PAPIR A/4 80G
+  price: 680.0
   srbobran: 3
   futog: 18
-- sifra: 635
-  naziv: PAPIR A4 U BOJI 1/100
-  mpcena: 295.0
+635:
+  title: PAPIR A4 U BOJI 1/100
+  price: 295.0
   srbobran: 1
   futog: 1
-- sifra: 643
-  naziv: PAPIR A/4 BOJA 1/100
-  mpcena: 875.0
+643:
+  title: PAPIR A/4 BOJA 1/100
+  price: 875.0
   srbobran: 0
-- sifra: 645
-  naziv: MASTILO ZA DOKUMENTA
-  mpcena: 145.0
+645:
+  title: MASTILO ZA DOKUMENTA
+  price: 145.0
   srbobran: 1
-- sifra: 646
-  naziv: PAPIR A/4 80G
-  mpcena: 3150.0
+646:
+  title: PAPIR A/4 80G
+  price: 3150.0
   srbobran: 0
-- sifra: 647
-  naziv: PAPIR A/4 80G
-  mpcena: 680.0
+647:
+  title: PAPIR A/4 80G
+  price: 680.0
   srbobran: 1
-- sifra: 654
-  naziv: DVD RW VERBATIM
-  mpcena: 100.0
+654:
+  title: DVD RW VERBATIM
+  price: 100.0
   srbobran: 7
-- sifra: 655
-  naziv: CD RW VERBATIM
-  mpcena: 120.0
+655:
+  title: CD RW VERBATIM
+  price: 120.0
   srbobran: 2
-- sifra: 658
-  naziv: DOSIJE 60 DZEPOVA
-- sifra: 661
-  naziv: 'STALAK ZA SELOTEJP '
-- sifra: 662
-  naziv: DOSIJE MEHANIKA
-  mpcena: 90.0
+658:
+  title: DOSIJE 60 DZEPOVA
+661:
+  title: 'STALAK ZA SELOTEJP '
+662:
+  title: DOSIJE MEHANIKA
+  price: 90.0
   srbobran: 0
   futog: 9
-- sifra: 663
-  naziv: JEMSTVENIK 50M
-  mpcena: 160.0
+663:
+  title: JEMSTVENIK 50M
+  price: 160.0
   srbobran: 3
-- sifra: 664
-  naziv: MAKAZE 17CM
-  mpcena: 130.0
+664:
+  title: MAKAZE 17CM
+  price: 130.0
   srbobran: 1
   futog: 0
-- sifra: 665
-  naziv: DELOVODNIK 100L
-  mpcena: 835.0
+665:
+  title: DELOVODNIK 100L
+  price: 835.0
   srbobran: 0
-- sifra: 668
-  naziv: KOREKTOR TRAKA 6M
-  mpcena: 90.0
+668:
+  title: KOREKTOR TRAKA 6M
+  price: 90.0
   srbobran: 0
-- sifra: 669
-  naziv: KOREKTOR TRAKA 12M
-  mpcena: 150.0
+669:
+  title: KOREKTOR TRAKA 12M
+  price: 150.0
   srbobran: 5
   futog: 5
-- sifra: 672
-  naziv: KOREKTOR OLOVKA
-  mpcena: 140.0
+672:
+  title: KOREKTOR OLOVKA
+  price: 140.0
   srbobran: 8
   futog: 6
-- sifra: 673
-  naziv: ROLER PILOT V-5
-  mpcena: 345.0
+673:
+  title: ROLER PILOT V-5
+  price: 345.0
   srbobran: 0
-- sifra: 674
-  naziv: KANAP 200G
-  mpcena: 265.0
+674:
+  title: KANAP 200G
+  price: 265.0
   srbobran: 0
-- sifra: 679
-  naziv: NAKVASAC GUMENI
-  mpcena: 90.0
+679:
+  title: NAKVASAC GUMENI
+  price: 90.0
   srbobran: 2
   futog: 1
-- sifra: 680
-  naziv: SAMOLEPLJIVE STRELICE
-  mpcena: 50.0
+680:
+  title: SAMOLEPLJIVE STRELICE
+  price: 50.0
   srbobran: 4
   futog: 11
-- sifra: 683
-  naziv: MARKER BIC
-  mpcena: 170.0
+683:
+  title: MARKER BIC
+  price: 170.0
   srbobran: 16
   futog: 9
-- sifra: 684
-  naziv: BLANKO 240*12 1+1 4"
-  mpcena: 2165.0
+684:
+  title: BLANKO 240*12 1+1 4"
+  price: 2165.0
   srbobran: 1
-- sifra: 686
-  naziv: REGISTRATOR A/4 N PRESTIGE
-  mpcena: 755.0
+686:
+  title: REGISTRATOR A/4 N PRESTIGE
+  price: 755.0
   srbobran: 0
-- sifra: 687
-  naziv: REGISTRATOR A/5 N
-  mpcena: 395.0
+687:
+  title: REGISTRATOR A/5 N
+  price: 395.0
   srbobran: 5
   futog: 3
-- sifra: 689
-  naziv: REGISTRATOR A/4 U
-  mpcena: 385.0
+689:
+  title: REGISTRATOR A/4 U
+  price: 385.0
   srbobran: 1
-- sifra: 692
-  naziv: ROKOVNIK B/5 HELSINKI
-  mpcena: 580.0
+692:
+  title: ROKOVNIK B/5 HELSINKI
+  price: 580.0
   srbobran: 0
-- sifra: 693
-  naziv: ROKOVNIK B/5 VISION
-  mpcena: 685.0
+693:
+  title: ROKOVNIK B/5 VISION
+  price: 685.0
   srbobran: 0
   futog: 3
-- sifra: 696
-  naziv: ROKOVNIK B/5 VENTURA
-  mpcena: 930.0
+696:
+  title: ROKOVNIK B/5 VENTURA
+  price: 930.0
   srbobran: 1
-- sifra: 699
-  naziv: 'HO '
-  mpcena: 20.0
+699:
+  title: 'HO '
+  price: 20.0
   srbobran: 77
   futog: 76
-- sifra: 703
-  naziv: HEFT MASINA MINI 24/6
-  mpcena: 250.0
+703:
+  title: HEFT MASINA MINI 24/6
+  price: 250.0
   srbobran: 1
   futog: 1
-- sifra: 705
-  naziv: PAPIRNI STOLNJAK 25M
-  mpcena: 1300.0
+705:
+  title: PAPIRNI STOLNJAK 25M
+  price: 1300.0
   srbobran: 0
-- sifra: 707
-  naziv: POPISNA LISTA SI
-  mpcena: 850.0
+707:
+  title: POPISNA LISTA SI
+  price: 850.0
   srbobran: 0
-- sifra: 713
-  naziv: SPONKE MAPED S-10
-  mpcena: 40.0
+713:
+  title: SPONKE MAPED S-10
+  price: 40.0
   srbobran: 14
   futog: 9
-- sifra: 717
-  naziv: KOREKTOR TRAKA 12M
-  mpcena: 140.0
+717:
+  title: KOREKTOR TRAKA 12M
+  price: 140.0
   srbobran: 0
   futog: 4
-- sifra: 718
-  naziv: SPAJALICE 80MM
-  mpcena: 150.0
+718:
+  title: SPAJALICE 80MM
+  price: 150.0
   srbobran: 4
   futog: 3
-- sifra: 720
-  naziv: SPONKE MAPED 24/6
-  mpcena: 70.0
+720:
+  title: SPONKE MAPED 24/6
+  price: 70.0
   srbobran: 27
   futog: 17
-- sifra: 723
-  naziv: SPAJALICE 50MM
-  mpcena: 210.0
+723:
+  title: SPAJALICE 50MM
+  price: 210.0
   srbobran: 3
-- sifra: 724
-  naziv: SPAJALICE 25MM
-  mpcena: 40.0
+724:
+  title: SPAJALICE 25MM
+  price: 40.0
   srbobran: 9
   futog: 26
-- sifra: 727
-  naziv: CIODE
-  mpcena: 40.0
+727:
+  title: CIODE
+  price: 40.0
   srbobran: 7
   futog: 5
-- sifra: 730
-  naziv: HO PISI BRISI
-  mpcena: 170.0
+730:
+  title: HO PISI BRISI
+  price: 170.0
   srbobran: 0
-- sifra: 735
-  naziv: ULOZAK ZA STONI KALENDAR 1/1
-- sifra: 737
-  naziv: DATUMAR
-  mpcena: 150.0
+735:
+  title: ULOZAK ZA STONI KALENDAR 1/1
+737:
+  title: DATUMAR
+  price: 150.0
   srbobran: 1
-- sifra: 771
-  naziv: HEFT MAŠINA KANEX HP-45
-  mpcena: 1015.0
+771:
+  title: HEFT MAŠINA KANEX HP-45
+  price: 1015.0
   srbobran: 1
   futog: 1
-- sifra: 776
-  naziv: MARKER BT CON
-  mpcena: 99.0
+776:
+  title: MARKER BT CON
+  price: 99.0
   srbobran: 45
   futog: 39
-- sifra: 777
-  naziv: BLOK A/6 C/5 SP
-  mpcena: 100.0
+777:
+  title: BLOK A/6 C/5 SP
+  price: 100.0
   srbobran: 5
   futog: 5
-- sifra: 780
-  naziv: STIPALJKA 19MM
-  mpcena: 6.0
+780:
+  title: STIPALJKA 19MM
+  price: 6.0
   srbobran: 0
-- sifra: 782
-  naziv: DIPLOMA ZA USPEH
-  mpcena: 65.0
+782:
+  title: DIPLOMA ZA USPEH
+  price: 65.0
   srbobran: 10
-- sifra: 786
-  naziv: SKALPEL 9MM
-  mpcena: 90.0
+786:
+  title: SKALPEL 9MM
+  price: 90.0
   srbobran: 2
-- sifra: 802
-  naziv: PARKER UL/ROLER
-  mpcena: 830.0
+802:
+  title: PARKER UL/ROLER
+  price: 830.0
   srbobran: 1
-- sifra: 805
-  naziv: OMOT ZA PASOS
-  mpcena: 25.0
+805:
+  title: OMOT ZA PASOS
+  price: 25.0
   srbobran: 9
-- sifra: 822
-  naziv: KARTICA RK-30
-  mpcena: 15.0
+822:
+  title: KARTICA RK-30
+  price: 15.0
   srbobran: 106
   futog: 0
-- sifra: 830
-  naziv: FOLIJA ZA PLASTIFICIRANJE
-  mpcena: 1230.0
+830:
+  title: FOLIJA ZA PLASTIFICIRANJE
+  price: 1230.0
   srbobran: 0
-- sifra: 833
-  naziv: SKALPEL 18MM
-  mpcena: 110.0
+833:
+  title: SKALPEL 18MM
+  price: 110.0
   srbobran: 0
-- sifra: 836
-  naziv: KASA BLOK
-  mpcena: 50.0
+836:
+  title: KASA BLOK
+  price: 50.0
   srbobran: 14
   futog: 10
-- sifra: 840
-  naziv: KOVERAT A/3
-  mpcena: 30.0
+840:
+  title: KOVERAT A/3
+  price: 30.0
   srbobran: 25
-- sifra: 843
-  naziv: KOLAŽ A/4 T
-  mpcena: 120.0
+843:
+  title: KOLAŽ A/4 T
+  price: 120.0
   srbobran: 5
   futog: 10
-- sifra: 890
-  naziv: PERSONALNI DOSIJE
-  mpcena: 395.0
+890:
+  title: PERSONALNI DOSIJE
+  price: 395.0
   srbobran: 1
-- sifra: 896
-  naziv: DOSIJE 10 DZEPOVA
-  mpcena: 195.0
+896:
+  title: DOSIJE 10 DZEPOVA
+  price: 195.0
   srbobran: 3
   futog: 2
-- sifra: 921
-  naziv: RACUN A/5 NCR
-  mpcena: 160.0
+921:
+  title: RACUN A/5 NCR
+  price: 160.0
   srbobran: 8
   futog: 10
-- sifra: 930
-  naziv: KARTICA FK-11
-  mpcena: 10.0
+930:
+  title: KARTICA FK-11
+  price: 10.0
   srbobran: 76
-- sifra: 931
-  naziv: LUPA VELIKA
-- sifra: 932
-  naziv: NOTES LG-23734
-- sifra: 934
-  naziv: KOREKTOR ČETKICA
-  mpcena: 130.0
+931:
+  title: LUPA VELIKA
+932:
+  title: NOTES LG-23734
+934:
+  title: KOREKTOR ČETKICA
+  price: 130.0
   srbobran: 11
   futog: 9
-- sifra: 940
-  naziv: TABLA PLUTA 60*40
-  mpcena: 799.0
+940:
+  title: TABLA PLUTA 60*40
+  price: 799.0
   srbobran: 1
-- sifra: 941
-  naziv: FASCIKLA 5CM
-  mpcena: 505.0
+941:
+  title: FASCIKLA 5CM
+  price: 505.0
   srbobran: 1
   futog: 0
-- sifra: 947
-  naziv: NOTES SL LG-80980
-  mpcena: 95.0
+947:
+  title: NOTES SL LG-80980
+  price: 95.0
   srbobran: 3
-- sifra: 950
-  naziv: RIBON LQ-800
-  mpcena: 490.0
+950:
+  title: RIBON LQ-800
+  price: 490.0
   srbobran: 1
-- sifra: 952
-  naziv: HEFT MASINA MAPED MINI GREEN S-10
-  mpcena: 365.0
+952:
+  title: HEFT MASINA MAPED MINI GREEN S-10
+  price: 365.0
   srbobran: 0
-- sifra: 953
-  naziv: GEL OLOVKA 0,5
-  mpcena: 30.0
+953:
+  title: GEL OLOVKA 0,5
+  price: 30.0
   srbobran: 9
   futog: 41
-- sifra: 957
-  naziv: SPONKE 23/10
-  mpcena: 370.0
+957:
+  title: SPONKE 23/10
+  price: 370.0
   srbobran: 0
   futog: 0
-- sifra: 961
-  naziv: MAKAZE 20CM
-  mpcena: 180.0
+961:
+  title: MAKAZE 20CM
+  price: 180.0
   srbobran: 2
   futog: 1
-- sifra: 962
-  naziv: HO WINNING 2002
-  mpcena: 35.0
+962:
+  title: HO WINNING 2002
+  price: 35.0
   srbobran: 1
-- sifra: 963
-  naziv: BLANKO 240*12 1+0
-  mpcena: 3790.0
+963:
+  title: BLANKO 240*12 1+0
+  price: 3790.0
   srbobran: 0
-- sifra: 964
-  naziv: BLANKO 240*12 1+2
-  mpcena: 2555.0
+964:
+  title: BLANKO 240*12 1+2
+  price: 2555.0
   srbobran: 1
-- sifra: 965
-  naziv: PAUS A/4 1/20
-  mpcena: 250.0
+965:
+  title: PAUS A/4 1/20
+  price: 250.0
   srbobran: 1
-- sifra: 966
-  naziv: ROLER AH-832
-  mpcena: 50.0
+966:
+  title: ROLER AH-832
+  price: 50.0
   srbobran: 6
-- sifra: 972
-  naziv: HO SC 1705
-  mpcena: 60.0
+972:
+  title: HO SC 1705
+  price: 60.0
   srbobran: 0
-- sifra: 973
-  naziv: SPAJALICE LG-70788
-  mpcena: 310.0
+973:
+  title: SPAJALICE LG-70788
+  price: 310.0
   srbobran: 4
   futog: 4
-- sifra: 974
-  naziv: KORICE ZA DOKUMENTA LUX
-  mpcena: 310.0
+974:
+  title: KORICE ZA DOKUMENTA LUX
+  price: 310.0
   srbobran: 4
   futog: 2
-- sifra: 981
-  naziv: FILM FAX 91/52 1/2
-  mpcena: 735.0
+981:
+  title: FILM FAX 91/52 1/2
+  price: 735.0
   srbobran: 0
-- sifra: 989
-  naziv: SET ZA BELESKE CODEX
-  mpcena: 715.0
+989:
+  title: SET ZA BELESKE CODEX
+  price: 715.0
   srbobran: 2
   futog: 2
-- sifra: 999
-  naziv: SET ZA BELESKE LEKSA
-  mpcena: 1015.0
+999:
+  title: SET ZA BELESKE LEKSA
+  price: 1015.0
   srbobran: 0
   futog: 0
-- sifra: 1009
-  naziv: PAPIRNI STOLNJAK BELI 7M
-  mpcena: 530.0
+1009:
+  title: PAPIRNI STOLNJAK BELI 7M
+  price: 530.0
   srbobran: 2
   futog: 3
-- sifra: 1013
-  naziv: FASCIKLA DUGME A/3
-  mpcena: 985.0
+1013:
+  title: FASCIKLA DUGME A/3
+  price: 985.0
   srbobran: 2
   futog: 2
-- sifra: 1021
-  naziv: KALKULATOR 82MS-D
-  mpcena: 425.0
+1021:
+  title: KALKULATOR 82MS-D
+  price: 425.0
   srbobran: 2
   futog: 2
-- sifra: 1022
-  naziv: KALKULATOR OF-232
-- sifra: 1023
-  naziv: KALKULATOR OF-229
-- sifra: 1029
-  naziv: ROLER CONNECT KF-217
-  mpcena: 80.0
+1022:
+  title: KALKULATOR OF-232
+1023:
+  title: KALKULATOR OF-229
+1029:
+  title: ROLER CONNECT KF-217
+  price: 80.0
   srbobran: 4
-- sifra: 1038
-  naziv: KUTIJA ZA VK
-  mpcena: 130.0
+1038:
+  title: KUTIJA ZA VK
+  price: 130.0
   srbobran: 4
-- sifra: 1041
-  naziv: TERMO ROLNA 80/70 ŠVRĆA
-  mpcena: 99.79
+1041:
+  title: TERMO ROLNA 80/70 ŠVRĆA
+  price: 99.79
   srbobran: 0
-- sifra: 1062
-  naziv: KREP PAPIR 100*70
-  mpcena: 100.0
+1062:
+  title: KREP PAPIR 100*70
+  price: 100.0
   srbobran: 32
   futog: 28
-- sifra: 1066
-  naziv: PAUS PAPIR A/3 1/1
-- sifra: 1074
-  naziv: PAPIR KLOBUCNI 100*70
-  mpcena: 15.0
+1066:
+  title: PAUS PAPIR A/3 1/1
+1074:
+  title: PAPIR KLOBUCNI 100*70
+  price: 15.0
   srbobran: 232
   futog: 220
-- sifra: 1079
-  naziv: ROKOVNIK B/5 PLANO
-  mpcena: 685.0
+1079:
+  title: ROKOVNIK B/5 PLANO
+  price: 685.0
   srbobran: 3
-- sifra: 1080
-  naziv: 'FOTO PAPIR MAT '
-  mpcena: 60.0
+1080:
+  title: 'FOTO PAPIR MAT '
+  price: 60.0
   srbobran: 44
-- sifra: 1092
-  naziv: MARKER AG/AU
-  mpcena: 130.0
+1092:
+  title: MARKER AG/AU
+  price: 130.0
   srbobran: 7
-- sifra: 1104
-  naziv: MARKER BT G
-  mpcena: 90.0
+1104:
+  title: MARKER BT G
+  price: 90.0
   srbobran: 48
-- sifra: 1111
-  naziv: ATASE PODLOGA
-  mpcena: 260.0
+1111:
+  title: ATASE PODLOGA
+  price: 260.0
   srbobran: 3
-- sifra: 1112
-  naziv: LEPENKA B2
-  mpcena: 160.0
+1112:
+  title: LEPENKA B2
+  price: 160.0
   srbobran: 0
-- sifra: 1116
-  naziv: HO MULTI
-- sifra: 1118
-  naziv: MARKER CD/DVD OF
-  mpcena: 50.0
+1116:
+  title: HO MULTI
+1118:
+  title: MARKER CD/DVD OF
+  price: 50.0
   srbobran: 42
   futog: 0
-- sifra: 1120
-  naziv: KALENDAR 12L
-  mpcena: 220.0
+1120:
+  title: KALENDAR 12L
+  price: 220.0
   srbobran: 1
-- sifra: 1121
-  naziv: 'HEFT MASINA 24/6 DELTA 105 '
-  mpcena: 1635.0
+1121:
+  title: 'HEFT MASINA 24/6 DELTA 105 '
+  price: 1635.0
   srbobran: 1
   futog: 0
-- sifra: 1123
-  naziv: HEFT MASINA 24/6 DELTA 107
-  mpcena: 955.0
+1123:
+  title: HEFT MASINA 24/6 DELTA 107
+  price: 955.0
   srbobran: 0
   futog: 1
-- sifra: 1124
-  naziv: HEFT MASINA SAX S-10
-  mpcena: 240.0
+1124:
+  title: HEFT MASINA SAX S-10
+  price: 240.0
   srbobran: 0
-- sifra: 1127
-  naziv: HEFT MASINA DL-501
-  mpcena: 385.0
+1127:
+  title: HEFT MASINA DL-501
+  price: 385.0
   srbobran: 0
-- sifra: 1152
-  naziv: HO LIGHT
-- sifra: 1155
-  naziv: KUTIJA ZA SPAJALICE
-  mpcena: 150.0
+1152:
+  title: HO LIGHT
+1155:
+  title: KUTIJA ZA SPAJALICE
+  price: 150.0
   srbobran: 0
-- sifra: 1183
-  naziv: PREGRADNI KARTON 1-31
-  mpcena: 360.0
+1183:
+  title: PREGRADNI KARTON 1-31
+  price: 360.0
   srbobran: 1
-- sifra: 1185
-  naziv: BUSAC 30L
-  mpcena: 610.0
-  srbobran: 1
-  futog: 2
-- sifra: 1199
-  naziv: DOSIJE 40 DZEPOVA
-  mpcena: 360.0
+1185:
+  title: BUSAC 30L
+  price: 610.0
   srbobran: 1
   futog: 2
-- sifra: 1204
-  naziv: PAPIR A/3 VK 20/10
-  mpcena: 950.0
+1199:
+  title: DOSIJE 40 DZEPOVA
+  price: 360.0
+  srbobran: 1
+  futog: 2
+1204:
+  title: PAPIR A/3 VK 20/10
+  price: 950.0
   srbobran: 0
-- sifra: 1208
-  naziv: PISACA TRAKA 13MM
-  mpcena: 299.0
+1208:
+  title: PISACA TRAKA 13MM
+  price: 299.0
   srbobran: 0
-- sifra: 1214
-  naziv: DOSIJE MEHANIZAM
-  mpcena: 130.0
+1214:
+  title: DOSIJE MEHANIZAM
+  price: 130.0
   srbobran: 0
-- sifra: 1216
-  naziv: OMOT SPISA B/Z
-  mpcena: 10.0
+1216:
+  title: OMOT SPISA B/Z
+  price: 10.0
   srbobran: 270
-- sifra: 1252
-  naziv: KOVERAT B/6
-  mpcena: 7.0
+1252:
+  title: KOVERAT B/6
+  price: 7.0
   srbobran: 233
   futog: 41
-- sifra: 1263
-  naziv: MARKER KOSI OF
-  mpcena: 50.0
+1263:
+  title: MARKER KOSI OF
+  price: 50.0
   srbobran: 10
-- sifra: 1268
-  naziv: MARKER KOH-I-NOOR
-  mpcena: 130.0
+1268:
+  title: MARKER KOH-I-NOOR
+  price: 130.0
   srbobran: 65
   futog: 15
-- sifra: 1270
-  naziv: KREDE BOJA 1/12
-  mpcena: 50.0
+1270:
+  title: KREDE BOJA 1/12
+  price: 50.0
   srbobran: 12
-- sifra: 1288
-  naziv: ULOZAK PISI-BRISI
-  mpcena: 85.0
+1288:
+  title: ULOZAK PISI-BRISI
+  price: 85.0
   srbobran: 10
   futog: 8
-- sifra: 1314
-  naziv: PAK PAPIR BELI
-  mpcena: 40.0
+1314:
+  title: PAK PAPIR BELI
+  price: 40.0
   srbobran: 0
-- sifra: 1325
-  naziv: SKOLSKI SUNDJER
-  mpcena: 50.0
+1325:
+  title: SKOLSKI SUNDJER
+  price: 50.0
   srbobran: 3
-- sifra: 1335
-  naziv: BLANKO 120*12/4" 1+1
-  mpcena: 5150.0
+1335:
+  title: BLANKO 120*12/4" 1+1
+  price: 5150.0
   srbobran: 0
-- sifra: 1339
-  naziv: UGOVOR O RADU
-  mpcena: 50.0
+1339:
+  title: UGOVOR O RADU
+  price: 50.0
   srbobran: 14
-- sifra: 1354
-  naziv: REGISTRATOR A/4 U BORDO
-  mpcena: 470.0
+1354:
+  title: REGISTRATOR A/4 U BORDO
+  price: 470.0
   srbobran: 0
-- sifra: 1355
-  naziv: SVEDOCANSTVO 16A 5-8
-  mpcena: 50.0
+1355:
+  title: SVEDOCANSTVO 16A 5-8
+  price: 50.0
   srbobran: 0
-- sifra: 1360
-  naziv: TRAKA ZA KALKULATOR
-  mpcena: 395.0
+1360:
+  title: TRAKA ZA KALKULATOR
+  price: 395.0
   srbobran: 0
-- sifra: 1361
-  naziv: KOVERAT DUGME AMERIKEN
-  mpcena: 50.0
+1361:
+  title: KOVERAT DUGME AMERIKEN
+  price: 50.0
   srbobran: 7
   futog: 5
-- sifra: 1365
-  naziv: DOSIJE 20 DZEPOVA
-  mpcena: 250.0
+1365:
+  title: DOSIJE 20 DZEPOVA
+  price: 250.0
   srbobran: 4
   futog: 2
-- sifra: 1368
-  naziv: HEFT MASINA KANEX HD-10ED
-  mpcena: 350.0
+1368:
+  title: HEFT MASINA KANEX HD-10ED
+  price: 350.0
   srbobran: 0
   futog: 0
-- sifra: 1370
-  naziv: DOSIJE 20/30 DZEPOVA
-  mpcena: 235.0
+1370:
+  title: DOSIJE 20/30 DZEPOVA
+  price: 235.0
   srbobran: 0
-- sifra: 1371
-  naziv: DOSIJE SUP
-  mpcena: 80.0
+1371:
+  title: DOSIJE SUP
+  price: 80.0
   srbobran: 135
   futog: 25
-- sifra: 1373
-  naziv: DOSIJE 11 RUPA 40MIC
-  mpcena: 6.0
+1373:
+  title: DOSIJE 11 RUPA 40MIC
+  price: 6.0
   srbobran: 502
   futog: 250
-- sifra: 1376
-  naziv: POLICA ZA DOKUMENTA
-  mpcena: 440.0
+1376:
+  title: POLICA ZA DOKUMENTA
+  price: 440.0
   srbobran: 4
   futog: 2
-- sifra: 1379
-  naziv: REGISTRATOR A/4 N
-  mpcena: 495.0
+1379:
+  title: REGISTRATOR A/4 N
+  price: 495.0
   srbobran: 0
-- sifra: 1383
-  naziv: OMOT SPISA C/P
-  mpcena: 10.0
+1383:
+  title: OMOT SPISA C/P
+  price: 10.0
   srbobran: 300
-- sifra: 1393
-  naziv: KORICE ZA DOKUMENTA
-  mpcena: 195.0
+1393:
+  title: KORICE ZA DOKUMENTA
+  price: 195.0
   srbobran: 0
   futog: 4
-- sifra: 1394
-  naziv: KORICE ZA KARTICE LUX
-  mpcena: 410.0
+1394:
+  title: KORICE ZA KARTICE LUX
+  price: 410.0
   srbobran: 1
   futog: 2
-- sifra: 1400
-  naziv: OBRAZAC PPI-4
-  mpcena: 20.0
+1400:
+  title: OBRAZAC PPI-4
+  price: 20.0
   srbobran: 34
-- sifra: 1401
-  naziv: OBRAZAC PPI-3
-  mpcena: 20.0
+1401:
+  title: OBRAZAC PPI-3
+  price: 20.0
   srbobran: 104
-- sifra: 1405
-  naziv: PAK PAPIR NATRON
-  mpcena: 40.0
+1405:
+  title: PAK PAPIR NATRON
+  price: 40.0
   srbobran: 27
   futog: 39
-- sifra: 1406
-  naziv: KOVERAT VAZDUSNI BR-10
-  mpcena: 95.0
+1406:
+  title: KOVERAT VAZDUSNI BR-10
+  price: 95.0
   srbobran: 3
-- sifra: 1407
-  naziv: KOVERAT A/4 SL
-- sifra: 1413
-  naziv: KUTIJA ZA SPAJALICE
-  mpcena: 140.0
+1407:
+  title: KOVERAT A/4 SL
+1413:
+  title: KUTIJA ZA SPAJALICE
+  price: 140.0
   srbobran: 0
   futog: 1
-- sifra: 1415
-  naziv: BATERIJE AA/AAA
-  mpcena: 300.0
+1415:
+  title: BATERIJE AA/AAA
+  price: 300.0
   srbobran: 5
-- sifra: 1416
-  naziv: DOSIJE 40 DZEPOVA
-  mpcena: 360.0
+1416:
+  title: DOSIJE 40 DZEPOVA
+  price: 360.0
   srbobran: 0
-- sifra: 1420
-  naziv: OVERA POTPISA
-  mpcena: 10.0
+1420:
+  title: OVERA POTPISA
+  price: 10.0
   srbobran: 17
-- sifra: 1429
-  naziv: MARAMICE
-  mpcena: 20.0
+1429:
+  title: MARAMICE
+  price: 20.0
   srbobran: 11
-- sifra: 1445
-  naziv: DOSIJE 11 RUPA 60MIC
-  mpcena: 12.0
+1445:
+  title: DOSIJE 11 RUPA 60MIC
+  price: 12.0
   srbobran: 380
   futog: 100
-- sifra: 1452
-  naziv: POHVALNICA ZA POSTIGNUTE IR
-  mpcena: 30.0
+1452:
+  title: POHVALNICA ZA POSTIGNUTE IR
+  price: 30.0
   srbobran: 0
-- sifra: 1461
-  naziv: GEL OL VETRENJAČA
-  mpcena: 180.0
+1461:
+  title: GEL OL VETRENJAČA
+  price: 180.0
   srbobran: 8
   futog: 8
-- sifra: 1499
-  naziv: HO SC
-  mpcena: 50.0
+1499:
+  title: HO SC
+  price: 50.0
   srbobran: 1
-- sifra: 1507
-  naziv: NOTA RACUN A/6
-  mpcena: 110.0
+1507:
+  title: NOTA RACUN A/6
+  price: 110.0
   srbobran: 5
   futog: 3
-- sifra: 1519
-  naziv: BUSAC 20L
-  mpcena: 410.0
+1519:
+  title: BUSAC 20L
+  price: 410.0
   srbobran: 1
   futog: 1
-- sifra: 1521
-  naziv: TERMO ROLNA 57/28MM
-  mpcena: 60.0
+1521:
+  title: TERMO ROLNA 57/28MM
+  price: 60.0
   srbobran: 1
-- sifra: 1529
-  naziv: BLANKO 240*12/6" 1+0
-  mpcena: 1850.0
+1529:
+  title: BLANKO 240*12/6" 1+0
+  price: 1850.0
   srbobran: 1
-- sifra: 1530
-  naziv: IZVESTAJ O POVREDI
-  mpcena: 15.0
+1530:
+  title: IZVESTAJ O POVREDI
+  price: 15.0
   srbobran: 26
-- sifra: 1535
-  naziv: MEHANIKA
-  mpcena: 30.0
+1535:
+  title: MEHANIKA
+  price: 30.0
   srbobran: 34
   futog: 0
-- sifra: 1538
-  naziv: FASCIKLA 8 PREGRADA A/4
-  mpcena: 365.0
+1538:
+  title: FASCIKLA 8 PREGRADA A/4
+  price: 365.0
   srbobran: 0
-- sifra: 1539
-  naziv: SVEDOCANSTVO OOVR 17A/17B
-  mpcena: 50.0
+1539:
+  title: SVEDOCANSTVO OOVR 17A/17B
+  price: 50.0
   srbobran: 0
-- sifra: 1780
-  naziv: FASCIKLA ZIP A/4
-  mpcena: 99.0
+1780:
+  title: FASCIKLA ZIP A/4
+  price: 99.0
   srbobran: 0
-- sifra: 1783
-  naziv: FASCIKLA ZIP A/5
-- sifra: 1791
-  naziv: SPISAK DECE O/S
-  mpcena: 249.0
+1783:
+  title: FASCIKLA ZIP A/5
+1791:
+  title: SPISAK DECE O/S
+  price: 249.0
   srbobran: 0
-- sifra: 1794
-  naziv: KOVERAT VAZDUSNI BROJ-8
-  mpcena: 70.0
+1794:
+  title: KOVERAT VAZDUSNI BROJ-8
+  price: 70.0
   srbobran: 0
   futog: 0
-- sifra: 1795
-  naziv: KOVERAT VAZDUSNI BROJ-6
-  mpcena: 55.0
+1795:
+  title: KOVERAT VAZDUSNI BROJ-6
+  price: 55.0
   srbobran: 2
   futog: 1
-- sifra: 1796
-  naziv: KOVERAT VAZDUSNI BROJ-4
-  mpcena: 40.0
+1796:
+  title: KOVERAT VAZDUSNI BROJ-4
+  price: 40.0
   srbobran: 2
   futog: 1
-- sifra: 1797
-  naziv: KOVERAT BOJA
-  mpcena: 20.0
+1797:
+  title: KOVERAT BOJA
+  price: 20.0
   srbobran: 0
-- sifra: 1814
-  naziv: CD DVD-RW
-  mpcena: 149.0
+1814:
+  title: CD DVD-RW
+  price: 149.0
   srbobran: 8
-- sifra: 1815
-  naziv: DVD-R VERBATIM
-  mpcena: 55.0
+1815:
+  title: DVD-R VERBATIM
+  price: 55.0
   srbobran: 25
-- sifra: 1816
-  naziv: AUTO KARTA SRBIJA
-  mpcena: 435.0
+1816:
+  title: AUTO KARTA SRBIJA
+  price: 435.0
   srbobran: 2
-- sifra: 1817
-  naziv: PLAN GRADA BEOGRAD
-- sifra: 1818
-  naziv: AUTO KARTA ZAPADNI BALKAN
-  mpcena: 325.0
+1817:
+  title: PLAN GRADA BEOGRAD
+1818:
+  title: AUTO KARTA ZAPADNI BALKAN
+  price: 325.0
   srbobran: 1
-- sifra: 1819
-  naziv: FASCIKLA A/5 ZIP
-  mpcena: 150.0
+1819:
+  title: FASCIKLA A/5 ZIP
+  price: 150.0
   srbobran: 2
   futog: 2
-- sifra: 1865
-  naziv: FILM FAX 92/54 1/2
-  mpcena: 795.0
+1865:
+  title: FILM FAX 92/54 1/2
+  price: 795.0
   srbobran: 0
-- sifra: 1866
-  naziv: PAPIR VK A/3 1/10
-  mpcena: 55.0
+1866:
+  title: PAPIR VK A/3 1/10
+  price: 55.0
   srbobran: 14
-- sifra: 1873
-  naziv: PAPIR A/3 80G
-  mpcena: 1575.0
+1873:
+  title: PAPIR A/3 80G
+  price: 1575.0
   srbobran: 1
   futog: 1
-- sifra: 1890
-  naziv: OBRAZAC 1 1+1
-- sifra: 1891
-  naziv: OBRAZAC 3 1+1
-- sifra: 1895
-  naziv: KANAP 200G
-  mpcena: 350.0
+1890:
+  title: OBRAZAC 1 1+1
+1891:
+  title: OBRAZAC 3 1+1
+1895:
+  title: KANAP 200G
+  price: 350.0
   srbobran: 2
-- sifra: 1900
-  naziv: TERMO ROLNA 80/70MM
-  mpcena: 225.0
+1900:
+  title: TERMO ROLNA 80/70MM
+  price: 225.0
   srbobran: 17
   futog: 12
-- sifra: 1912
-  naziv: ZABRANJENO PUSENJE A/4
-  mpcena: 95.0
+1912:
+  title: ZABRANJENO PUSENJE A/4
+  price: 95.0
   srbobran: 2
   futog: 1
-- sifra: 1931
-  naziv: KOVERAT VAZDUSNI BR-3
-  mpcena: 30.0
+1931:
+  title: KOVERAT VAZDUSNI BR-3
+  price: 30.0
   srbobran: 2
   futog: 1
-- sifra: 1934
-  naziv: NOTES LG-23874
-  mpcena: 100.0
+1934:
+  title: NOTES LG-23874
+  price: 100.0
   srbobran: 3
   futog: 3
-- sifra: 1935
-  naziv: KOVERAT VAZDUSNI B
-  mpcena: 50.0
+1935:
+  title: KOVERAT VAZDUSNI B
+  price: 50.0
   srbobran: 0
-- sifra: 1939
-  naziv: NOTES LG-80253
-  mpcena: 480.0
+1939:
+  title: NOTES LG-80253
+  price: 480.0
   srbobran: 0
-- sifra: 1959
-  naziv: NALEPNICA A/4
-  mpcena: 15.0
+1959:
+  title: NALEPNICA A/4
+  price: 15.0
   srbobran: 0
-- sifra: 1963
-  naziv: 'FASCIKLA 13 PREGRADA '
-  mpcena: 530.0
+1963:
+  title: 'FASCIKLA 13 PREGRADA '
+  price: 530.0
   srbobran: 0
-- sifra: 1977
-  naziv: FASCIKLA A/4 DUGME
-  mpcena: 200.0
+1977:
+  title: FASCIKLA A/4 DUGME
+  price: 200.0
   srbobran: 0
-- sifra: 1984
-  naziv: FASCIKLA ZIP A/5
-  mpcena: 115.0
+1984:
+  title: FASCIKLA ZIP A/5
+  price: 115.0
   srbobran: 0
-- sifra: 1988
-  naziv: FASCIKLA 3CM
-  mpcena: 435.0
+1988:
+  title: FASCIKLA 3CM
+  price: 435.0
   srbobran: 2
   futog: 1
-- sifra: 1990
-  naziv: FASCIKLA DUGME AMERIKEN
-  mpcena: 160.0
+1990:
+  title: FASCIKLA DUGME AMERIKEN
+  price: 160.0
   srbobran: 0
-- sifra: 1991
-  naziv: REGISTRATOR A/4 N
-  mpcena: 330.0
+1991:
+  title: REGISTRATOR A/4 N
+  price: 330.0
   srbobran: 9
   futog: 11
-- sifra: 1993
-  naziv: REGISTRATOR A/4 N
-  mpcena: 340.0
+1993:
+  title: REGISTRATOR A/4 N
+  price: 340.0
   srbobran: 0
-- sifra: 1995
-  naziv: FASCIKLA A/5 DUGME
-  mpcena: 80.0
+1995:
+  title: FASCIKLA A/5 DUGME
+  price: 80.0
   srbobran: 5
   futog: 5
-- sifra: 1996
-  naziv: REGISTRATOR A/4 N
-  mpcena: 385.0
+1996:
+  title: REGISTRATOR A/4 N
+  price: 385.0
   srbobran: 0
-- sifra: 2005
-  naziv: PAPIR A/4 20L 120G
-  mpcena: 130.0
+2005:
+  title: PAPIR A/4 20L 120G
+  price: 130.0
   srbobran: 0
-- sifra: 2006
-  naziv: PAPIR A/4 80G
-  mpcena: 5.0
+2006:
+  title: PAPIR A/4 80G
+  price: 5.0
   srbobran: 167
-- sifra: 2025
-  naziv: KREDE BELE 1/100 M/G
-  mpcena: 680.0
+2025:
+  title: KREDE BELE 1/100 M/G
+  price: 680.0
   srbobran: 0
-- sifra: 2083
-  naziv: MARKER ALUMINIJUM
-  mpcena: 170.0
+2083:
+  title: MARKER ALUMINIJUM
+  price: 170.0
   srbobran: 0
   futog: 26
-- sifra: 2088
-  naziv: MARKER ART OBOSTRANI
-  mpcena: 99.0
+2088:
+  title: MARKER ART OBOSTRANI
+  price: 99.0
   srbobran: 63
   futog: 33
-- sifra: 2089
-  naziv: ALAT ZA LINOREZ
-- sifra: 2113
-  naziv: HO OF GEL INK
-  mpcena: 60.0
+2089:
+  title: ALAT ZA LINOREZ
+2113:
+  title: HO OF GEL INK
+  price: 60.0
   srbobran: 26
   futog: 16
-- sifra: 2115
-  naziv: SELOTEJP 15*33
-  mpcena: 40.0
+2115:
+  title: SELOTEJP 15*33
+  price: 40.0
   srbobran: 60
   futog: 44
-- sifra: 2139
-  naziv: KREDE 1/100 BOJA
-  mpcena: 1150.0
+2139:
+  title: KREDE 1/100 BOJA
+  price: 1150.0
   srbobran: 1
-- sifra: 2142
-  naziv: 'KREDE BELE 1/12 '
-  mpcena: 40.0
+2142:
+  title: 'KREDE BELE 1/12 '
+  price: 40.0
   srbobran: 0
   futog: 8
-- sifra: 2143
-  naziv: KOVERAT AMERIKEN LP
-- sifra: 2144
-  naziv: SPONKE 24/6 EK
-  mpcena: 70.0
+2143:
+  title: KOVERAT AMERIKEN LP
+2144:
+  title: SPONKE 24/6 EK
+  price: 70.0
   srbobran: 0
-- sifra: 2156
-  naziv: KALKULATOR GENIE-825
-  mpcena: 395.0
+2156:
+  title: KALKULATOR GENIE-825
+  price: 395.0
   srbobran: 1
-- sifra: 2158
-  naziv: BUSAC 20L
-  mpcena: 410.0
+2158:
+  title: BUSAC 20L
+  price: 410.0
   srbobran: 0
-- sifra: 2167
-  naziv: ID KARTICA SA TRAKOM
-  mpcena: 110.0
+2167:
+  title: ID KARTICA SA TRAKOM
+  price: 110.0
   srbobran: 16
   futog: 10
-- sifra: 2178
-  naziv: DOSIJE 11 RUPA 80MIC
-  mpcena: 15.0
+2178:
+  title: DOSIJE 11 RUPA 80MIC
+  price: 15.0
   srbobran: 745
   futog: 372
-- sifra: 2193
-  naziv: MARKER FLIP CHART 1/4
-  mpcena: 425.0
+2193:
+  title: MARKER FLIP CHART 1/4
+  price: 425.0
   srbobran: 3
-- sifra: 2197
-  naziv: SIGNIR PASTEL
-  mpcena: 70.0
+2197:
+  title: SIGNIR PASTEL
+  price: 70.0
   srbobran: 1
   futog: 17
-- sifra: 2219
-  naziv: PECATNI VOSAK
-  mpcena: 310.0
+2219:
+  title: PECATNI VOSAK
+  price: 310.0
   srbobran: 1
-- sifra: 2234
-  naziv: FINELINER 0,4 SC
-  mpcena: 35.0
+2234:
+  title: FINELINER 0,4 SC
+  price: 35.0
   srbobran: 28
-- sifra: 2271
-  naziv: ETUI ZA HO PLIS
-  mpcena: 15.0
+2271:
+  title: ETUI ZA HO PLIS
+  price: 15.0
   srbobran: 96
-- sifra: 2281
-  naziv: UP HAVANA
-  mpcena: 1145.0
+2281:
+  title: UP HAVANA
+  price: 1145.0
   srbobran: 1
-- sifra: 2304
-  naziv: UL PILOT G2
-  mpcena: 195.0
+2304:
+  title: UL PILOT G2
+  price: 195.0
   srbobran: 12
-- sifra: 2314
-  naziv: GEL OL PISI-BRISI
-  mpcena: 190.0
+2314:
+  title: GEL OL PISI-BRISI
+  price: 190.0
   srbobran: 5
-- sifra: 2473
-  naziv: KUTIJA ZA PAPIR METALNA
-  mpcena: 200.0
+2473:
+  title: KUTIJA ZA PAPIR METALNA
+  price: 200.0
   srbobran: 1
   futog: 0
-- sifra: 2475
-  naziv: KOVERAT AMERIKEN DP
-  mpcena: 6.0
+2475:
+  title: KOVERAT AMERIKEN DP
+  price: 6.0
   srbobran: 700
   futog: 600
-- sifra: 2505
-  naziv: DOSIJE 11 RUPA 30MIC
-  mpcena: 5.0
+2505:
+  title: DOSIJE 11 RUPA 30MIC
+  price: 5.0
   srbobran: 0
-- sifra: 2507
-  naziv: DOSIJE 11 RUPA 100MIC
-  mpcena: 15.0
+2507:
+  title: DOSIJE 11 RUPA 100MIC
+  price: 15.0
   srbobran: 58
-- sifra: 2510
-  naziv: PAPIRNI STOLNJAK BOJA 7M
-  mpcena: 620.0
+2510:
+  title: PAPIRNI STOLNJAK BOJA 7M
+  price: 620.0
   srbobran: 5
   futog: 7
-- sifra: 2564
-  naziv: MARKERI METTALIC 1/6
-  mpcena: 330.0
+2564:
+  title: MARKERI METTALIC 1/6
+  price: 330.0
   srbobran: 1
   futog: 1
-- sifra: 2566
-  naziv: KREDA BELA 1/100 M/G
-  mpcena: 670.0
+2566:
+  title: KREDA BELA 1/100 M/G
+  price: 670.0
   srbobran: 2
-- sifra: 2585
-  naziv: CIODE PLUTA
-  mpcena: 60.0
+2585:
+  title: CIODE PLUTA
+  price: 60.0
   srbobran: 2
   futog: 1
-- sifra: 2594
-  naziv: MARKER CN OBLI VRH
-  mpcena: 80.0
+2594:
+  title: MARKER CN OBLI VRH
+  price: 80.0
   srbobran: 4
   futog: 14
-- sifra: 2595
-  naziv: MARKER BELI ICO
-  mpcena: 280.0
+2595:
+  title: MARKER BELI ICO
+  price: 280.0
   srbobran: 3
-- sifra: 2616
-  naziv: DOSIJE 11 RUPA 90MIC
-  mpcena: 12.0
+2616:
+  title: DOSIJE 11 RUPA 90MIC
+  price: 12.0
   srbobran: 9
-- sifra: 2684
-  naziv: KALKULATOR OL LCD-9210
-  mpcena: 2455.0
+2684:
+  title: KALKULATOR OL LCD-9210
+  price: 2455.0
   srbobran: 0
   futog: 1
-- sifra: 2718
-  naziv: BLOK BELESKE T4
-  mpcena: 155.0
+2718:
+  title: BLOK BELESKE T4
+  price: 155.0
   srbobran: 5
-- sifra: 2722
-  naziv: RADNI NALOG A/5
-  mpcena: 200.0
+2722:
+  title: RADNI NALOG A/5
+  price: 200.0
   srbobran: 5
   futog: 0
-- sifra: 2774
-  naziv: MARKER 0,6 CP
-  mpcena: 85.0
+2774:
+  title: MARKER 0,6 CP
+  price: 85.0
   srbobran: 93
   futog: 60
-- sifra: 2801
-  naziv: ORGANIZER 13 PREGRADA
-  mpcena: 3015.0
+2801:
+  title: ORGANIZER 13 PREGRADA
+  price: 3015.0
   srbobran: 1
   futog: 1
-- sifra: 2880
-  naziv: PAPIR A/4 80G BOJA
-  mpcena: 10.0
+2880:
+  title: PAPIR A/4 80G BOJA
+  price: 10.0
   srbobran: 545
   futog: 532
-- sifra: 2961
-  naziv: DOZVOLJENO PUSENJE A/4
-  mpcena: 55.0
+2961:
+  title: DOZVOLJENO PUSENJE A/4
+  price: 55.0
   srbobran: 10
-- sifra: 2966
-  naziv: UP LADY 700
-  mpcena: 398.0
+2966:
+  title: UP LADY 700
+  price: 398.0
   srbobran: 3
-- sifra: 2977
-  naziv: DOZVOLJENO PUSENJE A/7
-  mpcena: 20.0
+2977:
+  title: DOZVOLJENO PUSENJE A/7
+  price: 20.0
   srbobran: 53
-- sifra: 3007
-  naziv: FUTROLA ZA HO DUET
-  mpcena: 306.0
+3007:
+  title: FUTROLA ZA HO DUET
+  price: 306.0
   srbobran: 15
-- sifra: 3148
-  naziv: RAJZNEDLE 1/50 M
-  mpcena: 40.0
+3148:
+  title: RAJZNEDLE 1/50 M
+  price: 40.0
   srbobran: 6
   futog: 3
-- sifra: 3149
-  naziv: RAJZNEDLE 1/50 S
-  mpcena: 40.0
+3149:
+  title: RAJZNEDLE 1/50 S
+  price: 40.0
   srbobran: 0
-- sifra: 3230
-  naziv: MARKER CP 1MM
-  mpcena: 85.0
+3230:
+  title: MARKER CP 1MM
+  price: 85.0
   srbobran: 123
   futog: 50
-- sifra: 3240
-  naziv: SET VINSKI ALEGRO
-  mpcena: 455.0
+3240:
+  title: SET VINSKI ALEGRO
+  price: 455.0
   srbobran: 0
   futog: 2
-- sifra: 3336
-  naziv: STONI ORGANIZER
-  mpcena: 355.0
+3336:
+  title: STONI ORGANIZER
+  price: 355.0
   srbobran: 2
   futog: 0
-- sifra: 3363
-  naziv: BATERIJE DURACELL 1000
-  mpcena: 350.0
+3363:
+  title: BATERIJE DURACELL 1000
+  price: 350.0
   srbobran: 1
-- sifra: 3364
-  naziv: BATERIJE MAXELL AAA/AA
-  mpcena: 70.0
+3364:
+  title: BATERIJE MAXELL AAA/AA
+  price: 70.0
   srbobran: 4
-- sifra: 3467
-  naziv: MARKER BT OF
-  mpcena: 50.0
+3467:
+  title: MARKER BT OF
+  price: 50.0
   srbobran: 68
-- sifra: 3500
-  naziv: DOSIJE 11 RUPA 120MIC
-  mpcena: 15.0
+3500:
+  title: DOSIJE 11 RUPA 120MIC
+  price: 15.0
   srbobran: 0
-- sifra: 3502
-  naziv: FASCIKLA 3-CM
-  mpcena: 575.0
+3502:
+  title: FASCIKLA 3-CM
+  price: 575.0
   srbobran: 0
   futog: 0
-- sifra: 3535
-  naziv: OBRAZAC CMR
-  mpcena: 50.0
+3535:
+  title: OBRAZAC CMR
+  price: 50.0
   srbobran: 51
   futog: 50
-- sifra: 3555
-  naziv: HO TORSION CLIP
-- sifra: 3578
-  naziv: GUMICA U OLOVCI
-  mpcena: 140.0
+3555:
+  title: HO TORSION CLIP
+3578:
+  title: GUMICA U OLOVCI
+  price: 140.0
   srbobran: 2
-- sifra: 3699
-  naziv: ODLUKA O REKLAMACIJI A/5
-  mpcena: 120.0
+3699:
+  title: ODLUKA O REKLAMACIJI A/5
+  price: 120.0
   srbobran: 0
-- sifra: 3707
-  naziv: FOLIJA ZA KORIČENJE
-  mpcena: 780.0
+3707:
+  title: FOLIJA ZA KORIČENJE
+  price: 780.0
   srbobran: 0
-- sifra: 3725
-  naziv: ATASE MAPA
-- sifra: 3733
-  naziv: HO A PLUS PIŠI BRIŠI
-  mpcena: 90.0
+3725:
+  title: ATASE MAPA
+3733:
+  title: HO A PLUS PIŠI BRIŠI
+  price: 90.0
   srbobran: 0
-- sifra: 3746
-  naziv: PRESOVANI KARTON
-  mpcena: 165.0
+3746:
+  title: PRESOVANI KARTON
+  price: 165.0
   srbobran: 0
-- sifra: 3747
-  naziv: BUSAC 40L OF
-- sifra: 3753
-  naziv: AKREDITIV KARTICA
-  mpcena: 20.0
+3747:
+  title: BUSAC 40L OF
+3753:
+  title: AKREDITIV KARTICA
+  price: 20.0
   srbobran: 20
-- sifra: 3777
-  naziv: HEFT MASINA DINGLI DL507
-  mpcena: 520.0
+3777:
+  title: HEFT MASINA DINGLI DL507
+  price: 520.0
   srbobran: 0
-- sifra: 3787
-  naziv: CD R VERBATIM
-  mpcena: 55.0
+3787:
+  title: CD R VERBATIM
+  price: 55.0
   srbobran: 13
-- sifra: 3788
-  naziv: HEFT MASINA OF
-  mpcena: 360.0
+3788:
+  title: HEFT MASINA OF
+  price: 360.0
   srbobran: 0
-- sifra: 3805
-  naziv: REGISTRATOR A/4 U
-  mpcena: 340.0
+3805:
+  title: REGISTRATOR A/4 U
+  price: 340.0
   srbobran: 0
-- sifra: 3830
-  naziv: BLOK BELESKE SP A/6
-  mpcena: 90.0
+3830:
+  title: BLOK BELESKE SP A/6
+  price: 90.0
   srbobran: 0
-- sifra: 3836
-  naziv: SPAJALICE BOJA
-  mpcena: 40.0
+3836:
+  title: SPAJALICE BOJA
+  price: 40.0
   srbobran: 0
-- sifra: 3846
-  naziv: BLOK SL 1/400
-  mpcena: 256.0
+3846:
+  title: BLOK SL 1/400
+  price: 256.0
   srbobran: 0
-- sifra: 3950
-  naziv: KREDA BELA 1/100
-- sifra: 3981
-  naziv: STIPALICA 51MM
-  mpcena: 30.0
+3950:
+  title: KREDA BELA 1/100
+3981:
+  title: STIPALICA 51MM
+  price: 30.0
   srbobran: 2
-- sifra: 3982
-  naziv: STIPALICA 25MM
-  mpcena: 10.0
+3982:
+  title: STIPALICA 25MM
+  price: 10.0
   srbobran: 0
-- sifra: 3986
-  naziv: PUTNI NALOG PMV
-  mpcena: 195.0
+3986:
+  title: PUTNI NALOG PMV
+  price: 195.0
   srbobran: 0
-- sifra: 4075
-  naziv: PAUS A/4 1/1
-  mpcena: 20.0
+4075:
+  title: PAUS A/4 1/1
+  price: 20.0
   srbobran: 28
-- sifra: 4082
-  naziv: JASTUČE ZA PEČAT 2
-  mpcena: 160.0
+4082:
+  title: JASTUČE ZA PEČAT 2
+  price: 160.0
   srbobran: 1
   futog: 1
-- sifra: 4106
-  naziv: MAKAZE 21CM
-  mpcena: 195.0
+4106:
+  title: MAKAZE 21CM
+  price: 195.0
   srbobran: 0
-- sifra: 4147
-  naziv: DRŽAČ ZA KARTICE CHECK
-  mpcena: 160.0
+4147:
+  title: DRŽAČ ZA KARTICE CHECK
+  price: 160.0
   srbobran: 3
-- sifra: 4260
-  naziv: 'BOJA ZA PECAT '
-  mpcena: 70.0
+4260:
+  title: 'BOJA ZA PECAT '
+  price: 70.0
   srbobran: 9
   futog: 5
-- sifra: 4263
-  naziv: BATERIJA AA/AAA
-  mpcena: 120.0
+4263:
+  title: BATERIJA AA/AAA
+  price: 120.0
   srbobran: 0
   futog: 60

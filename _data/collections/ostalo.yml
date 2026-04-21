@@ -1,1227 +1,1227 @@
 ---
-- sifra: 37
-  naziv: SABLON DEKOR
-  mpcena: 155.0
+37:
+  title: SABLON DEKOR
+  price: 155.0
   srbobran: 6
-- sifra: 118
-  naziv: MASNA CRVENA
-  mpcena: 80.0
+118:
+  title: MASNA CRVENA
+  price: 80.0
   srbobran: 18
   futog: 9
-- sifra: 131
-  naziv: PLANER VENCANJA
-  mpcena: 1560.0
+131:
+  title: PLANER VENCANJA
+  price: 1560.0
   srbobran: 2
   futog: 1
-- sifra: 150
-  naziv: MASNA
-  mpcena: 45.0
+150:
+  title: MASNA
+  price: 45.0
   srbobran: 24
   futog: 20
-- sifra: 168
-  naziv: NOVOGODISNJA BOJANKA
-  mpcena: 635.0
+168:
+  title: NOVOGODISNJA BOJANKA
+  price: 635.0
   srbobran: 1
-- sifra: 172
-  naziv: SALVETE 3SL/20
-  mpcena: 290.0
+172:
+  title: SALVETE 3SL/20
+  price: 290.0
   srbobran: 4
-- sifra: 176
-  naziv: BOJANKA A/4 NOVOGODISNJA
-  mpcena: 225.0
+176:
+  title: BOJANKA A/4 NOVOGODISNJA
+  price: 225.0
   srbobran: 8
   futog: 7
-- sifra: 198
-  naziv: ČESTITKA ROĐENDAN
-  mpcena: 120.0
+198:
+  title: ČESTITKA ROĐENDAN
+  price: 120.0
   srbobran: 83
   futog: 52
-- sifra: 201
-  naziv: SALVETE 38*38/40
-  mpcena: 330.0
+201:
+  title: SALVETE 38*38/40
+  price: 330.0
   srbobran: 3
   futog: 4
-- sifra: 215
-  naziv: RAM ZA SLIKE A/4
-  mpcena: 355.0
+215:
+  title: RAM ZA SLIKE A/4
+  price: 355.0
   srbobran: 0
-- sifra: 236
-  naziv: KORPICE ZA KOLACE - 7
-  mpcena: 50.0
+236:
+  title: KORPICE ZA KOLACE - 7
+  price: 50.0
   srbobran: 16
-- sifra: 237
-  naziv: GLITTER U CASI 1/6 BOJA
-  mpcena: 350.0
+237:
+  title: GLITTER U CASI 1/6 BOJA
+  price: 350.0
   srbobran: 0
   futog: 3
-- sifra: 239
-  naziv: NOVČANIK 19,5*10,4/6*60
-  mpcena: 1225.0
+239:
+  title: NOVČANIK 19,5*10,4/6*60
+  price: 1225.0
   srbobran: 3
   futog: 3
-- sifra: 240
-  naziv: IGRA OSVAJAČ
-  mpcena: 1350.0
+240:
+  title: IGRA OSVAJAČ
+  price: 1350.0
   srbobran: 0
   futog: 1
-- sifra: 241
-  naziv: SALVETE 1/20
-  mpcena: 260.0
+241:
+  title: SALVETE 1/20
+  price: 260.0
   srbobran: 1
-- sifra: 250
-  naziv: REGISTAR PREGLEDANIH VOZILA
-  mpcena: 2850.0
+250:
+  title: REGISTAR PREGLEDANIH VOZILA
+  price: 2850.0
   srbobran: 0
-- sifra: 251
-  naziv: PARTI DUVALJKE
-  mpcena: 145.0
+251:
+  title: PARTI DUVALJKE
+  price: 145.0
   srbobran: 3
-- sifra: 254
-  naziv: UKRASNI TANJIRICI
-  mpcena: 140.0
+254:
+  title: UKRASNI TANJIRICI
+  price: 140.0
   srbobran: 10
-- sifra: 258
-  naziv: PAPIR A/4 ŠVRĆA
-  mpcena: 351.6
+258:
+  title: PAPIR A/4 ŠVRĆA
+  price: 351.6
   srbobran: 0
   futog: 0
-- sifra: 262
-  naziv: DOMINE MAXI
-  mpcena: 750.0
+262:
+  title: DOMINE MAXI
+  price: 750.0
   srbobran: 0
-- sifra: 268
-  naziv: 'MASNA '
-  mpcena: 30.0
+268:
+  title: 'MASNA '
+  price: 30.0
   srbobran: 5
-- sifra: 269
-  naziv: PRIVEZAK ZIVOTINJICA
-  mpcena: 450.0
+269:
+  title: PRIVEZAK ZIVOTINJICA
+  price: 450.0
   srbobran: 61
   futog: 63
-- sifra: 270
-  naziv: FUTROLA ZA KLJUCEVE
-  mpcena: 825.0
+270:
+  title: FUTROLA ZA KLJUCEVE
+  price: 825.0
   srbobran: 0
   futog: 2
-- sifra: 271
-  naziv: NOVCANIK ZA KK
-  mpcena: 925.0
+271:
+  title: NOVCANIK ZA KK
+  price: 925.0
   srbobran: 0
   futog: 3
-- sifra: 272
-  naziv: FUTROLA ZA NAOCARI
-  mpcena: 1250.0
+272:
+  title: FUTROLA ZA NAOCARI
+  price: 1250.0
   srbobran: 0
-- sifra: 276
-  naziv: PARTY ZASTAVICA
-  mpcena: 87.0
+276:
+  title: PARTY ZASTAVICA
+  price: 87.0
   srbobran: 0
-- sifra: 288
-  naziv: KAIS KOZA
-  mpcena: 1915.0
+288:
+  title: KAIS KOZA
+  price: 1915.0
   srbobran: 0
   futog: 1
-- sifra: 290
-  naziv: PARTY TANJIRICI
-  mpcena: 87.0
+290:
+  title: PARTY TANJIRICI
+  price: 87.0
   srbobran: 0
-- sifra: 292
-  naziv: TACNE T-5
-  mpcena: 215.0
+292:
+  title: TACNE T-5
+  price: 215.0
   srbobran: 1
-- sifra: 299
-  naziv: FOTO ALBUM 13*18/100
-  mpcena: 1200.0
+299:
+  title: FOTO ALBUM 13*18/100
+  price: 1200.0
   srbobran: 2
-- sifra: 301
-  naziv: BLOK ZA YAMB
-  mpcena: 60.0
+301:
+  title: BLOK ZA YAMB
+  price: 60.0
   srbobran: 5
   futog: 5
-- sifra: 307
-  naziv: SVECICA BIG
-  mpcena: 125.0
+307:
+  title: SVECICA BIG
+  price: 125.0
   srbobran: 0
-- sifra: 311
-  naziv: BASNE SRPSKI/ENGLESKI
-  mpcena: 160.0
+311:
+  title: BASNE SRPSKI/ENGLESKI
+  price: 160.0
   srbobran: 2
-- sifra: 314
-  naziv: POZIVNICE ZA RODJENDAN
-  mpcena: 10.0
+314:
+  title: POZIVNICE ZA RODJENDAN
+  price: 10.0
   srbobran: 0
-- sifra: 315
-  naziv: TREZOR JOLLY
-  mpcena: 1685.0
+315:
+  title: TREZOR JOLLY
+  price: 1685.0
   srbobran: 0
-- sifra: 317
-  naziv: PUZZLE 3000
-  mpcena: 2750.0
+317:
+  title: PUZZLE 3000
+  price: 2750.0
   srbobran: 1
-- sifra: 318
-  naziv: PUZZLE 1/1000
-  mpcena: 1610.0
+318:
+  title: PUZZLE 1/1000
+  price: 1610.0
   srbobran: 2
   futog: 2
-- sifra: 319
-  naziv: DRUSTVENA IGRA
-  mpcena: 1150.0
+319:
+  title: DRUSTVENA IGRA
+  price: 1150.0
   srbobran: 1
-- sifra: 320
-  naziv: KAPITAL
-  mpcena: 1270.0
+320:
+  title: KAPITAL
+  price: 1270.0
   srbobran: 0
   futog: 1
-- sifra: 322
-  naziv: UNO KARTE
-  mpcena: 210.0
+322:
+  title: UNO KARTE
+  price: 210.0
   srbobran: 1
   futog: 1
-- sifra: 325
-  naziv: PP - MOJ SKOLSKI SPOMENAR - BROS
-  mpcena: 400.0
+325:
+  title: PP - MOJ SKOLSKI SPOMENAR - BROS
+  price: 400.0
   srbobran: 0
   futog: 1
-- sifra: 326
-  naziv: KLIKER
-  mpcena: 15.0
+326:
+  title: KLIKER
+  price: 15.0
   srbobran: 18
-- sifra: 333
-  naziv: RAM ZA SLIKE PF7
-  mpcena: 355.0
+333:
+  title: RAM ZA SLIKE PF7
+  price: 355.0
   srbobran: 1
   futog: 1
-- sifra: 334
-  naziv: PUZZLE 1/2000
-  mpcena: 1810.0
+334:
+  title: PUZZLE 1/2000
+  price: 1810.0
   srbobran: 2
-- sifra: 337
-  naziv: PUZZLE 2*20
-  mpcena: 1120.0
+337:
+  title: PUZZLE 2*20
+  price: 1120.0
   srbobran: 0
   futog: 1
-- sifra: 340
-  naziv: BOJANKA A/4
-  mpcena: 80.0
+340:
+  title: BOJANKA A/4
+  price: 80.0
   srbobran: 3
-- sifra: 343
-  naziv: PUZZLE 35
-  mpcena: 1120.0
+343:
+  title: PUZZLE 35
+  price: 1120.0
   srbobran: 1
-- sifra: 350
-  naziv: MAGNET
-  mpcena: 165.0
+350:
+  title: MAGNET
+  price: 165.0
   srbobran: 2
-- sifra: 356
-  naziv: FOTO ALBUM 13*18/200
-  mpcena: 1500.0
+356:
+  title: FOTO ALBUM 13*18/200
+  price: 1500.0
   srbobran: 1
-- sifra: 361
-  naziv: FOTO ALBUM 13*18/100
-  mpcena: 1330.0
+361:
+  title: FOTO ALBUM 13*18/100
+  price: 1330.0
   srbobran: 0
-- sifra: 366
-  naziv: FOTO ALBUM 13/18 200F
-- sifra: 368
-  naziv: CESTITKA
-  mpcena: 60.0
+366:
+  title: FOTO ALBUM 13/18 200F
+368:
+  title: CESTITKA
+  price: 60.0
   srbobran: 5
   futog: 5
-- sifra: 370
-  naziv: ČESTITKA ŠTAMPANA
-  mpcena: 220.0
+370:
+  title: ČESTITKA ŠTAMPANA
+  price: 220.0
   srbobran: 18
   futog: 23
-- sifra: 371
-  naziv: ČESTITKA CVETNA
-  mpcena: 120.0
+371:
+  title: ČESTITKA CVETNA
+  price: 120.0
   srbobran: 27
   futog: 14
-- sifra: 373
-  naziv: CESTITKA MINI
-  mpcena: 90.0
+373:
+  title: CESTITKA MINI
+  price: 90.0
   srbobran: 13
   futog: 16
-- sifra: 374
-  naziv: CESTITKA MINI
-  mpcena: 250.0
+374:
+  title: CESTITKA MINI
+  price: 250.0
   srbobran: 0
-- sifra: 375
-  naziv: PP - MONTESORI U VRTICU 3-4
-  mpcena: 880.0
+375:
+  title: PP - MONTESORI U VRTICU 3-4
+  price: 880.0
   srbobran: 0
-- sifra: 376
-  naziv: CESTITKA
-  mpcena: 190.0
+376:
+  title: CESTITKA
+  price: 190.0
   srbobran: 6
   futog: 9
-- sifra: 379
-  naziv: CESTITKA
-  mpcena: 85.0
+379:
+  title: CESTITKA
+  price: 85.0
   srbobran: 2
-- sifra: 381
-  naziv: BOJANKA A/4
-  mpcena: 75.0
+381:
+  title: BOJANKA A/4
+  price: 75.0
   srbobran: 3
-- sifra: 382
-  naziv: CESTITKA
-  mpcena: 80.0
+382:
+  title: CESTITKA
+  price: 80.0
   srbobran: 2
-- sifra: 385
-  naziv: CESTITKA MINI
-  mpcena: 160.0
+385:
+  title: CESTITKA MINI
+  price: 160.0
   srbobran: 18
   futog: 10
-- sifra: 386
-  naziv: CESTITKA
-  mpcena: 95.0
+386:
+  title: CESTITKA
+  price: 95.0
   srbobran: 3
-- sifra: 396
-  naziv: NOVCANIK SC
-  mpcena: 595.0
+396:
+  title: NOVCANIK SC
+  price: 595.0
   srbobran: 3
   futog: 4
-- sifra: 399
-  naziv: NOVOGODISNJA KUGLA
-  mpcena: 75.0
+399:
+  title: NOVOGODISNJA KUGLA
+  price: 75.0
   srbobran: 0
-- sifra: 426
-  naziv: KISOBRAN CLASSIC
-  mpcena: 895.0
+426:
+  title: KISOBRAN CLASSIC
+  price: 895.0
   srbobran: 9
   futog: 10
-- sifra: 427
-  naziv: DZEPNI RECNIK
-  mpcena: 170.0
+427:
+  title: DZEPNI RECNIK
+  price: 170.0
   srbobran: 3
-- sifra: 429
-  naziv: VITRAZ
-  mpcena: 265.0
+429:
+  title: VITRAZ
+  price: 265.0
   srbobran: 5
-- sifra: 446
-  naziv: MAGIČNA KOCKA 6,3CM
-  mpcena: 460.0
+446:
+  title: MAGIČNA KOCKA 6,3CM
+  price: 460.0
   srbobran: 0
   futog: 2
-- sifra: 453
-  naziv: FOTO ALBUM 13/18 100F
-  mpcena: 570.0
+453:
+  title: FOTO ALBUM 13/18 100F
+  price: 570.0
   srbobran: 0
-- sifra: 462
-  naziv: MAGIČNA KOCKA 5,7CM
-  mpcena: 395.0
+462:
+  title: MAGIČNA KOCKA 5,7CM
+  price: 395.0
   srbobran: 2
-- sifra: 515
-  naziv: SET HO+PENKALO TTO
-  mpcena: 1560.0
+515:
+  title: SET HO+PENKALO TTO
+  price: 1560.0
   srbobran: 3
   futog: 2
-- sifra: 516
-  naziv: LOPTA FLUO
-- sifra: 518
-  naziv: NESESER 8312
-  mpcena: 455.0
+516:
+  title: LOPTA FLUO
+518:
+  title: NESESER 8312
+  price: 455.0
   srbobran: 0
-- sifra: 559
-  naziv: IGRA MEMORIJE
-- sifra: 563
-  naziv: BOJA ZA LICE
-  mpcena: 685.0
+559:
+  title: IGRA MEMORIJE
+563:
+  title: BOJA ZA LICE
+  price: 685.0
   srbobran: 0
-- sifra: 591
-  naziv: 'KRAFT OCI MIX '
-  mpcena: 70.0
+591:
+  title: 'KRAFT OCI MIX '
+  price: 70.0
   srbobran: 0
-- sifra: 639
-  naziv: KRAFT SRCE/ZVEZDA
-  mpcena: 25.0
+639:
+  title: KRAFT SRCE/ZVEZDA
+  price: 25.0
   srbobran: 2
-- sifra: 650
-  naziv: MAGNET
-  mpcena: 115.0
+650:
+  title: MAGNET
+  price: 115.0
   srbobran: 6
-- sifra: 677
-  naziv: PARTY GIRLANDA
-  mpcena: 245.0
+677:
+  title: PARTY GIRLANDA
+  price: 245.0
   srbobran: 2
-- sifra: 688
-  naziv: DEKOR BLOK
-  mpcena: 755.0
+688:
+  title: DEKOR BLOK
+  price: 755.0
   srbobran: 0
   futog: 1
-- sifra: 694
-  naziv: IGRA 4/1
-- sifra: 700
-  naziv: REKET PVC
-  mpcena: 495.0
+694:
+  title: IGRA 4/1
+700:
+  title: REKET PVC
+  price: 495.0
   srbobran: 2
   futog: 2
-- sifra: 714
-  naziv: 'MUŠKI KOŽNI NOVČANIK '
-  mpcena: 3350.0
+714:
+  title: 'MUŠKI KOŽNI NOVČANIK '
+  price: 3350.0
   srbobran: 2
-- sifra: 716
-  naziv: KUVAR SA PORUKOM
-  mpcena: 530.0
+716:
+  title: KUVAR SA PORUKOM
+  price: 530.0
   srbobran: 1
-- sifra: 719
-  naziv: MAGNET
-  mpcena: 110.0
+719:
+  title: MAGNET
+  price: 110.0
   srbobran: 5
-- sifra: 769
-  naziv: NOVOGODISNJI STAPIC
-  mpcena: 200.0
+769:
+  title: NOVOGODISNJI STAPIC
+  price: 200.0
   srbobran: 8
-- sifra: 797
-  naziv: KRAFT OCI 1/60
-  mpcena: 180.0
+797:
+  title: KRAFT OCI 1/60
+  price: 180.0
   srbobran: 0
-- sifra: 804
-  naziv: KRAFT OCI 1/20
-  mpcena: 120.0
+804:
+  title: KRAFT OCI 1/20
+  price: 120.0
   srbobran: 2
-- sifra: 839
-  naziv: DECIJI KISOBRAN
-  mpcena: 765.0
+839:
+  title: DECIJI KISOBRAN
+  price: 765.0
   srbobran: 1
-- sifra: 877
-  naziv: RAM ZA SLIKE 23-017-11
-  mpcena: 215.0
+877:
+  title: RAM ZA SLIKE 23-017-11
+  price: 215.0
   srbobran: 1
   futog: 1
-- sifra: 881
-  naziv: SPISAK ZA KUPOVINU
-  mpcena: 120.0
+881:
+  title: SPISAK ZA KUPOVINU
+  price: 120.0
   srbobran: 0
-- sifra: 895
-  naziv: RADOSNICA UNA
-  mpcena: 1850.0
+895:
+  title: RADOSNICA UNA
+  price: 1850.0
   srbobran: 1
-- sifra: 914
-  naziv: OGLEDALCE RETRO
-  mpcena: 375.0
+914:
+  title: OGLEDALCE RETRO
+  price: 375.0
   srbobran: 0
   futog: 5
-- sifra: 936
-  naziv: MASKA ZA SPAVANJE
-  mpcena: 1365.0
+936:
+  title: MASKA ZA SPAVANJE
+  price: 1365.0
   srbobran: 3
   futog: 2
-- sifra: 945
-  naziv: RAM ZA SLIKE
-  mpcena: 365.0
+945:
+  title: RAM ZA SLIKE
+  price: 365.0
   srbobran: 0
   futog: 1
-- sifra: 948
-  naziv: MASNA NA POTEZ
-  mpcena: 80.0
+948:
+  title: MASNA NA POTEZ
+  price: 80.0
   srbobran: 0
   futog: 3
-- sifra: 951
-  naziv: IGRA METROPOL
-- sifra: 954
-  naziv: SALVETE 33*33
-- sifra: 956
-  naziv: SALVETE 33*33/20
-  mpcena: 250.0
+951:
+  title: IGRA METROPOL
+954:
+  title: SALVETE 33*33
+956:
+  title: SALVETE 33*33/20
+  price: 250.0
   srbobran: 1
-- sifra: 960
-  naziv: TABLICA A/5
-  mpcena: 40.0
+960:
+  title: TABLICA A/5
+  price: 40.0
   srbobran: 5
   futog: 0
-- sifra: 976
-  naziv: CESTITKA
-  mpcena: 99.0
+976:
+  title: CESTITKA
+  price: 99.0
   srbobran: 11
   futog: 3
-- sifra: 990
-  naziv: SET ZA DECU DEXYCO
-  mpcena: 575.0
+990:
+  title: SET ZA DECU DEXYCO
+  price: 575.0
   srbobran: 0
   futog: 1
-- sifra: 1004
-  naziv: KRAFT GLITTER 60G
-- sifra: 1006
-  naziv: PRIRUCNIK STRANI JEZICI
-  mpcena: 305.0
+1004:
+  title: KRAFT GLITTER 60G
+1006:
+  title: PRIRUCNIK STRANI JEZICI
+  price: 305.0
   srbobran: 2
-- sifra: 1007
-  naziv: JAJE STIROPOR 60MM
-  mpcena: 20.0
+1007:
+  title: JAJE STIROPOR 60MM
+  price: 20.0
   srbobran: 15
-- sifra: 1015
-  naziv: MOJI RECEPTI
-  mpcena: 1275.0
+1015:
+  title: MOJI RECEPTI
+  price: 1275.0
   srbobran: 0
-- sifra: 1016
-  naziv: PLANER OBROKA
-  mpcena: 755.0
+1016:
+  title: PLANER OBROKA
+  price: 755.0
   srbobran: 1
-- sifra: 1019
-  naziv: KRAFT STIPALJKA UNICORN
-  mpcena: 30.0
+1019:
+  title: KRAFT STIPALJKA UNICORN
+  price: 30.0
   srbobran: 2
-- sifra: 1024
-  naziv: KRAFT SMAJLI FILC
-- sifra: 1057
-  naziv: KOCKICE ZA YAMB
-  mpcena: 195.0
+1024:
+  title: KRAFT SMAJLI FILC
+1057:
+  title: KOCKICE ZA YAMB
+  price: 195.0
   srbobran: 1
-- sifra: 1059
-  naziv: NEDELJNI PLANER A/4
-  mpcena: 495.0
+1059:
+  title: NEDELJNI PLANER A/4
+  price: 495.0
   srbobran: 2
-- sifra: 1064
-  naziv: BG-RL MATEMATIKA 2 DEO 2/M
-  mpcena: 850.0
+1064:
+  title: BG-RL MATEMATIKA 2 DEO 2/M
+  price: 850.0
   srbobran: 0
-- sifra: 1069
-  naziv: NOVČANIK 3*60
-  mpcena: 2100.0
+1069:
+  title: NOVČANIK 3*60
+  price: 2100.0
   srbobran: 3
   futog: 3
-- sifra: 1070
-  naziv: NOVCANIK SC/YL
-  mpcena: 550.0
+1070:
+  title: NOVCANIK SC/YL
+  price: 550.0
   srbobran: 3
-- sifra: 1076
-  naziv: DECIJI PECAT
-- sifra: 1087
-  naziv: PUZZLE 1/100
-  mpcena: 1545.0
+1076:
+  title: DECIJI PECAT
+1087:
+  title: PUZZLE 1/100
+  price: 1545.0
   srbobran: 1
   futog: 0
-- sifra: 1094
-  naziv: TACNA T-4
-  mpcena: 165.0
+1094:
+  title: TACNA T-4
+  price: 165.0
   srbobran: 2
-- sifra: 1117
-  naziv: MAGNET FLAMINGO
-  mpcena: 99.0
+1117:
+  title: MAGNET FLAMINGO
+  price: 99.0
   srbobran: 0
-- sifra: 1136
-  naziv: MAGNET SAT
-  mpcena: 115.0
+1136:
+  title: MAGNET SAT
+  price: 115.0
   srbobran: 0
-- sifra: 1149
-  naziv: PRIVEZAK KOZA
-  mpcena: 535.0
+1149:
+  title: PRIVEZAK KOZA
+  price: 535.0
   srbobran: 0
   futog: 1
-- sifra: 1166
-  naziv: ENGLESKI RECNIK
-  mpcena: 895.0
+1166:
+  title: ENGLESKI RECNIK
+  price: 895.0
   srbobran: 3
-- sifra: 1171
-  naziv: TACNA T-7
-  mpcena: 310.0
+1171:
+  title: TACNA T-7
+  price: 310.0
   srbobran: 0
-- sifra: 1173
-  naziv: TACNA T-3
-  mpcena: 190.0
+1173:
+  title: TACNA T-3
+  price: 190.0
   srbobran: 2
   futog: 2
-- sifra: 1177
-  naziv: PUZZLE 1/500
-  mpcena: 895.0
+1177:
+  title: PUZZLE 1/500
+  price: 895.0
   srbobran: 1
   futog: 0
-- sifra: 1182
-  naziv: 'KRAVATA FERE '
-  mpcena: 1915.0
+1182:
+  title: 'KRAVATA FERE '
+  price: 1915.0
   srbobran: 1
-- sifra: 1188
-  naziv: RODJENDANSKA SVECICA LOVE
-  mpcena: 80.0
+1188:
+  title: RODJENDANSKA SVECICA LOVE
+  price: 80.0
   srbobran: 6
-- sifra: 1192
-  naziv: ČESTITKA BEBI
-  mpcena: 120.0
+1192:
+  title: ČESTITKA BEBI
+  price: 120.0
   srbobran: 8
   futog: 8
-- sifra: 1215
-  naziv: KRAVATA BOSS
-  mpcena: 4799.0
+1215:
+  title: KRAVATA BOSS
+  price: 4799.0
   srbobran: 1
-- sifra: 1218
-  naziv: KARTA SVETA
-  mpcena: 305.0
+1218:
+  title: KARTA SVETA
+  price: 305.0
   srbobran: 1
-- sifra: 1224
-  naziv: IGRA NE ZNAM KO SAM
-  mpcena: 1200.0
+1224:
+  title: IGRA NE ZNAM KO SAM
+  price: 1200.0
   srbobran: 1
-- sifra: 1230
-  naziv: CESTITKA MINI
-  mpcena: 80.0
+1230:
+  title: CESTITKA MINI
+  price: 80.0
   srbobran: 0
   futog: 2
-- sifra: 1231
-  naziv: 'CESTITKA '
-  mpcena: 160.0
+1231:
+  title: 'CESTITKA '
+  price: 160.0
   srbobran: 1
   futog: 1
-- sifra: 1232
-  naziv: BUSAC BORDURA
-  mpcena: 325.0
+1232:
+  title: BUSAC BORDURA
+  price: 325.0
   srbobran: 1
-- sifra: 1246
-  naziv: CESTITKA
-  mpcena: 85.0
+1246:
+  title: CESTITKA
+  price: 85.0
   srbobran: 0
-- sifra: 1257
-  naziv: PAPIRNA TACNA
-  mpcena: 110.0
+1257:
+  title: PAPIRNA TACNA
+  price: 110.0
   srbobran: 0
   futog: 3
-- sifra: 1261
-  naziv: IGRA RIKOSET
-  mpcena: 925.0
+1261:
+  title: IGRA RIKOSET
+  price: 925.0
   srbobran: 0
-- sifra: 1289
-  naziv: PUZZLE 1/200
-  mpcena: 1870.0
+1289:
+  title: PUZZLE 1/200
+  price: 1870.0
   srbobran: 1
   futog: 0
-- sifra: 1340
-  naziv: KANTA ZA SMEĆE
-  mpcena: 348.48
+1340:
+  title: KANTA ZA SMEĆE
+  price: 348.48
   srbobran: 0
-- sifra: 1341
-  naziv: ZAVOD-LIKOVNO 8
-  mpcena: 605.0
+1341:
+  title: ZAVOD-LIKOVNO 8
+  price: 605.0
   srbobran: 0
-- sifra: 1342
-  naziv: ČOVEČE NE LJUTI SE
-  mpcena: 220.0
+1342:
+  title: ČOVEČE NE LJUTI SE
+  price: 220.0
   srbobran: 1
-- sifra: 1343
-  naziv: RADOSNICA UNA+ALBUM
-  mpcena: 2550.0
+1343:
+  title: RADOSNICA UNA+ALBUM
+  price: 2550.0
   srbobran: 2
-- sifra: 1353
-  naziv: KISOBRAN
-  mpcena: 585.0
+1353:
+  title: KISOBRAN
+  price: 585.0
   srbobran: 1
   futog: 1
-- sifra: 1369
-  naziv: KISOBRAN CAMPOS
-  mpcena: 895.0
+1369:
+  title: KISOBRAN CAMPOS
+  price: 895.0
   srbobran: 1
   futog: 2
-- sifra: 1387
-  naziv: TACNA STAMPA
-  mpcena: 135.0
+1387:
+  title: TACNA STAMPA
+  price: 135.0
   srbobran: 0
-- sifra: 1396
-  naziv: IGRA MISTERIJA
-  mpcena: 1350.0
+1396:
+  title: IGRA MISTERIJA
+  price: 1350.0
   srbobran: 1
-- sifra: 1424
-  naziv: TACNA T-2
-  mpcena: 150.0
+1424:
+  title: TACNA T-2
+  price: 150.0
   srbobran: 2
-- sifra: 1430
-  naziv: DECIJI KISOBRAN
-  mpcena: 550.0
+1430:
+  title: DECIJI KISOBRAN
+  price: 550.0
   srbobran: 2
   futog: 1
-- sifra: 1432
-  naziv: POPISNA LISTA OS
-  mpcena: 1100.0
+1432:
+  title: POPISNA LISTA OS
+  price: 1100.0
   srbobran: 0
-- sifra: 1502
-  naziv: VILJSUKE PVC 1/25
-  mpcena: 150.0
+1502:
+  title: VILJSUKE PVC 1/25
+  price: 150.0
   srbobran: 1
-- sifra: 1515
-  naziv: CESTITKA
-  mpcena: 70.0
+1515:
+  title: CESTITKA
+  price: 70.0
   srbobran: 5
   futog: 7
-- sifra: 1518
-  naziv: BUSAC 10L MAPED
-  mpcena: 545.0
+1518:
+  title: BUSAC 10L MAPED
+  price: 545.0
   srbobran: 0
-- sifra: 1525
-  naziv: ČESTITKA
-  mpcena: 130.0
+1525:
+  title: ČESTITKA
+  price: 130.0
   srbobran: 31
   futog: 23
-- sifra: 1886
-  naziv: RULET
-  mpcena: 2110.0
+1886:
+  title: RULET
+  price: 2110.0
   srbobran: 1
   futog: 1
-- sifra: 1898
-  naziv: TACNA FI-18CM
-- sifra: 1929
-  naziv: PRIVEZAK FUNKY
-- sifra: 1933
-  naziv: BOJANKA SA CETKICOM
-  mpcena: 350.0
+1898:
+  title: TACNA FI-18CM
+1929:
+  title: PRIVEZAK FUNKY
+1933:
+  title: BOJANKA SA CETKICOM
+  price: 350.0
   srbobran: 0
-- sifra: 1938
-  naziv: NOVČANIK 19,5*10,4/5*60
-  mpcena: 1410.0
+1938:
+  title: NOVČANIK 19,5*10,4/5*60
+  price: 1410.0
   srbobran: 3
   futog: 2
-- sifra: 1940
-  naziv: NOVOGODISNJE KUGLE 1819
-- sifra: 1943
-  naziv: RUKAVICE KOZA
-  mpcena: 3975.0
+1940:
+  title: NOVOGODISNJE KUGLE 1819
+1943:
+  title: RUKAVICE KOZA
+  price: 3975.0
   srbobran: 0
   futog: 1
-- sifra: 1945
-  naziv: JAJE DINO 2/1
-  mpcena: 360.0
+1945:
+  title: JAJE DINO 2/1
+  price: 360.0
   srbobran: 0
-- sifra: 1955
-  naziv: 'JAJE DINO '
-- sifra: 2049
-  naziv: 'MASNA '
-  mpcena: 40.0
+1955:
+  title: 'JAJE DINO '
+2049:
+  title: 'MASNA '
+  price: 40.0
   srbobran: 38
   futog: 19
-- sifra: 2050
-  naziv: MAGNET SENDVIC/CUP
-  mpcena: 135.0
+2050:
+  title: MAGNET SENDVIC/CUP
+  price: 135.0
   srbobran: 2
-- sifra: 2058
-  naziv: MAGNET
-  mpcena: 60.0
+2058:
+  title: MAGNET
+  price: 60.0
   srbobran: 1
-- sifra: 2116
-  naziv: SALVETE PARTY
-  mpcena: 87.0
+2116:
+  title: SALVETE PARTY
+  price: 87.0
   srbobran: 0
-- sifra: 2151
-  naziv: SABLON PVC
-  mpcena: 230.0
+2151:
+  title: SABLON PVC
+  price: 230.0
   srbobran: 4
   futog: 8
-- sifra: 2170
-  naziv: 'PRSTEN '
-  mpcena: 70.0
+2170:
+  title: 'PRSTEN '
+  price: 70.0
   srbobran: 21
   futog: 27
-- sifra: 2173
-  naziv: SET MALA DOKTORKA 5 DELOVA
-  mpcena: 320.0
+2173:
+  title: SET MALA DOKTORKA 5 DELOVA
+  price: 320.0
   futog: 1
-- sifra: 2174
-  naziv: KARTE ZA REMI 1/2
-  mpcena: 1050.0
+2174:
+  title: KARTE ZA REMI 1/2
+  price: 1050.0
   srbobran: 0
   futog: 1
-- sifra: 2175
-  naziv: PUZZLE 1/1500
-  mpcena: 1680.0
+2175:
+  title: PUZZLE 1/1500
+  price: 1680.0
   srbobran: 1
-- sifra: 2176
-  naziv: BUSAC VELIKI OBLICI
-  mpcena: 490.0
+2176:
+  title: BUSAC VELIKI OBLICI
+  price: 490.0
   srbobran: 3
-- sifra: 2177
-  naziv: SET MALA DOKTORKA 8 DELOVA
-  mpcena: 8.0
+2177:
+  title: SET MALA DOKTORKA 8 DELOVA
+  price: 8.0
   srbobran: 0
   futog: 0
-- sifra: 2180
-  naziv: DRVENE SLAGALICE 15*15
-  mpcena: 195.0
+2180:
+  title: DRVENE SLAGALICE 15*15
+  price: 195.0
   futog: 4
-- sifra: 2181
-  naziv: DRVENE SLAGALICE 15*22
-  mpcena: 600.0
+2181:
+  title: DRVENE SLAGALICE 15*22
+  price: 600.0
   futog: 3
-- sifra: 2182
-  naziv: PAPIRNA KUTIJA ZA RUČAK
-  mpcena: 120.0
+2182:
+  title: PAPIRNA KUTIJA ZA RUČAK
+  price: 120.0
   srbobran: 3
   futog: 3
-- sifra: 2184
-  naziv: PLATNO SA PRINTOM + VODENE BOJE
-  mpcena: 170.0
+2184:
+  title: PLATNO SA PRINTOM + VODENE BOJE
+  price: 170.0
   futog: 2
-- sifra: 2185
-  naziv: BOJANKA MEDIA
-  mpcena: 130.0
+2185:
+  title: BOJANKA MEDIA
+  price: 130.0
   srbobran: 9
   futog: 11
-- sifra: 2190
-  naziv: 'STIKERI PO OBLIKU '
-  mpcena: 220.0
+2190:
+  title: 'STIKERI PO OBLIKU '
+  price: 220.0
   futog: 1
-- sifra: 2191
-  naziv: STIKERI JEDNOROG
-  mpcena: 190.0
+2191:
+  title: STIKERI JEDNOROG
+  price: 190.0
   srbobran: 0
   futog: 1
-- sifra: 2192
-  naziv: SET STIKERA SLOVA I BROJEVI
-  mpcena: 220.0
+2192:
+  title: SET STIKERA SLOVA I BROJEVI
+  price: 220.0
   futog: 0
-- sifra: 2196
-  naziv: STIKERI DINO
-  mpcena: 140.0
+2196:
+  title: STIKERI DINO
+  price: 140.0
   futog: 1
-- sifra: 2198
-  naziv: 'SVETLUCAVI STIKERI '
-  mpcena: 160.0
+2198:
+  title: 'SVETLUCAVI STIKERI '
+  price: 160.0
   futog: 0
-- sifra: 2199
-  naziv: POTAPANJE BRODOVA
-  mpcena: 1395.0
+2199:
+  title: POTAPANJE BRODOVA
+  price: 1395.0
   futog: 1
-- sifra: 2202
-  naziv: NALEPNICA KOJA SVETLI U MRAKU
-  mpcena: 320.0
+2202:
+  title: NALEPNICA KOJA SVETLI U MRAKU
+  price: 320.0
   futog: 2
-- sifra: 2204
-  naziv: NALEPNICE KOJE SVETLE U MRAKU
-  mpcena: 110.0
+2204:
+  title: NALEPNICE KOJE SVETLE U MRAKU
+  price: 110.0
   futog: 2
-- sifra: 2206
-  naziv: PEČATI ZOO
-  mpcena: 60.0
+2206:
+  title: PEČATI ZOO
+  price: 60.0
   srbobran: 14
   futog: 0
-- sifra: 2207
-  naziv: MINI HIGHLIGHTER
-  mpcena: 70.0
+2207:
+  title: MINI HIGHLIGHTER
+  price: 70.0
   srbobran: 25
   futog: 0
-- sifra: 2209
-  naziv: INDIKATORI STRELICE
-  mpcena: 90.0
+2209:
+  title: INDIKATORI STRELICE
+  price: 90.0
   futog: 0
-- sifra: 2210
-  naziv: INDIKATORI VOĆE
-  mpcena: 170.0
+2210:
+  title: INDIKATORI VOĆE
+  price: 170.0
   futog: 0
-- sifra: 2214
-  naziv: PLASTELIN 4 BOJE
-  mpcena: 390.0
+2214:
+  title: PLASTELIN 4 BOJE
+  price: 390.0
   futog: 1
-- sifra: 2215
-  naziv: PLASTELIN 6 BOJA
-  mpcena: 120.0
+2215:
+  title: PLASTELIN 6 BOJA
+  price: 120.0
   srbobran: 0
   futog: 0
-- sifra: 2217
-  naziv: AKRILNA BOJA
-  mpcena: 90.0
+2217:
+  title: AKRILNA BOJA
+  price: 90.0
   futog: 13
-- sifra: 2218
-  naziv: TACK IT - VIŠENAMENSKI LEPAK
-  mpcena: 175.0
+2218:
+  title: TACK IT - VIŠENAMENSKI LEPAK
+  price: 175.0
   srbobran: 0
   futog: 0
-- sifra: 2221
-  naziv: ŽIVOTINJE 1/1
-  mpcena: 220.0
+2221:
+  title: ŽIVOTINJE 1/1
+  price: 220.0
   srbobran: 34
   futog: 72
-- sifra: 2223
-  naziv: SPIRALNA OPRUGA DUGINIH BOJA
-  mpcena: 220.0
+2223:
+  title: SPIRALNA OPRUGA DUGINIH BOJA
+  price: 220.0
   futog: 0
-- sifra: 2224
-  naziv: CRVIĆI NA NAVIJANJE
-  mpcena: 250.0
+2224:
+  title: CRVIĆI NA NAVIJANJE
+  price: 250.0
   srbobran: 4
   futog: 5
-- sifra: 2225
-  naziv: IQ TWINS - SG 306
-  mpcena: 1945.0
+2225:
+  title: IQ TWINS - SG 306
+  price: 1945.0
   futog: 1
-- sifra: 2227
-  naziv: IQ FIT - SG 423
-  mpcena: 805.0
+2227:
+  title: IQ FIT - SG 423
+  price: 805.0
   srbobran: 0
   futog: 1
-- sifra: 2230
-  naziv: IQ PUZZLER PRO - SG 455
-  mpcena: 1945.0
+2230:
+  title: IQ PUZZLER PRO - SG 455
+  price: 1945.0
   futog: 1
-- sifra: 2231
-  naziv: IQ SIX PRO - SG 479
-  mpcena: 1945.0
+2231:
+  title: IQ SIX PRO - SG 479
+  price: 1945.0
   futog: 0
-- sifra: 2232
-  naziv: IQ LOVE - SG 302
-  mpcena: 2375.0
+2232:
+  title: IQ LOVE - SG 302
+  price: 2375.0
   futog: 1
-- sifra: 2235
-  naziv: JUMPIN - SG 421
-  mpcena: 2810.0
+2235:
+  title: JUMPIN - SG 421
+  price: 2810.0
   futog: 1
-- sifra: 2236
-  naziv: SQUIRRELS GO NUTS! - SG 425
-  mpcena: 2810.0
+2236:
+  title: SQUIRRELS GO NUTS! - SG 425
+  price: 2810.0
   futog: 1
-- sifra: 2237
-  naziv: GOOAL! - SGT 320
-  mpcena: 1840.0
+2237:
+  title: GOOAL! - SGT 320
+  price: 1840.0
   futog: 1
-- sifra: 2239
-  naziv: PUZZLE BEACH - SGT 300
-  mpcena: 1840.0
+2239:
+  title: PUZZLE BEACH - SGT 300
+  price: 1840.0
   futog: 1
-- sifra: 2240
-  naziv: IQ BUBBLES - SG 493
-  mpcena: 1945.0
+2240:
+  title: IQ BUBBLES - SG 493
+  price: 1945.0
   futog: 1
-- sifra: 2241
-  naziv: IQ DELUXE - CIRCLE - SG 311
-  mpcena: 3565.0
+2241:
+  title: IQ DELUXE - CIRCLE - SG 311
+  price: 3565.0
   futog: 1
-- sifra: 2242
-  naziv: IQ DELUXE - HEXAGON - SG 314
-  mpcena: 5999.0
+2242:
+  title: IQ DELUXE - HEXAGON - SG 314
+  price: 5999.0
   srbobran: 0
   futog: 1
-- sifra: 2243
-  naziv: MAX PREMIUM - RETRO - 15 IN DISPLAY
-  mpcena: 140.0
+2243:
+  title: MAX PREMIUM - RETRO - 15 IN DISPLAY
+  price: 140.0
   srbobran: 0
   futog: 1
-- sifra: 2244
-  naziv: MAX PREMIUM - FLOWERS - 15  IN DISPLAY
-  mpcena: 2145.0
+2244:
+  title: MAX PREMIUM - FLOWERS - 15  IN DISPLAY
+  price: 2145.0
   futog: 1
-- sifra: 2245
-  naziv: 'AKRILLNI MARKER '
-  mpcena: 170.0
+2245:
+  title: 'AKRILLNI MARKER '
+  price: 170.0
   futog: 1
-- sifra: 2262
-  naziv: BOJE ZA LICE
-- sifra: 2274
-  naziv: TABLA PISI-BRISI
-  mpcena: 690.0
+2262:
+  title: BOJE ZA LICE
+2274:
+  title: TABLA PISI-BRISI
+  price: 690.0
   srbobran: 1
-- sifra: 2474
-  naziv: PARTY PISTALJKA 1/6
-  mpcena: 140.0
+2474:
+  title: PARTY PISTALJKA 1/6
+  price: 140.0
   srbobran: 3
-- sifra: 2478
-  naziv: STIKERI TEXTIL
-- sifra: 2504
-  naziv: KUVAR SA DASKOM
-  mpcena: 555.0
+2478:
+  title: STIKERI TEXTIL
+2504:
+  title: KUVAR SA DASKOM
+  price: 555.0
   srbobran: 0
-- sifra: 2508
-  naziv: RAM ZA SLIKE
-  mpcena: 205.0
+2508:
+  title: RAM ZA SLIKE
+  price: 205.0
   srbobran: 2
-- sifra: 2509
-  naziv: TANJIRI U BOJI
-  mpcena: 95.0
+2509:
+  title: TANJIRI U BOJI
+  price: 95.0
   srbobran: 1
-- sifra: 2517
-  naziv: YAMB LIMENKA
-  mpcena: 795.0
+2517:
+  title: YAMB LIMENKA
+  price: 795.0
   srbobran: 1
   futog: 2
-- sifra: 2527
-  naziv: VILJUSKE/KASIKE PVC
-  mpcena: 150.0
+2527:
+  title: VILJUSKE/KASIKE PVC
+  price: 150.0
   srbobran: 5
-- sifra: 2655
-  naziv: UP STRIKE
-  mpcena: 857.0
+2655:
+  title: UP STRIKE
+  price: 857.0
   srbobran: 1
-- sifra: 2734
-  naziv: RETRO KUVAR SA DASKOM
-  mpcena: 450.0
+2734:
+  title: RETRO KUVAR SA DASKOM
+  price: 450.0
   srbobran: 0
   futog: 2
-- sifra: 2747
-  naziv: 'DEČIJE MUKE '
-  mpcena: 999.0
-  srbobran: 3
-  futog: 3
-- sifra: 2758
-  naziv: ČOVEČE NE LJUTI SE
-  mpcena: 420.0
-  srbobran: 1
-- sifra: 2787
-  naziv: ŠAH DRVENI MANJI
-  mpcena: 3700.0
-  srbobran: 1
-  futog: 1
-- sifra: 2788
-  naziv: PUZZLE 1/500
-  mpcena: 1020.0
-  futog: 1
-- sifra: 2789
-  naziv: SLAGALICA
-  mpcena: 1060.0
-  futog: 0
-- sifra: 2793
-  naziv: IGRA IZGRADI ZID
-  mpcena: 1060.0
-  srbobran: 1
-  futog: 0
-- sifra: 2794
-  naziv: POGODI ŠTA JE NA SLICI ?
-  mpcena: 1330.0
-  futog: 1
-- sifra: 2795
-  naziv: NOVČANIK MUŠKI
-  mpcena: 1940.0
-  futog: 2
-- sifra: 2796
-  naziv: NOVČANIK MUŠKI 3533
-  mpcena: 2020.0
-  futog: 2
-- sifra: 2798
-  naziv: PUZZLE 26 STORY THE FARM
-  mpcena: 1650.0
-  futog: 1
-- sifra: 2799
-  naziv: 'PUZZLE 4U1 '
-  mpcena: 1510.0
+2747:
+  title: 'DEČIJE MUKE '
+  price: 999.0
   srbobran: 3
   futog: 3
-- sifra: 2800
-  naziv: 'PUZZLE 3D '
-  mpcena: 2260.0
+2758:
+  title: ČOVEČE NE LJUTI SE
+  price: 420.0
+  srbobran: 1
+2787:
+  title: ŠAH DRVENI MANJI
+  price: 3700.0
   srbobran: 1
   futog: 1
-- sifra: 2802
-  naziv: PUZZLE 300
-  mpcena: 1500.0
+2788:
+  title: PUZZLE 1/500
+  price: 1020.0
   futog: 1
-- sifra: 2803
-  naziv: PUZZLE 1/1000
-  mpcena: 1600.0
-  srbobran: 1
-  futog: 2
-- sifra: 2804
-  naziv: PUZZLE 1/1500
-  mpcena: 2070.0
-  srbobran: 1
-  futog: 1
-- sifra: 2805
-  naziv: PUZZLE BABY DINOSAURIOS
-  mpcena: 1310.0
+2789:
+  title: SLAGALICA
+  price: 1060.0
+  futog: 0
+2793:
+  title: IGRA IZGRADI ZID
+  price: 1060.0
   srbobran: 1
   futog: 0
-- sifra: 2806
-  naziv: PUZZLE 1/500
-  mpcena: 1260.0
+2794:
+  title: POGODI ŠTA JE NA SLICI ?
+  price: 1330.0
   futog: 1
-- sifra: 2903
-  naziv: FLASICA ZA VODU ALUMINIJUM
-  mpcena: 625.0
+2795:
+  title: NOVČANIK MUŠKI
+  price: 1940.0
+  futog: 2
+2796:
+  title: NOVČANIK MUŠKI 3533
+  price: 2020.0
+  futog: 2
+2798:
+  title: PUZZLE 26 STORY THE FARM
+  price: 1650.0
+  futog: 1
+2799:
+  title: 'PUZZLE 4U1 '
+  price: 1510.0
+  srbobran: 3
+  futog: 3
+2800:
+  title: 'PUZZLE 3D '
+  price: 2260.0
+  srbobran: 1
+  futog: 1
+2802:
+  title: PUZZLE 300
+  price: 1500.0
+  futog: 1
+2803:
+  title: PUZZLE 1/1000
+  price: 1600.0
+  srbobran: 1
+  futog: 2
+2804:
+  title: PUZZLE 1/1500
+  price: 2070.0
+  srbobran: 1
+  futog: 1
+2805:
+  title: PUZZLE BABY DINOSAURIOS
+  price: 1310.0
+  srbobran: 1
+  futog: 0
+2806:
+  title: PUZZLE 1/500
+  price: 1260.0
+  futog: 1
+2903:
+  title: FLASICA ZA VODU ALUMINIJUM
+  price: 625.0
   srbobran: 2
   futog: 1
-- sifra: 2964
-  naziv: PARTY TANJIRICI DIZNI
-  mpcena: 125.0
+2964:
+  title: PARTY TANJIRICI DIZNI
+  price: 125.0
   srbobran: 5
-- sifra: 2985
-  naziv: TACNA KARTON FI/21CM
-  mpcena: 160.0
+2985:
+  title: TACNA KARTON FI/21CM
+  price: 160.0
   srbobran: 2
-- sifra: 2993
-  naziv: VADICEP MODERATO
-  mpcena: 220.0
+2993:
+  title: VADICEP MODERATO
+  price: 220.0
   srbobran: 5
-- sifra: 3004
-  naziv: CESTITKA
-  mpcena: 115.0
+3004:
+  title: CESTITKA
+  price: 115.0
   srbobran: 0
   futog: 2
-- sifra: 3016
-  naziv: KUTIJA ZA HO+TO CENTRY
-  mpcena: 130.0
+3016:
+  title: KUTIJA ZA HO+TO CENTRY
+  price: 130.0
   srbobran: 6
-- sifra: 3053
-  naziv: CESTITKE
-  mpcena: 280.0
+3053:
+  title: CESTITKE
+  price: 280.0
   srbobran: 20
   futog: 5
-- sifra: 3147
-  naziv: SET ZA UZINU
-  mpcena: 955.0
+3147:
+  title: SET ZA UZINU
+  price: 955.0
   srbobran: 4
   futog: 3
-- sifra: 3215
-  naziv: RADOSNICA
-- sifra: 3218
-  naziv: MASNA NA POTEZ
-  mpcena: 110.0
+3215:
+  title: RADOSNICA
+3218:
+  title: MASNA NA POTEZ
+  price: 110.0
   srbobran: 6
-- sifra: 3251
-  naziv: MANIKIR SET DOLL
-  mpcena: 515.0
+3251:
+  title: MANIKIR SET DOLL
+  price: 515.0
   srbobran: 5
   futog: 2
-- sifra: 3257
-  naziv: OGLEDALCE PARIS
-  mpcena: 315.0
+3257:
+  title: OGLEDALCE PARIS
+  price: 315.0
   srbobran: 2
-- sifra: 3263
-  naziv: GLOBUS SVETLECI
-  mpcena: 5200.0
+3263:
+  title: GLOBUS SVETLECI
+  price: 5200.0
   srbobran: 0
   futog: 1
-- sifra: 3270
-  naziv: MAGNET
-  mpcena: 120.0
+3270:
+  title: MAGNET
+  price: 120.0
   srbobran: 22
-- sifra: 3468
-  naziv: TABLICA 22/15,5
-- sifra: 3469
-  naziv: TABLICA 12/17
-  mpcena: 150.0
+3468:
+  title: TABLICA 22/15,5
+3469:
+  title: TABLICA 12/17
+  price: 150.0
   srbobran: 2
-- sifra: 3470
-  naziv: ZAKACKA ZA VRATA
-  mpcena: 100.0
+3470:
+  title: ZAKACKA ZA VRATA
+  price: 100.0
   srbobran: 0
-- sifra: 3481
-  naziv: PODLOGA ZA BUSAC
-  mpcena: 55.0
+3481:
+  title: PODLOGA ZA BUSAC
+  price: 55.0
   srbobran: 90
   futog: 46
-- sifra: 3511
-  naziv: TACNA GOLD 30*30
-  mpcena: 160.0
+3511:
+  title: TACNA GOLD 30*30
+  price: 160.0
   srbobran: 1
-- sifra: 3513
-  naziv: TACNA GOLD 30*32
-- sifra: 3615
-  naziv: MARKER 8660/8 BABY
-  mpcena: 430.0
+3513:
+  title: TACNA GOLD 30*32
+3615:
+  title: MARKER 8660/8 BABY
+  price: 430.0
   srbobran: 2
   futog: 1
-- sifra: 3708
-  naziv: LOPTICA SKOCICA
-  mpcena: 80.0
+3708:
+  title: LOPTICA SKOCICA
+  price: 80.0
   srbobran: 24
   futog: 25
-- sifra: 3722
-  naziv: CESTITKA BC/R
-  mpcena: 160.0
+3722:
+  title: CESTITKA BC/R
+  price: 160.0
   srbobran: 5
   futog: 6
-- sifra: 3723
-  naziv: CESTITKA BC/P
-  mpcena: 190.0
+3723:
+  title: CESTITKA BC/P
+  price: 190.0
   srbobran: 7
   futog: 3
-- sifra: 3724
-  naziv: BOJANKA B/5
-  mpcena: 210.0
+3724:
+  title: BOJANKA B/5
+  price: 210.0
   srbobran: 4
   futog: 3
-- sifra: 3738
-  naziv: KUTIJA SA TACNOM 6602
-  mpcena: 195.0
+3738:
+  title: KUTIJA SA TACNOM 6602
+  price: 195.0
   srbobran: 0
-- sifra: 3745
-  naziv: FOTO RAM SNESKO
-  mpcena: 210.0
+3745:
+  title: FOTO RAM SNESKO
+  price: 210.0
   srbobran: 0
-- sifra: 3750
-  naziv: BOJANKA B/5
-- sifra: 3763
-  naziv: DRVENA KLIPSA+REZAC
-- sifra: 3768
-  naziv: KARTE PIATNIK MAĐARICE
-  mpcena: 310.0
+3750:
+  title: BOJANKA B/5
+3763:
+  title: DRVENA KLIPSA+REZAC
+3768:
+  title: KARTE PIATNIK MAĐARICE
+  price: 310.0
   srbobran: 1
   futog: 1
-- sifra: 3771
-  naziv: NOVOGODISNJA SVECA
-  mpcena: 495.0
+3771:
+  title: NOVOGODISNJA SVECA
+  price: 495.0
   srbobran: 0
-- sifra: 3783
-  naziv: KRAFT REBRASTI KARTON
-  mpcena: 85.0
+3783:
+  title: KRAFT REBRASTI KARTON
+  price: 85.0
   srbobran: 0
-- sifra: 3814
-  naziv: SVECICA BROJ
-  mpcena: 50.0
+3814:
+  title: SVECICA BROJ
+  price: 50.0
   srbobran: 45
-- sifra: 3826
-  naziv: 'L - '
-  mpcena: 249.0
+3826:
+  title: 'L - '
+  price: 249.0
   srbobran: 0
-- sifra: 3848
-  naziv: PRIVEZAK ZA KLJUCEVE
-  mpcena: 350.0
+3848:
+  title: PRIVEZAK ZA KLJUCEVE
+  price: 350.0
   srbobran: 0
   futog: 7
-- sifra: 3954
-  naziv: BOJANKA A/4 SAVPO
-- sifra: 3979
-  naziv: EDUKATIVNE KARTE
-  mpcena: 490.0
+3954:
+  title: BOJANKA A/4 SAVPO
+3979:
+  title: EDUKATIVNE KARTE
+  price: 490.0
   srbobran: 0
   futog: 2
-- sifra: 4073
-  naziv: DECIJI KISOBRAN
-  mpcena: 650.0
+4073:
+  title: DECIJI KISOBRAN
+  price: 650.0
   srbobran: 1
   futog: 2
-- sifra: 4074
-  naziv: RUBIKOVA KOCKA
-  mpcena: 315.0
+4074:
+  title: RUBIKOVA KOCKA
+  price: 315.0
   srbobran: 1
-- sifra: 4109
-  naziv: BOJA GLITTER MAGIC
-  mpcena: 240.0
+4109:
+  title: BOJA GLITTER MAGIC
+  price: 240.0
   srbobran: 1
-- sifra: 4115
-  naziv: SALVETA 1/1
-  mpcena: 20.0
+4115:
+  title: SALVETA 1/1
+  price: 20.0
   srbobran: 0
-- sifra: 4120
-  naziv: NALEPNICE ZA JAJA
-  mpcena: 42.0
+4120:
+  title: NALEPNICE ZA JAJA
+  price: 42.0
   srbobran: 3
-- sifra: 4121
-  naziv: NALEPNICE ZA JAJA
-  mpcena: 35.0
+4121:
+  title: NALEPNICE ZA JAJA
+  price: 35.0
   srbobran: 2
-- sifra: 4122
-  naziv: POKER
-  mpcena: 910.0
+4122:
+  title: POKER
+  price: 910.0
   srbobran: 1
-- sifra: 4139
-  naziv: PODLOGA ZA BUSAC
-  mpcena: 25.0
+4139:
+  title: PODLOGA ZA BUSAC
+  price: 25.0
   srbobran: 3
-- sifra: 4156
-  naziv: 'CESTITKA '
-  mpcena: 140.0
+4156:
+  title: 'CESTITKA '
+  price: 140.0
   srbobran: 7
   futog: 6
-- sifra: 4265
-  naziv: SELOTEJP UKRASNI
-- sifra: 4267
-  naziv: PUZZLE 1/3000
-  mpcena: 2950.0
+4265:
+  title: SELOTEJP UKRASNI
+4267:
+  title: PUZZLE 1/3000
+  price: 2950.0
   srbobran: 0
   futog: 1
-- sifra: 4272
-  naziv: PAPIRNI STOLNJAK 7M
-  mpcena: 940.0
+4272:
+  title: PAPIRNI STOLNJAK 7M
+  price: 940.0
   srbobran: 2
   futog: 1
-- sifra: 4514
-  naziv: PREVOZ POŠILJKE
-- sifra: 4515
-  naziv: AVANS
-  mpcena: 100.0
+4514:
+  title: PREVOZ POŠILJKE
+4515:
+  title: AVANS
+  price: 100.0
   srbobran: 0
   futog: 0
-- sifra: 4516
-  naziv: KANCELARIJSKI MATERIJAL
+4516:
+  title: KANCELARIJSKI MATERIJAL
