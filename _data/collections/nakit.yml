@@ -1,0 +1,118 @@
+---
+- sifra: 1
+  naziv: KOPIJA A/4 1/1
+  mpcena: 15.0
+  srbobran: -129
+  futog: -721
+- sifra: 2
+  naziv: KOPIJA A/4 1/2
+  mpcena: 20.0
+  srbobran: -949
+  futog: -114
+- sifra: 3
+  naziv: KOPIJA A/3 1/1
+  mpcena: 20.0
+  srbobran: -3
+  futog: -1
+- sifra: 4
+  naziv: OČITAVANJE
+  mpcena: 30.0
+  srbobran: -23
+  futog: -17
+- sifra: 5
+  naziv: IZDAVANJE STALKA
+  mpcena: 500.0
+  srbobran: 0
+  futog: -4
+- sifra: 6
+  naziv: KORICENJE
+  mpcena: 100.0
+  srbobran: 0
+  futog: 0
+- sifra: 7
+  naziv: SKENIRANJE
+  mpcena: 50.0
+  srbobran: -9
+  futog: -74
+- sifra: 8
+  naziv: DUVANJE BALONA
+  mpcena: 300.0
+  srbobran: -97
+  futog: -37
+- sifra: 214
+  naziv: MINDJUSE 723853
+  mpcena: 795.0
+  srbobran: 1
+- sifra: 216
+  naziv: OGRLICA 43112212
+  mpcena: 2250.0
+  srbobran: 2
+- sifra: 218
+  naziv: MINDJUSE 731907
+  mpcena: 750.0
+  srbobran: 1
+- sifra: 219
+  naziv: OGRLICA 11300181
+  mpcena: 3915.0
+  srbobran: 1
+- sifra: 226
+  naziv: MINDJUSE 793853
+  mpcena: 875.0
+  srbobran: 0
+  futog: 3
+- sifra: 229
+  naziv: OGRLICA 43484108
+  mpcena: 2860.0
+  srbobran: 0
+- sifra: 231
+  naziv: MINDJUSE 713815
+  mpcena: 1860.0
+  srbobran: 0
+  futog: 1
+- sifra: 232
+  naziv: KANTA ŽIČANA CRNA
+  mpcena: 1715.0
+  srbobran: 0
+  futog: 0
+- sifra: 234
+  naziv: MINDJUSE 713865
+  mpcena: 1810.0
+  srbobran: 1
+- sifra: 238
+  naziv: MINDJUSE 14285408
+  mpcena: 1570.0
+  srbobran: 1
+- sifra: 247
+  naziv: MINDJUSE 61410053
+  mpcena: 3075.0
+  srbobran: 1
+- sifra: 249
+  naziv: MINDJUSE 61410056
+  mpcena: 3790.0
+  srbobran: 0
+  futog: 1
+- sifra: 3034
+  naziv: MINDJUSE 713907
+  mpcena: 699.0
+  srbobran: 1
+- sifra: 3040
+  naziv: MINDJUSE 61400923
+  mpcena: 1650.0
+  srbobran: 0
+  futog: 1
+- sifra: 3217
+  naziv: MINDJUSE 793853
+  mpcena: 830.0
+  srbobran: 1
+- sifra: 3223
+  naziv: OGRLICA 43112212
+  mpcena: 2085.0
+  srbobran: 2
+- sifra: 3234
+  naziv: OGRLICA PFC
+  mpcena: 1975.0
+  srbobran: 1
+- sifra: 3236
+  naziv: OGRLICA 61300924
+  mpcena: 2999.0
+  srbobran: 1
