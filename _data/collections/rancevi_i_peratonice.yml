@@ -1,0 +1,259 @@
+---
+- sifra: 149
+  naziv: RANAC PULSE MODENA/FIRENZE
+  mpcena: 2750.0
+  srbobran: 0
+  futog: 1
+- sifra: 163
+  naziv: RANAC PULSE JEANS
+  mpcena: 3350.0
+  srbobran: 1
+- sifra: 200
+  naziv: PERNICA SC JEDNODELNA
+  mpcena: 895.0
+  srbobran: 1
+  futog: 2
+- sifra: 202
+  naziv: PERNICA SC
+  mpcena: 955.0
+  srbobran: 0
+- sifra: 204
+  naziv: PERNICA JEDNODELNA
+  mpcena: 875.0
+  srbobran: 8
+  futog: 5
+- sifra: 208
+  naziv: PERNICA SC 1/3
+- sifra: 209
+  naziv: PERNICA 3D 1/3
+  mpcena: 1135.0
+  srbobran: 0
+- sifra: 211
+  naziv: RANAC SC
+  mpcena: 3650.0
+  srbobran: 0
+  futog: 1
+- sifra: 212
+  naziv: RANAC PULSE BICOLOR
+  mpcena: 4850.0
+  srbobran: 0
+  futog: 0
+- sifra: 221
+  naziv: RANAC SC
+  mpcena: 3210.0
+  srbobran: 2
+  futog: 1
+- sifra: 222
+  naziv: RANAC ANATOMSKI SC
+  mpcena: 3600.0
+  srbobran: 1
+- sifra: 362
+  naziv: PERNICA AJFEL
+  mpcena: 250.0
+  srbobran: 0
+- sifra: 488
+  naziv: PERNICA 1/3 PRAZNA
+- sifra: 551
+  naziv: PERNICA OKRUGLA
+  mpcena: 650.0
+  srbobran: 0
+  futog: 1
+- sifra: 871
+  naziv: PERNICA
+  mpcena: 640.0
+  srbobran: 0
+- sifra: 874
+  naziv: PERNICA TTS PUNA
+  mpcena: 855.0
+  srbobran: 0
+- sifra: 902
+  naziv: RANAC PULSE BABY
+  mpcena: 2685.0
+  srbobran: 1
+- sifra: 913
+  naziv: RANAC ANATOMSKI SC
+  mpcena: 3590.0
+  srbobran: 2
+  futog: 1
+- sifra: 915
+  naziv: RANAC BODY SC
+  mpcena: 985.0
+  srbobran: 0
+  futog: 2
+- sifra: 927
+  naziv: PERNICA SA USIMA
+  mpcena: 845.0
+  srbobran: 0
+  futog: 1
+- sifra: 1020
+  naziv: RANAC/TASNA DAMSKA
+  mpcena: 4015.0
+  srbobran: 0
+  futog: 1
+- sifra: 1056
+  naziv: RANAC SC CLASSIC
+  mpcena: 1150.0
+  srbobran: 1
+  futog: 0
+- sifra: 1135
+  naziv: RANAC SC
+  mpcena: 3070.0
+  srbobran: 1
+- sifra: 1241
+  naziv: RANAC ANATOMSKI SC
+  mpcena: 3495.0
+  srbobran: 0
+- sifra: 1254
+  naziv: PERNICA DVA FLIPA
+  mpcena: 570.0
+  srbobran: 0
+- sifra: 1346
+  naziv: PERNICA TG
+  mpcena: 670.0
+  srbobran: 1
+- sifra: 1533
+  naziv: TORBA DAMSKA
+  mpcena: 2350.0
+  srbobran: 0
+  futog: 2
+- sifra: 1864
+  naziv: VU - DZERONIMO STILTON
+  mpcena: 999.0
+  srbobran: 15
+- sifra: 1914
+  naziv: RANAC PULSE SCATE
+  mpcena: 6390.0
+  srbobran: 1
+- sifra: 1917
+  naziv: RANAC SC
+  mpcena: 2920.0
+  srbobran: 0
+- sifra: 1918
+  naziv: RANAC 338-82
+  mpcena: 6590.0
+  srbobran: 1
+- sifra: 1919
+  naziv: RANAC PULSE 2U1
+  mpcena: 6990.0
+  srbobran: 0
+- sifra: 1948
+  naziv: RANAC ANATOMSKI
+  mpcena: 3515.0
+  srbobran: 3
+  futog: 2
+- sifra: 2046
+  naziv: RANAC SC
+  mpcena: 4890.0
+  srbobran: 0
+  futog: 1
+- sifra: 2060
+  naziv: RANAC PULSE SOLO
+  mpcena: 3490.0
+  srbobran: 1
+  futog: 1
+- sifra: 2062
+  naziv: RANAC SC
+  mpcena: 2265.0
+  srbobran: 1
+- sifra: 2064
+  naziv: RANAC VRTIC
+- sifra: 2074
+  naziv: PERNICA 3 ZIPA PUNA
+- sifra: 2079
+  naziv: PERNICA 1/1 PUNA
+  mpcena: 775.0
+  srbobran: 3
+  futog: 1
+- sifra: 2096
+  naziv: TORBA TOY/JOY
+- sifra: 2163
+  naziv: TORBA LAPTOP SIVA
+  mpcena: 2725.0
+  srbobran: 1
+  futog: 1
+- sifra: 2165
+  naziv: TORBA LAPTOP CRVENA
+  mpcena: 2655.0
+  srbobran: 1
+  futog: 1
+- sifra: 2350
+  naziv: L - FOLIRANTI - MOMO KAPOR
+  mpcena: 1099.03
+  futog: 2
+- sifra: 2882
+  naziv: RANAC VRTIC
+  mpcena: 1950.0
+  srbobran: 1
+- sifra: 2893
+  naziv: SPORT TORBA TARGET
+  mpcena: 5805.0
+  srbobran: 0
+  futog: 1
+- sifra: 2896
+  naziv: PERNICA EVA 3D
+  mpcena: 605.0
+  srbobran: 7
+  futog: 5
+- sifra: 2899
+  naziv: RANAC 3D SC
+  mpcena: 1990.0
+  srbobran: 3
+  futog: 2
+- sifra: 2901
+  naziv: RANAC ZA VRTIC
+  mpcena: 1650.0
+  srbobran: 2
+- sifra: 2911
+  naziv: TORBA ZA PATIKE
+  mpcena: 695.0
+  srbobran: 2
+  futog: 0
+- sifra: 3150
+  naziv: PERNICA PLIS
+  mpcena: 710.0
+  srbobran: 1
+- sifra: 3308
+  naziv: PERNICA SLJOKICE
+  mpcena: 685.0
+  srbobran: 2
+- sifra: 3312
+  naziv: PERNICA
+  mpcena: 499.0
+  srbobran: 1
+- sifra: 3314
+  naziv: PERNICA SC
+  mpcena: 650.0
+  srbobran: 1
+- sifra: 3732
+  naziv: PERNICA URBAN 2 ZIPA
+  mpcena: 575.0
+  srbobran: 0
+- sifra: 3736
+  naziv: RANAC SUPER
+  mpcena: 3135.0
+  srbobran: 2
+  futog: 1
+- sifra: 3852
+  naziv: TORBA SC
+  mpcena: 1290.0
+  srbobran: 1
+- sifra: 3855
+  naziv: RANAC VRTIC
+  mpcena: 2025.0
+  srbobran: 0
+- sifra: 3973
+  naziv: PERNICA URBAN 2 ZIPA
+  mpcena: 625.0
+  srbobran: 0
+- sifra: 3975
+  naziv: PERNICA URBAN 1 ZIP
+  mpcena: 735.0
+  srbobran: 1
+  futog: 1
+- sifra: 4095
+  naziv: PERNICA BOMBONE
+  mpcena: 780.0
+  srbobran: 0
+  futog: 1
+- sifra: 4238
+  naziv: RANAC VRTIC

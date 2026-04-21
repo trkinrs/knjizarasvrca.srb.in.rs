@@ -1,0 +1,1193 @@
+---
+- sifra: 14
+  naziv: PODMETAČ A/4
+  mpcena: 30.0
+  srbobran: 25
+  futog: 10
+- sifra: 15
+  naziv: SIGNIR PELIKAN
+  mpcena: 150.0
+  srbobran: 15
+  futog: 28
+- sifra: 16
+  naziv: DRVENA BOJA 1/12 CC
+  mpcena: 280.0
+  srbobran: 7
+  futog: 10
+- sifra: 24
+  naziv: UVIJAC A/4 SAMOLEPLJIV
+  mpcena: 40.0
+  srbobran: 111
+  futog: 25
+- sifra: 26
+  naziv: NOTNA SVESKA A/4
+  mpcena: 150.0
+  srbobran: 10
+  futog: 10
+- sifra: 29
+  naziv: BLOK IV
+  mpcena: 90.0
+  srbobran: 13
+  futog: 10
+- sifra: 30
+  naziv: BLOK V
+  mpcena: 150.0
+  srbobran: 32
+  futog: 16
+- sifra: 32
+  naziv: KOLAŽ B/5 SL
+  mpcena: 130.0
+  srbobran: 13
+  futog: 26
+- sifra: 42
+  naziv: TO 0,5 PILOT
+  mpcena: 240.0
+  srbobran: 9
+  futog: 10
+- sifra: 43
+  naziv: OHO LEPAK 40G
+  mpcena: 220.0
+  srbobran: 8
+  futog: 8
+- sifra: 46
+  naziv: TOUGAO PVC
+  mpcena: 49.0
+  srbobran: 4
+  futog: 3
+- sifra: 50
+  naziv: LENJIR 15/17CM
+  mpcena: 30.0
+  srbobran: 3
+- sifra: 51
+  naziv: LENJIR 30CM
+  mpcena: 50.0
+  srbobran: 6
+  futog: 5
+- sifra: 52
+  naziv: LENJIR 50CM
+  mpcena: 1610.0
+  srbobran: 1
+  futog: 0
+- sifra: 53
+  naziv: LENJIR 40CM
+  mpcena: 170.0
+  srbobran: 1
+  futog: 2
+- sifra: 55
+  naziv: UGALJ ZA CRTANJE 1/1
+  mpcena: 90.0
+  srbobran: 6
+  futog: 6
+- sifra: 56
+  naziv: OP*C VENTIL PRECISION PLUS
+  mpcena: 22.0
+  srbobran: 0
+  futog: 0
+- sifra: 57
+  naziv: UVIJAC A/5
+  mpcena: 20.0
+  srbobran: 397
+  futog: 100
+- sifra: 58
+  naziv: UVIJAČ A/4
+  mpcena: 50.0
+  srbobran: 40
+  futog: 45
+- sifra: 59
+  naziv: TABLA PLUTA
+  mpcena: 25.0
+  srbobran: 0
+- sifra: 62
+  naziv: KESA ZA BLOK IV
+  mpcena: 45.0
+  srbobran: 35
+- sifra: 63
+  naziv: KESA ZA BLOK V
+  mpcena: 75.0
+  srbobran: 42
+  futog: 50
+- sifra: 65
+  naziv: TEMPERA 1/12 6ML
+  mpcena: 260.0
+  srbobran: 10
+  futog: 6
+- sifra: 66
+  naziv: TEMPERA 1/1 16ML
+  mpcena: 99.0
+  srbobran: 8
+- sifra: 67
+  naziv: TEMPERA 1/1 45ML
+  mpcena: 140.0
+  srbobran: 15
+- sifra: 68
+  naziv: TEMPERA 1/1 16ML
+  mpcena: 50.0
+  srbobran: 30
+- sifra: 70
+  naziv: TEMPERA 1/1 16ML
+  mpcena: 85.0
+  srbobran: 21
+- sifra: 71
+  naziv: SVESKA A/4 TP 500L
+  mpcena: 1825.0
+  srbobran: 0
+- sifra: 72
+  naziv: DRVENA BOJA 1/14
+  mpcena: 195.0
+  srbobran: 17
+  futog: 10
+- sifra: 73
+  naziv: TEMPERA 1/10 16ML
+  mpcena: 455.0
+  srbobran: 24
+  futog: 9
+- sifra: 76
+  naziv: DRVENA BOJA PASTEL 1/12
+  mpcena: 180.0
+  srbobran: 7
+  futog: 15
+- sifra: 77
+  naziv: VEZBANKA
+  mpcena: 40.0
+  srbobran: 50
+  futog: 49
+- sifra: 84
+  naziv: DRVENA BOJA 1/12 STAEDTLER
+  mpcena: 465.0
+  srbobran: 2
+  futog: 1
+- sifra: 85
+  naziv: SESTAR BLUE/PINK
+  mpcena: 310.0
+  srbobran: 9
+  futog: 7
+- sifra: 87
+  naziv: GUMICA JUMBO
+  mpcena: 80.0
+  srbobran: 2
+- sifra: 89
+  naziv: DAS MASA 500G
+  mpcena: 420.0
+  srbobran: 0
+- sifra: 91
+  naziv: MINE 0,7 HB MEGAPOLIS
+  mpcena: 80.0
+  srbobran: 20
+- sifra: 92
+  naziv: TO MEGAPOLIS 0,5
+  mpcena: 95.0
+  srbobran: 4
+  futog: 6
+- sifra: 93
+  naziv: FLOMASTERI GIOTTO 1/12
+  mpcena: 360.0
+  srbobran: 3
+  futog: 4
+- sifra: 94
+  naziv: DRVENA BOJA 1/12 MAPED
+  mpcena: 430.0
+  srbobran: 1
+  futog: 0
+- sifra: 95
+  naziv: DRVENA BOJA 1/12 SC
+  mpcena: 220.0
+  srbobran: 13
+  futog: 7
+- sifra: 96
+  naziv: TUS CRNI KOHINOOR
+  mpcena: 125.0
+  srbobran: 2
+  futog: 3
+- sifra: 97
+  naziv: PATRONA 1/1
+  mpcena: 10.0
+  srbobran: 35
+- sifra: 98
+  naziv: OL STAEDTLER NORIS
+  mpcena: 99.0
+  srbobran: 1
+- sifra: 99
+  naziv: OL HB STABILO NEON
+  mpcena: 50.0
+  srbobran: 1
+- sifra: 103
+  naziv: OL HB SC
+  mpcena: 30.0
+  srbobran: 33
+- sifra: 104
+  naziv: TO 0,5 EK
+  mpcena: 70.0
+  srbobran: 10
+  futog: 6
+- sifra: 107
+  naziv: OL B-H KOHINOOR
+  mpcena: 60.0
+  srbobran: 9
+  futog: 12
+- sifra: 109
+  naziv: OL CRVENA/PLAVA KOHINOOR
+  mpcena: 65.0
+  srbobran: 27
+- sifra: 111
+  naziv: OL AERO
+  mpcena: 40.0
+  srbobran: 13
+  futog: 6
+- sifra: 112
+  naziv: SET CETKICA 1/6
+  mpcena: 360.0
+  srbobran: 1
+  futog: 0
+- sifra: 115
+  naziv: OL HB ART
+  mpcena: 40.0
+  srbobran: 81
+  futog: 53
+- sifra: 121
+  naziv: MINE 0,5 STAEDTLER
+  mpcena: 135.0
+  srbobran: 16
+- sifra: 123
+  naziv: MINE 0,5 HB STABILO DUPLE
+  mpcena: 120.0
+  srbobran: 2
+- sifra: 124
+  naziv: MINE 0,7 HB STABILO
+  mpcena: 140.0
+  srbobran: 1
+- sifra: 125
+  naziv: MINE 0,5 HB KOHINOOR
+  mpcena: 55.0
+  srbobran: 13
+- sifra: 127
+  naziv: MINE 0,5 HB/B/2B SC
+  mpcena: 30.0
+  srbobran: 6
+  futog: 25
+- sifra: 130
+  naziv: PRVARICA
+  mpcena: 190.0
+  srbobran: 2
+  futog: 2
+- sifra: 132
+  naziv: GUMICA SOFTY
+  mpcena: 95.0
+  srbobran: 17
+  futog: 11
+- sifra: 133
+  naziv: GUMICA SC-319
+  mpcena: 90.0
+  srbobran: 1
+- sifra: 134
+  naziv: GUMICA OF
+  mpcena: 60.0
+  srbobran: 0
+  futog: 0
+- sifra: 135
+  naziv: GUMICA STABILO
+  mpcena: 40.0
+  srbobran: 19
+- sifra: 137
+  naziv: SEGMENTNA OLOVKA
+  mpcena: 40.0
+  srbobran: 7
+- sifra: 138
+  naziv: GUMICA SOFTY MINI
+  mpcena: 45.0
+  srbobran: 21
+  futog: 18
+- sifra: 139
+  naziv: MINE 2MM
+  mpcena: 80.0
+  srbobran: 7
+  futog: 3
+- sifra: 141
+  naziv: REZAČ PVC
+  mpcena: 20.0
+  srbobran: 1
+- sifra: 142
+  naziv: REZAČ MAPED MINI BOOGY
+  mpcena: 60.0
+  srbobran: 0
+  futog: 24
+- sifra: 143
+  naziv: TEMPERA 42ML
+  mpcena: 190.0
+  srbobran: 31
+  futog: 6
+- sifra: 145
+  naziv: SESTAR SC
+  mpcena: 120.0
+  srbobran: 3
+- sifra: 147
+  naziv: REZAČ YL 231687
+  mpcena: 30.0
+  srbobran: 22
+  futog: 22
+- sifra: 148
+  naziv: LEPAK STICK 10G
+  mpcena: 120.0
+  srbobran: 0
+  futog: 53
+- sifra: 157
+  naziv: NP
+  mpcena: 90.0
+  srbobran: 3
+  futog: 4
+- sifra: 162
+  naziv: SESTAR MAPED STOP
+  mpcena: 550.0
+  srbobran: 1
+- sifra: 170
+  naziv: PERO ZA TUS
+  mpcena: 50.0
+  srbobran: 29
+  futog: 10
+- sifra: 174
+  naziv: MILIMETARSKI BLOK A/3
+  mpcena: 275.0
+  srbobran: 8
+  futog: 4
+- sifra: 175
+  naziv: HAMER A/3 BELI
+  mpcena: 40.0
+  srbobran: 2
+  futog: 75
+- sifra: 177
+  naziv: HAMER B/1 BOJA
+  mpcena: 170.0
+  srbobran: 25
+  futog: 32
+- sifra: 178
+  naziv: HAMER B/1 BELI
+  mpcena: 80.0
+  srbobran: 13
+  futog: 23
+- sifra: 179
+  naziv: TO AH 0,5
+  mpcena: 90.0
+  srbobran: 1
+- sifra: 182
+  naziv: CETKICA PL-12
+  mpcena: 90.0
+  srbobran: 14
+- sifra: 184
+  naziv: LEPAK OF STICK 21G
+  mpcena: 90.0
+  srbobran: 4
+  futog: 0
+- sifra: 189
+  naziv: CETKICA PL-4
+  mpcena: 40.0
+  srbobran: 0
+- sifra: 190
+  naziv: CETKICA AK-4
+  mpcena: 35.0
+  srbobran: 7
+- sifra: 191
+  naziv: CESTITKA
+  mpcena: 70.0
+  srbobran: 27
+- sifra: 192
+  naziv: CETKICA PL-16
+  mpcena: 75.0
+  srbobran: 0
+- sifra: 196
+  naziv: SET CETKICA 1/6
+  mpcena: 320.0
+  srbobran: 13
+  futog: 1
+- sifra: 207
+  naziv: TO PENTEL 0,5
+  mpcena: 110.0
+  srbobran: 0
+- sifra: 210
+  naziv: GUMICA B-20
+  mpcena: 140.0
+  srbobran: 0
+  futog: 28
+- sifra: 220
+  naziv: FLASICA ZA VODU AL
+  mpcena: 499.0
+  srbobran: 0
+  futog: 1
+- sifra: 223
+  naziv: MINE 0,5 MEGAPOLIS
+  mpcena: 80.0
+  srbobran: 21
+  futog: 18
+- sifra: 224
+  naziv: MINE 0,5 2B STABILO DUPLE
+  mpcena: 150.0
+  srbobran: 2
+  futog: 1
+- sifra: 228
+  naziv: PLASTELIN 1/10 SPEKTRA
+  mpcena: 130.0
+  srbobran: 13
+  futog: 3
+- sifra: 233
+  naziv: OL HB SC
+  mpcena: 30.0
+  srbobran: 0
+  futog: 21
+- sifra: 261
+  naziv: MINE 0,5 HB CONNECT
+  mpcena: 40.0
+  srbobran: 12
+  futog: 12
+- sifra: 266
+  naziv: REZAČ YL 241606
+  mpcena: 150.0
+  srbobran: 12
+  futog: 11
+- sifra: 273
+  naziv: GUMICA B-30
+  mpcena: 100.0
+  srbobran: 34
+  futog: 42
+- sifra: 277
+  naziv: TUS U BOJI 1/6
+  mpcena: 695.0
+  srbobran: 1
+  futog: 1
+- sifra: 278
+  naziv: REZAC IGLOO 2
+  mpcena: 200.0
+  srbobran: 0
+- sifra: 279
+  naziv: MINE 0,5 HB STABILO
+  mpcena: 120.0
+  srbobran: 18
+  futog: 18
+- sifra: 316
+  naziv: HAMER A/4 ZAGLAVLJE
+  mpcena: 15.0
+  srbobran: 27
+- sifra: 331
+  naziv: TO 0,5 SC
+  mpcena: 45.0
+  srbobran: 8
+  futog: 5
+- sifra: 335
+  naziv: SET CETKICE 1/3
+  mpcena: 150.0
+  srbobran: 1
+  futog: 0
+- sifra: 354
+  naziv: BLOK FLAUTA
+  mpcena: 350.0
+  srbobran: 2
+  futog: 2
+- sifra: 355
+  naziv: NOTATON SREDNJI
+  mpcena: 3360.0
+  srbobran: 1
+  futog: 1
+- sifra: 365
+  naziv: GUMICA STAEDTLER C35
+  mpcena: 40.0
+  srbobran: 5
+- sifra: 367
+  naziv: LEPAK TECNI NORA 50ML
+  mpcena: 75.0
+  srbobran: 6
+  futog: 12
+- sifra: 393
+  naziv: BRISAC MASTILA
+- sifra: 404
+  naziv: GLINA 250G
+  mpcena: 120.0
+  srbobran: 2
+  futog: 4
+- sifra: 408
+  naziv: UDARALJKE ZA METALOFON
+  mpcena: 120.0
+  srbobran: 4
+  futog: 5
+- sifra: 420
+  naziv: PLOCA ZA LINOREZ
+  mpcena: 155.0
+  srbobran: 11
+- sifra: 472
+  naziv: HO POM POM
+  mpcena: 130.0
+  srbobran: 1
+- sifra: 497
+  naziv: STILO ZA PERO
+  mpcena: 80.0
+  srbobran: 32
+  futog: 10
+- sifra: 500
+  naziv: SET LENJIRA 1/4
+  mpcena: 170.0
+  srbobran: 3
+  futog: 3
+- sifra: 511
+  naziv: ISTORIJSKI ATLAS
+  mpcena: 675.0
+  srbobran: 2
+  futog: 2
+- sifra: 521
+  naziv: TEMPERA 1/12 12ML
+  mpcena: 365.0
+  srbobran: 18
+  futog: 10
+- sifra: 527
+  naziv: UVIJAC A/4
+- sifra: 546
+  naziv: HAMER A/3 BOJA
+  mpcena: 25.0
+  srbobran: 36
+- sifra: 561
+  naziv: 'TO BLACK POINTER 0,5 '
+  mpcena: 140.0
+  srbobran: 8
+  futog: 7
+- sifra: 581
+  naziv: LEPAK OF
+  mpcena: 50.0
+  srbobran: 0
+- sifra: 603
+  naziv: SESTAR SC
+  mpcena: 450.0
+  srbobran: 3
+  futog: 4
+- sifra: 619
+  naziv: DRVENA BOJA 1/12 GIOTTO
+  mpcena: 360.0
+  srbobran: 5
+  futog: 3
+- sifra: 622
+  naziv: LEPAK SLJOKICE
+  mpcena: 35.0
+  srbobran: 0
+- sifra: 670
+  naziv: OHO LEPAK 20G
+  mpcena: 160.0
+  srbobran: 17
+  futog: 13
+- sifra: 697
+  naziv: OL HB MAPED
+  mpcena: 40.0
+  srbobran: 29
+  futog: 31
+- sifra: 704
+  naziv: SET CETKICA 1/3
+  mpcena: 95.0
+  srbobran: 6
+  futog: 3
+- sifra: 726
+  naziv: CETKICA PL-6
+- sifra: 745
+  naziv: POSTER
+  mpcena: 99.0
+  srbobran: 20
+  futog: 10
+- sifra: 749
+  naziv: UVIJAC A5 SL
+  mpcena: 20.0
+  srbobran: 21
+- sifra: 798
+  naziv: UGLOMER
+  mpcena: 30.0
+  srbobran: 12
+  futog: 5
+- sifra: 807
+  naziv: OL HB SC
+  mpcena: 30.0
+  srbobran: 26
+- sifra: 826
+  naziv: DRVENA BOJA 1/12 STAEDTLER
+  mpcena: 295.0
+  srbobran: 10
+  futog: 10
+- sifra: 880
+  naziv: REZAC SC
+  mpcena: 75.0
+  srbobran: 0
+- sifra: 889
+  naziv: DNEVNIK PRAKSE
+  mpcena: 220.0
+  srbobran: 7
+  futog: 13
+- sifra: 892
+  naziv: REZAC MAPED METALNI
+  mpcena: 120.0
+  srbobran: 13
+  futog: 18
+- sifra: 893
+  naziv: DRVENA BOJA 1/24 SC
+  mpcena: 465.0
+  srbobran: 1
+  futog: 1
+- sifra: 898
+  naziv: GUMICA B-40
+  mpcena: 70.0
+  srbobran: 40
+  futog: 66
+- sifra: 909
+  naziv: GUMICA SC
+  mpcena: 50.0
+  srbobran: 0
+- sifra: 917
+  naziv: FLOMASTERI OBOSTRANI SC
+  mpcena: 305.0
+  srbobran: 1
+- sifra: 924
+  naziv: FLASICA ZA VODU PVC
+  mpcena: 425.0
+  srbobran: 1
+- sifra: 925
+  naziv: KECELJA ZA LIKOVNO
+  mpcena: 850.0
+  srbobran: 0
+  futog: 3
+- sifra: 946
+  naziv: REZAC METALNI MAPED SATELIT
+- sifra: 949
+  naziv: REZAC IGLOO 1
+  mpcena: 130.0
+  srbobran: 1
+  futog: 15
+- sifra: 955
+  naziv: FLOMASTERI 1/12 SC
+  mpcena: 240.0
+  srbobran: 4
+  futog: 3
+- sifra: 958
+  naziv: CETKICA PL-0/2
+  mpcena: 35.0
+  srbobran: 5
+- sifra: 967
+  naziv: SET CETKICA 1/4
+  mpcena: 210.0
+  srbobran: 0
+- sifra: 968
+  naziv: OL HB NORIS
+  mpcena: 90.0
+  srbobran: 32
+  futog: 76
+- sifra: 988
+  naziv: MATEMATICKI LENJIR
+  mpcena: 70.0
+  srbobran: 18
+  futog: 7
+- sifra: 991
+  naziv: BLOK III
+  mpcena: 80.0
+  srbobran: 23
+  futog: 11
+- sifra: 993
+  naziv: GUMICA PISI-BRISI
+  mpcena: 55.0
+  srbobran: 7
+- sifra: 997
+  naziv: GLINA 500G
+  mpcena: 180.0
+  srbobran: 0
+  futog: 2
+- sifra: 998
+  naziv: PLASTELIN 1/10
+  mpcena: 120.0
+  srbobran: 0
+  futog: 10
+- sifra: 1003
+  naziv: OL HB PEPS GUMICA
+  mpcena: 50.0
+  srbobran: 23
+  futog: 61
+- sifra: 1012
+  naziv: SET LENJIRA FLEX 1/4
+  mpcena: 180.0
+  srbobran: 2
+  futog: 3
+- sifra: 1018
+  naziv: SET DRVENIH BOJICA PAINTER
+  mpcena: 299.0
+  srbobran: 0
+- sifra: 1035
+  naziv: TO 0,5 EK-45023
+  mpcena: 50.0
+  srbobran: 0
+  futog: 11
+- sifra: 1073
+  naziv: LENJIR FLEXY 30CM
+  mpcena: 60.0
+  srbobran: 16
+  futog: 15
+- sifra: 1083
+  naziv: MINE ZA SESTAR 2MM
+  mpcena: 90.0
+  futog: 10
+- sifra: 1088
+  naziv: MINE 0,5 HB MAPED
+  mpcena: 90.0
+  srbobran: 17
+  futog: 18
+- sifra: 1089
+  naziv: KREDA ZA TEKSTIL BELA 1/1
+  mpcena: 30.0
+  srbobran: 8
+  futog: 10
+- sifra: 1091
+  naziv: NALEPNICE ZA SVESKE
+  mpcena: 45.0
+  srbobran: 53
+- sifra: 1095
+  naziv: CETKICA AK-2
+  mpcena: 30.0
+  srbobran: 11
+- sifra: 1162
+  naziv: TROUGAO PVC 45
+  mpcena: 55.0
+  srbobran: 0
+- sifra: 1163
+  naziv: TROUGAO PVC 60
+  mpcena: 55.0
+  srbobran: 4
+- sifra: 1172
+  naziv: HO ROTRING 0,5
+  mpcena: 610.0
+  srbobran: 0
+  futog: 5
+- sifra: 1176
+  naziv: LEPAK TECNI OF
+  mpcena: 80.0
+  srbobran: 24
+  futog: 12
+- sifra: 1187
+  naziv: TEMPERA U STICKU PASTEL 1/10
+  mpcena: 750.0
+  srbobran: 0
+  futog: 6
+- sifra: 1196
+  naziv: GUMICA SC
+  mpcena: 75.0
+  srbobran: 4
+  futog: 7
+- sifra: 1200
+  naziv: SKICEN BLOK
+  mpcena: 70.0
+  srbobran: 8
+  futog: 7
+- sifra: 1205
+  naziv: START RAM
+  mpcena: 510.0
+  srbobran: 0
+  futog: 2
+- sifra: 1206
+  naziv: GUMICA OF
+- sifra: 1242
+  naziv: TO 0,7 MAPED
+  mpcena: 95.0
+  srbobran: 2
+  futog: 9
+- sifra: 1244
+  naziv: DRVENA BOJA MAGIC 1/1
+  mpcena: 180.0
+  srbobran: 9
+  futog: 9
+- sifra: 1251
+  naziv: TESTERICE 1/12
+  mpcena: 80.0
+  srbobran: 21
+  futog: 26
+- sifra: 1264
+  naziv: SESTAR SC PROFI
+  mpcena: 510.0
+  srbobran: 1
+  futog: 2
+- sifra: 1265
+  naziv: SESTAR SC
+  mpcena: 85.0
+  srbobran: 7
+  futog: 4
+- sifra: 1285
+  naziv: NOTATON DVOREDNI
+  mpcena: 5340.0
+  srbobran: 1
+  futog: 1
+- sifra: 1296
+  naziv: FLASICA ZA VODU URBAN
+  mpcena: 895.0
+  srbobran: 1
+  futog: 3
+- sifra: 1307
+  naziv: SESTAR MAPED
+  mpcena: 380.0
+  srbobran: 1
+- sifra: 1318
+  naziv: LENJIR 30CM
+  mpcena: 880.0
+  srbobran: 1
+  futog: 0
+- sifra: 1338
+  naziv: FLOMASTERI 1/12 JUMBO
+  mpcena: 280.0
+  srbobran: 6
+  futog: 4
+- sifra: 1348
+  naziv: UVIJAC B5+
+  mpcena: 50.0
+  srbobran: 50
+  futog: 16
+- sifra: 1385
+  naziv: CETKICA PL-8
+- sifra: 1390
+  naziv: ČETKICA PL-14
+  mpcena: 80.0
+  srbobran: 24
+  futog: 0
+- sifra: 1403
+  naziv: RASPORED CASOVA
+  mpcena: 10.0
+  srbobran: 3
+- sifra: 1414
+  naziv: BLOKCIC
+  mpcena: 135.0
+  srbobran: 2
+- sifra: 1435
+  naziv: REZAC MAPED VIVO
+  mpcena: 60.0
+  srbobran: 9
+- sifra: 1466
+  naziv: SEGMENTNA OLOVKA
+- sifra: 1486
+  naziv: SESTAR SC
+- sifra: 1493
+  naziv: OL HB SKY
+  mpcena: 30.0
+  srbobran: 30
+- sifra: 1496
+  naziv: PODMETAC A/5
+  mpcena: 20.0
+  srbobran: 75
+  futog: 20
+- sifra: 1500
+  naziv: KARTA SRBIJE
+  mpcena: 310.0
+  srbobran: 6
+  futog: 5
+- sifra: 1517
+  naziv: CASA ZA LIKOVNO
+  mpcena: 60.0
+  srbobran: 2
+  futog: 0
+- sifra: 1527
+  naziv: RECNIK A/6 2/3 KOLONE
+  mpcena: 35.0
+  srbobran: 0
+- sifra: 1808
+  naziv: NOTATON JEDNOREDNI
+  mpcena: 2750.0
+  srbobran: 0
+  futog: 0
+- sifra: 1809
+  naziv: VEZBANKA
+  mpcena: 40.0
+  srbobran: 0
+- sifra: 1878
+  naziv: PALETA ZA LIKOVNO
+  mpcena: 80.0
+  srbobran: 7
+  futog: 5
+- sifra: 1892
+  naziv: PALETA
+- sifra: 1927
+  naziv: OTO PLOCA
+  mpcena: 190.0
+  srbobran: 17
+  futog: 27
+- sifra: 1932
+  naziv: CASA ZA OLOVKE DIZNI
+  mpcena: 250.0
+  srbobran: 1
+- sifra: 1936
+  naziv: NOTES TG/LG
+  mpcena: 915.0
+  srbobran: 0
+  futog: 1
+- sifra: 1947
+  naziv: TORBA ZA BLOK IV
+  mpcena: 199.0
+  srbobran: 17
+  futog: 9
+- sifra: 1950
+  naziv: 'CASA ZA OLOVKE '
+  mpcena: 100.0
+  srbobran: 0
+  futog: 3
+- sifra: 1997
+  naziv: DVOBOJAC KOH-I-NOOR
+  mpcena: 60.0
+  srbobran: 12
+  futog: 12
+- sifra: 2003
+  naziv: BLOKCIC A/6 S
+  mpcena: 80.0
+  srbobran: 1
+  futog: 0
+- sifra: 2017
+  naziv: VOSTANE BOJE 1/12 SC
+  mpcena: 85.0
+  srbobran: 11
+  futog: 8
+- sifra: 2021
+  naziv: VOSTANE BOJE 1/12 JUMBO SC
+  mpcena: 160.0
+  srbobran: 4
+- sifra: 2043
+  naziv: MUSEMA ZA LIKOVNO
+  mpcena: 100.0
+  srbobran: 2
+  futog: 4
+- sifra: 2047
+  naziv: MUZICKI STAPICI
+  mpcena: 180.0
+  srbobran: 4
+  futog: 2
+- sifra: 2104
+  naziv: HAMER A/4 BOJA
+  mpcena: 20.0
+  srbobran: 152
+  futog: 77
+- sifra: 2105
+  naziv: DRVENA BOJA MAPED 12+12
+- sifra: 2107
+  naziv: VODENE BOJE 1/12 SC
+  mpcena: 195.0
+  srbobran: 4
+  futog: 1
+- sifra: 2114
+  naziv: GUMICA SC
+  mpcena: 20.0
+  srbobran: 0
+- sifra: 2119
+  naziv: TO MARS 0,5
+  mpcena: 240.0
+  srbobran: 13
+  futog: 14
+- sifra: 2125
+  naziv: RAČUNALJKA PVC
+  mpcena: 430.0
+  srbobran: 2
+  futog: 2
+- sifra: 2164
+  naziv: CETKICA PL-14
+  mpcena: 60.0
+  srbobran: 3
+- sifra: 2168
+  naziv: MINE 0,7 SC
+  mpcena: 40.0
+  srbobran: 0
+  futog: 53
+- sifra: 2186
+  naziv: TEMPERA BRILLIO
+  mpcena: 60.0
+  srbobran: 35
+- sifra: 2187
+  naziv: TO CONNECT 0,5
+- sifra: 2195
+  naziv: TROUGAO WIMBO
+  mpcena: 115.0
+  srbobran: 8
+  futog: 7
+- sifra: 2200
+  naziv: OL HB FC
+  mpcena: 120.0
+  srbobran: 8
+  futog: 21
+- sifra: 2201
+  naziv: FLOMASTER CP AG/AU
+  mpcena: 120.0
+  srbobran: 10
+  futog: 12
+- sifra: 2205
+  naziv: GUMICA FC NATUR
+  mpcena: 20.0
+  srbobran: 15
+- sifra: 2212
+  naziv: KREDE ZA BETON
+  mpcena: 160.0
+  srbobran: 2
+- sifra: 2226
+  naziv: TO DELTA 0,5
+  mpcena: 50.0
+  srbobran: 1
+- sifra: 2228
+  naziv: NALIV PERO OF
+  mpcena: 150.0
+  srbobran: 1
+- sifra: 2273
+  naziv: KESA ZA BLOK IV
+  mpcena: 50.0
+  srbobran: 48
+  futog: 10
+- sifra: 2275
+  naziv: TO SCOOL COOL 0,5
+  mpcena: 50.0
+  srbobran: 11
+  futog: 23
+- sifra: 2289
+  naziv: OL HB CENTROPEN
+  mpcena: 25.0
+  futog: 33
+- sifra: 2440
+  naziv: OL HB CENTROPEN SA GUMICOM
+  mpcena: 50.0
+  srbobran: 0
+  futog: 36
+- sifra: 2518
+  naziv: CETKICA PL-10
+  mpcena: 70.0
+  srbobran: 1
+- sifra: 2557
+  naziv: GEOGRAFSKI ATLAS
+  mpcena: 1550.0
+  srbobran: 2
+  futog: 1
+- sifra: 2558
+  naziv: GEOGRAFSKI ATLAS M
+  mpcena: 1450.0
+  srbobran: 2
+- sifra: 2560
+  naziv: SILKI PASTEL
+  mpcena: 545.0
+  srbobran: 6
+  futog: 5
+- sifra: 2562
+  naziv: FLOMASTER KOH-I-NOOR 1MM
+  mpcena: 30.0
+  srbobran: 3
+- sifra: 2563
+  naziv: FLOMASTERI MAXI 1/12
+  mpcena: 645.0
+  srbobran: 5
+  futog: 0
+- sifra: 2573
+  naziv: CETKICA AK-1
+  mpcena: 30.0
+  srbobran: 4
+- sifra: 2575
+  naziv: CETKICA AK-3
+  mpcena: 45.0
+  srbobran: 3
+- sifra: 2578
+  naziv: CETKICA AK-5/6
+  mpcena: 60.0
+  srbobran: 6
+- sifra: 2584
+  naziv: GLINAMOL 300G
+  mpcena: 330.0
+  srbobran: 1
+  futog: 0
+- sifra: 2620
+  naziv: KARTA SRBIJE
+  mpcena: 150.0
+  srbobran: 1
+- sifra: 2705
+  naziv: DRVENA BOJA 1/12 OBOSTRANA
+  mpcena: 299.0
+  srbobran: 4
+  futog: 3
+- sifra: 2751
+  naziv: KRIVULJARI
+  mpcena: 150.0
+  srbobran: 1
+- sifra: 2797
+  naziv: SIGNIR STAEDTLER
+  mpcena: 125.0
+  futog: 60
+- sifra: 2857
+  naziv: GUMICA OF
+  mpcena: 15.0
+  srbobran: 1
+- sifra: 2989
+  naziv: NOTNA SVESKA B/5
+  mpcena: 40.0
+  srbobran: 13
+  futog: 8
+- sifra: 3036
+  naziv: TORBA ZA BLOK V
+  mpcena: 199.0
+  srbobran: 30
+  futog: 18
+- sifra: 3133
+  naziv: TO+REZAC ST
+  mpcena: 730.0
+  srbobran: 1
+- sifra: 3134
+  naziv: MINE 3,15 ST
+  mpcena: 250.0
+  srbobran: 8
+- sifra: 3227
+  naziv: CETKICA AK-6
+  mpcena: 30.0
+  srbobran: 8
+- sifra: 3242
+  naziv: TORBA ZA BLOK V
+- sifra: 3320
+  naziv: NEMA KARTA V-VIII
+  mpcena: 295.0
+  srbobran: 49
+  futog: 27
+- sifra: 3408
+  naziv: NALEPNICE ZA SVESKE 30/1
+  mpcena: 100.0
+  srbobran: 20
+  futog: 19
+- sifra: 3616
+  naziv: FLOMASTER 2549/10 MAGIČNI
+  mpcena: 350.0
+  srbobran: 2
+  futog: 1
+- sifra: 3624
+  naziv: 'HAMER A/4 '
+  mpcena: 20.0
+  srbobran: 39
+  futog: 34
+- sifra: 3636
+  naziv: BUKVAR BEOGRAD
+  mpcena: 300.0
+  srbobran: 1
+- sifra: 3647
+  naziv: MOJA SLOVA LAT/M
+  mpcena: 385.0
+  srbobran: 2
+- sifra: 3717
+  naziv: CETKICA PL-2
+  mpcena: 30.0
+  srbobran: 6
+- sifra: 3778
+  naziv: TO CONNECT 0,7
+  mpcena: 30.0
+  srbobran: 0
+- sifra: 3835
+  naziv: HAMER B/1 BOJA
+  mpcena: 170.0
+  srbobran: 12
+  futog: 14
+- sifra: 3970
+  naziv: HO SC
+- sifra: 4078
+  naziv: PERIODNI SISTEM A/4
+  mpcena: 40.0
+  srbobran: 1
+- sifra: 4099
+  naziv: GEL OL IZNENADJENJE
+- sifra: 4142
+  naziv: CASA ZA LIKOVNO
+  mpcena: 70.0
+  srbobran: 0
+  futog: 1
+- sifra: 4246
+  naziv: CETKICA AK-8
+  mpcena: 40.0
+  srbobran: 11
+- sifra: 4247
+  naziv: CETKICA AK-10
+- sifra: 4248
+  naziv: BLOKCIC A/7
+  mpcena: 50.0
+  srbobran: 0

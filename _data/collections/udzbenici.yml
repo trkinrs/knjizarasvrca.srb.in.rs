@@ -1,0 +1,1325 @@
+---
+- sifra: 122
+  naziv: BG-RL SRPSKI 6
+  mpcena: 910.0
+  srbobran: 0
+- sifra: 154
+  naziv: GE-RL BIOLOGIJA 5
+- sifra: 906
+  naziv: MAĐARSKI- 4
+  mpcena: 995.0
+  srbobran: 0
+- sifra: 908
+  naziv: VUK - 7
+  mpcena: 1.0
+  srbobran: 0
+- sifra: 910
+  naziv: TURIJA - 7
+  mpcena: 1.0
+  srbobran: 0
+- sifra: 911
+  naziv: VUK - 4
+  mpcena: 1.0
+  srbobran: 0
+- sifra: 912
+  naziv: MAĐARSKI - 2
+  mpcena: 1.0
+  srbobran: 0
+- sifra: 916
+  naziv: VUK - 6
+  mpcena: 1.0
+  srbobran: 0
+- sifra: 919
+  naziv: VUK - 2
+  mpcena: 1.0
+  srbobran: 0
+- sifra: 922
+  naziv: VUK - 5
+  mpcena: 1.0
+  srbobran: 0
+- sifra: 923
+  naziv: 'JOVA - 8 '
+  mpcena: 1.0
+  srbobran: 0
+- sifra: 926
+  naziv: TURIJA - 6
+  mpcena: 1.0
+  srbobran: 0
+- sifra: 928
+  naziv: NADALJ - 7
+  mpcena: 1.0
+  srbobran: 0
+- sifra: 933
+  naziv: VUK - 3
+  mpcena: 1.0
+  srbobran: 0
+- sifra: 935
+  naziv: VUK - 8
+  mpcena: 1.0
+  srbobran: 0
+- sifra: 937
+  naziv: JOVA - 2
+  mpcena: 1.0
+  srbobran: 0
+- sifra: 938
+  naziv: JOVA - 3
+  mpcena: 1.0
+  srbobran: 0
+- sifra: 939
+  naziv: JOVA - 4
+  mpcena: 1.0
+  srbobran: 0
+- sifra: 942
+  naziv: JOVA - 5
+  mpcena: 1.0
+  srbobran: 0
+- sifra: 943
+  naziv: JOVA - 6
+  mpcena: 1.0
+  srbobran: 0
+- sifra: 944
+  naziv: JOVA - 7
+  mpcena: 1.0
+  srbobran: 0
+- sifra: 959
+  naziv: NADALJ - 2
+  mpcena: 1.0
+  srbobran: 0
+- sifra: 969
+  naziv: NADALJ - 3
+  mpcena: 1.0
+  srbobran: 0
+- sifra: 975
+  naziv: NADALJ - 4
+  mpcena: 1.0
+  srbobran: 0
+- sifra: 977
+  naziv: NADALJ - 5
+  mpcena: 1.0
+  srbobran: 0
+- sifra: 979
+  naziv: NADALJ - 6
+  mpcena: 1.0
+  srbobran: 0
+- sifra: 980
+  naziv: NADALJ - 8
+  mpcena: 1.0
+  srbobran: 0
+- sifra: 982
+  naziv: MAĐARSKI - 3
+  mpcena: 1.0
+  srbobran: 0
+- sifra: 983
+  naziv: MAĐARSKI - 5
+  mpcena: 1.0
+  srbobran: 0
+- sifra: 984
+  naziv: MAĐARSKI - 6
+  mpcena: 365.0
+  srbobran: 0
+- sifra: 985
+  naziv: MAĐARSKI - 7
+  mpcena: 1.0
+  srbobran: 0
+- sifra: 986
+  naziv: MAĐARSKI - 8
+  mpcena: 1.0
+  srbobran: 0
+- sifra: 987
+  naziv: TURIJA - 2
+  mpcena: 1.0
+  srbobran: 0
+- sifra: 992
+  naziv: TURIJA - 3
+  mpcena: 1.0
+  srbobran: 0
+- sifra: 994
+  naziv: TURIJA - 4
+  mpcena: 1.0
+  srbobran: 0
+- sifra: 995
+  naziv: TURIJA - 5
+  mpcena: 1.0
+  srbobran: 0
+- sifra: 1000
+  naziv: TURIJA - 8
+  mpcena: 1.0
+  srbobran: 0
+- sifra: 1001
+  naziv: 'GE-MATEMATIKA 5 '
+  mpcena: 1100.0
+  srbobran: 0
+- sifra: 1002
+  naziv: GE-RL MATEMATIKA 5
+  mpcena: 1100.0
+  srbobran: 0
+- sifra: 1005
+  naziv: GE-MATEMATIKA 7
+  mpcena: 1100.0
+  srbobran: 0
+- sifra: 1008
+  naziv: 'GE-MATEMATIKA 8 '
+  mpcena: 1100.0
+  srbobran: 0
+- sifra: 1010
+  naziv: GE-RL MATEMATIKA 8
+  mpcena: 1100.0
+  srbobran: 0
+- sifra: 1011
+  naziv: GE-BIOLOGIJA 6
+  mpcena: 1430.0
+  srbobran: 0
+- sifra: 1014
+  naziv: GE-BIOLOGIJA 7
+  mpcena: 1485.0
+  srbobran: 0
+- sifra: 1017
+  naziv: GE-RL BIOLOGIJA 8
+  mpcena: 935.0
+  srbobran: 0
+- sifra: 1025
+  naziv: GE-MATEMATIKA 7/M
+  mpcena: 1100.0
+  srbobran: 0
+- sifra: 1026
+  naziv: GE-RL MATEMATIKA 7/M
+  mpcena: 1100.0
+  srbobran: 0
+- sifra: 1027
+  naziv: GE-BIOLOGIJA 5/M
+  mpcena: 1430.0
+  srbobran: 0
+- sifra: 1028
+  naziv: GE-BIOLOGIJA 7/M
+  mpcena: 1485.0
+  srbobran: 0
+- sifra: 1030
+  naziv: GE-BIOLOGIJA 8/M
+  mpcena: 1485.0
+  srbobran: 0
+- sifra: 1031
+  naziv: GE-HEMIJA 7/M
+  mpcena: 1210.0
+  srbobran: 0
+- sifra: 1032
+  naziv: GE-RL HEMIJA 7/M
+  mpcena: 935.0
+  srbobran: 0
+- sifra: 1033
+  naziv: GE-HEMIJA 8/M
+  mpcena: 1210.0
+  srbobran: 0
+- sifra: 1034
+  naziv: ED-5142-ŽUBOR JEZIKA 5
+  mpcena: 1080.0
+  srbobran: 0
+- sifra: 1036
+  naziv: ED-5151-ISTORIJA 5
+  mpcena: 1240.0
+  srbobran: 0
+- sifra: 1037
+  naziv: ED-6150-ISTORIJA 6
+  mpcena: 1240.0
+  srbobran: 0
+- sifra: 1039
+  naziv: ED-7052-FIZIKA 7
+  mpcena: 1760.0
+  srbobran: 0
+- sifra: 1040
+  naziv: ED-7152-ISTORIJA 7
+  mpcena: 1240.0
+  srbobran: 0
+- sifra: 1042
+  naziv: VU-RL ENGLESKI 3-THE STORY GARDEN
+  mpcena: 990.0
+  srbobran: 0
+- sifra: 1043
+  naziv: VU-ENGLESKI 3-THE STORY GARDEN
+  mpcena: 1090.0
+  srbobran: 0
+- sifra: 1044
+  naziv: VU-MUZIČKO 6
+  mpcena: 940.0
+  srbobran: 0
+- sifra: 1045
+  naziv: VU-MUZIČKO 7
+  mpcena: 940.0
+  srbobran: 0
+- sifra: 1046
+  naziv: BG-ČITANKA 5
+  mpcena: 1320.0
+  srbobran: 0
+- sifra: 1047
+  naziv: BG-GRAMATIKA 5
+  mpcena: 1160.0
+  srbobran: 0
+- sifra: 1048
+  naziv: BG- NEMAČKI 7
+  mpcena: 1270.0
+  srbobran: 0
+- sifra: 1049
+  naziv: BG-RL NEMAČKI 7
+  mpcena: 910.0
+  srbobran: 0
+- sifra: 1050
+  naziv: BG-ČITANKA 7
+  mpcena: 1320.0
+  srbobran: 0
+- sifra: 1051
+  naziv: BG-GRAMATIKA 7
+  mpcena: 1160.0
+  srbobran: 0
+- sifra: 1052
+  naziv: BG-RL SRPSKI 7
+  mpcena: 910.0
+  srbobran: 0
+- sifra: 1053
+  naziv: BG-ISTORIJA 8
+  mpcena: 1390.0
+  srbobran: 0
+- sifra: 1054
+  naziv: BG-NEMAČKI 8
+  mpcena: 1270.0
+  srbobran: 0
+- sifra: 1055
+  naziv: BG-RL NEMAČKI 8
+  mpcena: 910.0
+  srbobran: 0
+- sifra: 1058
+  naziv: BG-ČITANKA 8
+  mpcena: 1320.0
+  srbobran: 0
+- sifra: 1060
+  naziv: BG-GRAMATIKA 8
+  mpcena: 1160.0
+  srbobran: 0
+- sifra: 1061
+  naziv: BG-MATEMATIKA 2/M
+  mpcena: 1130.0
+  srbobran: 0
+- sifra: 1063
+  naziv: BG-RL MATEMATIKA 1 DEO 2/M
+  mpcena: 850.0
+  srbobran: 0
+- sifra: 1065
+  naziv: BG-SVET OKO NAS 2/M
+  mpcena: 1300.0
+  srbobran: 0
+- sifra: 1067
+  naziv: BG-RL SVET OKO NAS 2/M
+  mpcena: 990.0
+  srbobran: 0
+- sifra: 1068
+  naziv: BG-MATEMATIKA 4/M
+  mpcena: 1130.0
+  srbobran: 0
+- sifra: 1071
+  naziv: BG-RL MATEMATIKA 1 DEO 4/M
+  mpcena: 850.0
+  srbobran: 0
+- sifra: 1072
+  naziv: BG-RL MATEMATIKA 2 DEO 4/M
+  mpcena: 850.0
+  srbobran: 0
+- sifra: 1075
+  naziv: BG-PRIRODA I DRUŠTVO 4/M
+  mpcena: 1300.0
+  srbobran: 0
+- sifra: 1077
+  naziv: BG-RL PRIRODA I DRUŠTVO 4/M
+  mpcena: 1050.0
+  srbobran: 0
+- sifra: 1078
+  naziv: FR-SMILES 2
+  mpcena: 1780.0
+  srbobran: 1
+- sifra: 1081
+  naziv: FR-SMILES 4
+  mpcena: 1060.0
+  srbobran: 0
+- sifra: 1082
+  naziv: FR-RL SMILES 4
+  mpcena: 960.0
+  srbobran: 0
+- sifra: 1084
+  naziv: KL-LIKOVNO 2
+  mpcena: 1520.0
+  srbobran: 0
+- sifra: 1085
+  naziv: KL-PLAYWAY TO ENGLISH 3
+  mpcena: 980.0
+  srbobran: 0
+- sifra: 1086
+  naziv: KL-RL PLAYWAY TO ENGLISH 3
+  mpcena: 730.0
+  srbobran: 0
+- sifra: 1090
+  naziv: KL-PLAYWAY TO ENGLISH 4
+  mpcena: 980.0
+  srbobran: 0
+- sifra: 1093
+  naziv: KL-RL PLAYWAY TO ENGLISH 4
+  mpcena: 730.0
+  srbobran: 0
+- sifra: 1096
+  naziv: KL-ČITANKA 5
+  mpcena: 1240.0
+  srbobran: 0
+- sifra: 1097
+  naziv: KL-GRAMATIKA 5
+  mpcena: 970.0
+  srbobran: 0
+- sifra: 1098
+  naziv: KL-RL SRPSKI 5
+  mpcena: 850.0
+  srbobran: 0
+- sifra: 1099
+  naziv: KL-ZB MATEMATIKA 5
+  mpcena: 1140.0
+  srbobran: 0
+- sifra: 1100
+  naziv: KL-MUZIČKO 5
+  mpcena: 850.0
+  srbobran: 0
+- sifra: 1101
+  naziv: KL-LIKOVNO 5
+  mpcena: 850.0
+  srbobran: 0
+- sifra: 1102
+  naziv: KL- ISTORIJA 5
+  mpcena: 1140.0
+  srbobran: 0
+- sifra: 1103
+  naziv: KL-MESSAGES 1
+  mpcena: 1170.0
+  srbobran: 0
+- sifra: 1105
+  naziv: KL-RL MESSAGES 1
+  mpcena: 830.0
+  srbobran: 0
+- sifra: 1106
+  naziv: KL-WIR NEU 1
+  mpcena: 1170.0
+  srbobran: 0
+- sifra: 1107
+  naziv: KL-RL WIR NEU 1
+  mpcena: 830.0
+  srbobran: 0
+- sifra: 1108
+  naziv: 'KL-INFORMATIKA 5 '
+  mpcena: 1140.0
+  srbobran: 0
+- sifra: 1109
+  naziv: KL-ČITANKA 6
+  mpcena: 1240.0
+  srbobran: 0
+- sifra: 1110
+  naziv: KL-GRAMATIKA 6
+  mpcena: 1040.0
+  srbobran: 0
+- sifra: 1113
+  naziv: KL-RL SRPSKI 6
+  mpcena: 850.0
+  srbobran: 0
+- sifra: 1114
+  naziv: KL-MATEMATIKA 6
+  mpcena: 1140.0
+  srbobran: 0
+- sifra: 1115
+  naziv: KL-ZB MATEMATIKA 6
+  mpcena: 1070.0
+  srbobran: 0
+- sifra: 1119
+  naziv: KL-ISTORIJA 6
+  mpcena: 1220.0
+  srbobran: 0
+- sifra: 1122
+  naziv: KL-MESSAGES 2
+  mpcena: 1170.0
+  srbobran: 0
+- sifra: 1125
+  naziv: KL-RL MESSAGES 2
+  mpcena: 830.0
+  srbobran: 0
+- sifra: 1126
+  naziv: KL-WIR NEU 2
+  mpcena: 1170.0
+  srbobran: 0
+- sifra: 1128
+  naziv: KL-RL WIR NEU 2
+  mpcena: 830.0
+  srbobran: 0
+- sifra: 1129
+  naziv: KL-ČITANKA 7
+  mpcena: 1240.0
+  srbobran: 0
+- sifra: 1130
+  naziv: KL-GTRAMATIKA 7
+  mpcena: 1040.0
+  srbobran: 0
+- sifra: 1131
+  naziv: KL-RL SRPSKI 7
+  mpcena: 850.0
+  srbobran: 0
+- sifra: 1132
+  naziv: KL-MATEMATIKA 7
+  mpcena: 1140.0
+  srbobran: 0
+- sifra: 1133
+  naziv: KL-ZB MATEMATIKA 7
+  mpcena: 1070.0
+  srbobran: 0
+- sifra: 1134
+  naziv: KL-LIKOVNO 7
+  mpcena: 850.0
+  srbobran: 0
+- sifra: 1137
+  naziv: KL-GEOGRAFIJA 7
+  mpcena: 1260.0
+  srbobran: 0
+- sifra: 1138
+  naziv: KL-ISTORIJA 7
+  mpcena: 1240.0
+  srbobran: 0
+- sifra: 1139
+  naziv: KL-BIOLOGIJA 7
+  mpcena: 1470.0
+  srbobran: 0
+- sifra: 1140
+  naziv: KL-FIZIKA 7
+  mpcena: 1110.0
+  srbobran: 0
+- sifra: 1141
+  naziv: KL-MESSAGES 3
+  mpcena: 1170.0
+  srbobran: 0
+- sifra: 1142
+  naziv: KL-RL MESSAGES 3
+  mpcena: 830.0
+  srbobran: 0
+- sifra: 1143
+  naziv: KL-INFORMATIKA 7
+  mpcena: 1240.0
+  srbobran: 0
+- sifra: 1144
+  naziv: KL-ZB MATEMATIKA 8
+  mpcena: 1100.0
+  srbobran: 0
+- sifra: 1145
+  naziv: KL-LIKOVNO 8
+  mpcena: 850.0
+  srbobran: 0
+- sifra: 1146
+  naziv: KL-GEOGRAFIJA 8
+  mpcena: 1260.0
+  srbobran: 0
+- sifra: 1147
+  naziv: KL-ISTORIJA 8
+  mpcena: 1240.0
+  srbobran: 0
+- sifra: 1148
+  naziv: KL-BIOLOGIJA 8
+  mpcena: 1500.0
+  srbobran: 0
+- sifra: 1150
+  naziv: KL-FIZIKA 8
+  mpcena: 1110.0
+  srbobran: 0
+- sifra: 1151
+  naziv: KL-RL MESSAGES 4
+  mpcena: 830.0
+  srbobran: 0
+- sifra: 1153
+  naziv: KL-INFORMATIKA 8
+  mpcena: 1240.0
+  srbobran: 0
+- sifra: 1154
+  naziv: LO-NS MATEMATIKA 2
+  mpcena: 790.0
+  srbobran: 0
+- sifra: 1156
+  naziv: LO-DIGITALNI SVET 2
+  mpcena: 980.0
+  srbobran: 0
+- sifra: 1157
+  naziv: LO-ČITANKA 3
+  mpcena: 1150.0
+  srbobran: 1
+- sifra: 1158
+  naziv: LO-GRAMATIKA 3
+  mpcena: 920.0
+  srbobran: 0
+- sifra: 1159
+  naziv: LO-RL SRPSKI 3
+  mpcena: 990.0
+  srbobran: 1
+- sifra: 1160
+  naziv: LO-MUZIČKO 3
+  mpcena: 930.0
+  srbobran: 0
+- sifra: 1161
+  naziv: LO-LIKOVNO 3
+  mpcena: 960.0
+  srbobran: 0
+- sifra: 1164
+  naziv: LO-FAMILY AND FRIENS 1
+  mpcena: 1290.0
+  srbobran: 0
+- sifra: 1165
+  naziv: LO-RL FAMILY AND FRIENDS 1
+  mpcena: 1090.0
+  srbobran: 0
+- sifra: 1167
+  naziv: LO-PRIRODA I DRUŠTVO 3
+  mpcena: 1150.0
+  srbobran: 1
+- sifra: 1168
+  naziv: LO-RL PRIRODA I DRUŠTVO 3
+  mpcena: 990.0
+  srbobran: 1
+- sifra: 1169
+  naziv: LO-DIGITALNI SVET 3
+  mpcena: 980.0
+  srbobran: 0
+- sifra: 1170
+  naziv: LO-ČITANKA 4
+  mpcena: 1150.0
+  srbobran: 0
+- sifra: 1174
+  naziv: LO-GRAMATIKA 4
+  mpcena: 940.0
+  srbobran: 0
+- sifra: 1175
+  naziv: LO-RL SRPSKI 4
+  mpcena: 990.0
+  srbobran: 0
+- sifra: 1178
+  naziv: LO-MATEMATIKA 4
+  mpcena: 1990.0
+  srbobran: 0
+- sifra: 1179
+  naziv: LO-NS MATEMATIKA 4
+  mpcena: 790.0
+  srbobran: 0
+- sifra: 1180
+  naziv: LO-MUZIČKO 4
+  mpcena: 930.0
+  srbobran: 1
+- sifra: 1181
+  naziv: LO-LIKOVNO 4
+  mpcena: 960.0
+  srbobran: 0
+- sifra: 1184
+  naziv: LO-PRIRODA I DRUŠTVO 4
+  mpcena: 1150.0
+  srbobran: 0
+- sifra: 1186
+  naziv: LO-RL PRIRODA I DRUŠTVO 4
+  mpcena: 990.0
+  srbobran: 0
+- sifra: 1189
+  naziv: LO-DIGITALNI SVET 4
+  mpcena: 980.0
+  srbobran: 1
+- sifra: 1190
+  naziv: LO-ČITANKA 5
+  mpcena: 1140.0
+  srbobran: 0
+- sifra: 1191
+  naziv: LO-GRAMATIKA 5
+  mpcena: 960.0
+  srbobran: 0
+- sifra: 1193
+  naziv: LO-MATEMATIKA 5
+  mpcena: 1140.0
+  srbobran: 0
+- sifra: 1194
+  naziv: LO-MUZIČKO 5
+  mpcena: 940.0
+  srbobran: 0
+- sifra: 1195
+  naziv: LO-TO I TEHNOLOGIJA 5
+  mpcena: 1140.0
+  srbobran: 0
+- sifra: 1197
+  naziv: LO-GEOGRAFIJA 5
+  mpcena: 1260.0
+  srbobran: 0
+- sifra: 1198
+  naziv: LO-ČITANKA 6
+  mpcena: 1140.0
+  srbobran: 0
+- sifra: 1201
+  naziv: LO-GRAMATIKA 6
+  mpcena: 1040.0
+  srbobran: 0
+- sifra: 1202
+  naziv: LO-GEOGRAFIJA 6
+  mpcena: 1260.0
+  srbobran: 0
+- sifra: 1203
+  naziv: LO-RL SRPSKI 7
+  mpcena: 1140.0
+  srbobran: 0
+- sifra: 1207
+  naziv: LO-GRAMATIKA 7
+  mpcena: 1040.0
+  srbobran: 0
+- sifra: 1209
+  naziv: LO-MUZIČKO 7
+  mpcena: 940.0
+  srbobran: 0
+- sifra: 1210
+  naziv: LO-TO I TEHNOLOGIJA 7
+  mpcena: 1240.0
+  srbobran: 0
+- sifra: 1211
+  naziv: LO-TO I TEHNOLOGIJA MAT
+  mpcena: 2100.0
+  srbobran: 1
+- sifra: 1212
+  naziv: LO-GEOGRAFIJA 7
+  mpcena: 1370.0
+  srbobran: 0
+- sifra: 1213
+  naziv: LO-ČITANKA 8
+  mpcena: 1140.0
+  srbobran: 0
+- sifra: 1217
+  naziv: LO-GRAMATIKA 8
+  mpcena: 1040.0
+  srbobran: 0
+- sifra: 1219
+  naziv: LO-RL SRPSKI 8
+  mpcena: 810.0
+  srbobran: 0
+- sifra: 1220
+  naziv: LO-MUZIČKO 8
+  mpcena: 940.0
+  srbobran: 0
+- sifra: 1221
+  naziv: LO-GEOGRAFIJA 8
+  mpcena: 1370.0
+  srbobran: 0
+- sifra: 1222
+  naziv: LO-FIZIKA 8
+  mpcena: 1320.0
+  srbobran: 0
+- sifra: 1223
+  naziv: LO-ZB FIZIKA 8
+  mpcena: 790.0
+  srbobran: 0
+- sifra: 1225
+  naziv: KL-ČITANKA NEMATERNJI 2/M
+  mpcena: 990.0
+  srbobran: 0
+- sifra: 1226
+  naziv: KL-ČITANKA NEMATERNJI 4/M
+  mpcena: 1060.0
+  srbobran: 0
+- sifra: 1227
+  naziv: KL-ČITANKA NEMATERNJI 5/M
+  mpcena: 1140.0
+  srbobran: 0
+- sifra: 1228
+  naziv: KL-GRAMATIKA NEMATERNJI 5/M
+  mpcena: 810.0
+  srbobran: 0
+- sifra: 1229
+  naziv: KL-RS NEMATERNJI 5/M
+  mpcena: 640.0
+  srbobran: 0
+- sifra: 1233
+  naziv: KL-MATEMATIKA 5/M
+  mpcena: 1140.0
+  srbobran: 0
+- sifra: 1234
+  naziv: KL-ZB MATEMATIKA 5/M
+  mpcena: 1140.0
+  srbobran: 0
+- sifra: 1235
+  naziv: KL-ISTORIJA 5/M
+  mpcena: 1140.0
+  srbobran: 0
+- sifra: 1236
+  naziv: KL-INFORMATIKA 5/M
+  mpcena: 1140.0
+  srbobran: 0
+- sifra: 1237
+  naziv: KL-ISTORIJA 6/M
+  mpcena: 1220.0
+  srbobran: 0
+- sifra: 1238
+  naziv: KL-ZB FIZIKA 6/M
+  mpcena: 910.0
+  srbobran: 0
+- sifra: 1239
+  naziv: KL-INFORMATIKA 6/M
+  mpcena: 1240.0
+  srbobran: 0
+- sifra: 1240
+  naziv: KL-ČITANKA NEMATERNJI 7/M
+  mpcena: 1140.0
+  srbobran: 0
+- sifra: 1243
+  naziv: KL-GRAMATIKA NEMATERNJI 7/M
+  mpcena: 810.0
+  srbobran: 0
+- sifra: 1245
+  naziv: KL-RL SRPSKI NEMATERNJI 4/M
+  mpcena: 770.0
+  srbobran: 0
+- sifra: 1247
+  naziv: KL-ISTORIJA 7/M
+  mpcena: 1240.0
+  srbobran: 0
+- sifra: 1248
+  naziv: KL-FIZIKA 7/M
+  mpcena: 1110.0
+  srbobran: 0
+- sifra: 1249
+  naziv: KL-ZB FIZIKA 7/M
+  mpcena: 950.0
+  srbobran: 0
+- sifra: 1250
+  naziv: KL-INFORMATIKA 7/M
+  mpcena: 1240.0
+  srbobran: 0
+- sifra: 1253
+  naziv: KL-ČITANKA NEMATERNJI 8/M
+  mpcena: 1140.0
+  srbobran: 0
+- sifra: 1255
+  naziv: KL-GRAMATIKA NEMATERNJI 8/M
+  mpcena: 810.0
+  srbobran: 0
+- sifra: 1256
+  naziv: KL-RL SRPSKI NEMATERNJI 8/M
+  mpcena: 640.0
+  srbobran: 0
+- sifra: 1258
+  naziv: KL-ZB MATEMATIKA 8/M
+  mpcena: 1100.0
+  srbobran: 0
+- sifra: 1259
+  naziv: KL-ISTORIJA 8/M
+  mpcena: 1240.0
+  srbobran: 0
+- sifra: 1260
+  naziv: KL-FIZIKA 8/M
+  mpcena: 1110.0
+  srbobran: 0
+- sifra: 1262
+  naziv: KL-ZB FIZIKA 8/M
+  mpcena: 910.0
+  srbobran: 0
+- sifra: 1266
+  naziv: LO-DIGITALNI SVET 2/M
+  mpcena: 980.0
+  srbobran: 0
+- sifra: 1267
+  naziv: LO-DIGITALNI SVET 4/M
+  mpcena: 980.0
+  srbobran: 0
+- sifra: 1269
+  naziv: LO-TO I TEHNOLOGIJA 5/M MAT
+  mpcena: 1790.0
+  srbobran: 0
+- sifra: 1271
+  naziv: LO-TO I TEHNOLOGIJA 5/M
+  mpcena: 1240.0
+  srbobran: 0
+- sifra: 1272
+  naziv: LO-GEOGRAFIJA 5/M
+  mpcena: 1260.0
+  srbobran: 0
+- sifra: 1273
+  naziv: LO-TO I TEHNOLOGIJA 6/M MAT
+  mpcena: 1790.0
+  srbobran: 0
+- sifra: 1274
+  naziv: LO-TO I TEHNOLOGIJA 7/M
+  mpcena: 1240.0
+  srbobran: 0
+- sifra: 1275
+  naziv: LO-TO I TEHNOLOGIJA 7/M MAT
+  mpcena: 2100.0
+  srbobran: 0
+- sifra: 1276
+  naziv: LO-GEOGRAFIJA 7/M
+  mpcena: 1370.0
+  srbobran: 0
+- sifra: 1277
+  naziv: LO-TO I TEHNOLOGIJA 8/M
+  mpcena: 1240.0
+  srbobran: 0
+- sifra: 1279
+  naziv: LO-TO I TEHNOLOGIJA 8/M MAT
+  mpcena: 1790.0
+  srbobran: 0
+- sifra: 1280
+  naziv: LO-GEOGRAFIJA 8/M
+  mpcena: 1370.0
+  srbobran: 0
+- sifra: 1281
+  naziv: KC-MATEMATIKA 5
+  mpcena: 1200.0
+  srbobran: 0
+- sifra: 1282
+  naziv: KC-ZB MATEMATIKA 5
+  mpcena: 1200.0
+  srbobran: 0
+- sifra: 1283
+  naziv: KC-MATEMATIKA 6
+  mpcena: 1200.0
+  srbobran: 0
+- sifra: 1284
+  naziv: KC-ZB MATEMATIKA 6
+  mpcena: 1200.0
+  srbobran: 0
+- sifra: 1286
+  naziv: KC-MATEMATIKA 7
+  mpcena: 1200.0
+  srbobran: 0
+- sifra: 1287
+  naziv: KC-ZB MATEMATIKA 7
+  mpcena: 1200.0
+  srbobran: 0
+- sifra: 1291
+  naziv: TEB-RS PROJECT 2
+  mpcena: 800.0
+  srbobran: 0
+- sifra: 1292
+  naziv: TEB-PROJECT 2
+  mpcena: 1170.0
+  srbobran: 0
+- sifra: 1293
+  naziv: TEB-PROJECT 3
+  mpcena: 1170.0
+  srbobran: 0
+- sifra: 1294
+  naziv: TEB-RS PROJECT 3
+  mpcena: 800.0
+  srbobran: 0
+- sifra: 1295
+  naziv: TEB-PROJECT 4
+  mpcena: 1170.0
+  srbobran: 0
+- sifra: 1298
+  naziv: TEB-RS PROJECT 4
+  mpcena: 800.0
+  srbobran: 0
+- sifra: 1299
+  naziv: TEB-PROJECT 5
+  mpcena: 1170.0
+  srbobran: 0
+- sifra: 1300
+  naziv: TEB-RS PROJECT 5
+  mpcena: 800.0
+  srbobran: 0
+- sifra: 1301
+  naziv: ZAVOD-MUZIČKO 6
+  mpcena: 847.0
+  srbobran: 0
+- sifra: 1302
+  naziv: ZAVOD-MUZIČKO 8
+  mpcena: 605.0
+  srbobran: 0
+- sifra: 1303
+  naziv: ZAVOD-MUZIČKO 7
+  mpcena: 605.0
+  srbobran: 0
+- sifra: 1304
+  naziv: LO - DIGITALNI SVET 2
+- sifra: 1305
+  naziv: ZAVOD-MUZIČKO 5
+  mpcena: 762.3
+  srbobran: 0
+- sifra: 1308
+  naziv: DA-SMART JUNIOR 2
+  mpcena: 1970.0
+  srbobran: 0
+- sifra: 1313
+  naziv: DA-SMART JUNIOR 4
+  mpcena: 1230.0
+  srbobran: 0
+- sifra: 1315
+  naziv: DA-RS SMART JUNIOR 4
+  mpcena: 1090.0
+  srbobran: 0
+- sifra: 1316
+  naziv: DA-TO THE TOP PLUS 1
+  mpcena: 1420.0
+  srbobran: 0
+- sifra: 1317
+  naziv: DA-TO THE TOP PLUS 3
+  mpcena: 1420.0
+  srbobran: 0
+- sifra: 1320
+  naziv: DA-RS TO THE TOP PLUS 3
+  mpcena: 990.0
+  srbobran: 1
+- sifra: 1321
+  naziv: DA-TO THE TOP PLUS 4
+  mpcena: 1420.0
+  srbobran: 0
+- sifra: 1322
+  naziv: DA-RS TO THE TOP PLUS 4
+  mpcena: 990.0
+  srbobran: 0
+- sifra: 1323
+  naziv: DA-PRIMA PLUS A1.2
+  mpcena: 1290.0
+  srbobran: 0
+- sifra: 1324
+  naziv: DA-RS PRIMA PLUS A1.2
+  mpcena: 990.0
+  srbobran: 0
+- sifra: 1326
+  naziv: DA-PRIMA PLUS A2.1
+  mpcena: 1290.0
+  srbobran: 0
+- sifra: 1329
+  naziv: DA-RS PRIMA PLUS A2.1
+  mpcena: 990.0
+  srbobran: 1
+- sifra: 1330
+  naziv: DA-PRIMA PLUS A2.2
+  mpcena: 1290.0
+  srbobran: 0
+- sifra: 1331
+  naziv: DA-BIOLOGIJA 6
+  mpcena: 1440.0
+  srbobran: 0
+- sifra: 1332
+  naziv: DA-GEOGRAFIJA 7
+  mpcena: 1370.0
+  srbobran: 0
+- sifra: 1458
+  naziv: ED-3110-POUKE O JEZIKU 3
+  mpcena: 990.0
+  srbobran: 0
+- sifra: 1462
+  naziv: ED-3341-MATEMATIKA 3A
+  mpcena: 1080.0
+  srbobran: 0
+- sifra: 1463
+  naziv: ED-3342-MATEMATIKA 3B
+  mpcena: 1080.0
+  srbobran: 0
+- sifra: 1465
+  naziv: ED-3076-RL PRIRODA I DRUSTVO 3
+  mpcena: 1080.0
+  srbobran: 0
+- sifra: 1467
+  naziv: ED-3160-MUZICKO 3
+- sifra: 1468
+  naziv: 'FR - CITANKA 3 '
+- sifra: 1469
+  naziv: FR - RL SRPSKI 3
+- sifra: 1473
+  naziv: FR - GRAMATIKA 3
+- sifra: 1541
+  naziv: FR - MATEMATIKA 3
+- sifra: 1543
+  naziv: FR - PRIRODA I DRUSTVO 3
+- sifra: 1544
+  naziv: FR-LIKOVNO 3
+  mpcena: 1750.0
+  srbobran: 0
+- sifra: 1558
+  naziv: FR - MUZICKO 3
+- sifra: 1564
+  naziv: KL - SUPER MINDS 2
+- sifra: 1628
+  naziv: ZU-17710 MUZICKO 7
+- sifra: 1698
+  naziv: ZU-41600 CITANKA 6
+- sifra: 1760
+  naziv: KL-BIOLOGIJA 5
+  mpcena: 1390.0
+  srbobran: 1
+- sifra: 1772
+  naziv: KL-BIOLOGIJA 6
+  mpcena: 1390.0
+  srbobran: 0
+- sifra: 2051
+  naziv: FR - RL SRPSKI 4
+- sifra: 2078
+  naziv: LO-MUZICKO 2
+  mpcena: 930.0
+  srbobran: 0
+- sifra: 2087
+  naziv: GE-BIOLOGIJA 8
+  mpcena: 1485.0
+  srbobran: 0
+- sifra: 3060
+  naziv: GE-MATEMATIKA 6
+  mpcena: 1100.0
+  srbobran: 0
+- sifra: 3061
+  naziv: GE-RL MATEMATIKA 6
+  mpcena: 1100.0
+  srbobran: 0
+- sifra: 3064
+  naziv: GE-RL MATEMATIKA 7
+  mpcena: 1100.0
+  srbobran: 0
+- sifra: 3067
+  naziv: LO-MUZICKO 6
+  mpcena: 940.0
+  srbobran: 1
+- sifra: 3281
+  naziv: LO-TO I TEHNOLOGIJA 6
+  mpcena: 1240.0
+  srbobran: 0
+- sifra: 3287
+  naziv: GE-MATEMATIKA 6/M
+  mpcena: 1100.0
+  srbobran: 0
+- sifra: 3421
+  naziv: LO-TO I TEHNOLOGIJA 8
+  mpcena: 1240.0
+  srbobran: 0
+- sifra: 3428
+  naziv: GE-HEMIJA 7
+  mpcena: 1210.0
+  srbobran: 0
+- sifra: 3429
+  naziv: GE-RL HEMIJA 7
+  mpcena: 935.0
+  srbobran: 1
+- sifra: 3430
+  naziv: GE-HEMIJA 8
+  mpcena: 1210.0
+  srbobran: 0
+- sifra: 3434
+  naziv: KL-PLAYWAY TO ENGLISH 2
+  mpcena: 980.0
+  srbobran: 0
+- sifra: 3435
+  naziv: KL-RL PLAYWAY TO ENGLISH 2
+  mpcena: 730.0
+  srbobran: 0
+- sifra: 3452
+  naziv: KL-GEOGRAFIJA 5
+  mpcena: 1140.0
+  srbobran: 0
+- sifra: 3457
+  naziv: LO-TO I TEHNOLOGIJA 5 MAT
+  mpcena: 1790.0
+  srbobran: 0
+- sifra: 3595
+  naziv: DA-PRIMA PLUS A1.1
+  mpcena: 1290.0
+  srbobran: 0
+- sifra: 3596
+  naziv: DA-RL PRIMA PLUS A1.1
+  mpcena: 990.0
+  srbobran: 0
+- sifra: 3600
+  naziv: KL-FIZIKA 6/M
+  mpcena: 1070.0
+  srbobran: 0
+- sifra: 3648
+  naziv: KL-FIZIKA 6
+  mpcena: 1070.0
+  srbobran: 0
+- sifra: 3649
+  naziv: KL-ZB FIZIKA 6
+  mpcena: 910.0
+  srbobran: 0
+- sifra: 3671
+  naziv: " "
+- sifra: 3897
+  naziv: LO-CITANKA 2
+  mpcena: 1100.0
+  srbobran: 0
+- sifra: 3898
+  naziv: LO-GRAMATIKA 2
+  mpcena: 870.0
+  srbobran: 0
+- sifra: 3899
+  naziv: LO-RL SRPSKI 2
+  mpcena: 940.0
+  srbobran: 0
+- sifra: 3900
+  naziv: LO-LATINICA 2
+  mpcena: 830.0
+  srbobran: 0
+- sifra: 3901
+  naziv: LO-SVET OKO NAS 2
+  mpcena: 990.0
+  srbobran: 0
+- sifra: 3902
+  naziv: LO-RL SVET OKO NAS 2
+  mpcena: 770.0
+  srbobran: 1
+- sifra: 3904
+  naziv: LO - LIKOVNO 2
+- sifra: 3917
+  naziv: DA-SMART JUNIOR 3
+  mpcena: 1230.0
+  srbobran: 1
+- sifra: 3918
+  naziv: DA-RL SMART JUNIOR 3
+  mpcena: 1090.0
+  srbobran: 1
+- sifra: 3930
+  naziv: ED-3120-CITANKA 3
+  mpcena: 1080.0
+  srbobran: 1
+- sifra: 3931
+  naziv: ED-3041-RL SRPSKI 3
+  mpcena: 950.0
+  srbobran: 0
+- sifra: 3934
+  naziv: ED-3075-PRIRODA I DRUSTVO 3
+  mpcena: 1040.0
+  srbobran: 1
+- sifra: 3935
+  naziv: ED-3141-LIKOVNO 3
+  mpcena: 960.0
+  srbobran: 0
+- sifra: 4022
+  naziv: KL-ZB FIZIKA 8
+  mpcena: 910.0
+  srbobran: 0
+- sifra: 4132
+  naziv: LO-MATEMATIKA 2
+  mpcena: 1990.0
+  srbobran: 1
+- sifra: 4134
+  naziv: LO-MATEMATIKA 3
+  mpcena: 1990.0
+  srbobran: 0
+- sifra: 4151
+  naziv: DA-RL PRIMA PLUS A2.2
+  mpcena: 990.0
+  srbobran: 0
+- sifra: 4188
+  naziv: LO-NS MATEMATIKA 3
+  mpcena: 790.0
+  srbobran: 0
+- sifra: 4199
+  naziv: LO-TO I TEHNOLOGIJA 8 MAT
+  mpcena: 1790.0
+  srbobran: 0
+- sifra: 4209
+  naziv: KL-ZB FIZIKA 7
+  mpcena: 950.0
+  srbobran: 1
+- sifra: 4215
+  naziv: KL - ZB FIZIKA 6/M
+- sifra: 4283
+  naziv: DA-RL TO THE TOP PLUS 1
+  mpcena: 990.0
+  srbobran: 1
+- sifra: 4284
+  naziv: DA-TO THE TOP PLUS 2
+  mpcena: 1420.0
+  srbobran: 0
+- sifra: 4285
+  naziv: DA-RL TO THE TOP PLUS 2
+  mpcena: 990.0
+  srbobran: 0
+- sifra: 4308
+  naziv: GE-BIOLOGIJA 5
+  mpcena: 1430.0
+  srbobran: 0
+- sifra: 4323
+  naziv: LO-MATEMATIKA 5
+- sifra: 4324
+  naziv: LO-ZB MATEMATIKA 5
+  mpcena: 1140.0
+  srbobran: 1
+- sifra: 4334
+  naziv: ZU-41713-MUZICKO 7
+- sifra: 4345
+  naziv: KL-GEOGRAFIJA-6
+  mpcena: 1260.0
+  srbobran: 0
+- sifra: 4354
+  naziv: GE-RL BIOLOGIJA 6
+  mpcena: 935.0
+  srbobran: 0
+- sifra: 4369
+  naziv: GE-RL BIOLOGIJA 7
+- sifra: 4370
+  naziv: LO-ZB FIZIKA 7
+- sifra: 4373
+  naziv: LO-TO I TEHNOLOGIJA 6 MAT
+  mpcena: 1790.0
+  srbobran: 0
+- sifra: 4380
+  naziv: ED-3880-DIGITALNI SVET 3
+  mpcena: 990.0
+  srbobran: 0
+- sifra: 4396
+  naziv: VU - LIKOVNO 4
+- sifra: 4399
+  naziv: KL-LIKOVNO 6
+  mpcena: 850.0
+  srbobran: 0
+- sifra: 4404
+  naziv: KL-INFORMATIKA 6
+  mpcena: 1240.0
+  srbobran: 0
+- sifra: 4411
+  naziv: KL-CITANKA NEMATERNJI 6/M
+  mpcena: 1140.0
+  srbobran: 0
+- sifra: 4412
+  naziv: KL-GRAMATIKA NEMATERNJI 6/M
+  mpcena: 810.0
+  srbobran: 0
+- sifra: 4413
+  naziv: KL-RL SRPSKI NEMATERNJI 6/M
+  mpcena: 640.0
+  srbobran: 0
+- sifra: 4416
+  naziv: FR - LIKOVNO 2
+- sifra: 4417
+  naziv: FR - MATEMATIKA 2
+- sifra: 4418
+  naziv: FR - MUZICKO 2
+- sifra: 4419
+  naziv: FR - SVET OKO NAS 2
+- sifra: 4420
+  naziv: FR - CITANKA 2
+- sifra: 4421
+  naziv: FR - GRAMATIKA 2
+- sifra: 4422
+  naziv: FR - LATINICA 2
+- sifra: 4423
+  naziv: FR - RL SRPSKI 2
+- sifra: 4425
+  naziv: GE-BIOLOGIJA 6/M
+  mpcena: 1430.0
+  srbobran: 0
+- sifra: 4431
+  naziv: BG-GRAMATIKA 6
+  mpcena: 1160.0
+  srbobran: 0
+- sifra: 4432
+  naziv: BG-CITANKA 6
+  mpcena: 1320.0
+  srbobran: 0
+- sifra: 4433
+  naziv: BG-ISTORIJA 6
+  mpcena: 1390.0
+  srbobran: 0
+- sifra: 4449
+  naziv: LO-GEOGRAFIJA 6/M
+  mpcena: 1260.0
+  srbobran: 0
+- sifra: 4450
+  naziv: LO-TO I TEHNOLOGIJA 6/M
+  mpcena: 1240.0
+  srbobran: 0
+- sifra: 4510
+  naziv: GE-ZB MATEMATIKA 6/M
+  mpcena: 1100.0
+  srbobran: 0
+- sifra: 4513
+  naziv: ZU-41819-MUZICKO 8

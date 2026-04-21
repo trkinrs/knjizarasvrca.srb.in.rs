@@ -1,0 +1,8262 @@
+---
+- sifra: 38
+  naziv: PP - ZIVOTINJE U AFRICI
+  mpcena: 199.0
+  srbobran: 0
+- sifra: 47
+  naziv: PP - ZIVOTINJE U MORU
+  mpcena: 199.0
+  srbobran: 2
+- sifra: 78
+  naziv: PP - ZIVOTINJE U BASTI
+  mpcena: 199.0
+  srbobran: 0
+- sifra: 100
+  naziv: PP - PTICE
+  mpcena: 199.0
+  srbobran: 0
+- sifra: 128
+  naziv: PP - MUZICKI INSTRUMENTI
+  mpcena: 199.0
+  srbobran: 1
+- sifra: 151
+  naziv: VU - AVANTURE MALOG DZERIJA
+  mpcena: 899.0
+  srbobran: 1
+- sifra: 152
+  naziv: PP - IGRACKE
+  mpcena: 199.0
+  srbobran: 1
+- sifra: 164
+  naziv: PP - KOJE JE BOJE
+  mpcena: 199.0
+  srbobran: 1
+- sifra: 194
+  naziv: PP - POVRCE
+  mpcena: 199.0
+  srbobran: 2
+- sifra: 217
+  naziv: PP - VOCE
+  mpcena: 199.0
+  srbobran: 0
+- sifra: 235
+  naziv: PP - VOZIMO SE
+  mpcena: 199.0
+  srbobran: 0
+- sifra: 242
+  naziv: PP - ZIVOTINJE U SUMI
+  mpcena: 199.0
+  srbobran: 0
+- sifra: 274
+  naziv: PP - UČIM DA PIŠEM ŠTAMPANA ĆIRILICA
+  mpcena: 260.0
+  srbobran: 0
+  futog: 0
+- sifra: 275
+  naziv: PP - UČIM DA PIŠEM PISANA ĆIRILICA
+  mpcena: 260.0
+  srbobran: 2
+  futog: 1
+- sifra: 281
+  naziv: PP - UČIM DA PIŠEM PISANA LATINICA
+  mpcena: 260.0
+  srbobran: 2
+  futog: 2
+- sifra: 282
+  naziv: PP - MALA SKOLA I STEPEN
+  mpcena: 699.0
+  srbobran: 1
+  futog: 2
+- sifra: 283
+  naziv: PP - MALA SKOLA II STEPEN
+  mpcena: 699.0
+  srbobran: 0
+  futog: 2
+- sifra: 284
+  naziv: PP - MALA SKOLA III STEPEN
+  mpcena: 699.0
+  srbobran: 0
+  futog: 2
+- sifra: 285
+  naziv: PP - MALA SKOLA IV STEPEN
+  mpcena: 699.0
+  srbobran: 0
+  futog: 0
+- sifra: 286
+  naziv: PP - MALA SKOLA V STEPEN
+  mpcena: 699.0
+  srbobran: 1
+  futog: 0
+- sifra: 294
+  naziv: PP - MOJA VELIKA PREDSKOLSKA KNJIGA
+  mpcena: 780.0
+  srbobran: 2
+- sifra: 295
+  naziv: PP - KNJIGA ZA DECAKE SA VISE OD 1000 NALEPNICA
+  mpcena: 680.0
+  srbobran: 2
+- sifra: 296
+  naziv: PP - KNJIGE ZA DEVOJCICE SA VISE OD 1000 NALEPNICA
+  mpcena: 680.0
+  srbobran: 0
+- sifra: 297
+  naziv: PP - MOJA PRVA SLOVARICA
+  mpcena: 3490.0
+  srbobran: 1
+- sifra: 298
+  naziv: PP - VESELI MLADUNCI
+  mpcena: 2790.0
+  srbobran: 1
+- sifra: 303
+  naziv: PP - MOGU DA BRINEM O SVOM LJUBIMCU
+  mpcena: 249.0
+  srbobran: 1
+- sifra: 304
+  naziv: PP - MOGU DA BRINEM O SVOJOJ FARMI
+  mpcena: 249.0
+  srbobran: 2
+- sifra: 305
+  naziv: PP - AZBUKA - KARTONSKA SLIKOVNICA
+  mpcena: 300.0
+  srbobran: 0
+  futog: 1
+- sifra: 306
+  naziv: PP - SUPROTNOSTI - KARTONSKA SLIKOVNICA
+  mpcena: 300.0
+  srbobran: 2
+  futog: 2
+- sifra: 308
+  naziv: PP - DOMACE ZIVOTINJE
+  mpcena: 300.0
+  srbobran: 0
+- sifra: 309
+  naziv: PP - DRUZINA ULICNIH MACORA
+  mpcena: 740.0
+  srbobran: 1
+- sifra: 310
+  naziv: PP - BAS, BAAAS STRASNA NOC
+  mpcena: 740.0
+  srbobran: 1
+- sifra: 312
+  naziv: 'PP - MONTESORI - OTKRIVANJE SVETA '
+  mpcena: 880.0
+  srbobran: 1
+- sifra: 313
+  naziv: PP - MONTESORI MATEMATIKA
+  mpcena: 880.0
+  srbobran: 1
+- sifra: 321
+  naziv: PP - ZIVOTINJE KNJIGA SA VISE OD 1000 NALEPNICA
+  mpcena: 680.0
+  srbobran: 1
+  futog: 2
+- sifra: 323
+  naziv: PP - DOMACE ZIVOTINJE KNJIGA SA VISE OD 1000 NALEPNICA
+  mpcena: 680.0
+  srbobran: 2
+  futog: 2
+- sifra: 324
+  naziv: PP - MOJ SKOLSKI LEKSIKON - BROS
+  mpcena: 400.0
+  srbobran: 0
+  futog: 1
+- sifra: 327
+  naziv: PP - MOJ PRVI LEKSIKON - BROS
+  mpcena: 400.0
+  srbobran: 0
+  futog: 2
+- sifra: 329
+  naziv: PP - OTKRIVAM SVEMIR - AUZOU
+  mpcena: 3490.0
+  srbobran: 1
+- sifra: 332
+  naziv: L - NEBESKE REKE - ELIF SAFAK
+  mpcena: 1399.0
+  srbobran: 2
+  futog: 2
+- sifra: 338
+  naziv: PP - MONTESORI - OTKRIVAM MORE
+  mpcena: 580.0
+  srbobran: 1
+- sifra: 339
+  naziv: PP - MONTESORI - OTKRIVAM SELO
+  mpcena: 580.0
+  srbobran: 1
+- sifra: 341
+  naziv: PP - OTKRIVAM, STVARAM I SMISLJAM SA 3 GODINE
+  mpcena: 740.0
+  srbobran: 0
+  futog: 2
+- sifra: 342
+  naziv: PP - OTKRIVAM, STVARAM I SMISLJAM SA 4 GODINE
+  mpcena: 740.0
+  srbobran: 1
+  futog: 2
+- sifra: 344
+  naziv: PP - OTKRIVAM, STVARAM I SMISLJAM SA 5 GODINA
+  mpcena: 740.0
+  srbobran: 1
+  futog: 1
+- sifra: 345
+  naziv: PP - MONTESORI - NACIN RACUNANJA
+  mpcena: 980.0
+  srbobran: 0
+- sifra: 347
+  naziv: PP - MONTESORI - PRVA OTKRICA
+  mpcena: 580.0
+  srbobran: 0
+- sifra: 348
+  naziv: PP - MONTESORI - SVET OKO MENE
+  mpcena: 580.0
+  srbobran: 0
+  futog: 2
+- sifra: 349
+  naziv: PP - MONTESORI - UCIM DA RACUNAM
+  mpcena: 580.0
+  srbobran: 0
+- sifra: 351
+  naziv: PP - MONTESORI - SVET NAUKE
+  mpcena: 980.0
+  srbobran: 0
+- sifra: 352
+  naziv: PP - KOLIKO JE SATI ?
+  mpcena: 299.0
+  srbobran: 2
+- sifra: 353
+  naziv: PP - ENCIKLOPEDIJA - NAUKA I IZUMI
+  mpcena: 820.0
+  srbobran: 2
+- sifra: 357
+  naziv: L - SEMPER IDEM - ĐORĐE LEBOVIC
+  mpcena: 1399.0
+  srbobran: 1
+  futog: 2
+- sifra: 358
+  naziv: PP - CRTAJ I BOJI - JA VOLIM KUCE
+  mpcena: 599.0
+  srbobran: 1
+- sifra: 364
+  naziv: PP - CRTAJ I BOJI - JA VOLIM MACE
+  mpcena: 599.0
+  srbobran: 2
+- sifra: 372
+  naziv: PP - MONTESORI U VRTICU 2-3
+  mpcena: 880.0
+  srbobran: 0
+  futog: 2
+- sifra: 377
+  naziv: PP - MONTESORI U VRTICU 4-5
+  mpcena: 880.0
+  srbobran: 0
+  futog: 2
+- sifra: 378
+  naziv: PP - MONTESORI U VRTICU 5-6
+  mpcena: 880.0
+  srbobran: 0
+  futog: 1
+- sifra: 380
+  naziv: PP - DRUGARI DINOSAURUSI
+  mpcena: 2190.0
+  srbobran: 0
+- sifra: 383
+  naziv: PP - BAJKE - MILES KELLY
+  mpcena: 2190.0
+  srbobran: 1
+- sifra: 384
+  naziv: PP - BIBLIJSKE PRICE - MILES KELLY
+  mpcena: 2190.0
+  srbobran: 1
+- sifra: 387
+  naziv: PP - PIŠEM LATINICU
+  mpcena: 500.0
+  srbobran: 1
+  futog: 1
+- sifra: 388
+  naziv: PP - TRAZI I PRONADJI - ZEMLJA USKRSNJEG ZEKE
+  mpcena: 499.0
+  srbobran: 0
+  futog: 3
+- sifra: 390
+  naziv: PP - KNJIGA ZA PREDSKOLCE PO NOVIM OSNOVAMA
+  mpcena: 1180.0
+  srbobran: 1
+  futog: 0
+- sifra: 391
+  naziv: PP - ZAGOLICAJ TIGRA!
+  mpcena: 980.0
+  srbobran: 1
+- sifra: 392
+  naziv: PP - ZAGOLICAJ JEDNOROGA !
+  mpcena: 980.0
+  srbobran: 1
+- sifra: 394
+  naziv: 'PP - MAMA '
+  mpcena: 1490.0
+  srbobran: 1
+- sifra: 395
+  naziv: PP - TATA
+  mpcena: 1490.0
+  srbobran: 1
+- sifra: 397
+  naziv: PP - MONTESORI ZA BEBE - VELIKO ILI MALO
+  mpcena: 699.0
+  srbobran: 1
+- sifra: 398
+  naziv: PP - MONTESORI ZA BEBE - BASTA
+  mpcena: 699.0
+  srbobran: 1
+- sifra: 400
+  naziv: PP - MONTESORI ZA EBBE - PRATI ME !
+  mpcena: 699.0
+  srbobran: 0
+- sifra: 401
+  naziv: 'PP - KNJIGA SA MAGNETIMA '
+  mpcena: 1080.0
+  srbobran: 0
+- sifra: 402
+  naziv: PP - ZIVOTINJE SVETA - DODIRNI, OSETI, SLUSAJ
+  mpcena: 2490.0
+  srbobran: 0
+- sifra: 403
+  naziv: PP - PIŠEM ĆIRILICU
+  mpcena: 500.0
+  srbobran: 0
+  futog: 0
+- sifra: 406
+  naziv: PP - MOJA PRVA BIBLIOTEKA - OSECANJA SASSI
+  mpcena: 1980.0
+  srbobran: 0
+- sifra: 407
+  naziv: PP - BOJANKA - POD VODOM
+  mpcena: 119.0
+  srbobran: 1
+- sifra: 411
+  naziv: PP - FANTASTICNO PUTOVANJE - KNJIGA AKTIVNOSTI
+  mpcena: 399.0
+  srbobran: 2
+- sifra: 412
+  naziv: PP - SVEMIR - KNJIGA AKTIVNOSTI
+  mpcena: 399.0
+  srbobran: 1
+  futog: 2
+- sifra: 413
+  naziv: PP - MOZGALICE - KNJIGA AKTIVNOSTI
+  mpcena: 499.0
+  srbobran: 2
+  futog: 2
+- sifra: 415
+  naziv: PP - DINOSAURUSI, PANDE I DRUGARI - KNJIGA AKTIVNOSTI
+  mpcena: 399.0
+  srbobran: 2
+  futog: 2
+- sifra: 416
+  naziv: PP - PRINCEZE, SIRENE I JEDNOROZI - KNJIGA AKTIVNOSTI
+  mpcena: 399.0
+  srbobran: 2
+  futog: 1
+- sifra: 417
+  naziv: PP - BOJANKA - BILJKE
+  mpcena: 119.0
+  srbobran: 1
+  futog: 1
+- sifra: 418
+  naziv: PP - PREVUCI I OTKRIJ - ZBOGOM PELENE
+  mpcena: 999.0
+  srbobran: 1
+  futog: 1
+- sifra: 421
+  naziv: PP - PREVUCI I OTKRIJ - ZBOGOM CUCLO
+  mpcena: 999.0
+  srbobran: 1
+- sifra: 425
+  naziv: PP - LEGENDARNE ZENE KOJE SU PROMENILE SVET
+  mpcena: 1590.0
+  srbobran: 1
+- sifra: 430
+  naziv: PP - IZVUCI I OTKRIJ - U POKRETU
+  mpcena: 1190.0
+  srbobran: 0
+- sifra: 431
+  naziv: PP - PROVIRI I OTKRIJ KO SE KRIJE
+  mpcena: 1190.0
+  srbobran: 1
+- sifra: 433
+  naziv: PP - BEBA SE VOZI - AUTO
+  mpcena: 999.0
+  srbobran: 0
+- sifra: 435
+  naziv: L - SKRIVENA DEVOJKA - LUSINDA RAJLI
+  mpcena: 1299.0
+  srbobran: 1
+  futog: 2
+- sifra: 436
+  naziv: PP - BEBA SE VOZI - AVION
+  mpcena: 999.0
+  srbobran: 1
+- sifra: 438
+  naziv: PP - BEBA SE VOZI - TRAKTOR
+  mpcena: 999.0
+  srbobran: 1
+- sifra: 441
+  naziv: PP - BEBA SE VOZI - VOZ
+  mpcena: 999.0
+  srbobran: 1
+- sifra: 442
+  naziv: PP - POVUCI, POTEGNI, OKRENI - FARMA
+  mpcena: 1190.0
+  srbobran: 0
+  futog: 1
+- sifra: 448
+  naziv: PP - POVUCI, POTEGNI, OKRENI - KOPACI
+  mpcena: 1190.0
+  srbobran: 0
+  futog: 0
+- sifra: 449
+  naziv: PP - POVUCI, POTEGNI, OKRENI - OKEAN
+  mpcena: 1190.0
+  srbobran: 1
+- sifra: 454
+  naziv: PP - POVUCI, POTEGNI, OKRENI - SPASIOCI
+  mpcena: 1190.0
+  srbobran: 1
+- sifra: 455
+  naziv: PP - BEBINE PRVE PRICE - 0-3 MESECA
+  mpcena: 1290.0
+  srbobran: 0
+- sifra: 464
+  naziv: PP - BEBINE PRVE PRICE - 3-6 MESECI
+  mpcena: 1290.0
+  srbobran: 1
+- sifra: 465
+  naziv: PP - BEBINE PRVE PRICE - 6-9 MESECI
+  mpcena: 1290.0
+  srbobran: 1
+- sifra: 468
+  naziv: PP - BEBINE PRVE PRICE - 9-12 MESECI
+  mpcena: 1290.0
+  srbobran: 1
+- sifra: 469
+  naziv: PP - IGRAJ SE I UCI - VATROGASCI SASSI
+  mpcena: 1799.0
+  srbobran: 0
+- sifra: 470
+  naziv: PP - IGRAJ SE I UCI - VOZOVI SASSI
+  mpcena: 1799.0
+  srbobran: 1
+- sifra: 471
+  naziv: PP - KNJIGE U OBLICIMA - VOLI TE BAKA
+  mpcena: 1190.0
+  srbobran: 1
+- sifra: 473
+  naziv: PP - KNJIGE U OBLICIMA - VOLI TE DEKA
+  mpcena: 1190.0
+  srbobran: 0
+- sifra: 474
+  naziv: PP - 50 ZVUKOVA - TRAZI I PRONADJI - U POKRETU
+  mpcena: 2390.05
+  srbobran: 1
+- sifra: 475
+  naziv: PP - SLATKE ZVUCNE PRICE - NA FARMI
+  mpcena: 1490.0
+  srbobran: 0
+- sifra: 476
+  naziv: PP - SLATKE ZVUCNE PRICE - U SAVANI
+  mpcena: 1490.0
+  srbobran: 2
+- sifra: 478
+  naziv: PP - SLATKE ZVUCNE PRICE - U MORU
+  mpcena: 1490.0
+  srbobran: 2
+- sifra: 483
+  naziv: PP - SLATKE ZVUCNE PRICE - U SUMI
+  mpcena: 1490.0
+  srbobran: 0
+- sifra: 485
+  naziv: PP - PRINCEZIN ZAMAK - KNJIGA I 3D ZAMAK
+  mpcena: 2490.0
+  srbobran: 1
+- sifra: 487
+  naziv: PP - PREVOZNA SREDSTVA - KARTONSKA SLIKOVNICA
+  mpcena: 299.0
+  srbobran: 2
+  futog: 2
+- sifra: 489
+  naziv: PP - ZANIMANJA - KARTONSKA SLIKOVNICA
+  mpcena: 299.0
+  srbobran: 1
+  futog: 2
+- sifra: 493
+  naziv: PP - GODISNJA DOBA - KARTONSKA SLIKOVNICA
+  mpcena: 299.0
+  srbobran: 2
+  futog: 2
+- sifra: 495
+  naziv: PP - ZIVOTINJE SA FARME - MINI ISKAKALICE
+  mpcena: 1080.0
+  srbobran: 0
+- sifra: 501
+  naziv: PP - MLADUNCI - MINI ISKAKALICE
+  mpcena: 1080.0
+  srbobran: 0
+- sifra: 505
+  naziv: PP - KNJIGA SA MAGNETIMA - ZIVOTINJE
+  mpcena: 1080.0
+  srbobran: 1
+- sifra: 506
+  naziv: PP - JA SAM AUTO
+  mpcena: 980.0
+  srbobran: 0
+  futog: 1
+- sifra: 507
+  naziv: PP - JA SAM DINOSAURUS
+  mpcena: 980.0
+  srbobran: 2
+  futog: 1
+- sifra: 508
+  naziv: PP - ZIVOTINJE OTKRIVALICE - FARMA
+  mpcena: 980.0
+  srbobran: 0
+  futog: 0
+- sifra: 510
+  naziv: PP - ZIVOTINJE OTKRIVALICE - DZUNGLA
+  mpcena: 980.0
+  srbobran: 2
+  futog: 1
+- sifra: 512
+  naziv: PP - MOJA PRVA KNJIGA TORBICA - FARMA
+  mpcena: 399.0
+  srbobran: 0
+  futog: 2
+- sifra: 513
+  naziv: PP - MOJA PRVA KNJIGA TORBICA - ZIVOTINJE
+  mpcena: 399.0
+  srbobran: 0
+  futog: 2
+- sifra: 519
+  naziv: PP - MOJA PRVA KNJIGA TORBICA - POD VODOM
+  mpcena: 399.0
+  srbobran: 2
+  futog: 2
+- sifra: 520
+  naziv: PP - MOJA PRVA KNJIGA TORBICA - PRVE RECI
+  mpcena: 399.0
+  srbobran: 0
+- sifra: 523
+  naziv: PP - ENGLESKI KROZ IGRU DO ZNANJA
+  mpcena: 380.0
+  srbobran: 2
+- sifra: 526
+  naziv: PP - 100 ZADATAKA 3 GODINE
+  mpcena: 699.0
+  srbobran: 0
+  futog: 1
+- sifra: 532
+  naziv: PP - 100 ZADATAKA 4 GODINE
+  mpcena: 699.0
+  srbobran: 0
+  futog: 2
+- sifra: 535
+  naziv: PP - 100 ZADATAKA 5 GODINA
+  mpcena: 699.0
+  srbobran: 0
+  futog: 0
+- sifra: 540
+  naziv: PP - IGRA SKRIVALICA - GDE JE LAV ?
+  mpcena: 1290.0
+  srbobran: 0
+- sifra: 541
+  naziv: PP - IGRA SKRIVALICA - GDE JE MEDVED ?
+  mpcena: 1290.0
+  srbobran: 2
+- sifra: 542
+  naziv: PP - 100 ZADATAKA 2 GODINE
+  mpcena: 699.0
+  srbobran: 1
+  futog: 1
+- sifra: 544
+  naziv: PP - 100 ZADATAKA 6 GODINA
+  mpcena: 699.0
+  srbobran: 0
+  futog: 0
+- sifra: 549
+  naziv: PP - VELIKE MASINE - KOPACI
+  mpcena: 399.0
+  srbobran: 1
+  futog: 2
+- sifra: 550
+  naziv: PP - VELIKE MASINE - SPASIOCI
+  mpcena: 399.0
+  srbobran: 2
+  futog: 2
+- sifra: 552
+  naziv: PP - VELIKE MASINE - KAMIONI
+  mpcena: 399.0
+  srbobran: 2
+  futog: 2
+- sifra: 554
+  naziv: PP - VELIKE MASINE - TRAKTORI
+  mpcena: 399.0
+  srbobran: 2
+  futog: 2
+- sifra: 557
+  naziv: L - ŽIVOTINJSKA FARMA - DŽORDŽ ORVEL
+  mpcena: 799.0
+  srbobran: 1
+- sifra: 560
+  naziv: L - 1984 - DŽORDŽ ORVEL
+  mpcena: 1199.0
+  srbobran: 1
+  futog: 2
+- sifra: 562
+  naziv: L - PISMA MILENI - FRANC KAFKA
+  mpcena: 899.0
+  srbobran: 2
+- sifra: 565
+  naziv: L - STRANAC U ŠUMI - VLADIKA GRIGORIJE
+  mpcena: 899.0
+  srbobran: 2
+- sifra: 566
+  naziv: L - SREĆA JE PITI ČAJ SA TOBOM - MAMEN SANČES
+  mpcena: 999.0
+  srbobran: 2
+  futog: 1
+- sifra: 570
+  naziv: L - MAČAK KOJI JE SPASAO BIBLIOTEKU - SOSUKE NACUKAVA
+  mpcena: 799.0
+  srbobran: 2
+  futog: 2
+- sifra: 571
+  naziv: L - DEVOJKA POD DRVETOM - SARA BLEDEL
+  mpcena: 1199.0
+  srbobran: 2
+  futog: 2
+- sifra: 575
+  naziv: L - NAROD ŠTO PO SNEGU SEJE - TINA HARNESK
+  mpcena: 999.0
+  srbobran: 2
+- sifra: 577
+  naziv: L - DNEVNIK JEDNOG ČAROBNJAKA - PAULO KOELJO
+  mpcena: 1199.0
+  srbobran: 2
+  futog: 2
+- sifra: 579
+  naziv: L - NEPODNOŠLJIVA LAKOĆA POSTOJANJA - MILAN KUNDERA
+  mpcena: 1199.0
+  srbobran: 2
+  futog: 2
+- sifra: 589
+  naziv: L - NASLEĐE - DŽESI ROZEN
+  mpcena: 1299.0
+  srbobran: 1
+  futog: 2
+- sifra: 593
+  naziv: L - TRAGOVI ČUDA - NIKOLAS SPARKS
+  mpcena: 1099.0
+  srbobran: 2
+  futog: 2
+- sifra: 600
+  naziv: L - PREŽIVETI SMRT - VESNA RADUSINOVIĆ
+  mpcena: 899.0
+  srbobran: 1
+  futog: 2
+- sifra: 601
+  naziv: L - DOBRO RAZMISLI - HARLAN KOBEN
+  mpcena: 1199.0
+  srbobran: 2
+  futog: 2
+- sifra: 605
+  naziv: L - KUĆA NA RIVIJERI - NATAŠA LESTER
+  mpcena: 1399.0
+  srbobran: 2
+- sifra: 607
+  naziv: 'L - ATLAS - PRIČE TATE SOLTA - LUSINDA RAJLI '
+  mpcena: 1399.0
+  srbobran: 2
+  futog: 2
+- sifra: 608
+  naziv: L - ANĐEOSKO DRVO - LUSINDA RAJLI
+  mpcena: 1299.0
+  srbobran: 2
+  futog: 2
+- sifra: 609
+  naziv: L - SVETLO U PROZORU - LUSINDA RAJLI
+  mpcena: 1299.0
+  srbobran: 2
+  futog: 2
+- sifra: 610
+  naziv: L - SOBA LEPTIRA - LUSINDA RAJLI
+  mpcena: 1299.0
+  srbobran: 2
+  futog: 2
+- sifra: 611
+  naziv: L - POSLEDNJI SATI - JELENA BAČIĆ ALIMPIĆ
+  mpcena: 1099.0
+  srbobran: 2
+  futog: 2
+- sifra: 614
+  naziv: L - KLETVA - JELENA BAČIĆ ALIMPIĆ
+  mpcena: 999.0
+  srbobran: 1
+  futog: 2
+- sifra: 617
+  naziv: L - KOFER IZ BERLINA - JELENA BAČIĆ ALIMPIĆ
+  mpcena: 999.0
+  srbobran: 0
+  futog: 2
+- sifra: 623
+  naziv: L - OSTRVO STAKLA - TREJSI ŠEVALIJE
+  mpcena: 1199.0
+  srbobran: 2
+  futog: 2
+- sifra: 624
+  naziv: L - NADA - ANTE TOMIĆ
+  mpcena: 899.0
+  srbobran: 2
+  futog: 2
+- sifra: 628
+  naziv: L - ESTORIL - DEJAN TIJAGO - STANKOVIĆ
+  mpcena: 1099.0
+  srbobran: 1
+  futog: 2
+- sifra: 634
+  naziv: L - ODAKLE SAM BILA VIŠE NISAM - DEJAN TIAGO - STANKOVIĆ
+  mpcena: 1099.0
+  srbobran: 1
+  futog: 2
+- sifra: 636
+  naziv: L - DUŽ OŠTROG NOŽA LETI PTICA - TANJA STUPAR TRIFUNOVIĆ
+  mpcena: 699.0
+  srbobran: 2
+  futog: 2
+- sifra: 637
+  naziv: L - DETE U TEBI MORA DA PRONAĐE SVOJ ZAVIČAJ - ŠTEFANI ŠTAL
+  mpcena: 999.0
+  srbobran: 2
+  futog: 2
+- sifra: 638
+  naziv: L - TUPAK ŠAKUR - AUTORIZOVANA BIOGRAFIJA - STEJSI ROBINSON
+  mpcena: 1599.0
+  srbobran: 1
+  futog: 2
+- sifra: 640
+  naziv: L - SVE ŠTO ZNAM O LJUBAVI - DOLI OLDERTON
+  mpcena: 999.0
+  srbobran: 2
+  futog: 2
+- sifra: 641
+  naziv: L - CRVENE ZASTAVICE, ZELENE ZASTAVICE - DR ALI FENIK
+  mpcena: 1099.0
+  srbobran: 2
+  futog: 2
+- sifra: 642
+  naziv: L - TOPLINA GNEZDA KOJA DAJE KRILA - ŠTEFANI ŠTAL I JULIJA TOMUŠAT
+  mpcena: 999.0
+  srbobran: 2
+  futog: 2
+- sifra: 644
+  naziv: L - POSTAVITE GRANICE, PRONAĐITE MIR - NEDRA GLOVER TAVAB
+  mpcena: 1099.0
+  srbobran: 2
+  futog: 2
+- sifra: 648
+  naziv: PP - BOJANKA - DOMAĆE ŽIVOTINJE
+  mpcena: 119.0
+  srbobran: 0
+  futog: 2
+- sifra: 649
+  naziv: L - NEKSUS - JUVAL NOA HARARI
+  mpcena: 1599.0
+  srbobran: 2
+- sifra: 651
+  naziv: L - OJAČAJ SAMOPOUZDANJE - ŠTEFANI ŠTAL
+  mpcena: 999.0
+  srbobran: 2
+  futog: 1
+- sifra: 652
+  naziv: L - HARIZMA CARA DUŠANA - KOSTA NIKOLIĆ
+  mpcena: 999.0
+  srbobran: 2
+- sifra: 653
+  naziv: L - ZAŠTO TAKO OZBILJNO ? - MAJK SINGER
+  mpcena: 1299.0
+  srbobran: 2
+  futog: 2
+- sifra: 656
+  naziv: L - GORKA PILULA - PAVLE ZELIĆ
+  mpcena: 999.0
+  srbobran: 2
+- sifra: 657
+  naziv: L - HAJDUK IZ BEOGRADA - GRADIMIR STOJKOVIĆ
+  mpcena: 799.0
+  srbobran: 1
+- sifra: 659
+  naziv: L - HAJDUK NA DUNAVU - GRADIMIR STOJKOVIĆ
+  mpcena: 799.0
+  srbobran: 1
+- sifra: 660
+  naziv: L - ZMAJEVA RIZNICA - JOVAN JOVANOVIĆ ZMAJ
+  mpcena: 1099.0
+  srbobran: 1
+- sifra: 666
+  naziv: L - MALI PRINC TP - ANTOAN DE SENT EGZIPERI
+  mpcena: 499.0
+  srbobran: 1
+- sifra: 667
+  naziv: L - MALI PRINC - ANTOAN DE SENT EGZIPERI
+  mpcena: 2099.0
+  srbobran: 2
+- sifra: 671
+  naziv: 'L - BAJKE : PRVIH SEDAM - UROŠ PETROVIĆ'
+  mpcena: 999.0
+  srbobran: 2
+- sifra: 675
+  naziv: 'L - BAJKE : DRUGIH SEDAM - UROŠ PETROVIĆ'
+  mpcena: 999.0
+  srbobran: 2
+- sifra: 676
+  naziv: 'L - BAJKE : TREĆIH SEDAM - UROŠ PETROVIĆ'
+  mpcena: 999.0
+  srbobran: 2
+- sifra: 678
+  naziv: L - DOŽIVLJAJI MAČKA TOŠE - BRANKO ĆOPIĆ
+  mpcena: 599.0
+  srbobran: 2
+  futog: 2
+- sifra: 681
+  naziv: L - PONOĆNI CIRKUS - UROŠ PETROVIĆ
+  mpcena: 1499.0
+  srbobran: 2
+- sifra: 682
+  naziv: L - BAJKA O LEDEMONU - UROŠ PETROVIĆ
+  mpcena: 1499.0
+  srbobran: 2
+- sifra: 685
+  naziv: L - ZAČARANA SPRAVA - UROŠ PETROVIĆ
+  mpcena: 1499.0
+  srbobran: 2
+- sifra: 690
+  naziv: L - ZEC I MEDVEDICA - ČUDNE ZEČIJE NAVIKE - DŽULIJAN GOF I DŽIM FILD
+  mpcena: 499.0
+  srbobran: 2
+- sifra: 691
+  naziv: L - ZEC I MEDVEDICA - KO TO NOĆU OŠTRI ZUBE ? - DŽULIJAN GOF I DŽIM FILD
+  mpcena: 499.0
+  srbobran: 2
+- sifra: 695
+  naziv: L - MEDA ČEDA - SAMO OKRENI, ODELO PROMENI
+  mpcena: 1799.0
+  srbobran: 2
+- sifra: 698
+  naziv: L - MEDA ČEDA - IDE NA MORE
+  mpcena: 999.0
+  srbobran: 2
+- sifra: 701
+  naziv: L - MEDA ČEDA - MALI BAŠTOVAN
+  mpcena: 999.0
+  srbobran: 1
+- sifra: 702
+  naziv: L - MEDA ČEDA - U PARKIĆU
+  mpcena: 999.0
+  srbobran: 0
+- sifra: 706
+  naziv: L - JA SAM HEROJ 1 - KENGO HANAZAVA
+  mpcena: 649.0
+  srbobran: 2
+- sifra: 708
+  naziv: L - JA SAM HEROJ 2 - KENGO HANAZAVA
+  mpcena: 649.0
+  srbobran: 2
+- sifra: 709
+  naziv: L - JA SAM HEROJ 3 - KENGO HANAZAVA
+  mpcena: 649.0
+  srbobran: 2
+- sifra: 710
+  naziv: L - JA SAM HEROJ 4 - KENGO HANAZAVA
+  mpcena: 649.0
+  srbobran: 2
+- sifra: 711
+  naziv: L - LAKU NOĆ DECO - GRUPA AUTORA
+  mpcena: 1799.0
+  srbobran: 1
+- sifra: 712
+  naziv: L - LAKU NOĆ, PUNPUNE 1 - INIO ASANO
+  mpcena: 449.0
+  srbobran: 2
+- sifra: 715
+  naziv: L - LAKU NOĆ, PUNPUNE 2 - INIO ASANO
+  mpcena: 449.0
+  srbobran: 2
+- sifra: 721
+  naziv: L - LAKU NOĆ, PUNPUNE 3 - INIO ASANO
+  mpcena: 449.0
+  srbobran: 2
+- sifra: 722
+  naziv: L - LAKU NOĆ, PUNPUNE 4 - INIO ASANO
+  mpcena: 449.0
+  srbobran: 2
+- sifra: 725
+  naziv: L - KOMI NE UME DA KOMUNICIRA 1 - TOMOHITO ODA
+  mpcena: 549.0
+  srbobran: 2
+- sifra: 728
+  naziv: L - KOMI NE UME DA KOMUNICIRA 2 - TOMOHITO ODA
+  mpcena: 549.0
+  srbobran: 2
+- sifra: 729
+  naziv: L - KOMI NE UME DA KOMUNICIRA 3 - TOMOHITO ODA
+  mpcena: 549.0
+  srbobran: 2
+- sifra: 731
+  naziv: L - KOMI NE UME DA KOMUNICIRA 4 - TOMOHITO ODA
+  mpcena: 549.0
+  srbobran: 2
+- sifra: 732
+  naziv: L - MEDA I PTIĆ - IZLET I DRUGE PRIČE - DŽARVIS
+  mpcena: 599.0
+  srbobran: 2
+- sifra: 733
+  naziv: L - MEDA I PTIĆ - PUSTOLOVINA I DRUGE PRIČE - DŽARVIS
+  mpcena: 599.0
+  srbobran: 2
+- sifra: 734
+  naziv: L - BARSELONA - MERI KOSTELO
+  mpcena: 799.0
+  srbobran: 2
+  futog: 2
+- sifra: 736
+  naziv: L - OBIČNO PETKOM - MIROSLAV ANTIĆ
+  mpcena: 1299.0
+  srbobran: 1
+- sifra: 738
+  naziv: L - BRIDŽET DŽOUNS - LUDA ZA NJIM - HELEN FILDING
+  mpcena: 1099.0
+  srbobran: 2
+  futog: 2
+- sifra: 739
+  naziv: L - KAROTA - DARKO TUŠEVLJAKOVIĆ
+  mpcena: 999.0
+  srbobran: 2
+- sifra: 740
+  naziv: L - MOJ SUPER BLOK - DINOSAURI SA NALEPNICAMA
+  mpcena: 699.0
+  srbobran: 0
+- sifra: 741
+  naziv: L - MOJ SUPER BLOK - ŽIVOTINJE SA NALEPNICAMA
+  mpcena: 699.0
+  srbobran: 1
+- sifra: 742
+  naziv: L - MOJA SLATKA BOJANKICA 1
+  mpcena: 999.0
+  srbobran: 2
+- sifra: 743
+  naziv: L - MOJA SLATKA BOJANKICA 2
+  mpcena: 999.0
+  srbobran: 2
+- sifra: 744
+  naziv: L - NIJE PROBLEM U TEBI - RAMANI DURVASULA
+  mpcena: 1099.0
+  srbobran: 2
+- sifra: 747
+  naziv: L - RANJENI ORAO - MILICA JAKOVLJEVIĆ MIR-JAM
+  mpcena: 999.0
+  srbobran: 2
+  futog: 2
+- sifra: 752
+  naziv: L - TO JE BILO JEDNE NOĆI NA JADRANU - MILICA JAKOVLJEVIĆ MIR-JAM
+  mpcena: 999.0
+  srbobran: 2
+  futog: 2
+- sifra: 753
+  naziv: 'L - ALIJA : ULEMA ILI BALIJA ? - NENAD KECMANOVIĆ I DARKO TANASKOVIĆ'
+  mpcena: 999.0
+  srbobran: 2
+- sifra: 754
+  naziv: L - DA SI DOBRA, I BOG BI TE IMAO - BRANKO ANĐIĆ
+  mpcena: 999.0
+  srbobran: 2
+- sifra: 755
+  naziv: L - POVREDE NA RADU - MARKO VIDOJKOVIĆ
+  mpcena: 999.0
+  srbobran: 2
+- sifra: 756
+  naziv: PP - MALA ŠKOLA II STEPEN
+  mpcena: 699.0
+  srbobran: 0
+- sifra: 757
+  naziv: PP - UČIM DA PIŠEM ŠTAMPANA LATINICA
+  mpcena: 260.0
+  srbobran: 2
+  futog: 2
+- sifra: 758
+  naziv: PP - MOJ PRVI BUKVAR
+  mpcena: 620.0
+  srbobran: 1
+  futog: 2
+- sifra: 759
+  naziv: PP - BOJANKA - MAJMUN
+  mpcena: 119.0
+  srbobran: 0
+- sifra: 760
+  naziv: PP - MONTESORI ZA BEBE - VOZILA
+  mpcena: 699.0
+  srbobran: 0
+- sifra: 761
+  naziv: PP - ŽIVOTINJE - PRITISNI I SLUŠAJ
+  mpcena: 1490.0
+  srbobran: 0
+- sifra: 762
+  naziv: PP - UČIMO S LJUBAVLJU - BIĆU HRABRA!
+  mpcena: 299.0
+  srbobran: 2
+  futog: 2
+- sifra: 763
+  naziv: PP - UČIMO S LJUBAVLJU - NAUČIĆU DA DELIM!
+  mpcena: 299.0
+  srbobran: 2
+  futog: 2
+- sifra: 764
+  naziv: PP - UČIMO S LJUBAVLJU - BIĆU DOBAR!
+  mpcena: 299.0
+  srbobran: 2
+  futog: 2
+- sifra: 765
+  naziv: PP - UČIMO S LJUBAVLJU - BIĆU UPORNA!
+  mpcena: 299.0
+  srbobran: 2
+  futog: 2
+- sifra: 766
+  naziv: PP - ŽIVOTINJE OTKRIVALICE - FARMA
+  mpcena: 980.0
+  srbobran: 0
+- sifra: 767
+  naziv: PP - 100 ZADATAKA - 6 GODINA
+  mpcena: 699.0
+  srbobran: 1
+- sifra: 768
+  naziv: PP - 100 ZADATAKA - 4 GODINE
+  mpcena: 699.0
+  srbobran: 0
+- sifra: 770
+  naziv: VU - ČUDESNE BAJKE
+  mpcena: 249.0
+  srbobran: 2
+- sifra: 772
+  naziv: VU - KETKID - KLUB STRIPOLJUBACA
+  mpcena: 1199.0
+  srbobran: 1
+- sifra: 773
+  naziv: VU - KREATIVNI BLOK - REŠITE ZADATKE I OBOJTE
+  mpcena: 799.0
+  srbobran: 0
+- sifra: 774
+  naziv: VU - KREATIVNI SET
+  mpcena: 599.0
+  srbobran: 0
+- sifra: 775
+  naziv: VU - KUĆICA ZA LUTKE SA ISKAKALICAMA
+  mpcena: 1499.0
+  srbobran: 1
+- sifra: 778
+  naziv: VU - KVIZ ZA CELU PORODICU
+  mpcena: 599.0
+  srbobran: 0
+- sifra: 779
+  naziv: VU - MALI PRINC - LUX
+  mpcena: 1399.0
+  srbobran: 1
+- sifra: 781
+  naziv: 'VU - BOOKMAKRKERI '
+  mpcena: 110.0
+  srbobran: 52
+- sifra: 783
+  naziv: VU - MINUT PRIČA ZA LAKU NOĆ
+  mpcena: 999.0
+  srbobran: 0
+- sifra: 784
+  naziv: VU - MOJ DNEVNIK
+  mpcena: 599.0
+  srbobran: 0
+- sifra: 785
+  naziv: VU - MOJ JEDNOROG I JA
+  mpcena: 999.0
+  srbobran: 1
+- sifra: 787
+  naziv: VU - BEZ DAHA
+  mpcena: 1299.0
+  srbobran: 0
+- sifra: 788
+  naziv: VU - MOJA KNJIGA PUNA NALEPNICA
+  mpcena: 399.0
+  srbobran: 1
+- sifra: 789
+  naziv: VU - MOJE NAJDRAŽE BAJKE
+  mpcena: 249.0
+  srbobran: 3
+- sifra: 790
+  naziv: VU - ČOVEK IZ OGLEDALA
+  mpcena: 499.0
+  srbobran: 0
+- sifra: 791
+  naziv: VU - OTVORI PROZORČIĆE I PRONAĐI ŽIVOTINJE
+  mpcena: 499.0
+  srbobran: 0
+- sifra: 792
+  naziv: VU - ČOVEK OD KESTENA
+  mpcena: 499.0
+  srbobran: 0
+- sifra: 793
+  naziv: VU - PRIČE O ZMAJEVIMA I NESTVARNIM ŽIVOTINJAMA
+  mpcena: 899.0
+  srbobran: 1
+- sifra: 794
+  naziv: VU - SRPSKE NARODNE BAJKE I PRIČE
+  mpcena: 999.0
+  srbobran: 0
+- sifra: 795
+  naziv: VU - GLEDAJ KAKO RASTEM - KROKODIL
+  mpcena: 799.0
+  srbobran: 0
+- sifra: 796
+  naziv: VU - TRAŽITE I PRONAĐITE
+  mpcena: 1199.0
+  srbobran: 2
+- sifra: 799
+  naziv: VU - GLEDAJ KAKO RASTEM - MEDA
+  mpcena: 799.0
+  srbobran: 0
+- sifra: 800
+  naziv: VU - VELIKA PITANJA I ODGOVORI
+  mpcena: 899.0
+  srbobran: 2
+- sifra: 801
+  naziv: VU - VELIKA RIZNICA PESAMA TP
+  mpcena: 2390.0
+  srbobran: 1
+  futog: 1
+- sifra: 803
+  naziv: L - KIKI I COLE - NAJBOLJI NEPRIJATELJI - BOJAN LJUBENOVIĆ
+  mpcena: 1299.0
+  srbobran: 2
+- sifra: 806
+  naziv: L - ANĐEO S JEDNIM KRILOM - LJILJANA ŠARAC
+  mpcena: 699.0
+  srbobran: 2
+  futog: 2
+- sifra: 808
+  naziv: L - NIJE MI OVO TREBALO - LJILJANA ŠARAC
+  mpcena: 699.0
+  srbobran: 2
+  futog: 2
+- sifra: 809
+  naziv: L - POTRAGA ZA ZLATNOM STRELOM - BOJAN LJUBENOVIĆ
+  mpcena: 899.0
+  srbobran: 1
+- sifra: 810
+  naziv: L - DA JE BOLJE, NE BI VALJALO - BOJAN LJUBENOVIĆ
+  mpcena: 1099.0
+  srbobran: 1
+  futog: 2
+- sifra: 811
+  naziv: L - NIŠTA NIJE SMEŠNO - BOJAN LJUBENOVIĆ
+  mpcena: 899.0
+  srbobran: 2
+- sifra: 812
+  naziv: L - SRBIJO BOG TI POMOGO - BOJAN LJUBENOVIĆ
+  mpcena: 1099.0
+  srbobran: 2
+  futog: 2
+- sifra: 813
+  naziv: L - AZBUKA MOG ŽIVOTA - MIRJANA BOBIĆ MOJSILOVIĆ
+  mpcena: 1099.0
+  srbobran: 2
+  futog: 2
+- sifra: 814
+  naziv: L - BABA NEMOJ NIŠTA DA ME PITAŠ - MIRJANA BOBIĆ MOJSILOVIĆ
+  mpcena: 1099.0
+  srbobran: 2
+  futog: 2
+- sifra: 815
+  naziv: L - GOSPODIN POGREŠNI - MIRJANA BOBIĆ MOJSILOVIĆ
+  mpcena: 1099.0
+  srbobran: 2
+  futog: 2
+- sifra: 816
+  naziv: L - MUŠKA AZBUKA - MIRJANA BOBIĆ MOJSILOVIĆ
+  mpcena: 1099.0
+  srbobran: 2
+  futog: 2
+- sifra: 817
+  naziv: L - SAZVEŽĐE SVITACA - MIRJANA BOBIĆ MOJSILOVIĆ
+  mpcena: 1199.0
+  srbobran: 2
+  futog: 2
+- sifra: 818
+  naziv: L - DNEVNIK SRPSKE DOMAĆICE - MIRJANA BOBIĆ MOJSILOVIĆ
+  mpcena: 1099.0
+  srbobran: 2
+  futog: 2
+- sifra: 821
+  naziv: L - HAPPY END - MIRJANA BOBIĆ MOJSILOVIĆ
+  mpcena: 1099.0
+  srbobran: 2
+  futog: 2
+- sifra: 823
+  naziv: L - GLAD - MIRJANA BOBIĆ MOJSILOVIĆ
+  mpcena: 1099.0
+  srbobran: 2
+  futog: 2
+- sifra: 824
+  naziv: L - DOK SVETAC DBI - LJILJANA ŠARAC
+  mpcena: 999.0
+  srbobran: 2
+  futog: 2
+- sifra: 825
+  naziv: L - ĐURĐEVIM STOPAMA - LJILJANA ŠARAC
+  mpcena: 1099.0
+  srbobran: 2
+  futog: 2
+- sifra: 827
+  naziv: L - ZID TAJNI - LJILJANA ŠARAC
+  mpcena: 1099.0
+  srbobran: 2
+  futog: 2
+- sifra: 828
+  naziv: L - MAČAK I SKAKUTAVO JAJE - ANDRIJA MILOŠEVIĆ
+  mpcena: 1199.0
+  srbobran: 2
+- sifra: 829
+  naziv: L - MEDVED RAJKO I PČELA DARKO - ANDRIJA MILOŠEVIĆ
+  mpcena: 1299.0
+  srbobran: 2
+- sifra: 831
+  naziv: L - KIŠNI GLISTAC - ANDRIJA MILOŠEVIĆ
+  mpcena: 1299.0
+  srbobran: 1
+- sifra: 832
+  naziv: L - ZANIMLJIVI BUKVAR - BOJAN LJUBENOVIĆ
+  mpcena: 899.0
+  srbobran: 2
+- sifra: 834
+  naziv: L - SRBIN KOJEKUDE - BOJAN LJUBENOVIĆ
+  mpcena: 1099.0
+  srbobran: 1
+  futog: 2
+- sifra: 835
+  naziv: L - MACA NA RECEPT - SO IŠIDA
+  mpcena: 999.0
+  srbobran: 0
+  futog: 1
+- sifra: 837
+  naziv: L - LOVAC NA ZMAJEVE - HALED HOSEINI
+  mpcena: 999.0
+  srbobran: 1
+  futog: 2
+- sifra: 838
+  naziv: L - HILJADU ČUDESNIH SUNACA - HALED HOSEINI
+  mpcena: 999.0
+  srbobran: 2
+  futog: 2
+- sifra: 841
+  naziv: L - A PLANINE ODJEKNUŠE - HALED HOSEINI
+  mpcena: 1099.0
+  srbobran: 1
+- sifra: 842
+  naziv: L - CRVENDAĆ - JU NESBE
+  mpcena: 1299.0
+  srbobran: 2
+- sifra: 844
+  naziv: L - LOVCI NA GLAVE - JU NESBE
+  mpcena: 1099.0
+  srbobran: 2
+  futog: 2
+- sifra: 854
+  naziv: L - ODMAZDA - JU NESBE
+  mpcena: 1299.0
+  srbobran: 2
+  futog: 2
+- sifra: 857
+  naziv: L - OKLOPNO SRCE - JU NESBE
+  mpcena: 1699.0
+  srbobran: 1
+  futog: 2
+- sifra: 859
+  naziv: L - UTVARA - JU NESBE
+  mpcena: 1299.0
+  srbobran: 2
+  futog: 2
+- sifra: 868
+  naziv: L - BUBAŠVABE - JU NESBE
+  mpcena: 1299.0
+  srbobran: 2
+  futog: 2
+- sifra: 883
+  naziv: L - KUĆA NOĆI - JU NESBE
+  mpcena: 899.0
+  srbobran: 1
+  futog: 2
+- sifra: 884
+  naziv: L - NOŽ - JU NESBE
+  mpcena: 1299.0
+  srbobran: 2
+  futog: 2
+- sifra: 885
+  naziv: L - PONOĆNO SUNCE - JU NESBE
+  mpcena: 699.0
+  srbobran: 2
+  futog: 2
+- sifra: 891
+  naziv: L - ŽEĐ - JU NESBE
+  mpcena: 1299.0
+  srbobran: 2
+  futog: 2
+- sifra: 894
+  naziv: L - KRALJ USA - JU NESBE
+  mpcena: 1299.0
+  srbobran: 2
+  futog: 2
+- sifra: 900
+  naziv: L - KRALJEVSTVO - JU NESBE
+  mpcena: 1299.0
+  srbobran: 2
+  futog: 2
+- sifra: 1306
+  naziv: VU - BEBA UCI
+  mpcena: 599.0
+  srbobran: 2
+- sifra: 1309
+  naziv: VU - BLOK ZA BOJENJE
+  mpcena: 399.0
+  srbobran: 1
+- sifra: 1310
+  naziv: VU - 50 IGARA SA ŽIVOTINJAMA
+  mpcena: 699.0
+  srbobran: 0
+- sifra: 1312
+  naziv: VU - DEVOJKE OD STILA
+  mpcena: 599.0
+  srbobran: 0
+- sifra: 1319
+  naziv: PP - SLATKE ZVUČNE PRIČE - NA FARMI
+  mpcena: 1490.0
+  srbobran: 0
+- sifra: 1327
+  naziv: VU - HAJDE DA ZAVIRIMO U...
+  mpcena: 1499.0
+  srbobran: 1
+- sifra: 1328
+  naziv: VU - KITI I SPASAVANJE NA MESECINI
+  mpcena: 799.0
+  srbobran: 1
+- sifra: 1363
+  naziv: VU - KREIRAJTE SCENE
+  mpcena: 699.0
+  srbobran: 2
+- sifra: 1367
+  naziv: VU - KRATKE PRICE O ZIVOTINJAMA IZ CELOG SVETA
+  mpcena: 1399.0
+  srbobran: 1
+- sifra: 1395
+  naziv: KC - 32 IGRE ZA SVAKO DETE
+  mpcena: 880.0
+  futog: 1
+- sifra: 1397
+  naziv: PP - IGRA SKRIVALICA - GDE JE LAV ?
+  mpcena: 1290.0
+  srbobran: 1
+- sifra: 1398
+  naziv: KC - AERODROM - MAI ISTRAŽIVAČI
+  mpcena: 1450.01
+  futog: 1
+- sifra: 1399
+  naziv: KC - ALADIN
+  mpcena: 1950.03
+  futog: 1
+- sifra: 1402
+  naziv: VU - SECANJA V
+  mpcena: 999.0
+  srbobran: 1
+- sifra: 1404
+  naziv: KC - ARTUR I ZLATNO UŽE
+  mpcena: 1000.01
+  futog: 1
+- sifra: 1408
+  naziv: KC - AVANTURE MALOG DINOSAURUSA
+  mpcena: 900.0
+  futog: 1
+- sifra: 1409
+  naziv: KC - AVANTURE MALOG MAČKA
+  mpcena: 900.0
+  futog: 1
+- sifra: 1412
+  naziv: KC - BAJKE ZA MALU DECU
+  mpcena: 1600.02
+  futog: 1
+- sifra: 1417
+  naziv: KC - BEBE ŽIVOTINJE
+  mpcena: 1600.02
+  futog: 1
+- sifra: 1418
+  naziv: KC - BEKSTVO I ZOO VRTA
+  mpcena: 500.01
+  futog: 1
+- sifra: 1419
+  naziv: KC - BELEŽNICA ZA SVAKOG DEČAKA
+  mpcena: 950.02
+  futog: 1
+- sifra: 1421
+  naziv: KC - BELEŽNICA ZA SVAKU DEVOJČICU
+  mpcena: 1100.01
+  futog: 1
+- sifra: 1422
+  naziv: KC - BESNE GLISTE
+  mpcena: 1450.01
+  futog: 1
+- sifra: 1423
+  naziv: KC - BITMAKS I DRUGARI - ROBOT IZ ŠUME
+  mpcena: 1000.01
+  futog: 1
+- sifra: 1425
+  naziv: KC -BITMAKS I DRUGARI - SUPERPRASE
+  mpcena: 1000.01
+  futog: 1
+- sifra: 1426
+  naziv: VU - MOJ BLOK PUN NALEPNICA
+  mpcena: 999.0
+  srbobran: 1
+- sifra: 1427
+  naziv: KC - BOJE U PRIRODI
+  mpcena: 820.01
+  futog: 1
+- sifra: 1428
+  naziv: KC - BOLNICA - MALI ISTRAŽIVAČI
+  mpcena: 1450.01
+  futog: 1
+- sifra: 1431
+  naziv: KC - BROJEVI- IGRE PRAVLJENJA PAROVA
+  mpcena: 1500.03
+  futog: 1
+- sifra: 1433
+  naziv: KC - BUBE I MALI ISTRAŽIVAČI
+  mpcena: 1450.01
+  futog: 1
+- sifra: 1434
+  naziv: KC - CIPELA NA KRAJU SVETA
+  mpcena: 590.0
+  futog: 2
+- sifra: 1436
+  naziv: KC - CRNE PRIČE - GREŠKE EPSKIH RAZMERA
+  mpcena: 1100.01
+  futog: 1
+- sifra: 1437
+  naziv: KC - CRNE PRIČE - ISTINITI ZLOČINI
+  mpcena: 1100.01
+  futog: 1
+- sifra: 1438
+  naziv: KC - CRVENCI I PLAVCI
+  mpcena: 950.02
+  futog: 1
+- sifra: 1439
+  naziv: KC - CRVENKAPA - ZVUČNA KNJIGA
+  mpcena: 1950.03
+  futog: 1
+- sifra: 1440
+  naziv: KC - ČEMU SLUŽI NOŠA ?
+  mpcena: 1100.01
+  futog: 1
+- sifra: 1441
+  naziv: KC - ČETIRI DETETA, TRI MAČKE, DVE...
+  mpcena: 501.01
+  futog: 1
+- sifra: 1442
+  naziv: KC - ČUDESNI HOTEL
+  mpcena: 1200.01
+  futog: 1
+- sifra: 1443
+  naziv: KC - ČUDESNI STVOR
+  mpcena: 900.0
+  futog: 1
+- sifra: 1444
+  naziv: KC - ČUDOVIŠTA KOJA SU VOLELA PICU
+  mpcena: 500.01
+  futog: 1
+- sifra: 1446
+  naziv: KC - ČUDOVIŠTE U ZEKINOJ ŠUMI
+  mpcena: 650.01
+  futog: 1
+- sifra: 1447
+  naziv: KC - ČUVAJ SE ČUDOVIŠTA
+  mpcena: 980.01
+  futog: 1
+- sifra: 1448
+  naziv: KC - DA PUKNEŠ OD SMEHA - DOKTORI
+  mpcena: 590.0
+  futog: 0
+- sifra: 1449
+  naziv: KC - DA PUKNEŠ OD SMEHA - OGAVNI
+  mpcena: 590.0
+  futog: 0
+- sifra: 1450
+  naziv: KC - DA PUKNEŠ OD SMEHA - PERICA RAZMIŠLJA
+  mpcena: 590.0
+  futog: 0
+- sifra: 1451
+  naziv: KC - DA PUKNEŠ OD SMEHA - ŽIVOTINJE
+  mpcena: 590.0
+  futog: 0
+- sifra: 1459
+  naziv: KC - DA PUKNEŠ OD SMEHA 1
+  mpcena: 790.0
+  futog: 1
+- sifra: 1482
+  naziv: KC - DEDINO OSTRVO
+  mpcena: 900.0
+  futog: 1
+- sifra: 1483
+  naziv: KC - DEDA TRIŠIN MLIN
+  mpcena: 900.0
+  futog: 1
+- sifra: 1484
+  naziv: VU - JA TO MOGU
+  mpcena: 499.0
+  srbobran: 0
+- sifra: 1487
+  naziv: KC - DINOSAURUSI - MALI ISTRAŽIVAČI
+  mpcena: 1450.01
+  futog: 1
+- sifra: 1488
+  naziv: KC - DOBRI SUSEDI
+  mpcena: 650.01
+  futog: 1
+- sifra: 1489
+  naziv: KC - DOŽIVLJAJI MAČKA TOŠE
+  mpcena: 600.01
+  futog: 1
+- sifra: 1490
+  naziv: KC - DUH DULE I DETEKTIVKA SARA
+  mpcena: 500.01
+  futog: 1
+- sifra: 1492
+  naziv: KC - DRUGARSTVO
+  mpcena: 650.01
+  futog: 1
+- sifra: 1494
+  naziv: KC - DUH DULE KREĆE U ŠKOLU
+  mpcena: 195.0
+  srbobran: 0
+  futog: 1
+- sifra: 1495
+  naziv: KC - DŽEPNI KVIZ JUNIOR
+  mpcena: 1100.01
+  futog: 1
+- sifra: 1497
+  naziv: KC - DŽUNGLA - DOMINE
+  mpcena: 1600.02
+  futog: 1
+- sifra: 1498
+  naziv: KC - DŽUNGLA
+  mpcena: 1600.02
+  futog: 1
+- sifra: 1501
+  naziv: KC - EKSPEDICIJA PRIRODA
+  mpcena: 1300.01
+  futog: 1
+- sifra: 1503
+  naziv: KC - FINDUS SE SELI
+  mpcena: 850.01
+  futog: 1
+- sifra: 1504
+  naziv: KC - FUDBAL ZA DOVITLJIVE
+  mpcena: 980.01
+  futog: 1
+- sifra: 1505
+  naziv: KC - FUDBAL - 40 SLAVNIH IGRAČA
+  mpcena: 980.01
+  futog: 1
+- sifra: 1506
+  naziv: KC - GDE JE PETSON ?
+  mpcena: 880.01
+  futog: 1
+- sifra: 1508
+  naziv: KC - GIGA PRAVI MORE
+  mpcena: 1450.01
+  futog: 1
+- sifra: 1509
+  naziv: KC - GOSPODIN OLIVER
+  mpcena: 650.01
+  futog: 1
+- sifra: 1510
+  naziv: KC - GRADILIŠTE - MALI ISTRAŽIVAČI
+  mpcena: 1450.01
+  futog: 1
+- sifra: 1512
+  naziv: KC - GRAMATIKA SRPSKOG JEZIKA ZA OSNOVNU
+  mpcena: 990.01
+  futog: 1
+- sifra: 1514
+  naziv: KC - GROZON
+  mpcena: 950.02
+  futog: 1
+- sifra: 1520
+  naziv: KC - GUŽVA NA METLI
+  mpcena: 950.02
+  futog: 1
+- sifra: 1522
+  naziv: KC - HRABROST
+  mpcena: 1200.01
+  futog: 1
+- sifra: 1523
+  naziv: KC - HRANA - MALI ISTRAŽIVAČI
+  mpcena: 1450.01
+  futog: 1
+- sifra: 1524
+  naziv: KC -IGRA BLIZANCI
+  mpcena: 980.01
+  futog: 1
+- sifra: 1526
+  naziv: PP - OTVORI, DODIRNI U OGLEDALCE VIRNI! GDE JE GOSPODIN PATAK?
+  mpcena: 1190.0
+  srbobran: 0
+  futog: 1
+- sifra: 1528
+  naziv: 'VU - AKADEMIJA JEDNOROGA : SOFIJINA POZIVNICA'
+  mpcena: 799.0
+  srbobran: 1
+- sifra: 1531
+  naziv: VU - POVUCI I OTKRIJ - KOLIKO ZUBA IMA TI-REKS?
+  mpcena: 1079.0
+  srbobran: 1
+  futog: 1
+- sifra: 1532
+  naziv: IGRA - CRNI PETAR
+  mpcena: 980.01
+  futog: 1
+- sifra: 1534
+  naziv: KC - IGRA ČUDESNA BITKA
+  mpcena: 980.01
+  futog: 1
+- sifra: 1536
+  naziv: KC - IGRA DINGO
+  mpcena: 980.01
+  futog: 1
+- sifra: 1537
+  naziv: KC - IGRA MACE PECAJU
+  mpcena: 980.01
+  futog: 1
+- sifra: 1545
+  naziv: PP - DRUGARI SE SKRIVAJU - DŽUNGLA
+  mpcena: 299.0
+  srbobran: 2
+  futog: 2
+- sifra: 1546
+  naziv: PP - DRUGARI SE SKRIVAJU - OKEAN
+  mpcena: 299.0
+  srbobran: 2
+  futog: 2
+- sifra: 1547
+  naziv: PP - DOCRTAJ I OBOJ - ZAMKOVI I PALATE
+  mpcena: 299.0
+  srbobran: 2
+  futog: 2
+- sifra: 1548
+  naziv: PP - DOCRTAJ I OBOJ - AUTOMOBILI I TRAKTORI
+  mpcena: 299.0
+  srbobran: 2
+  futog: 2
+- sifra: 1549
+  naziv: PP - DOCRTAJ I OBOJ - PIRATI
+  mpcena: 299.0
+  srbobran: 2
+  futog: 2
+- sifra: 1550
+  naziv: PP - DOCRTAJ I OBOJ - ŽIVOTINJE
+  mpcena: 299.0
+  srbobran: 2
+  futog: 1
+- sifra: 1551
+  naziv: PP - OBOJ SVOJE SLIKE - DINOSAURUSI
+  mpcena: 299.0
+  srbobran: 2
+  futog: 2
+- sifra: 1552
+  naziv: PP - OBOJ SVOJE SLIKE - PRINCEZE
+  mpcena: 299.0
+  srbobran: 2
+  futog: 2
+- sifra: 1553
+  naziv: OBOJ SVOJE SLIKE - ZMAJEVI I JEDNOROZI
+  mpcena: 299.0
+  srbobran: 2
+  futog: 2
+- sifra: 1554
+  naziv: PP - OVAKO MI - IDEMO NA NOŠU
+  mpcena: 1080.01
+  srbobran: 2
+  futog: 2
+- sifra: 1555
+  naziv: PP - OVAKO MI - PEREMO ZUBE
+  mpcena: 1080.01
+  srbobran: 2
+  futog: 1
+- sifra: 1556
+  naziv: PP - MOJI PRVI BROJEVI - SASSI
+  mpcena: 1799.03
+  srbobran: 0
+  futog: 1
+- sifra: 1557
+  naziv: PP - MOJE PRVE REČI - SASSI
+  mpcena: 1799.03
+  srbobran: 1
+  futog: 1
+- sifra: 1559
+  naziv: PP - KLAVIR - MUZIČKA KNJIGA FARMA
+  mpcena: 2190.05
+  futog: 1
+- sifra: 1560
+  naziv: PP - IGRAJ SE I UČI - DINOSAURUSI SASSI
+  mpcena: 1799.03
+  futog: 0
+- sifra: 1561
+  naziv: PP - IGRAJ SE I UČI - SIRENE SASSI
+  mpcena: 1799.03
+  srbobran: 1
+  futog: 1
+- sifra: 1562
+  naziv: PP - LEPI I IGRAJ SE - SVEMIRSKE LETELICE
+  mpcena: 399.01
+  srbobran: 2
+  futog: 2
+- sifra: 1563
+  naziv: PP - LEPI I IGRAJ SE - SUNČEV SISTEM
+  mpcena: 399.01
+  srbobran: 1
+  futog: 1
+- sifra: 1565
+  naziv: PP - LEPI I IGRAJ SE - SVEMIR
+  mpcena: 399.01
+  srbobran: 1
+  futog: 2
+- sifra: 1566
+  naziv: PP - LEPI I IGRAJ SE - PUTOVANJE U SVEMIR
+  mpcena: 399.01
+  srbobran: 2
+  futog: 2
+- sifra: 1567
+  naziv: PP - MONTESORI KARTICE - EMOCIJE
+  mpcena: 1279.99
+  srbobran: 2
+  futog: 1
+- sifra: 1568
+  naziv: PP - MONTESORI KARTICE - BROJEVI
+  mpcena: 1279.99
+  srbobran: 2
+  futog: 1
+- sifra: 1569
+  naziv: PP - MONTESORI KARTICE ZA BEBE - OTKRIVAM ŽIVOTINJE
+  mpcena: 1279.99
+  srbobran: 2
+  futog: 1
+- sifra: 1570
+  naziv: PP - BOJIMO VODOM - ZOO VRT
+  mpcena: 780.03
+  futog: 0
+- sifra: 1571
+  naziv: PP - BOJIMO VODOM - FARMA
+  mpcena: 780.03
+  futog: 0
+- sifra: 1572
+  naziv: PP - 100 CRTEŽA - FARMA
+  mpcena: 399.01
+  srbobran: 2
+  futog: 2
+- sifra: 1573
+  naziv: PP - 100 CRTEŽA - MOJE PRVE REČI
+  mpcena: 399.01
+  srbobran: 2
+  futog: 2
+- sifra: 1574
+  naziv: PP - 100 CRTEŽA - VOZILA
+  mpcena: 399.01
+  srbobran: 2
+  futog: 2
+- sifra: 1575
+  naziv: PP - 100 CRTEŽA - ŽIVOTINJE
+  mpcena: 399.01
+  srbobran: 2
+  futog: 1
+- sifra: 1576
+  naziv: PP - DRUGARI ŽIVOTINJE - PILE I DRUGARI
+  mpcena: 399.01
+  srbobran: 2
+  futog: 2
+- sifra: 1577
+  naziv: PP - DRUGARI ŽIVOTINJE - PRASE I DRUGARI
+  mpcena: 399.01
+  srbobran: 1
+  futog: 2
+- sifra: 1578
+  naziv: PP - DRUGARI ŽIVOTINJE - MAČE I DRUGARI
+  mpcena: 399.01
+  srbobran: 2
+  futog: 2
+- sifra: 1579
+  naziv: PP - DRUGARI ŽIVOTINJE - KUCA I DRUGARI
+  mpcena: 399.01
+  srbobran: 2
+  futog: 2
+- sifra: 1580
+  naziv: PP - MALI DRUGARI - BROD
+  mpcena: 299.0
+  srbobran: 2
+  futog: 1
+- sifra: 1581
+  naziv: PP - MALI DRUGARI - AUTO
+  mpcena: 299.0
+  srbobran: 2
+  futog: 1
+- sifra: 1582
+  naziv: PP - MALI DRUGARI - VATROGASCI
+  mpcena: 299.0
+  srbobran: 2
+  futog: 1
+- sifra: 1583
+  naziv: PP - MALI DRUGARI - AUTOBUS
+  mpcena: 299.0
+  srbobran: 2
+  futog: 1
+- sifra: 1584
+  naziv: PP - MALI DRUGARI - VOZ
+  mpcena: 299.0
+  srbobran: 2
+  futog: 1
+- sifra: 1585
+  naziv: PP - MALI DRUGARI - AVION
+  mpcena: 299.0
+  srbobran: 1
+  futog: 1
+- sifra: 1586
+  naziv: PP - MALI DRUGARI - MACE
+  mpcena: 299.0
+  srbobran: 2
+  futog: 1
+- sifra: 1587
+  naziv: PP - MALI DRUGARI - KUCE
+  mpcena: 299.0
+  srbobran: 2
+  futog: 1
+- sifra: 1588
+  naziv: PP - MALI DRUGARI - SLON
+  mpcena: 299.0
+  srbobran: 2
+  futog: 0
+- sifra: 1589
+  naziv: PP - MALI DRUGARI - TIGAR
+  mpcena: 299.0
+  srbobran: 2
+  futog: 1
+- sifra: 1590
+  naziv: PP - MALI DRUGARI - MEDA
+  mpcena: 299.0
+  srbobran: 2
+  futog: 1
+- sifra: 1591
+  naziv: PP - MALI DRUGARI - JEDNOROG
+  mpcena: 299.0
+  srbobran: 2
+  futog: 1
+- sifra: 1592
+  naziv: PP - MALE BAJKE - PEPELJUGA
+  mpcena: 299.0
+  srbobran: 1
+  futog: 1
+- sifra: 1593
+  naziv: KC - IGRA MEMORIJE
+  mpcena: 1600.02
+  futog: 1
+- sifra: 1594
+  naziv: PP - MALE BAJKE - PRINCEZA I ŽABAC
+  mpcena: 299.0
+  srbobran: 2
+  futog: 0
+- sifra: 1595
+  naziv: PP - MALE BAJKE - PINOKIO
+  mpcena: 299.0
+  srbobran: 2
+  futog: 0
+- sifra: 1596
+  naziv: PP - MALE BAJKE - CRVENKAPA
+  mpcena: 299.0
+  srbobran: 1
+  futog: 1
+- sifra: 1597
+  naziv: PP - MALE BAJKE - ALADIN
+  mpcena: 299.0
+  srbobran: 2
+  futog: 1
+- sifra: 1598
+  naziv: KC - IGRA NJAM - NJAM MED
+  mpcena: 980.01
+  futog: 1
+- sifra: 1599
+  naziv: KC - IGRAONICA ZA MALE MATEMATIČARE
+  mpcena: 1100.01
+  futog: 1
+- sifra: 1600
+  naziv: KC - ILUSTROVANE PRIČE O ZMAJEVIMA
+  mpcena: 1400.03
+  futog: 1
+- sifra: 1601
+  naziv: KC - ILUSTROVANI KLJUČ ZA DEČIJE KRIZE
+  mpcena: 1430.01
+  futog: 1
+- sifra: 1603
+  naziv: KC - ILUSTROVANI KLJUČ ZA RODITELJSKE KRIZE
+  mpcena: 1430.01
+  futog: 1
+- sifra: 1604
+  naziv: KC - ILUSTROVANI KLJUČ ZA TINEJDŽERSKE KRIZE
+  mpcena: 1430.01
+  futog: 0
+- sifra: 1609
+  naziv: KC - IZBROJ I OBOJ
+  mpcena: 1050.01
+  futog: 1
+- sifra: 1612
+  naziv: KC - JA BIH SVUDA SA TOBOM
+  mpcena: 1100.01
+  futog: 1
+- sifra: 1614
+  naziv: KC - JA BIH SVUDA SA VAMA
+  mpcena: 1100.01
+  futog: 1
+- sifra: 1615
+  naziv: KC - JA SE KUPAM
+  mpcena: 960.01
+  futog: 1
+- sifra: 1616
+  naziv: PP - MALE BAJKE - USPAVANA LEPOTICA
+  mpcena: 299.0
+  srbobran: 1
+  futog: 0
+- sifra: 1617
+  naziv: PP - ZA TEBE SAM TU
+  mpcena: 499.0
+  srbobran: 2
+  futog: 1
+- sifra: 1618
+  naziv: PP - POLJUBAC
+  mpcena: 649.01
+  srbobran: 2
+  futog: 1
+- sifra: 1619
+  naziv: PP - KNJIGE ZA KUPANJE - DIVLJE ŽIVOTINJE
+  mpcena: 1080.03
+  srbobran: 2
+  futog: 1
+- sifra: 1620
+  naziv: PP - KNJIGE ZA KUPANJE - MORSKE ŽIVOTINJE
+  mpcena: 1080.03
+  srbobran: 2
+  futog: 1
+- sifra: 1626
+  naziv: KC - JADNI PETSON
+  mpcena: 850.01
+  futog: 1
+- sifra: 1627
+  naziv: KC - JEDNA MAČKA, DVE MAČKE
+  mpcena: 1600.02
+  futog: 1
+- sifra: 1630
+  naziv: KC - JESAM LI JA JEDNOROG?
+  mpcena: 500.01
+  futog: 1
+- sifra: 1634
+  naziv: KC - JEŽEVA KUĆICA
+  mpcena: 890.0
+  futog: 1
+- sifra: 1638
+  naziv: KC - KAD PORASTEM - MALI ISTRAŽIVAČI
+  mpcena: 1450.01
+  futog: 1
+- sifra: 1642
+  naziv: KC - KAJ I KRALJ MAJMUNA
+  mpcena: 1000.01
+  futog: 1
+- sifra: 1649
+  naziv: KC - KAKO DA PREŽIVIŠ AKO SI DEČAK
+  mpcena: 730.01
+  futog: 1
+- sifra: 1650
+  naziv: KC - KAKO DA PREŽIVIŠ AKO SI DEVOJČICA
+  mpcena: 730.01
+  futog: 1
+- sifra: 1651
+  naziv: KC - KAKO DA PREŽIVIŠ U ŠKOLI
+  mpcena: 730.01
+  futog: 1
+- sifra: 1652
+  naziv: KC - KAKO DA STEKNEŠ SAMOPOUZDANJE
+  mpcena: 730.01
+  futog: 1
+- sifra: 1653
+  naziv: KC - KAKO JE DUH DULE NAUČIO DA ČITA
+  mpcena: 500.01
+  futog: 1
+- sifra: 1655
+  naziv: KC - KAKO JE DUHA DULETA GRICNULA SAVEST
+  mpcena: 500.01
+  futog: 1
+- sifra: 1656
+  naziv: KC - KAKO SE MALI FINDUS IZGUBIO
+  mpcena: 850.01
+  futog: 1
+- sifra: 1657
+  naziv: KC - KAŽI "TETI" DOBAR DAN
+  mpcena: 440.01
+  futog: 2
+- sifra: 1658
+  naziv: KC - KIT SA TREGERIMA
+  mpcena: 980.01
+  futog: 1
+- sifra: 1661
+  naziv: KC - KNJIGA SA NALEPNICAMA KOJE SVETLE U MRAKU - OKEAN
+  mpcena: 1100.01
+  futog: 1
+- sifra: 1662
+  naziv: KC - KNJIGA SA NALEPNICAMA KOJE SVETLE U MRAKU - ŽIVOTINJE
+  mpcena: 1200.01
+  futog: 1
+- sifra: 1667
+  naziv: KC - KNJIGA SA NALEPNICAMA KOJE SVETLE U MRAKU - DINOSAURUSI
+  mpcena: 1100.01
+  futog: 1
+- sifra: 1668
+  naziv: KC - KNJIGA SA NALEPNICAMA KOJE SVETLE U MRAKU - SVEMIR
+  mpcena: 1100.01
+  futog: 1
+- sifra: 1669
+  naziv: KC - KNJIGA SA NALEPNICAMA - DINOSAURUSI
+  mpcena: 980.01
+  futog: 1
+- sifra: 1670
+  naziv: KC - KNJIGA ZA SVAKOG DEČAKA
+  mpcena: 1750.01
+  futog: 1
+- sifra: 1675
+  naziv: KC - KNJIGA ZA SVAKU DEVOJČICU
+  mpcena: 1750.01
+  futog: 1
+- sifra: 1676
+  naziv: KC - KO TO RASTE NA SELU ?
+  mpcena: 820.01
+  futog: 1
+- sifra: 1677
+  naziv: KC - KO ŽIVI U DŽUNGLI ?
+  mpcena: 820.01
+  futog: 1
+- sifra: 1678
+  naziv: KC - KOGA SE TIČE KAKO ŽIVE PRIČE ?
+  mpcena: 720.01
+  futog: 1
+- sifra: 1679
+  naziv: KC - KOMPLETNA KNJIGA O ŠAHU
+  mpcena: 1250.0
+  futog: 0
+- sifra: 1684
+  naziv: KC - KUĆA ZA LUTKE
+  mpcena: 2700.02
+  futog: 1
+- sifra: 1685
+  naziv: KC - MOJ NAJVEĆI TRENERSKI PODVIG ZAMALO
+  mpcena: 800.0
+  futog: 1
+- sifra: 1686
+  naziv: KC - LENA I PUŽ
+  mpcena: 1200.01
+  futog: 1
+- sifra: 1687
+  naziv: KC - LEO I GORGONINA KLETVA
+  mpcena: 1000.01
+  futog: 1
+- sifra: 1690
+  naziv: KC - LEPO PONAŠANJE- ŠTA SVE ANA ZNA
+  mpcena: 650.0
+  futog: 1
+- sifra: 1691
+  naziv: KC - LETO KADA SAM NAUČILA DA LETIM
+  mpcena: 950.01
+  futog: 2
+- sifra: 1692
+  naziv: KC - LOGIČKE ZAVRZLAME
+  mpcena: 1100.01
+  futog: 1
+- sifra: 1700
+  naziv: KC - LOV NA LISICU
+  mpcena: 850.01
+  futog: 1
+- sifra: 1701
+  naziv: KC - LOV NA TAK-TAK-TAK
+  mpcena: 1000.01
+  futog: 1
+- sifra: 1703
+  naziv: KC - LJUTITO MEČE
+  mpcena: 890.0
+  futog: 1
+- sifra: 1710
+  naziv: KC - MAČAK U ČIZMAMA
+  mpcena: 1950.03
+  futog: 1
+- sifra: 1716
+  naziv: KC - MALA VEŽBANKA ZA PREDŠKOLCE 5-6 GODINA
+  mpcena: 720.01
+  futog: 1
+- sifra: 1723
+  naziv: KC - MALA VEŽBANKA ZA PREDŠKOLCE 6-7 GODINA
+  mpcena: 720.01
+  futog: 1
+- sifra: 1727
+  naziv: KC - MALE MEKANE KNJIGE - PRIRODA
+  mpcena: 880.01
+  futog: 1
+- sifra: 1728
+  naziv: KC - MAMA MU ČITA
+  mpcena: 950.02
+  futog: 1
+- sifra: 1730
+  naziv: KC - MAMA MU SE POVREDILA
+  mpcena: 950.02
+  futog: 1
+- sifra: 1737
+  naziv: KC - MARSI I ZAGONETKE SFINGE - RIZNICA MITOVA PORODICE BRAUNSTON
+  mpcena: 1000.01
+  futog: 1
+- sifra: 1738
+  naziv: KC - MATEMATIČKA VRTEŠKA
+  mpcena: 1200.01
+  futog: 1
+- sifra: 1739
+  naziv: KC - MATEMATIČKI KVIZIĆI ZA PREDŠKOLCE
+  mpcena: 1100.01
+  futog: 1
+- sifra: 1759
+  naziv: KC - MATEMATIKA ZA PREDŠKOLCE
+  mpcena: 1100.01
+  futog: 1
+- sifra: 1770
+  naziv: KC - MIŠKO I PUNDRAVCI
+  mpcena: 330.0
+  futog: 0
+- sifra: 1771
+  naziv: KC - MIŠKO LJUTKO
+  mpcena: 330.0
+  futog: 1
+- sifra: 1778
+  naziv: VU - ATLAS ZASTAVA
+  mpcena: 899.0
+  srbobran: 1
+- sifra: 1779
+  naziv: VU - KAD SE KNJIGA RAZVUČE BROJEVI SE LAKO UČE
+  mpcena: 799.0
+  srbobran: 0
+- sifra: 1781
+  naziv: KC - MIŠKO NEĆEJED
+  mpcena: 330.0
+  futog: 0
+- sifra: 1782
+  naziv: KC - MIŠKO PIŠKO
+  mpcena: 330.0
+  futog: 1
+- sifra: 1784
+  naziv: KC - MIŠKO PLAŠLJIVKO
+  mpcena: 330.0
+  futog: 1
+- sifra: 1785
+  naziv: KC - MIŠKO STIDLJIVKO
+  mpcena: 330.0
+  futog: 1
+- sifra: 1787
+  naziv: KC - MOJ DEKA JE BIO TREŠNJA
+  mpcena: 650.01
+  futog: 2
+- sifra: 1788
+  naziv: 'VU - BEBINA KNJIGA SA PROZORČIĆIMA : FARMA'
+  mpcena: 899.0
+  srbobran: 1
+- sifra: 1789
+  naziv: VU - JA VOLIM CIRKONE - BEBE ŽIVOTINJA
+  mpcena: 799.0
+  srbobran: 0
+- sifra: 1790
+  naziv: KC - MOJ PLANER LIČNOG RAZVOJA - PLANUM
+  mpcena: 1550.01
+  futog: 1
+- sifra: 1792
+  naziv: KC - MOJ PLANUM DNEVNIK
+  mpcena: 1450.01
+  futog: 1
+- sifra: 1798
+  naziv: KC - MOJ PRVI PROFI FUDBALSKI UGOVOR ZAMALO
+  mpcena: 800.0
+  futog: 1
+- sifra: 1799
+  naziv: KC - MOJA NAJBOLJA FUDBALSKA UTAKMICA ZAMALO
+  mpcena: 700.0
+  futog: 1
+- sifra: 1800
+  naziv: KC - MOJA PRVA IGRA MEMORIJE - ŽIVOTINJE
+  mpcena: 725.0
+  srbobran: 0
+  futog: 1
+- sifra: 1801
+  naziv: KC - MOJA PRVA IGRA TUTI - FRUTI
+  mpcena: 980.01
+  futog: 1
+- sifra: 1802
+  naziv: VU - CAROBNA SUMA
+  mpcena: 1499.0
+  srbobran: 1
+- sifra: 1804
+  naziv: KC - MOJA PRVA KNJIGA O ŠAHU
+  mpcena: 830.01
+  futog: 1
+- sifra: 1805
+  naziv: KC - MOJA PRVA PROFI FUDBALSKA UTAKMICA ZAMALO
+  mpcena: 700.0
+  futog: 1
+- sifra: 1806
+  naziv: KC - MOJA PRVA SLAGALICA - VELIKE ŽIVOTINJE
+  mpcena: 980.01
+  futog: 1
+- sifra: 1807
+  naziv: KC - MOJA SRBIJA
+  mpcena: 2500.05
+  futog: 1
+- sifra: 1810
+  naziv: KC - MOJE PRVE SIKOVNICE - MALE ŽIVOTINJE
+  mpcena: 1300.01
+  futog: 1
+- sifra: 1811
+  naziv: KC - MOJE PRVE SLIKOVNICE - VELIKE ŽIVOTINJE
+  mpcena: 1300.01
+  futog: 1
+- sifra: 1812
+  naziv: KC - MOJI PRVI MIRISI - MOJA KNJIGA MIRISA I BOJA
+  mpcena: 1200.01
+  futog: 1
+- sifra: 1813
+  naziv: VU - BOJANKA ZA NEPROSPAVANE NOĆI
+  mpcena: 999.0
+  srbobran: 1
+- sifra: 1820
+  naziv: VU - MOJA DZINOVSKA BOJANKA
+  mpcena: 699.0
+  srbobran: 1
+- sifra: 1821
+  naziv: VU - DOGMEN
+  mpcena: 1199.0
+  srbobran: 3
+  futog: 1
+- sifra: 1822
+  naziv: KC - MOMO I LILI
+  mpcena: 950.02
+  futog: 1
+- sifra: 1824
+  naziv: KC - NAUČNI KUVAR
+  mpcena: 1900.01
+  futog: 1
+- sifra: 1825
+  naziv: KC - NEVEROVATNA PRIČA O DŽINOVSKOJ KRUŠCI
+  mpcena: 2200.02
+  futog: 1
+- sifra: 1826
+  naziv: KC - NEVEROVATNE PRIČE - 50 ZAGODNETAKA
+  mpcena: 1100.01
+  futog: 1
+- sifra: 1829
+  naziv: KC - NOĆNA KNJIGA ILI ŠTA SE SVE DOGAĐA NOĆU
+  mpcena: 1500.03
+  futog: 1
+- sifra: 1860
+  naziv: KC - NOŠA - ZVUČNA KNJIGA
+  mpcena: 1600.02
+  futog: 1
+- sifra: 1861
+  naziv: KC - NOVA GODINA - ŠTA SVE ANA ZNA
+  mpcena: 650.01
+  futog: 1
+- sifra: 1862
+  naziv: KC - NOVA GODINA U ZEKINOJ ŠUMI
+  mpcena: 650.01
+  futog: 1
+- sifra: 1863
+  naziv: KC - O DUGMETU I SREĆI
+  mpcena: 750.02
+  futog: 2
+- sifra: 1867
+  naziv: KC - O MAČKAMA, NOTAMA I BUBAMA
+  mpcena: 700.0
+  futog: 2
+- sifra: 1868
+  naziv: KC - O SAOBRAĆAJU - ŠTA SVE ANA ZNA
+  mpcena: 650.01
+  futog: 1
+- sifra: 1869
+  naziv: KC - O SPORTU - ŠTA SVE ANA ZNA
+  mpcena: 650.01
+  futog: 1
+- sifra: 1870
+  naziv: VU - DZERONIMO STILTON
+  mpcena: 899.0
+  srbobran: 4
+- sifra: 1871
+  naziv: VU - DZERONIMO STILTON
+  mpcena: 1399.0
+  srbobran: 1
+- sifra: 1872
+  naziv: VU - EDUKATIVNI BLOK - AZBUKA
+  mpcena: 699.0
+  srbobran: 1
+- sifra: 1874
+  naziv: PP - MOJA PRVA KNJIGA SA NALEPNICAMA - PLANINA
+  mpcena: 299.0
+  srbobran: 2
+  futog: 0
+- sifra: 1875
+  naziv: KC - O SREĆI - ŠTA SVE ANA ZNA
+  mpcena: 650.01
+  futog: 1
+- sifra: 1876
+  naziv: VU - DNEVNIK MOJIH TAJNI
+  mpcena: 899.0
+  srbobran: 1
+- sifra: 1877
+  naziv: VU - ISIDORA MUN
+  mpcena: 799.0
+  srbobran: 7
+- sifra: 1879
+  naziv: KC - OD ČITANJA SE RASTE
+  mpcena: 650.01
+  futog: 2
+- sifra: 1880
+  naziv: KC - OGLASI - ŠUMSKIH NOVINA
+  mpcena: 900.0
+  futog: 1
+- sifra: 1881
+  naziv: KC - OLGA I SVEMIRSKO PUTOVANJE
+  mpcena: 960.01
+  futog: 1
+- sifra: 1882
+  naziv: KC - OLGA I TAJANSTVENI SMRDLJIVI STVOR
+  mpcena: 960.01
+  futog: 1
+- sifra: 1883
+  naziv: KC - OLUJNI KIT
+  mpcena: 900.0
+  futog: 1
+- sifra: 1884
+  naziv: KC - OSMEH
+  mpcena: 1200.01
+  futog: 1
+- sifra: 1885
+  naziv: KC - OTKUD OVDE OVA ROLNA ?
+  mpcena: 950.02
+  futog: 1
+- sifra: 1888
+  naziv: KC - OVO JE NAJSTRAŠNIJI DAN...
+  mpcena: 820.0
+  futog: 1
+- sifra: 1889
+  naziv: KC - PECA I CIRKUSKI ORKESTAR
+  mpcena: 1950.03
+  futog: 1
+- sifra: 1893
+  naziv: VU - JEDNOGRAD
+  mpcena: 799.0
+  srbobran: 2
+- sifra: 1894
+  naziv: VU - KARTE
+  mpcena: 499.0
+  srbobran: 11
+- sifra: 1896
+  naziv: VU - KETKID
+  mpcena: 1099.0
+  srbobran: 1
+- sifra: 1897
+  naziv: KC - PECA I ŠUMSKI ORKESTAR
+  mpcena: 1950.03
+  futog: 1
+- sifra: 1899
+  naziv: KC - PECA IDE U BIOSKOP
+  mpcena: 1950.03
+  futog: 1
+- sifra: 1901
+  naziv: VU - KETKID
+  mpcena: 999.0
+  srbobran: 1
+- sifra: 1903
+  naziv: 'KC - PECA SLUŠA AFRIČKU MUZIKU '
+  mpcena: 1950.03
+  futog: 1
+- sifra: 1904
+  naziv: KC - PECA SLUŠA DISKO
+  mpcena: 1950.03
+  futog: 1
+- sifra: 1905
+  naziv: KC - PECA SVIRA BLUZ
+  mpcena: 1950.03
+  futog: 1
+- sifra: 1906
+  naziv: KC - PECA SVIRA DŽEZ
+  mpcena: 1950.03
+  futog: 1
+- sifra: 1907
+  naziv: KC - PECA SVIRA ROK
+  mpcena: 1950.03
+  futog: 1
+- sifra: 1908
+  naziv: VU - KLASICI SK ZA DECU
+  mpcena: 599.0
+  srbobran: 1
+- sifra: 1909
+  naziv: KC - PECA VOLI MOCARTA
+  mpcena: 1950.03
+  futog: 1
+- sifra: 1910
+  naziv: KC - PECA VOLI OPERU
+  mpcena: 1950.03
+  futog: 1
+- sifra: 1911
+  naziv: KC - PEPELJUGA
+  mpcena: 1950.03
+  futog: 1
+- sifra: 1913
+  naziv: KC - PETSON I FINDUS PRAVE AUTO
+  mpcena: 2090.02
+  futog: 1
+- sifra: 1915
+  naziv: KC - MOJE ČUDESNO TELO - MALI ISTRAŽIVAČI
+  mpcena: 1450.01
+  futog: 1
+- sifra: 1916
+  naziv: KC - PETSON KAMPUJE
+  mpcena: 850.01
+  futog: 1
+- sifra: 1920
+  naziv: KC - PETSON SLAVI BOŽIĆ
+  mpcena: 850.01
+  futog: 1
+- sifra: 1921
+  naziv: KC - PETSONOVE I FINDUSOVE MOZGALICE - SLOVA I REČI
+  mpcena: 700.0
+  futog: 1
+- sifra: 1922
+  naziv: KC - PIP I POZI BRZI TROTINET
+  mpcena: 990.01
+  futog: 1
+- sifra: 1923
+  naziv: KC - PIP I POZI IGRAČKA ZA SPAVANJE
+  mpcena: 990.01
+  futog: 1
+- sifra: 1924
+  naziv: KC - PIP I POZI - STRAŠNO ČUDOVIŠTE
+  mpcena: 990.01
+  futog: 1
+- sifra: 1925
+  naziv: KC - PLANETA ZEMLJA - LAVIRINTI
+  mpcena: 1050.01
+  futog: 1
+- sifra: 1926
+  naziv: KC - PODVODN SVET - MALI ISTRAŽIVAČI
+  mpcena: 1450.01
+  futog: 1
+- sifra: 1928
+  naziv: KC - POLAZAK U ŠKOLU - ŠTA SVE ANA ZNA
+  mpcena: 650.01
+  futog: 1
+- sifra: 1930
+  naziv: VU - KLASICI SK ZA DECU
+  mpcena: 799.0
+  srbobran: 1
+- sifra: 1937
+  naziv: KC - POTRAŽI I PRONAĐI - REFLEKTOR - LJUDSKO TELO
+  mpcena: 1400.03
+  futog: 1
+- sifra: 1941
+  naziv: KC - POTRAŽI I PRONAĐI - REFLEKTOR - SVEMIR
+  mpcena: 1400.03
+  futog: 1
+- sifra: 1942
+  naziv: KC - POTRAŽI I PRONAĐI - REFLEKTOR - ŽIVOTINJE
+  mpcena: 1400.03
+  futog: 1
+- sifra: 1944
+  naziv: KC - PRAŠUMA - MALI ISTRAŽIVAČI
+  mpcena: 1450.01
+  futog: 1
+- sifra: 1946
+  naziv: KC - PRUGASTI PRLE
+  mpcena: 950.02
+  futog: 1
+- sifra: 1949
+  naziv: KC - PRUTKO
+  mpcena: 950.02
+  futog: 1
+- sifra: 1951
+  naziv: KC - PRVA SAZNANJA - SELO
+  mpcena: 1100.01
+  futog: 1
+- sifra: 1952
+  naziv: KC - PUŽ MOREM SKITA NA REPU KITA - SLIKOVNICA MRDALICA
+  mpcena: 1300.01
+  futog: 1
+- sifra: 1953
+  naziv: KC - PUŽ MOREM SKITA NA REPU KITA
+  mpcena: 950.02
+  futog: 1
+- sifra: 1954
+  naziv: KC - RADOZNALO VRAPČE
+  mpcena: 900.0
+  futog: 1
+- sifra: 1956
+  naziv: KC - REČNIK VRLINA
+  mpcena: 900.0
+  futog: 1
+- sifra: 1957
+  naziv: KC - RIBA RIBI GRIZE REP
+  mpcena: 760.01
+  futog: 2
+- sifra: 1958
+  naziv: VU - DNEVNIK PČELICE
+  mpcena: 1199.0
+  srbobran: 1
+- sifra: 1960
+  naziv: KC - SAMO ZA TVOJE UŠI
+  mpcena: 650.01
+  futog: 2
+- sifra: 1961
+  naziv: VU - EMERALD I MORKSE VILE
+  mpcena: 799.0
+  srbobran: 0
+- sifra: 1962
+  naziv: VU - KLASICI SK ZA DECU
+  mpcena: 899.0
+  srbobran: 2
+- sifra: 1964
+  naziv: PP - MOJA PRVA KNJIGA SA NALEPNICAMA - SAVANA
+  mpcena: 299.0
+  srbobran: 2
+  futog: 0
+- sifra: 1965
+  naziv: VU - MOJA ZABAVNA KNJIGA
+  mpcena: 499.0
+  srbobran: 1
+- sifra: 1966
+  naziv: KC - SEOSKO IMANJE - MALI ISTRAŽIVAČI
+  mpcena: 1450.01
+  futog: 1
+- sifra: 1967
+  naziv: KC - SESTRE
+  mpcena: 1200.01
+  futog: 1
+- sifra: 1968
+  naziv: KC - SLONOVI SA ČETVRTOG SPRATA
+  mpcena: 750.01
+  futog: 1
+- sifra: 1969
+  naziv: VU - KAD SE KNJIGA RAZVUČE, SLOVA SE LAKO UČE
+  mpcena: 799.0
+  srbobran: 0
+- sifra: 1970
+  naziv: KC - SMEŠNE PRIČE - 50 URNEBESNO SMEŠNIH ZAGONETAKA
+  mpcena: 1100.01
+  futog: 0
+- sifra: 1971
+  naziv: VU - GLAVA, RAMENA, KOLENA I STOPALA - I DRUGE PESMICE ZA DECU
+  mpcena: 1999.0
+  srbobran: 1
+- sifra: 1972
+  naziv: VU - LAROUSSE
+  mpcena: 1499.0
+  srbobran: 1
+- sifra: 1973
+  naziv: KC - SREĆAN ROĐENDAN - IGRA POTRAŽI I PRONAĐI
+  mpcena: 1850.02
+  futog: 1
+- sifra: 1974
+  naziv: KC - ŠTA ĆEŠ OBUĆI KUCO ?
+  mpcena: 1300.01
+  futog: 1
+- sifra: 1975
+  naziv: PP - MOJA PRVA KNJIGA SA NALEPNICAMA - TROPSKA ŠUMA
+  mpcena: 299.0
+  srbobran: 1
+  futog: 0
+- sifra: 1976
+  naziv: KC - ŠTA ĆEŠ OBUĆI MACO ?
+  mpcena: 1300.01
+  futog: 1
+- sifra: 1978
+  naziv: KC - ŠTA JE NOVO SAZNALA BUBAMARA ?
+  mpcena: 950.02
+  futog: 1
+- sifra: 1979
+  naziv: KC - ŠTA JE SAZNALA BUBAMARA ?
+  mpcena: 950.02
+  futog: 1
+- sifra: 1980
+  naziv: VU - MALA VREDNICA
+  mpcena: 799.0
+  srbobran: 1
+  futog: 1
+- sifra: 1981
+  naziv: KC - ŠTA LI JE OVO ?
+  mpcena: 180.0
+  srbobran: 0
+  futog: 1
+- sifra: 1982
+  naziv: KC - ŠTA SE NALAZI U MOM TELU ?
+  mpcena: 130.0
+  srbobran: 0
+  futog: 1
+- sifra: 1983
+  naziv: VU - MALE PRICE O ZIVOTINJAMA
+  mpcena: 449.0
+  srbobran: 2
+- sifra: 1985
+  naziv: KC - STO POSTO TUĐA POSLA
+  mpcena: 1050.01
+  futog: 1
+- sifra: 1987
+  naziv: KC - STRAŠNE PRIČE - 50 ZAMRŠENIH KRIMINALISTIČKIH PRIČA ZA OŠTROUMNE
+  mpcena: 1100.01
+  futog: 1
+- sifra: 1989
+  naziv: KC - SUDOKU ZA GENIJALCE
+  mpcena: 440.0
+  futog: 1
+- sifra: 1992
+  naziv: KC - SUNCE
+  mpcena: 1100.01
+  futog: 1
+- sifra: 1998
+  naziv: PP - MOJA PRVA KNJIGA SA NALEPNICAMA - VATROGASAC
+  mpcena: 299.0
+  srbobran: 0
+  futog: 1
+- sifra: 1999
+  naziv: KC - SUPERGLISTA
+  mpcena: 950.02
+  futog: 1
+- sifra: 2000
+  naziv: KC - SVE JE U REDU
+  mpcena: 850.01
+  futog: 2
+- sifra: 2001
+  naziv: VU - MALI HRABRISA
+  mpcena: 799.0
+  srbobran: 1
+- sifra: 2002
+  naziv: PP - BAJKA SA NALEPNICAMA - RUŽNO PAČE
+  mpcena: 299.0
+  srbobran: 2
+  futog: 2
+- sifra: 2004
+  naziv: KC - SVEMIR - MALI ISTRAŽIVAČI
+  mpcena: 1450.01
+  futog: 1
+- sifra: 2007
+  naziv: KC - SVET MAČAKA
+  mpcena: 30.0
+  srbobran: 31
+  futog: 1
+- sifra: 2009
+  naziv: KC - SVET PASA
+  mpcena: 2000.01
+  futog: 1
+- sifra: 2011
+  naziv: KC - TORTA ZA SVE
+  mpcena: 500.01
+  futog: 1
+- sifra: 2030
+  naziv: KC - TRI PRASETA
+  mpcena: 1950.03
+  futog: 1
+- sifra: 2031
+  naziv: KC - TU-TUUUU! IGRA POTRAŽI I PRONAĐI
+  mpcena: 1850.02
+  futog: 1
+- sifra: 2037
+  naziv: KC - U KUĆI - ŠTA SVE ANA ZNA
+  mpcena: 650.01
+  futog: 1
+- sifra: 2039
+  naziv: KC - PRVA SAZNANJA - DINOSAURI
+  mpcena: 1100.01
+  futog: 1
+- sifra: 2045
+  naziv: KC - U NOĆI
+  mpcena: 460.0
+  srbobran: 0
+  futog: 1
+- sifra: 2048
+  naziv: KC - U OKEANU
+  mpcena: 1490.01
+  futog: 1
+- sifra: 2055
+  naziv: KC - U POKRETU - MALI ISTRAŽIVAČI
+  mpcena: 1450.01
+  futog: 1
+- sifra: 2057
+  naziv: KC - U VRTIĆU - ŠTA SVE ANA ZNA
+  mpcena: 650.01
+  futog: 1
+- sifra: 2063
+  naziv: 'KC - VAŠAR U STRMOGLAVCU '
+  mpcena: 900.0
+  futog: 1
+- sifra: 2065
+  naziv: KC - VATROGASCI - MALI ISTRAŽIVAČI
+  mpcena: 1450.01
+  futog: 1
+- sifra: 2076
+  naziv: KC - VELIKA VEŽBANKA ZA PREDŠKOLCE
+  mpcena: 1100.01
+  futog: 1
+- sifra: 2081
+  naziv: KC - VELIKI LAVIRINTI
+  mpcena: 950.02
+  futog: 1
+- sifra: 2082
+  naziv: KC - VESELO JEZERCE
+  mpcena: 950.02
+  futog: 1
+- sifra: 2091
+  naziv: KC - VIŠNJA U VRTIĆU
+  mpcena: 750.01
+  futog: 1
+- sifra: 2092
+  naziv: KC - VREMENSKE PRILIKE - MALI ISTRAŽIVAČI
+  mpcena: 1450.01
+  futog: 1
+- sifra: 2094
+  naziv: KC - ZAGONETKE NA SVIM SPRATOVIMA 2
+  mpcena: 1100.01
+  futog: 1
+- sifra: 2097
+  naziv: KC - ZAGONETKE NA SVIM SPRATOVIMA 4 - KOSMOS I GDESMOS
+  mpcena: 1100.01
+  futog: 1
+- sifra: 2098
+  naziv: KC - ZAGONETKE NA SVIM SPRATOVIMA
+  mpcena: 1100.01
+  futog: 1
+- sifra: 2099
+  naziv: KC - ZAGONETKE ZA PREDŠKOLCE
+  mpcena: 900.0
+  futog: 1
+- sifra: 2100
+  naziv: KC - ZAGONETKE NA SVIM SPRATOVIMA - DOBRO DOŠLI U MACOGRAD!
+  mpcena: 1050.01
+  futog: 1
+- sifra: 2103
+  naziv: VU - MALI UMETNICI
+  mpcena: 299.0
+  srbobran: 1
+- sifra: 2106
+  naziv: KC - ZAGONETKE NA SVIM SPRATOVIMA U ZEMLJI BAJKI
+  mpcena: 1050.01
+  futog: 1
+- sifra: 2108
+  naziv: VU - OBOJ SUNDJERIMA
+  mpcena: 1499.0
+  srbobran: 2
+- sifra: 2110
+  naziv: KC - ZANIMLJIVOSTI O FUDBALU KOJE SVAKO DETE OD 7 GODINA MORA DA ZNA
+  mpcena: 650.01
+  futog: 1
+- sifra: 2111
+  naziv: KC - ZANIMLJIVOSTI O FUDBALU KOJE SVAKO DETE OD 8 GODINA MORA DA ZNA
+  mpcena: 650.01
+  futog: 1
+- sifra: 2112
+  naziv: KC - ZAR TI BAŠ NIŠTA NE UMEŠ, PETSONE ?
+  mpcena: 650.0
+  srbobran: 0
+  futog: 1
+- sifra: 2117
+  naziv: KC - ZAŠTO PEREMO ZUBE ?
+  mpcena: 990.01
+  futog: 1
+- sifra: 2120
+  naziv: KC - ZAVIRI U FUDBAL - KNJIGA SA PROZORČIĆIMA
+  mpcena: 1450.01
+  futog: 1
+- sifra: 2121
+  naziv: KC - ZAVIRI U LJUDSKO TELO - KNJIGA SA PROZORČIĆIMA
+  mpcena: 1450.01
+  futog: 1
+- sifra: 2122
+  naziv: KC - ZAVIRI U NAŠ SVET - KNJIGA SA PROZORČIĆIMA
+  mpcena: 1450.01
+  futog: 1
+- sifra: 2123
+  naziv: VU - PRICAM TI PRICU
+  mpcena: 899.0
+  srbobran: 2
+- sifra: 2124
+  naziv: KC - ZAVIRI U SVEMIR - KNJIGA SA PROZORČIĆIMA
+  mpcena: 1450.01
+  futog: 1
+- sifra: 2126
+  naziv: VU - SLIKOVNA ENCIKLOPEDIJA
+  mpcena: 1399.0
+  srbobran: 3
+- sifra: 2129
+  naziv: KC - ZAVIRI U VULKANI I ZEMLJOTRESI - KNJIGA SA PROZORČIĆIMA
+  mpcena: 1450.01
+  futog: 1
+- sifra: 2131
+  naziv: KC - ZBUNJENO MAJMUNČE
+  mpcena: 950.02
+  futog: 1
+- sifra: 2132
+  naziv: KC - ZDRAV ŽIVOT - ŠTA SVE ANA ZNA
+  mpcena: 650.01
+  futog: 1
+- sifra: 2133
+  naziv: KC - ZDRAVA HRANA - ŠTA SVE ANA ZNA
+  mpcena: 650.01
+  futog: 1
+- sifra: 2134
+  naziv: KC - ZELENBABINI DAROVI
+  mpcena: 800.0
+  futog: 0
+- sifra: 2135
+  naziv: KC - ZIMSKI DAN - SVETLUCAVE NALEPNICE
+  mpcena: 950.02
+  futog: 1
+- sifra: 2136
+  naziv: PP - BAJKA SA NALEPNICAMA - CRVENKAPA
+  mpcena: 299.0
+  srbobran: 1
+  futog: 1
+- sifra: 2137
+  naziv: KC - ŽIVOTINJE SE KUPAJU - ČAROBNO KUPANJE
+  mpcena: 960.01
+  futog: 1
+- sifra: 2138
+  naziv: VU - KNJIGE KOJE SVETLE - VELIKA AVANTURA MALOG BELOG MEDE
+  mpcena: 799.0
+  srbobran: 0
+- sifra: 2140
+  naziv: KC - ŽIVOTINJSKI SVET - MALI ISTRAŽIVAČI
+  mpcena: 1450.01
+  futog: 1
+- sifra: 2141
+  naziv: KC - ZMAJČIĆ U GOSTIMA
+  mpcena: 950.02
+  futog: 1
+- sifra: 2145
+  naziv: PP - BAJKA SA NALEPNICAMA - MAČAK U ČIZMAMA
+  mpcena: 299.0
+  srbobran: 1
+- sifra: 2146
+  naziv: VU - MOJA BOJANKA PUNA...
+  mpcena: 399.0
+  srbobran: 5
+- sifra: 2147
+  naziv: VU - IZGUBLJENA BIBLIOTEKA
+  mpcena: 999.0
+  srbobran: 1
+- sifra: 2148
+  naziv: KC - ZOG I LETEĆI DOKTORI
+  mpcena: 950.0
+  srbobran: 0
+  futog: 1
+- sifra: 2149
+  naziv: KC - ZOG
+  mpcena: 950.02
+  futog: 1
+- sifra: 2150
+  naziv: VU - MOJA MALENA BOJANKA
+  mpcena: 199.0
+  srbobran: 1
+- sifra: 2152
+  naziv: KC - ZUNZARINA PALATA
+  mpcena: 1000.01
+  futog: 1
+- sifra: 2153
+  naziv: KC - ZVEZDANA ŠUMA
+  mpcena: 700.0
+  futog: 2
+- sifra: 2154
+  naziv: VU - MOJA PRVA KNJIGA O ZIVOTINJAMA
+  mpcena: 499.0
+  srbobran: 1
+- sifra: 2157
+  naziv: VU - MOJA KNJIGA SA NALEPNICAMA
+  mpcena: 299.0
+  srbobran: 1
+- sifra: 2159
+  naziv: KC - ZMAJČIĆ U VRTIĆU
+  mpcena: 950.02
+  futog: 1
+- sifra: 2160
+  naziv: PP - BAJKA SA NALEPNICAMA - PETAR PAN
+  mpcena: 299.0
+  srbobran: 2
+  futog: 2
+- sifra: 2161
+  naziv: VU - KLASICI SVETSKE KNJIŽEVNOSTI ZA DECU - GULIVEROVA PUTOVANJA
+  mpcena: 899.0
+  srbobran: 1
+- sifra: 2162
+  naziv: PP - BAJKA SA NALEPNICAMA - MALA SIRENA
+  mpcena: 299.0
+  srbobran: 1
+  futog: 1
+- sifra: 2166
+  naziv: 'VU - NAJLEPSE PRICE '
+  mpcena: 1199.0
+  srbobran: 1
+- sifra: 2169
+  naziv: VU - KNJIGE KOJE SVETLE - VELIKA AVANTURA MALOG LANETA
+  mpcena: 799.0
+  srbobran: 0
+- sifra: 2171
+  naziv: PP - MOJA PRVA KNJIGA SA NALEPNICAMA - FARMA
+  mpcena: 299.0
+  srbobran: 1
+  futog: 0
+- sifra: 2172
+  naziv: PP - MOJA PRVA KNJIGA SA NALEPNICAMA - PRINCEZE
+  mpcena: 299.0
+  srbobran: 1
+  futog: 0
+- sifra: 2179
+  naziv: VU - SUPERZABAVNI NAUCNI KVIZ
+  mpcena: 799.0
+  srbobran: 1
+- sifra: 2183
+  naziv: VU - LAKU NOĆ MALI JEDNOROŽE
+  mpcena: 799.0
+  srbobran: 0
+- sifra: 2188
+  naziv: VU - UKRASITE SCENE
+  mpcena: 699.0
+  srbobran: 0
+- sifra: 2189
+  naziv: VU - LAKU NOĆ MALI LENJIVČE
+  mpcena: 799.0
+  srbobran: 0
+- sifra: 2194
+  naziv: VU - ULEPSAJ ME
+  mpcena: 399.0
+  srbobran: 1
+- sifra: 2203
+  naziv: VU - LJUDI KOJE SREĆEMO NA ODMORU
+  mpcena: 499.0
+  srbobran: 0
+- sifra: 2211
+  naziv: VU - SUMSKA SKOLA ZA VILE
+  mpcena: 699.0
+  srbobran: 2
+- sifra: 2213
+  naziv: VU - TEA STILTON
+  mpcena: 999.0
+  srbobran: 4
+- sifra: 2216
+  naziv: VU - TEA STILTON
+  mpcena: 1399.0
+  srbobran: 3
+- sifra: 2220
+  naziv: VU - TESTOVI ZA MALISANE
+  mpcena: 999.0
+  srbobran: 1
+- sifra: 2222
+  naziv: VU - UCIM DA CRTAM
+  mpcena: 499.0
+  srbobran: 0
+- sifra: 2229
+  naziv: VU - VELIKA KNJIGA TESTOVA
+  mpcena: 799.0
+  srbobran: 1
+- sifra: 2233
+  naziv: PP - MOJA PRVA KNJIGA SA NALEPNICAMA - ŠUMA
+  mpcena: 299.0
+  srbobran: 1
+- sifra: 2238
+  naziv: PP - MOJA PRVA KNJIGA SA NALEPNICAMA - ŠKOLA JAHANJA
+  mpcena: 299.0
+  srbobran: 2
+  futog: 2
+- sifra: 2246
+  naziv: VU - ZABAVNI ZADACI
+  mpcena: 549.0
+  srbobran: 1
+- sifra: 2247
+  naziv: PP - BAJKA SA NALEPNICAMA - KNJIGA O DŽUNGLI
+  mpcena: 299.0
+  srbobran: 2
+- sifra: 2248
+  naziv: PP - BAJKA SA NALEPNICAMA - LEPOTICA I ZVER
+  mpcena: 299.0
+  srbobran: 2
+- sifra: 2249
+  naziv: PP - BAJKA SA NALEPNICAMA - PINOKIO
+  mpcena: 299.0
+  srbobran: 2
+- sifra: 2250
+  naziv: PP - BAJKA SA NALEPNICAMA - ALISA U ZEMLJI ČUDA
+  mpcena: 299.0
+  srbobran: 2
+- sifra: 2251
+  naziv: VU - 50 NEVEROVATNIH ZVUKOVA - AKCIJA
+  mpcena: 1799.0
+  futog: 2
+- sifra: 2252
+  naziv: VU - BEBINA OTKRIVALICA - AKCIJA
+  mpcena: 499.0
+  futog: 2
+- sifra: 2253
+  naziv: PP - BAJKA SA NALEPNICAMA - ALADIN I ČAROBNA LAMPA
+  mpcena: 299.0
+  srbobran: 2
+- sifra: 2254
+  naziv: PP - LAROUSSE MONTESORI RS - UČIM DA SABIRAM I ODUZIMAM
+  mpcena: 640.0
+  srbobran: 0
+- sifra: 2255
+  naziv: PP - OTKRIVAM, STVARAM I SMIŠLJAM SA 6 GODINA
+  mpcena: 740.0
+  srbobran: 1
+  futog: 2
+- sifra: 2256
+  naziv: VU - MALI GENIJALCI - UČIMO DA BROJIMO NA ENGLESKOM JEZIKU
+  mpcena: 799.0
+  srbobran: 0
+- sifra: 2257
+  naziv: PP - KNJIGA ZA SVAKOG PREDŠKOLCA
+  mpcena: 1180.0
+  srbobran: 2
+  futog: 0
+- sifra: 2258
+  naziv: 'VU - KNJIGA PUNA IGARA : SPORTSKE IGRE'
+  mpcena: 1099.0
+  srbobran: 0
+- sifra: 2259
+  naziv: VU - MALI ŠAMPIONI - KVIZ - DINOSAURI
+  mpcena: 799.0
+  srbobran: 0
+- sifra: 2260
+  naziv: VU - BUDNI U 5 I VAŠ JE ČITAV SVET - AKCIJA
+  mpcena: 499.0
+  futog: 0
+- sifra: 2261
+  naziv: VU - ADRENALIN - AKCIJA
+  mpcena: 210.0
+  srbobran: 0
+  futog: 1
+- sifra: 2263
+  naziv: VU - DOK SE KAFA NE OHLADI - AKCIJA
+  mpcena: 499.0
+  futog: 1
+- sifra: 2264
+  naziv: VU - IGRA NASLEDNIKA - AKCIJA
+  mpcena: 440.0
+  srbobran: 0
+  futog: 1
+- sifra: 2265
+  naziv: VU - VELIKA BOJANKA PUNA
+  mpcena: 499.0
+  srbobran: 0
+- sifra: 2266
+  naziv: VU - KNJIGA PUNA ZABAVE ZA PUTOVANJA
+  mpcena: 699.0
+  srbobran: 1
+- sifra: 2267
+  naziv: 'VU - KNJIŽICA SA ISKAKALICAMA : DINOSAURI'
+  mpcena: 1399.0
+  srbobran: 1
+- sifra: 2268
+  naziv: VU - VODIC KROZ PRIJATELJSTVO
+  mpcena: 999.0
+  srbobran: 1
+- sifra: 2269
+  naziv: 'VU - KNJIŽICA SA ISKAKALICAMA : ŽIVOTINJE'
+  mpcena: 1399.0
+  srbobran: 0
+- sifra: 2270
+  naziv: VU - ZABAVA SA NALEPNICAMA
+  mpcena: 699.0
+  srbobran: 1
+- sifra: 2272
+  naziv: VU - LETNJA AVANTURA - ANTISTRES BOJANKA ZA ODRASLE
+  mpcena: 899.0
+  srbobran: 1
+- sifra: 2276
+  naziv: 'VU - MAGIČNA BOJANKA : BEBE ŽIVOTINJA'
+  mpcena: 999.0
+  srbobran: 0
+- sifra: 2277
+  naziv: VU - KLUB UBISTAVA ČETVRTKOM - AKCIJA
+  mpcena: 499.0
+  futog: 1
+- sifra: 2278
+  naziv: VU - KUĆA SVETLOSTI - AKCIJA
+  mpcena: 499.0
+  futog: 1
+- sifra: 2279
+  naziv: VU - MANIFESTUJ - AKCIJA
+  mpcena: 499.0
+  futog: 0
+- sifra: 2280
+  naziv: VU - MALI ŠAMPIONI - KVIZ - FARMA
+  mpcena: 799.0
+  srbobran: 0
+- sifra: 2282
+  naziv: VU - MOJA ZABAVNA KNJIGA JEDNOROZI - AKCIJA
+  mpcena: 399.0
+  futog: 1
+- sifra: 2283
+  naziv: VU - NA KAFI SA MAČKOM - AKCIJA
+  mpcena: 499.0
+  futog: 1
+- sifra: 2284
+  naziv: VU - NAJLEPŠE PRIČE IZ PRIRODE - AKCIJA
+  mpcena: 999.0
+  srbobran: 0
+  futog: 1
+- sifra: 2285
+  naziv: VU - NAJLEPŠE PRIČE ZA SLATKE SNOVE - AKCIJA
+  mpcena: 899.0
+  futog: 2
+- sifra: 2286
+  naziv: VU - NEZNANKA SA SENE - AKCIJA
+  mpcena: 499.0
+  futog: 0
+- sifra: 2287
+  naziv: VU - POKLANJAM TI ZVEZDE - AKCIJA
+  mpcena: 499.0
+  futog: 1
+- sifra: 2288
+  naziv: VU - SANATORIJUM - AKCIJA
+  mpcena: 999.0
+  srbobran: 0
+  futog: 1
+- sifra: 2290
+  naziv: VU - MALA PLAŠLJIVICA
+  mpcena: 799.0
+  srbobran: 1
+  futog: 1
+- sifra: 2291
+  naziv: VU - ŠAPTAČ - AKCIJA
+  mpcena: 799.0
+  srbobran: 0
+  futog: 1
+- sifra: 2292
+  naziv: 'VU - MALE PRIČE O ŽIVOTINJAMA : PAČE'
+  mpcena: 449.0
+  srbobran: 1
+- sifra: 2293
+  naziv: VU - SLEDEĆE GODINE U OVO VREME - AKCIJA
+  mpcena: 499.0
+  futog: 1
+- sifra: 2294
+  naziv: VU - TAMO GDE RAKOVI PEVAJU - AKCIJA
+  mpcena: 499.0
+  srbobran: 0
+  futog: 0
+- sifra: 2295
+  naziv: VU - ZABAVNE AKTIVNOSTI I NALEPNICE
+  mpcena: 899.0
+  srbobran: 2
+- sifra: 2296
+  naziv: VU - ZEMLJA BAJKI - AKCIJA
+  mpcena: 1999.0
+  futog: 1
+- sifra: 2297
+  naziv: VU - ZOV ANĐELA - AKCIJA
+  mpcena: 499.0
+  futog: 1
+- sifra: 2298
+  naziv: PČ - NIKI I NIŠTA - BOJAN BABIĆ
+  mpcena: 1480.02
+  futog: 1
+- sifra: 2299
+  naziv: PČ - MALI OGLASI I JOŠ PONEŠTO - DEJAN ALEKSIĆ
+  mpcena: 850.0
+  futog: 1
+- sifra: 2300
+  naziv: PČ - OSMEH SE PERE U VEŠ-MAŠINI - JELENA TASIĆ
+  mpcena: 980.01
+  futog: 1
+- sifra: 2301
+  naziv: KC - PRIČE O SLAVNIM IMENIMA I NADIMCIMA
+  mpcena: 1299.0
+  srbobran: 0
+  futog: 1
+- sifra: 2302
+  naziv: VU - PRIČE O DOBROTI
+  mpcena: 699.0
+  futog: 0
+- sifra: 2303
+  naziv: VU - PUT KOJIM SE REĐE IDE
+  mpcena: 1299.0
+  srbobran: 0
+  futog: 0
+- sifra: 2305
+  naziv: VU - DAMIN GAMBIT - AKCIJA
+  mpcena: 499.0
+  futog: 1
+- sifra: 2306
+  naziv: VU - MOĆNI MITOVI I KAKO DA IH PREŽIVITE
+  mpcena: 2590.0
+  srbobran: 1
+- sifra: 2307
+  naziv: 'VU - MODNE KREACIJE : ELEGANTNI STIL'
+  mpcena: 799.0
+  srbobran: 0
+- sifra: 2308
+  naziv: 'VU - MODNE KREACIJE : URBANI STIL'
+  mpcena: 799.0
+  srbobran: 1
+- sifra: 2309
+  naziv: VU - MOJA LETNJA KNJIGA PUNA ZABAVE
+  mpcena: 699.0
+  srbobran: 1
+- sifra: 2310
+  naziv: VU - KNJIGA SA NALEPNICAMA ZA MALIŠANE- AKCIJA
+  mpcena: 299.0
+  futog: 4
+- sifra: 2311
+  naziv: 'VU - OBOJ ŽIVOTINJE : KUCA'
+  mpcena: 349.0
+  srbobran: 1
+- sifra: 2312
+  naziv: VU - ZABAVNI KVIZ
+  mpcena: 599.0
+  srbobran: 2
+- sifra: 2313
+  naziv: VU - UČENJE KROZ IGRU - KNJIGA SA AKTIVNOSTIMA - AKCIJA
+  mpcena: 299.0
+  srbobran: 0
+  futog: 4
+- sifra: 2315
+  naziv: VU - NA SREĆNOM MESTU - AKCIJA
+  mpcena: 299.0
+  srbobran: 0
+  futog: 1
+- sifra: 2316
+  naziv: VU - UMEĆE RATOVANJA / VLADALAC - AKCIJA
+  mpcena: 499.0
+  futog: 1
+- sifra: 2317
+  naziv: PČ - MESEČEVA AVATURA - JELENA IVETIĆ
+  mpcena: 1480.02
+  futog: 1
+- sifra: 2318
+  naziv: VU - VEŠTICA I CAR
+  mpcena: 399.0
+  futog: 0
+- sifra: 2319
+  naziv: VU - DOBRA DEVOJKA, ZLA KRV - AKCIJA
+  mpcena: 499.0
+  futog: 1
+- sifra: 2320
+  naziv: VU - KO ĆE SUZE DA BRIŠE KAD TE NE BUDE VIŠE - AKCIJA
+  mpcena: 499.0
+  futog: 1
+- sifra: 2321
+  naziv: VU - KRADLJIVAC DUŠA - AKCIJA
+  mpcena: 499.0
+  futog: 1
+- sifra: 2322
+  naziv: VU - KUĆA BEZ SEĆANJA - AKCIJA
+  mpcena: 499.0
+  futog: 1
+- sifra: 2323
+  naziv: L - CILKIN PUT - HEDER MORIS
+  mpcena: 799.0
+  futog: 2
+- sifra: 2324
+  naziv: L - ČOVEK PO IMENU UVE - FREDRIK BAKMAN
+  mpcena: 1199.0
+  futog: 2
+- sifra: 2325
+  naziv: L - CRNCI U FIRENCI - VEDRANA RUDAN
+  mpcena: 899.0
+  futog: 2
+- sifra: 2326
+  naziv: L - CRVENI ŠATOR - ANITA DAJAMANT
+  mpcena: 999.02
+  futog: 2
+- sifra: 2327
+  naziv: L - CRVENO I CRNO - STENDAL
+  mpcena: 1499.01
+  futog: 2
+- sifra: 2328
+  naziv: L - ČUDO U POSKOKOVOJ DRAGI - ANTE TOMIĆ
+  mpcena: 899.0
+  futog: 2
+- sifra: 2329
+  naziv: L - DABOGDA TE MAJKA RODILA - VEDRANA RUDAN
+  mpcena: 999.0
+  futog: 2
+- sifra: 2330
+  naziv: L - DALEKO JE SUNCE - DOBRICA ĆOSIĆ
+  mpcena: 1199.02
+  futog: 2
+- sifra: 2331
+  naziv: L - DAVNI SATI - KEJT MORTON
+  mpcena: 1199.02
+  futog: 2
+- sifra: 2332
+  naziv: L - ĐAVO I GOSPOĐICA PRIM - PAULO KOELJO
+  mpcena: 1099.03
+  futog: 2
+- sifra: 2333
+  naziv: L - DEČACI PAVLOVE ULICE - FERENC MOLNAR
+  mpcena: 799.0
+  futog: 2
+- sifra: 2334
+  naziv: L - DEJVID KOPERFILD - ČARLS DIKENS
+  mpcena: 2499.05
+  futog: 2
+- sifra: 2335
+  naziv: L - DETE U TEBI TREBA DA PRONAĐE SVOJ ZAVIČAJ - RADNA SVESKA - ŠTEFANI ŠTAL
+  mpcena: 899.0
+  futog: 2
+- sifra: 2336
+  naziv: L - DEVOJČICA NA LITICI - LUSINDA RAJLI
+  mpcena: 1299.03
+  futog: 2
+- sifra: 2337
+  naziv: L - DIJALOG O ZLU I DOBRU - ZLATA I ĐORĐE LEBOVIĆ
+  mpcena: 899.0
+  futog: 1
+- sifra: 2338
+  naziv: L - DNEVNIK JEDNE KURTIZANE - KIJOKO MURATA
+  mpcena: 899.0
+  futog: 2
+- sifra: 2339
+  naziv: L - DNEVNIK JEDNOG ČAROBNJAKA - MEK POVEZ - PAULJO KOELJO
+- sifra: 2340
+  naziv: L - DNEVNIK O ČARNOJEVIĆU - MILOŠ CRNJANSKI
+  mpcena: 799.0
+  futog: 2
+- sifra: 2341
+  naziv: L - DOKTOR ŽIVAGO - BORIS PASTERNAK
+  mpcena: 1499.01
+  futog: 1
+- sifra: 2342
+  naziv: L - DORĆOLSKI REKVIJEM - DEJAN STOJILJKOVIĆ
+  mpcena: 1099.0
+  futog: 2
+- sifra: 2343
+  naziv: L - DOSIJE BOGORODICA - VANJA BULIĆ
+  mpcena: 1099.0
+  futog: 2
+- sifra: 2344
+  naziv: L - DOŽIVLJAJI HAKLBERIJA FINA - MARK TVEN
+  mpcena: 999.02
+  futog: 2
+- sifra: 2345
+  naziv: L - DOŽIVLJAJI TOMA SOJERA - MARK TVEN
+  mpcena: 899.0
+  futog: 2
+- sifra: 2346
+  naziv: L - DOŽIVOTNA ROBIJA - VEDRANA RUDAN
+  mpcena: 999.0
+  futog: 2
+- sifra: 2347
+  naziv: L - DUŠANOVA KLETVA - VANJA BULIĆ
+  mpcena: 1099.03
+  futog: 2
+- sifra: 2348
+  naziv: L - DŽEJN EJR - ŠARLOTA BRONTE
+  mpcena: 1099.0
+  futog: 2
+- sifra: 2349
+  naziv: L - EVGENIJE ONJEGIN - ALEKSANDAR PUŠKIN
+  mpcena: 999.02
+  futog: 2
+- sifra: 2351
+  naziv: L - GDE ŽIVI LJUBAV - JELICA GREGANOVIĆ
+  mpcena: 1299.03
+  futog: 2
+- sifra: 2352
+  naziv: L - GNUSOBA - SVETISLAV BASARA
+  mpcena: 699.0
+  futog: 2
+- sifra: 2353
+  naziv: L - GORDOST I PREDRASUDA - DŽEJN OSTIN
+  mpcena: 1199.0
+  futog: 2
+- sifra: 2354
+  naziv: L - GOSPOĐA - E L DŽEJMS
+  mpcena: 1299.03
+  futog: 2
+- sifra: 2355
+  naziv: L - GOSPOĐA DALOVEJ - VIRDŽINIJA VULF
+  mpcena: 799.0
+  futog: 2
+- sifra: 2356
+  naziv: L - GOSPODIN - E L DŽEJMS
+  mpcena: 1199.02
+  futog: 1
+- sifra: 2357
+  naziv: L - GRADINAR - RABINDRANAT TAGORE
+  mpcena: 999.02
+  futog: 2
+- sifra: 2358
+  naziv: L - GRADITELJI - BORISLAV PEKIĆ
+  mpcena: 1099.03
+  futog: 2
+- sifra: 2359
+  naziv: L - GREH NJENE MAME - MILICA JAKOVLJEVIĆ MIR - JAM
+  mpcena: 999.02
+  futog: 2
+- sifra: 2360
+  naziv: L - GREJ - E L DŽEJMS
+  mpcena: 1299.03
+  futog: 2
+- sifra: 2361
+  naziv: L - GREŠNIK - VREME ZLA 1 - DOBRICA ĆOSIĆ
+  mpcena: 1099.0
+  futog: 2
+- sifra: 2362
+  naziv: L - HAJDUCI - BRANISLAV NUŠIĆ
+  mpcena: 749.01
+  futog: 2
+- sifra: 2363
+  naziv: L - HAMLET - VILIJAM ŠEKSPIR
+  mpcena: 699.0
+  futog: 2
+- sifra: 2364
+  naziv: L - HAMNET - MEGI O FAREL
+  mpcena: 999.0
+  futog: 2
+- sifra: 2365
+  naziv: L - HIPI - PAULO KOELJO
+  mpcena: 1199.02
+  futog: 2
+- sifra: 2366
+  naziv: L - HEROJI PLAVOG DANA - BOJAN LJUBENOVIĆ
+  mpcena: 899.0
+  futog: 2
+- sifra: 2367
+  naziv: L - I DRUGE PRIČE - MOMO KAPOR
+  mpcena: 1199.0
+  futog: 2
+- sifra: 2368
+  naziv: L - IDI POSTAVI STRAŽARA - HARPER LI
+  mpcena: 799.0
+  futog: 2
+- sifra: 2369
+  naziv: L - IGRA PRESTOLA - DŽORDŽM R.R. MARTIN
+  mpcena: 1299.03
+  futog: 2
+- sifra: 2370
+  naziv: L - ISTANBULSKO KOPILE - ELIF ŠAFAK
+  mpcena: 1099.0
+  futog: 2
+- sifra: 2371
+  naziv: L - IZGUBLJENA SESTRA - LUSINDA RAJLI
+  mpcena: 1299.03
+  futog: 2
+- sifra: 2372
+  naziv: L - JA SAM FRIDA - KAROLIN BERNARD
+  mpcena: 1099.03
+  futog: 1
+- sifra: 2373
+  naziv: L - JADNICI I - VIKTOR IGO
+  mpcena: 1599.01
+  futog: 2
+- sifra: 2374
+  naziv: L - JADNICI II - VIKTOR IGO
+  mpcena: 1599.01
+  futog: 2
+- sifra: 2375
+  naziv: L - JEDANAEST MINUTA - PAULO KOELJO
+  mpcena: 999.02
+  futog: 2
+- sifra: 2376
+  naziv: L - JEDI MOLI VOLI - ELIZABET GILBERT
+  mpcena: 1099.03
+  futog: 2
+- sifra: 2377
+  naziv: L - JESI LI VIDEO OVO - ANTE TOMIĆ I DRAŽA PETROVIĆ
+  mpcena: 999.0
+  futog: 2
+- sifra: 2378
+  naziv: L - JOVANKA ORLEANKA - KETRIN DŽ.ČEN
+  mpcena: 1199.02
+  futog: 2
+- sifra: 2379
+  naziv: L - JOVANOVO ZAVEŠTANJE - VANJA BULIĆ
+  mpcena: 1299.03
+  futog: 2
+- sifra: 2380
+  naziv: L - JUTRA SA LEUTARA - JOVAN DUČIĆ
+  mpcena: 799.0
+  futog: 2
+- sifra: 2381
+  naziv: L - KAD JE ŽENA KURVA, KAD JE MUŠKARAC PEDER - VEDRANA RUDAN
+  mpcena: 999.02
+  futog: 2
+- sifra: 2382
+  naziv: L - KAD SU CVETALE TIKVE - DRAGOSLAV MIHAILOVIĆ
+  mpcena: 899.0
+  futog: 2
+- sifra: 2383
+  naziv: L - KADA SI OTIŠAO - MEGI O FAREL
+  mpcena: 999.02
+  futog: 2
+- sifra: 2384
+  naziv: L - KAKO JE VILA MILA DOBILA KRILA - JELENA BAČIĆ ALIMPIĆ
+  mpcena: 1399.03
+  futog: 2
+- sifra: 2385
+  naziv: L - KAKO SAČUVATI ZDRAV RAZUM U DOBA PODELA - ELIF ŠAFAK
+  mpcena: 399.01
+  futog: 2
+- sifra: 2386
+  naziv: L - KAKO TO IZGLEDA? - SOFI KINSELA
+  mpcena: 599.01
+  futog: 2
+- sifra: 2387
+  naziv: L - KATEDRALA NA MORU - ILDEFONSO FALKONES
+  mpcena: 1199.02
+  futog: 2
+- sifra: 2388
+  naziv: L - KAZNA ZA GREH I - NOĆ KADA SU DOŠLI SVATOVI - JELENA BAČIĆ ALIMPIĆ
+  mpcena: 1099.0
+  futog: 2
+- sifra: 2389
+  naziv: L - KAZNA ZA GREH II - KNJIGA USPOMENA - JELENA BAČIĆ ALIMPIĆ
+  mpcena: 1099.0
+  futog: 2
+- sifra: 2390
+  naziv: L - KAZNA ZA GREH III - MOLITVA ZA OPROŠTAJ - JELENA BAČIĆ ALIMPIĆ
+  mpcena: 1099.0
+  futog: 2
+- sifra: 2391
+  naziv: L - KĆERI CVEĆA - TESA KOLINS
+  mpcena: 1199.02
+  futog: 2
+- sifra: 2392
+  naziv: L - KINA I - EDVARD RADERFURD
+  mpcena: 1499.01
+  futog: 2
+- sifra: 2393
+  naziv: L - KINA II - EDVARD RADERFURD
+  mpcena: 1499.01
+  futog: 2
+- sifra: 2394
+  naziv: L - KIRKA - MADLIN MILER
+  mpcena: 1199.02
+  futog: 2
+- sifra: 2395
+  naziv: L - KLEOPATRA - NATAŠA SOLOMONS
+  mpcena: 1199.02
+  futog: 2
+- sifra: 2396
+  naziv: L - KNJIGA O DŽUNGLI - RADJARD KIPLING
+  mpcena: 999.02
+  futog: 2
+- sifra: 2397
+  naziv: L - KNJIGA O TITU - DOBRICA ĆOSIĆ
+  mpcena: 1299.0
+  futog: 2
+- sifra: 2398
+  naziv: L - KNJIGA ŽALBI - MOMO KAPOR
+  mpcena: 1299.03
+  futog: 2
+- sifra: 2399
+  naziv: L - KNJIŽARA ZABRANJENIH KNJIGA - MARK LEVI
+  mpcena: 999.02
+  futog: 2
+- sifra: 2400
+  naziv: L - KO JE UBIO KATARINU - VUK DRAŠKOVIĆ
+  mpcena: 699.0
+  futog: 2
+- sifra: 2401
+  naziv: L - KOCKAR - FJODOR DOSTOJEVSKI
+  mpcena: 899.0
+  futog: 2
+- sifra: 2402
+  naziv: L - KOLIBA - VILIJEM POL JANG
+  mpcena: 899.0
+  futog: 1
+- sifra: 2403
+  naziv: L - KOMEDIJE - BRANISLAV NUŠIĆ
+  mpcena: 1999.0
+  futog: 2
+- sifra: 2404
+  naziv: L - KOŠARKA, TO JE PARTIZAN - SLOBODAN VLADUŠIĆ
+  mpcena: 999.02
+  futog: 2
+- sifra: 2405
+  naziv: L - KOSTURI OKRUGA MEDISON - VEDRANA RUDAN
+  mpcena: 999.0
+  futog: 2
+- sifra: 2406
+  naziv: L - KRADLJIVICA KNJIGA - MARKUS ZUSAK
+  mpcena: 1099.03
+  futog: 2
+- sifra: 2407
+  naziv: L - KROJAČ - JELENA BAČIĆ ALIMPIĆ
+  mpcena: 1099.0
+  futog: 1
+- sifra: 2408
+  naziv: L - KRV NA SNEGU - JU NESBE
+  mpcena: 699.0
+  futog: 2
+- sifra: 2409
+  naziv: L - KRVAVI MESEC - JU NESBE
+  mpcena: 1299.03
+  futog: 2
+- sifra: 2410
+  naziv: L - KUĆA NA JEZERU - KEJT MORTON
+  mpcena: 1399.03
+  futog: 2
+- sifra: 2411
+  naziv: L - KUĆA ORHIDEJA - LUSINDA RAJLI
+  mpcena: 1299.03
+  futog: 2
+- sifra: 2412
+  naziv: L - KUĆA U RIVERTONU - KEJT MORTON
+  mpcena: 1599.01
+  futog: 2
+- sifra: 2413
+  naziv: L - LAJK - SRĐAN DRAGOJEVIĆ
+  mpcena: 999.02
+  futog: 1
+- sifra: 2414
+  naziv: L - LAK NAČIN DA PRESTANETE DA PUŠITE - ALEN KAR
+  mpcena: 1299.03
+  futog: 2
+- sifra: 2415
+  naziv: L - LANJSKI SNEGOVI - MOMO KAPOR
+  mpcena: 1099.0
+  futog: 2
+- sifra: 2416
+  naziv: L - LERO - KRALJ LEPTIRA - MOMO KAPOR
+  mpcena: 1099.03
+  futog: 2
+- sifra: 2417
+  naziv: L - LETNJE NEBO - DŽENI KOLGAN
+  mpcena: 1099.03
+  futog: 2
+- sifra: 2418
+  naziv: L - LJUBAV NA POSLEDNJI POGLED - VEDRANA RUDAN
+  mpcena: 999.0
+  futog: 2
+- sifra: 2419
+  naziv: L - LJUBAVNO PISMO - LUSINDA RAJLI
+  mpcena: 1299.03
+  futog: 1
+- sifra: 2420
+  naziv: L - MAČAK KOJI JE SPASAO KNJIGE - SOSUKE NACUKAVA
+  mpcena: 799.0
+  futog: 2
+- sifra: 2421
+  naziv: L - MADONIN SOKO - VANJA BULIĆ
+  mpcena: 999.02
+  futog: 2
+- sifra: 2422
+  naziv: L - MAGBET - JU NESBE
+  mpcena: 1299.0
+  futog: 2
+- sifra: 2423
+  naziv: L - MAJKE MI, BAJKA - MIRJANA BOBIĆ MOJSILOVIĆ
+  mpcena: 1099.0
+  futog: 2
+- sifra: 2424
+  naziv: L - MAKTUB - PAULO KOELJO
+  mpcena: 999.02
+  futog: 2
+- sifra: 2425
+  naziv: L - MALA ITALIJANKA - LUSINDA RAJLI
+- sifra: 2426
+  naziv: L - MALA KNJIŽARA NA OBALI - DŽENI KOLGAN
+  mpcena: 1199.02
+  futog: 2
+- sifra: 2427
+  naziv: L - MALE ŽENE DOBRE SUPRUGE - LUIZA MEJ OLKOT
+  mpcena: 1399.03
+  futog: 2
+- sifra: 2428
+  naziv: L - MALI LJUDI / DŽOINI DEČACI - LUIZA MEJ OLKOT
+  mpcena: 1199.02
+  futog: 2
+- sifra: 2429
+  naziv: L - MAMA VILA I JA - MAGIJA SIRENA - SOFI KINSELA
+  mpcena: 599.01
+  futog: 2
+- sifra: 2430
+  naziv: L - MAMA VILA I JA - POČETNICE - SOFI KINSELA
+  mpcena: 599.01
+  futog: 2
+- sifra: 2431
+  naziv: L - MAMA VILA I JA - SOFI KINSELA
+  mpcena: 599.01
+  futog: 0
+- sifra: 2432
+  naziv: L - MEDVEDGRAD - FREDRIK BAKMAN
+- sifra: 2433
+  naziv: L - MENSFILD PARK - DŽEJN OSTIN
+  mpcena: 1099.0
+  futog: 2
+- sifra: 2434
+  naziv: L - MESEČEVA SESTRA - LUSINDA RAJLI
+  mpcena: 1299.03
+  futog: 2
+- sifra: 2435
+  naziv: L - MI PROTIV VAS - FREDRIK BAKMAN
+  mpcena: 1199.0
+  futog: 2
+- sifra: 2436
+  naziv: L - MILUTINOV GREH - VANJA BULIĆ
+  mpcena: 1099.0
+  futog: 2
+- sifra: 2437
+  naziv: L - MINESOTA - JU NESBE
+  mpcena: 1299.0
+  futog: 2
+- sifra: 2438
+  naziv: L - MOJA BABA ZEN BUDISTA - SINIŠA UBOVIĆ
+  mpcena: 599.01
+  futog: 2
+- sifra: 2439
+  naziv: L - MOJA BAKA VAM SE IZVINJAVA- FREDRIK BAKMAN
+  mpcena: 1199.0
+  futog: 2
+- sifra: 2441
+  naziv: L - MOLITVA NA MORU - HALED HOSEINI
+- sifra: 2442
+  naziv: VU - ZMAJKO BUDI SVOJ
+  mpcena: 699.0
+  srbobran: 1
+- sifra: 2443
+  naziv: 'VU - OBOJ ŽIVOTINJE : NILSKI KONJ'
+  mpcena: 349.0
+  srbobran: 1
+- sifra: 2444
+  naziv: VU - NA VEČERI SA UBICOM
+  mpcena: 499.0
+  srbobran: 0
+- sifra: 2445
+  naziv: VU - PET PRIJATELJA I NAPUŠTENI ZAMAK 11
+  mpcena: 799.0
+  srbobran: 0
+- sifra: 2446
+  naziv: VU - ZABAVNI BLOK SA PIŠI-BRIŠI OLOVKOM
+  mpcena: 399.0
+  srbobran: 0
+- sifra: 2447
+  naziv: L - MONAH HOKAJ - VUK DRAŠKOVIĆ
+  mpcena: 899.0
+  futog: 2
+- sifra: 2448
+  naziv: L - MRAČNIJE - E L DŽEJMS
+  mpcena: 1299.03
+  futog: 2
+- sifra: 2449
+  naziv: L - MRAVAC MRAV - JELICA GREGANOVIĆ
+  mpcena: 699.0
+  futog: 2
+- sifra: 2450
+  naziv: L - MUŠKARAC U GRLU - VEDRANA RUDAN
+  mpcena: 999.0
+  futog: 2
+- sifra: 2451
+  naziv: L - MUŠKARAC U IZVESNIM GODINAMA - DOPUNJENO IZDANJE - VANJA BULIĆ
+  mpcena: 899.0
+  futog: 2
+- sifra: 2452
+  naziv: L - NA OBALI REKE PJEDRE SEDELA SAM I PLAKALA - PAULO KOELJO
+  mpcena: 999.02
+  futog: 2
+- sifra: 2453
+  naziv: L - NAJVIŠI DAR - PAULO KOELJO I HENRI DRAMOND
+  mpcena: 799.0
+  futog: 2
+- sifra: 2454
+  naziv: L - NAŠE PRIČE - GORICA NEŠOVIĆ I JELICA GREGANOVIĆ
+  mpcena: 899.0
+  futog: 2
+- sifra: 2455
+  naziv: L - NEIMAROV ŠEGRT - ELIF ŠAFAK
+  mpcena: 1299.0
+  futog: 2
+- sifra: 2456
+  naziv: L - NEKI DRUGI ŽIVOT - JELENA BAČIĆ ALIMPIĆ
+  mpcena: 1099.0
+  futog: 2
+- sifra: 2457
+  naziv: L - NIGDE NEMA TE - JELENA BAČIĆ ALIMPIĆ
+  mpcena: 1099.0
+  futog: 2
+- sifra: 2458
+  naziv: L - NISAM KRIVA - JELENA BAČIĆ ALIMPIĆ
+  mpcena: 1099.0
+  futog: 2
+- sifra: 2459
+  naziv: L - NIŠTA NAS NE SMIJE IZNENADITI - ANTE TOMIĆ
+  mpcena: 899.0
+  futog: 2
+- sifra: 2460
+  naziv: L - NJEGOVE BELE RUKAVICE - JELENA BAČIĆ ALIMPIĆ
+  mpcena: 1099.0
+  futog: 2
+- sifra: 2461
+  naziv: L - NORTENGERSKA OPATIJA - DŽEJN OSTIN
+  mpcena: 999.0
+  futog: 2
+- sifra: 2462
+  naziv: L - NOVI UČENIK- TREJSI ŠEVALIJE
+  mpcena: 699.01
+  futog: 2
+- sifra: 2463
+  naziv: L - NOŽ - VUK DRAŠKOVIĆ
+  mpcena: 999.02
+  futog: 2
+- sifra: 2464
+  naziv: L - OBEĆAO SI MI - MIRJANA BOBIĆ MOJSILOVIĆ
+  mpcena: 1099.0
+  futog: 2
+- sifra: 2465
+  naziv: L - OFF - MOMO KAPOR
+  mpcena: 899.0
+  futog: 2
+- sifra: 2466
+  naziv: L - OKO OTOKA - VANJA BULIĆ
+  mpcena: 1299.03
+  futog: 2
+- sifra: 2467
+  naziv: L - OLUJNA SESTRA - LUSINDA RAJLI
+  mpcena: 1299.03
+  futog: 2
+- sifra: 2468
+  naziv: L - ONDA - MOMO KAPOR
+  mpcena: 1499.01
+  futog: 2
+- sifra: 2469
+  naziv: L - ONO SVE ŠTO ZNAŠ O MENI - MIRJANA BOBIĆ MOJSILOVIĆ
+  mpcena: 1099.0
+  futog: 2
+- sifra: 2470
+  naziv: VU - PET PRIJATELJA NA FARMI FINISTON 18
+  mpcena: 799.0
+  srbobran: 1
+- sifra: 2471
+  naziv: VU - PET PRIJATELJA NA KAMPOVANJU 7
+  mpcena: 799.0
+  srbobran: 0
+- sifra: 2472
+  naziv: L - ORKANSKI VISOVI - EMILI BRONTE
+- sifra: 2476
+  naziv: L - OSLOBOĐENI - E L DŽEJMS
+  mpcena: 1799.0
+  futog: 2
+- sifra: 2477
+  naziv: L - OSTRVO NESTALOG DRVEĆA - ELIF ŠAFAK
+  mpcena: 1399.0
+  futog: 2
+- sifra: 2479
+  naziv: L - OSTRVO PACOVA - JU NESBE
+  mpcena: 999.0
+  futog: 2
+- sifra: 2480
+  naziv: VU - 200 PITANJA I ODGOVORA
+  mpcena: 1699.0
+  srbobran: 1
+- sifra: 2481
+  naziv: L - OTAC - BOJAN LJUBENOVIĆ
+  mpcena: 1099.03
+  futog: 2
+- sifra: 2482
+  naziv: L - OTETI ZAPAD - MILAN KUNDERA
+  mpcena: 399.01
+  futog: 2
+- sifra: 2483
+  naziv: L - OTPADNIK - DOBRICA ĆOSIĆ
+  mpcena: 1199.0
+  futog: 2
+- sifra: 2484
+  naziv: L - OVAJ PUT BIRAM SEBE - DIZGRAM
+  mpcena: 899.0
+  futog: 2
+- sifra: 2485
+  naziv: L - OŽILJCI ŽIVOTA - VUK DRAŠKOVIĆ
+  mpcena: 1399.03
+  futog: 2
+- sifra: 2486
+  naziv: L - PEDESET NIJANSI MRAČNIJE - E L DŽEJMS
+  mpcena: 90.0
+  srbobran: 0
+  futog: 2
+- sifra: 2487
+  naziv: L - PEDESET NIJANSI SIVA - E L DŽEJMS
+  mpcena: 1199.02
+  futog: 2
+- sifra: 2488
+  naziv: L - PETA GORA - MEK POVEZ - PAULO KOELJO
+  mpcena: 799.0
+  futog: 2
+- sifra: 2489
+  naziv: L - PISMA IZ SRBIJE - BOJAN LJUBENOVIĆ
+  mpcena: 1099.0
+  futog: 2
+- sifra: 2490
+  naziv: L - PISMO GOSPOĐE VILME - JELENA BAČIĆ ALIMPIĆ
+  mpcena: 1099.0
+  futog: 2
+- sifra: 2491
+  naziv: L - PLES OKO SUNCA - VEDRANA RUDAN
+  mpcena: 999.0
+  futog: 2
+- sifra: 2492
+  naziv: L - POGLEDAJ ŠTO JE MAČKA DONIJELA - ANTE TOMIĆ
+  mpcena: 899.0
+  futog: 2
+- sifra: 2493
+  naziv: L - POLICIJA - JU NESBE
+  mpcena: 1299.03
+  futog: 2
+- sifra: 2494
+  naziv: L - PONOĆNA RUŽA - LUSINDA RAJLI
+  mpcena: 100.0
+  srbobran: 0
+  futog: 2
+- sifra: 2495
+  naziv: L - PORED PUTA - IVO ANDRIĆ
+  mpcena: 1999.0
+  futog: 2
+- sifra: 2496
+  naziv: VU - PET PRIJATELJA NA KRIJUMČARSKOM VRHU 4
+  mpcena: 799.0
+  srbobran: 1
+- sifra: 2497
+  naziv: L - PORTRET JEDNOG BRAKA - MEGI O FAREL
+  mpcena: 1299.03
+  futog: 2
+- sifra: 2498
+  naziv: L - POSLEDNJA LJUBAVNA PESMA - LUSINDA RAJLI
+  mpcena: 1299.0
+  futog: 1
+- sifra: 2499
+  naziv: L - POSLEDNJA PRILIKA - FREDRIK BAKMAN
+  mpcena: 899.0
+  futog: 2
+- sifra: 2500
+  naziv: VU - AKADEMIJA SIRENA/JEDNOROGA
+  mpcena: 799.0
+  srbobran: 2
+- sifra: 2501
+  naziv: L - POSLEDNJE PROLEĆE U PARIZU - JELENA BAČIĆ ALIMPIĆ
+  mpcena: 1099.0
+  futog: 2
+- sifra: 2502
+  naziv: L - POSLEDNJE UMETNIČKO DELO - SOFIJA LUNDBERJ
+  mpcena: 572.88
+  srbobran: 0
+  futog: 2
+- sifra: 2503
+  naziv: L - POSLEDNJI TJUDOR - FILIPA GREGORI
+  mpcena: 1699.01
+  futog: 2
+- sifra: 2506
+  naziv: L - POŠTAŠAVILI - TERI PRAČET
+  mpcena: 1099.03
+  futog: 2
+- sifra: 2511
+  naziv: L - POSVEĆUJEM VAM SVOJU TIŠINU - MARIO VARGAS LJOSA
+  mpcena: 1099.0
+  futog: 2
+- sifra: 2512
+  naziv: VU - HAJDE DA SE IGRAMO
+  mpcena: 699.0
+  srbobran: 1
+- sifra: 2513
+  naziv: L - POVRATAK KUĆI - KEJT MORTON
+  mpcena: 1599.01
+  futog: 2
+- sifra: 2514
+  naziv: L - POVRATAK U MIR - SINIŠA UBOVIĆ
+  mpcena: 899.0
+  futog: 2
+- sifra: 2515
+  naziv: L - PRADEVOJČICA - DESANKA MAKSIMOVIĆ
+  mpcena: 799.01
+  futog: 2
+- sifra: 2516
+  naziv: L - PREKO PRAGA - VLADIKA GRIGORIJE
+  mpcena: 899.0
+  futog: 2
+- sifra: 2520
+  naziv: VU - PET PRIJATELJA NA MORU 12
+  mpcena: 799.0
+  srbobran: 1
+- sifra: 2521
+  naziv: L - PRIČE - IVO ANDRIĆ
+  mpcena: 2299.05
+  futog: 2
+- sifra: 2522
+  naziv: VU - KLASICI SVETSKE KNJIZEVNOSTI
+  mpcena: 899.0
+  srbobran: 1
+- sifra: 2523
+  naziv: VU - KNJIGA SA AKTIVNOSTIMA
+  mpcena: 799.0
+  srbobran: 3
+- sifra: 2524
+  naziv: L - PRIČE O NADI - HEDER MORIS
+  mpcena: 899.0
+  futog: 2
+- sifra: 2525
+  naziv: L - PRIČI NIKAD KRAJA - GORICA NEŠOVIĆ I JELICA GREGANOVIĆ
+  mpcena: 899.0
+  futog: 2
+- sifra: 2526
+  naziv: L - PRINCEZIN ROĐENDAN - OSKAR VAJLD
+  mpcena: 1299.03
+  futog: 2
+- sifra: 2528
+  naziv: L - PROCES - FRANC KAFKA
+- sifra: 2529
+  naziv: L - PROLEĆNA OLUJA - DŽENI KOLGAN
+  mpcena: 75.0
+  srbobran: 0
+  futog: 2
+- sifra: 2530
+  naziv: VU - PAMETNI PROZORČIĆI - LJUDSKO TELO
+  mpcena: 1499.0
+  srbobran: 0
+- sifra: 2531
+  naziv: VU - PET PRIJATELJA PONOVO NA OSTRVU KIRIN 6
+  mpcena: 799.0
+  srbobran: 1
+- sifra: 2532
+  naziv: L - PROZOR PATROLA - DRUŠTVENA IGRA
+  mpcena: 1499.01
+  futog: 1
+- sifra: 2533
+  naziv: L - PUDING OD VANILIJE - VEDRANA RUDAN
+  mpcena: 999.0
+  futog: 2
+- sifra: 2534
+  naziv: L - PUT DO KUĆE SVAKOG JUTRA SVE JE DUŽI - FREDRIK BAKMAN
+  mpcena: 899.0
+  futog: 2
+- sifra: 2535
+  naziv: L - PUT PROMENE - SINIŠA UBOVIĆ
+  mpcena: 999.02
+  futog: 2
+- sifra: 2536
+  naziv: L - PUTOVANJE U SREDIŠTE ZEMLJE - ŽIL VERN
+  mpcena: 799.0
+  futog: 2
+- sifra: 2537
+  naziv: L - RAT I MIR I - LAV TOLSTOJ
+  mpcena: 1599.01
+  futog: 2
+- sifra: 2538
+  naziv: L - RAT I MIR II - LAV TOLSTOJ
+  mpcena: 1599.01
+  futog: 2
+- sifra: 2539
+  naziv: L - RAT ZA SMAK SVETA - MARIO VARGAS LJOSA
+  mpcena: 1599.01
+  futog: 2
+- sifra: 2540
+  naziv: L - RAZMRSITE KLUPKO ANKSIOZNOSTI - DŽADSON BRUER
+  mpcena: 1099.0
+  futog: 2
+- sifra: 2541
+  naziv: 'VU - PET PRIJATELJA U BEKSTVU 3 '
+  mpcena: 799.0
+  srbobran: 1
+- sifra: 2542
+  naziv: VU - PET PRIJATELJA U DETEKTIVSKOJ AVANTURI 14
+  mpcena: 799.0
+  srbobran: 1
+- sifra: 2543
+  naziv: L - REĆI ĆU TI SVOJU TAJNU - DESANKA MAKSIMOVIĆ
+  mpcena: 899.0
+  futog: 2
+- sifra: 2544
+  naziv: L - RIBA U VODI - MARIO VARGAS LJOSA
+  mpcena: 1399.03
+  futog: 2
+- sifra: 2545
+  naziv: L - RINGIŠPIL - JELENA BAČIĆ ALIMPIĆ
+  mpcena: 1999.04
+  futog: 2
+- sifra: 2546
+  naziv: L - ROBINJA SLOBODE - ILDEFONSO FALKONES
+  mpcena: 1699.01
+  futog: 2
+- sifra: 2547
+  naziv: L - ROBINZON KRUSO - TVRD POVEZ - DANIJEL DEFO
+  mpcena: 799.0
+  futog: 2
+- sifra: 2548
+  naziv: L - ROMAN O LONDONU I - MILOŠ CRNJANSKI
+  mpcena: 1299.03
+  futog: 2
+- sifra: 2549
+  naziv: L - ROMAN O LONDONU II - MILOŠ CRNJANSKI
+  mpcena: 1299.03
+  futog: 2
+- sifra: 2550
+  naziv: L - ROMANI - IVO ANDRIĆ
+  mpcena: 1999.0
+  futog: 2
+- sifra: 2551
+  naziv: L - ROMANI - STEVAN SREMAC
+  mpcena: 1999.0
+  futog: 2
+- sifra: 2552
+  naziv: L - ROMEO I JULIJA - VILIJAM ŠEKSPIR
+  mpcena: 699.0
+  futog: 2
+- sifra: 2553
+  naziv: L - RUKOPIS OTKRIVEN U AKRI - PAULO KOELJO
+  mpcena: 999.02
+  futog: 2
+- sifra: 2554
+  naziv: L - RUPE U GLAVI - VANJA BULIĆ
+  mpcena: 699.0
+  futog: 2
+- sifra: 2555
+  naziv: L - RUSALKIN POLJUBAC - KEJT KVIN
+  mpcena: 1599.01
+  futog: 0
+- sifra: 2556
+  naziv: L - RUSKA I - EDVARD RADERFURD
+  mpcena: 1499.01
+  futog: 2
+- sifra: 2559
+  naziv: L - RUSKA II - EDVARD RADERFURD
+  mpcena: 1499.01
+  futog: 2
+- sifra: 2561
+  naziv: 'VU - PET PRIJATELJA U NOVOJ AVANTURI 2 '
+  mpcena: 799.0
+  srbobran: 1
+  futog: 1
+- sifra: 2565
+  naziv: L - RUSKI KONZUL - VUK DRAŠKOVIĆ
+  mpcena: 1499.01
+  futog: 2
+- sifra: 2567
+  naziv: L - SABLJE I UTOPIJE - MARIO VARGAS LJOSA
+  mpcena: 1499.01
+  futog: 2
+- sifra: 2568
+  naziv: VU - SAMO BUDI OVDE V
+  mpcena: 499.0
+  srbobran: 0
+- sifra: 2569
+  naziv: L - SAGORELA - SOFI KINSELA
+  mpcena: 265.0
+  srbobran: 0
+  futog: 2
+- sifra: 2570
+  naziv: L - ŠALA - MILAN KUNDERA
+  mpcena: 1099.03
+  futog: 2
+- sifra: 2571
+  naziv: VU - SANATORIJUM
+  mpcena: 499.0
+  srbobran: 0
+- sifra: 2572
+  naziv: L - SAMAC U BRAKU - MILICA JAKOVLJEVIĆ MIR-JAM
+  mpcena: 999.02
+  futog: 2
+- sifra: 2574
+  naziv: L - SARUM I - EDVARD RADERFURD
+  mpcena: 1399.03
+  futog: 2
+- sifra: 2576
+  naziv: L - SARUM II - EDVARD RADERFURD
+  mpcena: 1199.02
+  futog: 2
+- sifra: 2577
+  naziv: L - SARUM III - EDVARD RADERFURD
+  mpcena: 1099.03
+  futog: 2
+- sifra: 2579
+  naziv: L - SAVIN OSVETNIK - VANJA BULIĆ
+  mpcena: 1099.0
+  futog: 2
+- sifra: 2580
+  naziv: L - SEBI DUGUJEŠ SVE - DIZGRAM
+  mpcena: 899.0
+  futog: 2
+- sifra: 2581
+  naziv: VU - SVETLUCAVI SVET
+  mpcena: 899.0
+  srbobran: 2
+- sifra: 2582
+  naziv: L - SEBIČNI DŽIN - OSKAR VAJLD
+  mpcena: 1299.03
+  futog: 2
+- sifra: 2583
+  naziv: L - SEDAM DANA ZA VEČNOST - MARK LEVI
+  mpcena: 999.02
+  futog: 2
+- sifra: 2586
+  naziv: L - SEDAM SESTARA - LUSINDA RAJLI
+  mpcena: 1299.03
+  futog: 2
+- sifra: 2587
+  naziv: L - SENTIMENTALNO VASPITANJE - MOMO KAPOR
+  mpcena: 1499.01
+  futog: 2
+- sifra: 2588
+  naziv: L - SEOBE - MILOŠ CRNJANSKI
+  mpcena: 90.0
+  srbobran: 0
+  futog: 2
+- sifra: 2589
+  naziv: L - SERVIRAJ ZA POBEDU - NOVAK ĐOKOVIĆ
+  mpcena: 599.05
+  futog: 2
+- sifra: 2590
+  naziv: L - SESTRE POD IZLAZEĆIM SUNCEM - HEDER MORIS
+  mpcena: 1199.02
+  futog: 2
+- sifra: 2591
+  naziv: L - SIMEONOV PEČAT - VANJA BULIĆ
+  mpcena: 1099.0
+  futog: 2
+- sifra: 2592
+  naziv: L - SINAJSKI TESTAMENT - VANJA BULIĆ
+  mpcena: 1099.0
+  futog: 2
+- sifra: 2593
+  naziv: L - SKITAM I PRIČAM - MOMO KAPOR
+  mpcena: 1299.03
+  futog: 2
+- sifra: 2596
+  naziv: L - SLIKA DORIJANA GREJA - OSKAR VAJLD
+  mpcena: 999.0
+  futog: 2
+- sifra: 2597
+  naziv: L - SLIKA S MOREM - FREDRIK BAKMAN
+  mpcena: 1199.0
+  futog: 2
+- sifra: 2598
+  naziv: L - SLIKAR DUŠA - ILDEFONSO FALKONES
+  mpcena: 1599.01
+  futog: 2
+- sifra: 2599
+  naziv: L - SNEŠKO - JU NESBE
+  mpcena: 1299.03
+  futog: 2
+- sifra: 2600
+  naziv: L - SOLOMONOVO SLOVO - JU NESBE
+  mpcena: 1299.0
+  futog: 2
+- sifra: 2601
+  naziv: L - SPASITELJ - JU NESBE
+  mpcena: 1299.03
+  futog: 2
+- sifra: 2602
+  naziv: L - ŠPIJUNKA - PAULO KOELJO
+  mpcena: 999.02
+  futog: 2
+- sifra: 2603
+  naziv: L - SRCE MOJE - MIRJANA BOBIĆ MOJSILOVIĆ
+  mpcena: 1099.0
+  futog: 2
+- sifra: 2604
+  naziv: L - SREĆNI LJUDI ČITAJU I PIJU KAFU - ANJES MARTEN - LIGAN
+  mpcena: 599.01
+  futog: 2
+- sifra: 2605
+  naziv: L - SREDA - DRUŠTVENA IGRA
+  mpcena: 1799.01
+  futog: 2
+- sifra: 2606
+  naziv: L - STRAH OD PLETENJA - VEDRANA RUDAN
+  mpcena: 999.0
+  futog: 2
+- sifra: 2607
+  naziv: L - STRAH OD VEZIVANJA - ŠTEFANI ŠTAL
+  mpcena: 999.0
+  futog: 2
+- sifra: 2608
+  naziv: L - STRANAC U ŠUMI - ĆIRILICA - VLADIKA GRIGORIJE
+  mpcena: 899.0
+  futog: 2
+- sifra: 2609
+  naziv: 'L - STRELAC - PAULO KOELJO '
+  mpcena: 1099.0
+  futog: 2
+- sifra: 2610
+  naziv: L - STRUČNJAK ZA LJUBOMORU I DRUGE PRIČE - JU NESBE
+  mpcena: 799.0
+  futog: 2
+- sifra: 2611
+  naziv: L - SUĐENJE - VUK DRAŠKOVIĆ
+  mpcena: 999.02
+  futog: 2
+- sifra: 2612
+  naziv: L - SUNČEVA SESTRA - LUSINDA RAJLI
+- sifra: 2613
+  naziv: L - SVAKO JE SPOSOBAN ZA VEZU - ŠTEFANI ŠTAL
+  mpcena: 999.0
+  futog: 2
+- sifra: 2614
+  naziv: L - TAJNA BOŽIĆNA BIBLIOTEKA - DŽENI KOLGAN
+  mpcena: 1299.03
+  futog: 2
+- sifra: 2615
+  naziv: L - TAJNE DEDINOG KOFERA - BOJAN LJUBENOVIĆ
+  mpcena: 899.0
+  futog: 1
+- sifra: 2617
+  naziv: L - TAMO DALEKO - VUK DRAŠKOVIĆ
+  mpcena: 699.0
+  futog: 2
+- sifra: 2618
+  naziv: L - TATA U DRUGOM STANJU - VANJA BULIĆ
+  mpcena: 999.02
+  futog: 2
+- sifra: 2619
+  naziv: L - TEODORIN PRSTEN - VANJA BULIĆ
+  mpcena: 1099.0
+  futog: 2
+- sifra: 2621
+  naziv: L - TEŠKA VREMENA - ČARLS DIKENS
+  mpcena: 1099.03
+  futog: 2
+- sifra: 2622
+  naziv: L - TESLINA POŠILJKA - VANJA BULIĆ
+  mpcena: 1199.02
+  futog: 2
+- sifra: 2623
+  naziv: L - TETOVAŽER IZ AUŠVICA - HEDER MORIS
+  mpcena: 799.0
+  futog: 2
+- sifra: 2624
+  naziv: L - THE MEMORIS OF JESUS - VUK DRAŠKOVIĆ
+  mpcena: 999.02
+  futog: 2
+- sifra: 2625
+  naziv: L - TKO JE TAJ ČOVJEK ? - BORIS DEŽULOVIĆ
+  mpcena: 1099.03
+  futog: 2
+- sifra: 2626
+  naziv: VU - STEPENICE ZNANJA - DINOSAURI
+  mpcena: 999.0
+  srbobran: 0
+- sifra: 2627
+  naziv: L - TRAŽI ME - MIRJANA BOBIĆ MOJSILOVIĆ
+  mpcena: 1099.0
+  futog: 2
+- sifra: 2628
+  naziv: VU - VELIKE NALEPNICE ZA MALENE RUKE
+  mpcena: 499.0
+  srbobran: 3
+- sifra: 2629
+  naziv: VU - PROLEĆNA ČAROLIJA - ANTISTRES BOJANKA ZA ODRASLE
+  mpcena: 899.0
+  srbobran: 1
+- sifra: 2630
+  naziv: L - TRI ROMANA - HALED HOSEINI
+  mpcena: 1999.0
+  futog: 2
+- sifra: 2631
+  naziv: 'VU - RADOZNALI UMOVI : DINOSAURI'
+  mpcena: 999.0
+  srbobran: 1
+- sifra: 2632
+  naziv: VU - STEPENICE ZNANJA - PLANETE
+  mpcena: 999.0
+  srbobran: 0
+- sifra: 2633
+  naziv: 'VU - RADOZNALI UMOVI : ŽIVOTINJE'
+  mpcena: 499.0
+  srbobran: 0
+- sifra: 2634
+  naziv: 'VU - SLATKE PRIČICE : NESTAŠNI TIGRIĆ'
+  mpcena: 399.0
+  srbobran: 1
+- sifra: 2635
+  naziv: L - TVOJ ANĐEO ČUVAR - MIRJANA BOBIĆ MOJSILOVIĆ
+  mpcena: 1099.0
+  futog: 2
+- sifra: 2636
+  naziv: 'VU - SVETLUCAVA ZABAVA : DOBA DINOSAURA'
+  mpcena: 799.0
+  srbobran: 1
+- sifra: 2637
+  naziv: 'VU - SVETLUCAVA ZABAVA : MAGIČNA STVORENJA'
+  mpcena: 799.0
+  srbobran: 1
+- sifra: 2638
+  naziv: VU - VODIČ KROZ PRIRODU
+  mpcena: 2390.0
+  srbobran: 1
+- sifra: 2639
+  naziv: VU - ZRNCE KARTICE - BEBE ŽIVOTINJA
+  mpcena: 499.0
+  srbobran: 1
+- sifra: 2640
+  naziv: VU - TECI KAO REKA
+  mpcena: 499.0
+  srbobran: 0
+- sifra: 2641
+  naziv: VU - UPOZNAJMO ŽIVOTINJE - BEBE ŽIVOTINJA
+  mpcena: 699.0
+  srbobran: 0
+- sifra: 2642
+  naziv: VU - UPOZNAJMO ŽIVOTINJE - DOMAĆE ŽIVOTINJE
+  mpcena: 699.0
+  srbobran: 0
+- sifra: 2643
+  naziv: VU - VELIKA KUTIJA PUNA ZABAVE - DINOSAURI
+  mpcena: 1799.0
+  srbobran: 0
+- sifra: 2644
+  naziv: VU - ZRNCE KARTICE - UČIMO DA BROJIMO DO 20 - LATINICA
+  mpcena: 499.0
+  srbobran: 1
+- sifra: 2645
+  naziv: VU - ZRNCE KARTICE - UČIMO DA BROJIMO DO 20
+  mpcena: 499.0
+  srbobran: 1
+- sifra: 2646
+  naziv: VU - ZRNCE KARTICE - UČIMO PRVE REČI
+  mpcena: 499.0
+  srbobran: 0
+  futog: 1
+- sifra: 2647
+  naziv: VU - ZRNCE KARTICE - UČIMO ŽIVOTINJE
+  mpcena: 499.0
+  srbobran: 1
+  futog: 1
+- sifra: 2648
+  naziv: VU - ŽENA SA CVETOM OD PAPIRA
+  mpcena: 499.0
+  srbobran: 0
+- sifra: 2649
+  naziv: VU - ŽIVOT JE ROMAN
+  mpcena: 499.0
+  srbobran: 0
+- sifra: 2650
+  naziv: L - TVOJ SAM - MIRJANA BOBIĆ MOJSILOVIĆ
+  mpcena: 1099.0
+  futog: 2
+- sifra: 2651
+  naziv: L - U SENCI MASLINE - LUSINDA RAJLI
+  mpcena: 1299.03
+  futog: 2
+- sifra: 2652
+  naziv: L - U TUĐEM VEKU II - DOBRICA ĆOSIĆ
+  mpcena: 499.01
+  futog: 2
+- sifra: 2653
+  naziv: L - UBISTVA U FLIT HAUSU - LUSINDA RAJLI
+  mpcena: 1299.0
+  futog: 2
+- sifra: 2654
+  naziv: VU - ZVUČNA KNJIGA SA PROZORČIĆIMA - VOZILA
+  mpcena: 1799.0
+  srbobran: 0
+- sifra: 2656
+  naziv: L - UBITI PTICU RUGALICU - HARPER LI
+  mpcena: 1049.01
+  futog: 2
+- sifra: 2657
+  naziv: L - UHO, GRLO, NOŽ - VEDRANA RUDAN
+  mpcena: 999.0
+  futog: 2
+- sifra: 2658
+  naziv: L - UHVAĆENI - NEVESA ALEN
+  mpcena: 1199.02
+  futog: 2
+- sifra: 2659
+  naziv: L - ULTIMATIVNI IKS-OKS - DRUŠTVENA IGRA
+  mpcena: 1499.01
+  futog: 2
+- sifra: 2660
+  naziv: L - UMRIJETI BEZ STRESA - VEDRANA RUDAN
+  mpcena: 1299.03
+  futog: 2
+- sifra: 2661
+  naziv: L - 10 MINUTA I 38 SEKUNDI NA OVOM ČUDNOM SVET- ELIF ŠAFAK
+  mpcena: 499.0
+  srbobran: 0
+  futog: 2
+- sifra: 2662
+  naziv: L - 100 POSTO JA - SINIŠA UBOVIĆ
+  mpcena: 499.0
+  srbobran: 0
+  futog: 2
+- sifra: 2663
+  naziv: L - 1999 - BORISLAV PEKIĆ
+  mpcena: 1199.02
+  futog: 2
+- sifra: 2664
+  naziv: L - 20000 MILJA POD MOREM - ŽIL VERN
+  mpcena: 999.0
+  srbobran: 0
+  futog: 2
+- sifra: 2665
+  naziv: L - ADA - MOMO KAPOR
+  mpcena: 1099.0
+  futog: 2
+- sifra: 2666
+  naziv: L - ALEKSANDAR OD JUGOSLAVIJE - VUK DRAŠKOVIĆ
+  mpcena: 899.0
+  futog: 2
+- sifra: 2667
+  naziv: L - ALHEMIČAR - ILUSTROVANO IZDANJE - PAULJO KOELJO
+- sifra: 2668
+  naziv: L - ANA KARENJINA - LAV TOLSTOJ
+  mpcena: 1599.01
+  futog: 2
+- sifra: 2669
+  naziv: L - ANĐEO ČUVAR - PAULJO KOELJO
+  mpcena: 399.0
+  srbobran: 0
+  futog: 2
+- sifra: 2670
+  naziv: L - APSOLUTNA ISTINA - MAJK TAJSON
+  mpcena: 699.0
+  srbobran: 0
+  futog: 2
+- sifra: 2671
+  naziv: L - AUTOBIOGRAFIJA - BRANISLAV NUŠIĆ
+  mpcena: 899.0
+  futog: 1
+- sifra: 2672
+  naziv: L - AVANTURE NEVALJALE DEVOJČICE - MARIO VARGAS LJOSA
+  mpcena: 899.0
+  futog: 2
+- sifra: 2673
+  naziv: L - BAU-BAU - JELICA GREGANOVIĆ
+  mpcena: 1299.03
+  futog: 2
+- sifra: 2674
+  naziv: L - BELEŽNICA - NIKOLAS SPARKS
+  mpcena: 799.0
+  futog: 2
+- sifra: 2675
+  naziv: L - BELI OČNJAK - DŽEK LONDON
+  mpcena: 899.0
+  futog: 2
+- sifra: 2676
+  naziv: L - BESNILO - BORISLAV PEKIĆ
+  mpcena: 1799.0
+  futog: 2
+- sifra: 2677
+  naziv: L - BESPLATNA DOSTAVA - VEDRANA RUDAN
+  mpcena: 899.0
+  futog: 2
+- sifra: 2678
+  naziv: L - BISERNA SESTRA - LUSINDA RAJLI
+  mpcena: 1299.03
+  futog: 2
+- sifra: 2679
+  naziv: L - BOJA PURPURA - ALIS VOKER
+  mpcena: 799.0
+  futog: 2
+- sifra: 2680
+  naziv: L - BITI KAO REKA - PAULO KOELJO
+  mpcena: 999.02
+  futog: 2
+- sifra: 2681
+  naziv: L - BOLJA STRANA - JELICA GREGANOVIĆ
+  mpcena: 799.0
+  futog: 2
+- sifra: 2682
+  naziv: L - BOSONOGA KRALJICA I - ILDEFONSO FALKONES
+  mpcena: 499.0
+  srbobran: 0
+  futog: 2
+- sifra: 2683
+  naziv: L - BOSONOGA KRALJICA II - ILDEFONSO FALKONES
+  mpcena: 999.02
+  futog: 2
+- sifra: 2685
+  naziv: L - BRIT-MARI JE BILA TU - FREDRIK BAKMAN
+  mpcena: 1199.0
+  futog: 2
+- sifra: 2686
+  naziv: L - BUKET ŽUTIH RUŽA - LJILJANA ŠARAC
+  mpcena: 1099.0
+  futog: 2
+- sifra: 2687
+  naziv: L - BUKVAR ZA RODITELJE - SMILJANA GRUJIĆ
+  mpcena: 599.0
+  srbobran: 0
+  futog: 2
+- sifra: 2688
+  naziv: L - UNA - MOMO KAPOR
+  mpcena: 999.0
+  futog: 2
+- sifra: 2689
+  naziv: L - UPOZNAJ SEBE I DRUGE - ŠTEFANI ŠTAL
+  mpcena: 999.0
+  futog: 2
+- sifra: 2690
+  naziv: L - ČASOVNIČAREVA KĆI - KEJT MORTON
+  mpcena: 499.0
+  srbobran: 0
+  futog: 2
+- sifra: 2691
+  naziv: 'L - VAŠLJIVA PALATA - ELIF ŠAFAK '
+  mpcena: 1199.0
+  futog: 2
+- sifra: 2692
+  naziv: L - VELIČANSTVENI POSKOKOVI - ANTE TOMIĆ
+  mpcena: 899.0
+  futog: 2
+- sifra: 2693
+  naziv: L - VELIKA KNJIGA GODIŠNJIH DOBA - ANA VILSON
+  mpcena: 2499.05
+  futog: 2
+- sifra: 2694
+  naziv: L - VELIKA KNJIGA O BOJAMA - KLAUSBERND FOLMAR
+  mpcena: 390.0
+  srbobran: 0
+  futog: 3
+- sifra: 2695
+  naziv: L - VELIKA KNJIGA O RODITELJSTVU - SABINA ANDREZEN, MIHA BRUMLIK I KLAUS
+    KOH
+  mpcena: 2299.05
+  futog: 2
+- sifra: 2696
+  naziv: L - ČAST - ELIF ŠAFAK
+  mpcena: 399.0
+  srbobran: 0
+  futog: 2
+- sifra: 2697
+  naziv: L - CG - PEDESET NIJANSI MRAČNIJE - E L DŽEJMS
+  mpcena: 499.0
+  srbobran: 0
+- sifra: 2698
+  naziv: L - CG - PEDESET NIJANSI OSLOBOĐENI - E L DŽEJMS
+  mpcena: 499.0
+  srbobran: 0
+- sifra: 2699
+  naziv: L - VELIKA KNJIGA O ŠUMSKIM LEGENDAMA- TEA ORSI
+  mpcena: 1799.0
+  futog: 2
+- sifra: 2700
+  naziv: L - VELIKA KNJIGA PRIČA O ŽIVOTINJAMA
+  mpcena: 1799.01
+  futog: 2
+- sifra: 2701
+  naziv: L - VELIKA KNJIGA PRIČA ZA LAKU NOĆ
+- sifra: 2702
+  naziv: L - VELIKI GETSBI - F.SKOT FICDŽERALD
+  mpcena: 799.0
+  futog: 2
+- sifra: 2703
+  naziv: L - VERNIK I - VREME ZLA 3 - DOBRICA ĆOSIĆ
+  mpcena: 1099.0
+  futog: 2
+- sifra: 2704
+  naziv: 'L - CG - PEDESET NIJANSI SIVA - E L DŽEJMS '
+  mpcena: 599.0
+  srbobran: 0
+- sifra: 2706
+  naziv: L - VERNIK II - VREME ZLA 3 - DOBRICA ĆOSIĆ
+  mpcena: 1099.0
+  futog: 2
+- sifra: 2707
+  naziv: L - VERONIKA JE ODLUČILA DA UMRE - PAULO KOELJO
+  mpcena: 499.0
+  srbobran: 0
+  futog: 2
+- sifra: 2708
+  naziv: L - VEŠTICA IZ PORTOBELA - PAULO KOELJO
+  mpcena: 25.0
+  srbobran: 0
+  futog: 2
+- sifra: 2709
+  naziv: L - VIZA ZA NEBO - VANJA BULIĆ
+  mpcena: 1199.02
+  futog: 2
+- sifra: 2710
+  naziv: L - VOLI SVOJ ŽIVOT - SOFI KINSELA
+  mpcena: 499.0
+  srbobran: 0
+  futog: 2
+- sifra: 2711
+  naziv: L - VREME ČUDA - BORISLAV PEKIĆ
+  mpcena: 599.0
+  srbobran: 0
+  futog: 2
+- sifra: 2712
+  naziv: L - VREME SMRTI - KNJIGA I - PREROVO IDE U RAT - DOBRICA ĆOSIĆ
+  mpcena: 499.0
+  srbobran: 0
+  futog: 2
+- sifra: 2713
+  naziv: L - VREME VLASTI I - DOBRICA ĆOSIĆ
+  mpcena: 599.0
+  srbobran: 0
+  futog: 2
+- sifra: 2714
+  naziv: L - VREME VLASTI II - DOBRICA ĆOSIĆ
+  mpcena: 1399.03
+  futog: 2
+- sifra: 2715
+  naziv: L - VRT ZAGONETKI - ANTONIO GARIDO
+  mpcena: 999.02
+  futog: 2
+- sifra: 2717
+  naziv: L - ZABAVA TEK POČINJE - SOFI KINSELA
+  mpcena: 999.02
+  futog: 2
+- sifra: 2719
+  naziv: L - ZBORAVLJENE DEVOJČICE - SARA BLEDEL
+- sifra: 2720
+  naziv: L - ZABORAVLJENI VRT - KEJT MORTON
+  mpcena: 1099.03
+  futog: 2
+- sifra: 2721
+  naziv: L - ZAHIR - PAULO KOELJO
+  mpcena: 999.02
+  futog: 2
+- sifra: 2723
+  naziv: L - ZAMALEK - DEJAN TIAGO STANKOVIĆ
+- sifra: 2724
+  naziv: L - ZANIMLJIVE GEOGRFIJE - IGRAJMO SE KAO NEKADA - DRUŠTVENA IGRA
+  mpcena: 1399.02
+  futog: 1
+- sifra: 2725
+  naziv: L - ZANIMLJIVE OPŠTE KULTURE - IGRAJMO SE KAO NEKADA - DRUŠTVENA IGRA
+  mpcena: 1399.0
+  futog: 2
+- sifra: 2726
+  naziv: L - ZANIMLJIVI SPORT - IGRAJMO SE KAO NEKADA - DRUŠTVENA IGRA
+  mpcena: 1399.0
+  futog: 2
+- sifra: 2727
+  naziv: L - ZAPISI IZ MRTVOG DOMA - FJODOR DOSTOJEVSKI
+  mpcena: 899.0
+  futog: 2
+- sifra: 2728
+  naziv: 'L - ZAŠTO PSUJEM - VEDRANA RUDAN '
+  mpcena: 999.0
+  futog: 2
+- sifra: 2729
+  naziv: L - ŽELJA - NIKOLAS SPARKS
+  mpcena: 999.02
+  futog: 2
+- sifra: 2730
+  naziv: L - ŽIVOT BEZ KRPELJA - VEDRANA RUDAN
+  mpcena: 999.0
+  futog: 2
+- sifra: 2731
+  naziv: L - ŽIVOT NA ZEMLJI - LAROUSSE
+  mpcena: 1999.0
+  futog: 2
+- sifra: 2732
+  naziv: L - ŽIVOT ZA PONETI - JELICA GREGANOVIĆ
+  mpcena: 799.0
+  futog: 2
+- sifra: 2733
+  naziv: L - ZLOČIN I KAZNA - FJODOR DOSTOJEVSKI
+  mpcena: 1599.01
+  futog: 2
+- sifra: 2735
+  naziv: L - ZMIJA I KRILA NOĆI - KARISA BRODBENT
+  mpcena: 1499.01
+  futog: 2
+- sifra: 2736
+  naziv: L - ZOE - MOMO KAPOR
+  mpcena: 899.0
+  futog: 2
+- sifra: 2737
+  naziv: L - ZOV DIVLJINE - DŽEK LONDON
+  mpcena: 799.0
+  futog: 2
+- sifra: 2738
+  naziv: L - ZOVEM SE MAMA - JELICA GREGANOVIĆ I BOB ŽIVKOVIĆ
+  mpcena: 999.02
+  futog: 1
+- sifra: 2739
+  naziv: L - ZOVEM SE MAMA 2 - JELICA GREGANOVIĆ
+  mpcena: 999.02
+  futog: 2
+- sifra: 2740
+  naziv: L - ZVEZDA SLAVICA - NINA SENIČAR
+  mpcena: 1399.03
+  futog: 2
+- sifra: 2741
+  naziv: L - GLASNICA - B.D.BENEDIKT
+  mpcena: 1099.03
+  futog: 2
+- sifra: 2742
+  naziv: L - SESTRA IZ SENKE - LUSINDA RAJLI
+  mpcena: 1299.03
+  futog: 2
+- sifra: 2743
+  naziv: L - ŠTO JE MUŠKARAC BEZ BRKOVA- ANTE TOMIĆ
+  mpcena: 899.0
+  futog: 2
+- sifra: 2744
+  naziv: L - DEVEDESETE - VANJA BULIĆ
+  mpcena: 1499.01
+  futog: 2
+- sifra: 2745
+  naziv: L - SVE ŠTO NIKAD NISMO IZGOVORILI - SLOUN HARLOV
+  mpcena: 999.02
+  futog: 2
+- sifra: 2746
+  naziv: L - ZABORAVLJENE DEVOJČICE - SARA BLEDEL
+  mpcena: 899.0
+  futog: 0
+- sifra: 2748
+  naziv: PP - SJAJAN DAN / UŽASAN DAN - ANASTASIJA GALKINA
+  mpcena: 499.01
+  srbobran: 2
+- sifra: 2749
+  naziv: 'PP - KAD BIH MOGAO / ZNAM DA MOGU '
+  mpcena: 499.01
+  srbobran: 2
+- sifra: 2750
+  naziv: PP - VOLIM BAKIN ZAGRLJAJ - ZEK ROZENTAL
+  mpcena: 880.02
+  srbobran: 2
+- sifra: 2752
+  naziv: PP - VOLIM TATIN ZAGRLJAJ - ZEK ROZENTAL
+  mpcena: 880.02
+  srbobran: 2
+- sifra: 2753
+  naziv: PP - BEBA SE VOZI - BROD
+  mpcena: 999.02
+  srbobran: 2
+- sifra: 2754
+  naziv: PP - BEBA SE VOZI - AUTOBUS
+  mpcena: 999.02
+  srbobran: 2
+- sifra: 2755
+  naziv: PP - MOJA VELIKA KNJIGA - ŽIVOTINJE
+  mpcena: 1480.0
+  srbobran: 1
+- sifra: 2756
+  naziv: PP - MOJA VELIKA KNJIGA - DOBRO JUTRO, SVETE
+  mpcena: 1480.0
+  srbobran: 1
+- sifra: 2757
+  naziv: PP - MOJA VELIKA KNJIGA - BOJE
+  mpcena: 1480.0
+  srbobran: 1
+- sifra: 2759
+  naziv: PP - IGRAJ SE I UČI - SVEMIR SASSI
+  mpcena: 1799.04
+  srbobran: 1
+- sifra: 2760
+  naziv: PP - MOJA PRVA BIBLIOTEKA - BOJE SASSI
+  mpcena: 1980.04
+  srbobran: 1
+- sifra: 2761
+  naziv: PP - UPOZNAJEM VULKANE - AUZOU
+  mpcena: 3490.06
+  srbobran: 1
+- sifra: 2762
+  naziv: PP - ATLAS LJUDSKOG TELA - ILARIJA BARSOTI
+  mpcena: 1490.01
+  srbobran: 2
+- sifra: 2763
+  naziv: PP - ČAK SE I ČUDOVIŠTA PLAŠE - DŽESIKA MARTINELO
+  mpcena: 880.02
+  srbobran: 2
+- sifra: 2764
+  naziv: PP - UNUTRAŠNJOST RAKETE - HORDI BUSKETS
+  mpcena: 699.01
+  srbobran: 2
+- sifra: 2765
+  naziv: PP - UNUTRAŠNJOST BAGERA - HORDI BUSKETS
+  mpcena: 699.01
+  srbobran: 2
+- sifra: 2766
+  naziv: PP - UNUTRAŠNJOST LJUDSKOG TELA - HORDI BUSKETS
+  mpcena: 699.01
+  srbobran: 2
+- sifra: 2767
+  naziv: PP - UNUTRAŠNJOST DINOSAURA - HORDI BUSKETS
+  mpcena: 699.01
+  srbobran: 2
+- sifra: 2768
+  naziv: PP - ISECI, OBOJ I ZALEPI - FARMA
+  mpcena: 599.01
+  srbobran: 2
+- sifra: 2769
+  naziv: PP - ISECI, OBOJ I ZALEPI - PREVOZNA SREDSTVA
+  mpcena: 599.01
+  srbobran: 1
+- sifra: 2770
+  naziv: PP - ISECI, OBOJ I ZALEPI - JEDNOROZI
+  mpcena: 599.01
+  srbobran: 0
+- sifra: 2771
+  naziv: PP - ISECI, OBOJ I ZALEPI - ZOO-VRT
+  mpcena: 599.01
+  srbobran: 2
+- sifra: 2772
+  naziv: PP - PUTUJ, UČI, ISTRAŽUJ - ZEMLJA - SASSI
+  mpcena: 1199.02
+  srbobran: 2
+- sifra: 2773
+  naziv: PP - PUTUJ, UČI, ISTRAŽUJ -  SRBIJA - SASSI
+  mpcena: 1199.02
+  srbobran: 2
+- sifra: 2775
+  naziv: PP - PUTUJ, UČI, ISTRAŽUJ -  SVEMIR - SASSI
+  mpcena: 1199.02
+  srbobran: 2
+- sifra: 2776
+  naziv: PP - PUTUJ, UČI, ISTRAŽUJ -  LJUDSKO TELO - SASSI
+  mpcena: 1199.02
+  srbobran: 2
+- sifra: 2777
+  naziv: PP - UPOZNAJEM PLANETU ZELJU - AUZOU
+  mpcena: 3490.07
+  srbobran: 1
+- sifra: 2778
+  naziv: PP - POZITIVNA IGRA - DELIMO
+  mpcena: 599.01
+  srbobran: 2
+- sifra: 2779
+  naziv: PP - POZITIVNA IGRA - LJUBAV
+  mpcena: 599.0
+  srbobran: 2
+- sifra: 2780
+  naziv: PP - POZITIVNA IGRA - OPTIMISTA
+  mpcena: 599.0
+  srbobran: 2
+- sifra: 2781
+  naziv: PP - POZITIVNA IGRA - DOBROTA
+  mpcena: 599.0
+  srbobran: 2
+- sifra: 2782
+  naziv: PP - POZITIVNA IGRA - JEDAN SVET
+  mpcena: 599.0
+  srbobran: 2
+- sifra: 2807
+  naziv: PČ - 20000 MILJA POD MOREM - ŽIL VERN
+  mpcena: 980.02
+  futog: 1
+- sifra: 2808
+  naziv: PČ - ABECEDA A4
+  mpcena: 50.01
+  futog: 5
+- sifra: 2809
+  naziv: PČ - ALEKSANDAR VELIKI - ALEKSANDRA BOJOVIĆ
+  mpcena: 480.01
+  futog: 1
+- sifra: 2810
+  naziv: PČ - ALISA U ZEMLJI ČUDA - LUIS KEROL
+  mpcena: 750.01
+  futog: 1
+- sifra: 2811
+  naziv: PČ - ALISA U ZEMLJI ČUDA SLIKOVNICA - LUIS KEROL
+  mpcena: 1250.02
+  futog: 1
+- sifra: 2812
+  naziv: PČ - AMELIJA ERHART - NAKLON ŽENAMA - BOJAN HODŽIĆ KOSORIĆ
+  mpcena: 650.02
+  futog: 1
+- sifra: 2813
+  naziv: PČ - ARHIMED SIRAKUZANIN - ALEKSANDRA BOJOVIĆ
+  mpcena: 480.01
+  futog: 1
+- sifra: 2814
+  naziv: PČ - ARISTOTEL STAGIRANIN - ALEKSANDRA BOJOVIĆ
+  mpcena: 480.01
+  futog: 1
+- sifra: 2815
+  naziv: PČ - ARČI I DORA - STRIP ALMANAH
+  mpcena: 750.01
+  futog: 1
+- sifra: 2816
+  naziv: PČ - ARČI I DORA BANDA CRNA ŠAPA - GORAN MARKOVIĆ MIJAT MIJATOVIĆ
+  mpcena: 980.01
+  futog: 1
+- sifra: 2817
+  naziv: PČ - ARČI I DORA ISTINITE PRIČE - GORAN MARKOVIĆ
+  mpcena: 1850.04
+  futog: 1
+- sifra: 2818
+  naziv: PČ - ARČI I DORA PRIJATELJI - GORAN MARKOVIĆ
+  mpcena: 1350.03
+  futog: 1
+- sifra: 2819
+  naziv: PČ - ARČI I DORA ŠUMSKO ČUDOVIŠTE - GORAN MARKOVIĆ
+  mpcena: 980.02
+  futog: 1
+- sifra: 2820
+  naziv: PČ - ARČI PAS KOJI VOLI KNJIGE - GORAN MARKOVIĆ
+  mpcena: 1350.03
+  futog: 1
+- sifra: 2821
+  naziv: PČ - ASTEČKI SVEŠTENIK - DŽON FARNDON
+  mpcena: 450.0
+  futog: 1
+- sifra: 2822
+  naziv: PČ - ATLAS PASA - DOBJAŠOVA, SEKANINOVA, SEDLAČKOVA
+  mpcena: 2150.04
+  futog: 0
+- sifra: 2823
+  naziv: PČ - ATLAS SVEMIRA
+  mpcena: 2150.04
+  futog: 1
+- sifra: 2824
+  naziv: PČ - ATLAS SVETA
+  mpcena: 2150.04
+  futog: 1
+- sifra: 2825
+  naziv: PČ - ATLAS ŽIVOTINJA
+  mpcena: 2150.04
+  futog: 1
+- sifra: 2826
+  naziv: PČ - AUTOBIOGRAFIJA - BRANISLAV NUŠIĆ
+  mpcena: 850.01
+  futog: 1
+- sifra: 2827
+  naziv: PČ - AVANTURE - BOJAN HODŽIĆ KOSORIĆ
+  mpcena: 1180.03
+  futog: 1
+- sifra: 2828
+  naziv: PČ - BABE, DEDE I OSTALA BIĆA - DUŠKO DOMANOVIĆ
+  mpcena: 850.01
+  futog: 1
+- sifra: 2829
+  naziv: PČ - BAGER RAKIĆ - MILICA KOPRIVICA
+  mpcena: 1480.02
+  futog: 1
+- sifra: 2830
+  naziv: PČ - BAJKA O LABUDU I DRUGE BAJKE I PRIČE - DESANKA MAKSIMOVIĆ
+  mpcena: 950.03
+  futog: 1
+- sifra: 2831
+  naziv: PČ - BAJKA O VUKU I SRBIMA - MILOVAN VITEZOVIĆ
+  mpcena: 850.01
+  futog: 1
+- sifra: 2832
+  naziv: PČ - BAKA KOKINE PRIČE - FLAMINGO - KRISTIN BEŽEL, ERVE LE GOF
+  mpcena: 850.01
+  futog: 1
+- sifra: 2833
+  naziv: PČ - BAKA KOKINE PRIČE - LAMA - KRISTIN BEŽEL, ERVE LE GOF
+  mpcena: 850.01
+  futog: 1
+- sifra: 2834
+  naziv: PČ - BAKA KOKINE PRIČE - PANDA - KRISTIN BEŽEL, ERVE LE GOF
+  mpcena: 850.01
+  futog: 1
+- sifra: 2835
+  naziv: PČ - BAKA KOKINE PRIČE - SLEPI MIŠ - KRISTIN BEŽEL, ERVE LE GOF
+  mpcena: 850.01
+  futog: 1
+- sifra: 2836
+  naziv: PČ - BAKA KOKINE PRIČE - ZEBRA - KRISTIN BEŽEL, ERVE LE GOF
+  mpcena: 850.01
+  futog: 1
+- sifra: 2837
+  naziv: PČ - BAKA KOKINE PRIČE - VUK - KRISTIN BEŽEL, ERVE LE GOF
+  mpcena: 850.01
+  futog: 1
+- sifra: 2838
+  naziv: PČ - BANDA NEŽELJENIH LJUBIMACA - UGLJEŠA ŠAJTINAC
+  mpcena: 650.02
+  futog: 1
+- sifra: 2839
+  naziv: PČ - BEBIN DODIR - MLADUNCI
+  mpcena: 1450.03
+  futog: 1
+- sifra: 2840
+  naziv: 'PČ - BEBIN DODIR - KNJIGRAČKA '
+  mpcena: 1450.03
+  futog: 1
+- sifra: 2841
+  naziv: PČ - BEBIN DODIR - SKRIVALICA
+  mpcena: 1450.03
+  futog: 1
+- sifra: 2842
+  naziv: PČ - BEBIN DODIR - VIR - VIR!
+  mpcena: 1450.03
+  futog: 1
+- sifra: 2843
+  naziv: PČ - BEBIN DODIR - VOLIM TE
+  mpcena: 1450.03
+  futog: 1
+- sifra: 2844
+  naziv: PČ - BEBIN DODIR - VOZILA
+  mpcena: 1450.03
+  futog: 1
+- sifra: 2845
+  naziv: PČ - BEBIN DODIR - ŽIVOTINJE
+  mpcena: 1450.03
+  futog: 1
+- sifra: 2846
+  naziv: PČ - BEBINA PRVA K - BOJE
+  mpcena: 650.02
+  futog: 1
+- sifra: 2847
+  naziv: PČ - BEBINA PRVA K - BROJEVI
+  mpcena: 650.02
+  futog: 1
+- sifra: 2848
+  naziv: PČ - BEBINA PRVA K - OBLICI
+  mpcena: 650.02
+  futog: 1
+- sifra: 2849
+  naziv: PČ - BEBINA PRVA K - REČI
+  mpcena: 650.02
+  futog: 1
+- sifra: 2850
+  naziv: PČ - BELA GRIVA - RENE GIJO
+  mpcena: 850.01
+  futog: 1
+- sifra: 2851
+  naziv: PČ - BISERI IZ ŠKOLSKIH KLUPA - GORAN MARKOVIĆ
+  mpcena: 650.02
+  futog: 1
+- sifra: 2852
+  naziv: PČ - BOJANKA NOVO BIĆA IZ MAŠTE - MLADEN ANĐELKOVIĆ
+  mpcena: 150.0
+  futog: 1
+- sifra: 2853
+  naziv: PČ - BOJANKA NOVO DIVLJE ŽIVOTINJE - MLADEN ANĐELKOVIĆ
+  mpcena: 150.0
+  futog: 1
+- sifra: 2854
+  naziv: PČ - BOJANKA NOVO DOMAĆE ŽIVOTINJE - MLADEN ANĐELKOVIĆ
+  mpcena: 150.0
+  futog: 1
+- sifra: 2855
+  naziv: PČ - BOJANKA NOVO IGRAČKE - MLADEN ANĐELKOVIĆ
+  mpcena: 150.0
+  futog: 1
+- sifra: 2856
+  naziv: PČ - BOJANKA NOVO MASKENBAL - MLADEN ANĐELKOVIĆ
+  mpcena: 150.0
+  futog: 1
+- sifra: 2858
+  naziv: PČ - BOJANKA NOVO MORSKE ŽIVOTINJE - MLADEN ANĐELKOVIĆ
+  mpcena: 150.0
+  futog: 1
+- sifra: 2859
+  naziv: PČ - BOJANKA NOVO SVET BAJKI - MLADEN ANĐELKOVIĆ
+  mpcena: 220.0
+  futog: 1
+- sifra: 2860
+  naziv: PČ - BOJANKA NOVO U DIVLJINI - MLADEN ANĐELKOVIĆ
+  mpcena: 220.0
+  futog: 1
+- sifra: 2861
+  naziv: PČ - BOJANKA NOVO U MORU - MLADEN ANĐELKOVIĆ
+  mpcena: 220.0
+  futog: 1
+- sifra: 2862
+  naziv: PČ - BOJANKA NOVO U SELU - MLADEN ANĐELKOVIĆ
+  mpcena: 220.0
+  futog: 1
+- sifra: 2863
+  naziv: PČ - BOJANKA NOVO U ŠUMI - MLADEN ANĐELKOVIĆ
+  mpcena: 45.0
+  srbobran: 0
+  futog: 1
+- sifra: 2864
+  naziv: PČ - BOJANKA NOVO VOZILA - MLADEN ANĐELKOVIĆ
+  mpcena: 220.0
+  futog: 1
+- sifra: 2865
+  naziv: PČ - BOJANKA NOVO ŽIVOTINJE IZ ZOO VRTA - MLADEN ANĐELKOVIĆ
+  mpcena: 150.0
+  futog: 1
+- sifra: 2866
+  naziv: PČ - BOJANKA NOVO ČUDESNA BIĆA - MLADEN ANĐELKOVIĆ
+  mpcena: 220.0
+  futog: 1
+- sifra: 2867
+  naziv: PČ - BOJANKA ZANIMANJA - MILORAD ŽARIĆ
+  mpcena: 180.01
+  futog: 1
+- sifra: 2868
+  naziv: PČ - BOJE DRUGARSTVA - GORAN MARKOVIĆ
+  mpcena: 950.04
+  futog: 1
+- sifra: 2869
+  naziv: PČ - BRANA CVETKOVIĆ - RAZDRAGANI - SLOBODAN STANNIŠIĆ
+  mpcena: 850.01
+  futog: 1
+- sifra: 2870
+  naziv: PČ - BRANISLAV NUŠIĆ - ŠKOLOVANJE - SLOBODAN STANIŠIĆ
+  mpcena: 850.01
+  futog: 1
+- sifra: 2871
+  naziv: PČ - BRANKO RADIČEVIĆ - NA KRILIMA - SLOBODAN STANIŠIĆ
+  mpcena: 850.01
+  futog: 1
+- sifra: 2872
+  naziv: PČ - BRANKO ĆOPIĆ - ORAO JE RANO - SLOBODAN STANIŠIĆ
+  mpcena: 850.01
+  futog: 1
+- sifra: 2873
+  naziv: PČ - BROJALICA - MAJA KORAKSIĆ
+  mpcena: 650.01
+  futog: 2
+- sifra: 2874
+  naziv: PČ - CAJKOVIĆI - LEPA MARKOVIĆ, MAJA VESELINOVIĆ
+  mpcena: 980.02
+  futog: 1
+- sifra: 2875
+  naziv: PČ - CARSTVO ŽIV - KAD STIGNU MLADUNCI - LIN DAO I PAVLA HANAČKOVA
+  mpcena: 1280.04
+  futog: 1
+- sifra: 2876
+  naziv: PČ - CARSTVO ŽIV - KOD KUĆE JE NAJLEPŠSE - LIN DAO I PAVLA HANAČKOVA
+  mpcena: 1280.04
+  futog: 1
+- sifra: 2877
+  naziv: PČ - CARSTVO ŽIV - SVET KOJI NESTAJE - LIN DAO I PAVLA HANAČKOVA
+  mpcena: 1280.04
+  futog: 1
+- sifra: 2878
+  naziv: PČ - CRNI NOVČIĆ - JOVANA SARIĆ
+  mpcena: 680.02
+  futog: 1
+- sifra: 2879
+  naziv: PČ - CRNO BELA KNJIGA - BEBA SE IGRA
+  mpcena: 650.02
+  futog: 1
+- sifra: 2881
+  naziv: PČ - CRNO BELA KNJIGA - BEBA SE OBLAČI
+  mpcena: 650.02
+  futog: 1
+- sifra: 2883
+  naziv: PČ - CRNO BELA KNJIGA - BEBIN DAN
+  mpcena: 650.02
+  futog: 1
+- sifra: 2884
+  naziv: PČ - CRNO BELA KNJIGA - BEBINO TELO
+  mpcena: 650.02
+  futog: 1
+- sifra: 2885
+  naziv: PČ - CRVENKAPA - GORAN MARKOVIĆ
+  mpcena: 450.0
+  futog: 1
+- sifra: 2886
+  naziv: PČ - DAN KAO NARUČEN - DUŠKO DOMANOVIĆ
+  mpcena: 880.02
+  futog: 1
+- sifra: 2887
+  naziv: PČ - DECA I AUTIZAM - SANJIN SVET - GORAN MARKOVIĆ
+  mpcena: 950.02
+  futog: 1
+- sifra: 2888
+  naziv: PČ - DECA I DAUNOV SINDROM - ZLATNO - GORAN MARKOVIĆ
+  mpcena: 950.02
+  futog: 1
+- sifra: 2889
+  naziv: PČ - DECA I NAGLUVOST - MALI ŠAHISTA - GORAN MARKOVIĆ
+  mpcena: 950.02
+  futog: 1
+- sifra: 2890
+  naziv: PČ - DECA I PARALIZA - PORODICA VILEN - GORAN MARKOVIĆ
+  mpcena: 950.02
+  futog: 1
+- sifra: 2891
+  naziv: PČ - DECA I SLABOVIDOST - NEOBIČAN - GORAN MARKOVIĆ
+  mpcena: 950.02
+  futog: 1
+- sifra: 2892
+  naziv: PČ - DEDA MRAZ ZVUČNA KNJIGA
+  mpcena: 1990.03
+  futog: 1
+- sifra: 2894
+  naziv: PČ - DESANKA MAKSIMOVIĆ - ZLATNI - SLOBODAN STANIŠIĆ
+  mpcena: 850.01
+  futog: 1
+- sifra: 2895
+  naziv: PČ - DESPOT STEFAN - SLOBODAN STANIŠIĆ
+  mpcena: 580.01
+  futog: 1
+- sifra: 2897
+  naziv: PČ - DESPOT ĐURAĐ - SLOBODAN STANIŠIĆ
+  mpcena: 580.01
+  futog: 1
+- sifra: 2898
+  naziv: PČ - DEČACI PAVLOVE ULICE - FERENC MOLNAR
+  mpcena: 850.01
+  futog: 1
+- sifra: 2900
+  naziv: PČ - DNEVNIK ANE FRANK
+  mpcena: 1250.02
+  futog: 1
+- sifra: 2902
+  naziv: PČ - DNEVNIK ŠUMSKE VEVERICE - BOŽIDAR PEŠEV
+  mpcena: 980.01
+  futog: 1
+- sifra: 2904
+  naziv: PČ - DOKTORKA GUGU - DRAGANA MLADENOVIĆ
+  mpcena: 980.01
+  futog: 1
+- sifra: 2905
+  naziv: PČ - DOM JE TAMO GDE JE ČOPOR - KATARINA MAJIĆ
+  mpcena: 1680.03
+  futog: 1
+- sifra: 2906
+  naziv: PČ - DOSITEJ OBRADOVIĆ - VSP - SLOBODAN STANIŠIĆ
+  mpcena: 750.01
+  futog: 1
+- sifra: 2907
+  naziv: PČ - DOŽIVLJAJI MAČKA TOŠE - BRANKO ĆOPIĆ
+  mpcena: 750.01
+  futog: 1
+- sifra: 2908
+  naziv: 'PČ - DR. DULITL - HJU LOFTING '
+  mpcena: 650.02
+  futog: 1
+- sifra: 2909
+  naziv: PČ - DUGME BEZ KAPUTA - DEJAN ALEKSIĆ
+  mpcena: 980.02
+  futog: 1
+- sifra: 2910
+  naziv: PČ - DUŠAN SILNI DETINJSTVO BUDUĆEG CARA - SLOBODAN STANIŠIĆ
+  mpcena: 580.01
+  futog: 1
+- sifra: 2912
+  naziv: PČ - DVA SUNCA I SUNČICA - LIDIJA MARINKOVIĆ
+  mpcena: 765.0
+  srbobran: 0
+  futog: 1
+- sifra: 2913
+  naziv: 'PČ - DŽEJN OSTIN - NAKLON ŽENAMA - ALEKSANDRA BOJOVIĆ '
+  mpcena: 650.02
+  futog: 1
+- sifra: 2915
+  naziv: PČ - EDUKATIVNI POSTERI - 1. RAZRED
+  mpcena: 980.02
+  futog: 1
+- sifra: 2916
+  naziv: PČ - EDUKATIVNI POSTERI - 2. RAZRED
+  mpcena: 980.02
+  futog: 1
+- sifra: 2917
+  naziv: PČ - EDUKATIVNI POSTERI - 3. RAZRED
+  mpcena: 980.02
+  futog: 1
+- sifra: 2918
+  naziv: PČ - EDUKATIVNI POSTERI - 4. RAZRED
+  mpcena: 980.02
+  futog: 1
+- sifra: 2919
+  naziv: PČ - EGIPATSKI BALSAMER - DŽON FARNDON
+  mpcena: 450.0
+  futog: 1
+- sifra: 2920
+  naziv: PČ - EKOLOŠKA ČITANKA - KATARINA MAJIĆ
+  mpcena: 750.01
+  futog: 1
+- sifra: 2921
+  naziv: PČ - EN IZ GRIN GEJBLSA SLIKOVNICA - LUSI MOD MONTGOMERI
+  mpcena: 1250.02
+  futog: 1
+- sifra: 2922
+  naziv: PČ - ENCIKLOPEDIJA - BILJKE - NIKOLA MATOVIĆ
+  mpcena: 1250.02
+  futog: 1
+- sifra: 2923
+  naziv: PČ - ENCIKLOPEDIJA - DINOSAURUSI - NIKOLA TOMAŠEVIĆ
+  mpcena: 1250.02
+  futog: 1
+- sifra: 2924
+  naziv: PČ - ENCIKLOPEDIJA - LJUDSKO TELO - I. STANKOVIĆ, S. RAJIĆ
+  mpcena: 1250.02
+  futog: 1
+- sifra: 2925
+  naziv: PČ - ENCIKLOPEDIJA - PLANETA ZEMLJA - I. STANKOVIĆ, S. RAJIĆ
+  mpcena: 1250.02
+  futog: 1
+- sifra: 2926
+  naziv: PČ - ENCIKLOPEDIJA - SVEMIR - I. STANKOVIĆ, S.RAJIĆ
+  mpcena: 1250.02
+  futog: 1
+- sifra: 2927
+  naziv: PČ - ENCIKLOPEDIJA- ŽIVOTINJE - I. STANKOVIĆ, S. RAJIĆ
+  mpcena: 1250.02
+  futog: 1
+- sifra: 2928
+  naziv: PČ - ENGLESKI VITEZ - ANITA GANERI
+  mpcena: 450.0
+  futog: 1
+- sifra: 2929
+  naziv: PČ - EVITA PERON - BOJAN HODŽIĆ KOSORIĆ
+  mpcena: 650.02
+  futog: 1
+- sifra: 2930
+  naziv: PČ - FRIDA KALO - NAKLON ŽENAMA - BOJANA NOVKOVIĆ
+  mpcena: 650.0
+  futog: 1
+- sifra: 2931
+  naziv: PČ - GABI HRABRO SRCE BEOGRADA - GORAN MARKOVIĆ
+  mpcena: 1180.01
+  futog: 1
+- sifra: 2932
+  naziv: PČ - GLAS DIVLJINE - DŽEK LONDON
+  mpcena: 750.01
+  futog: 1
+- sifra: 2933
+  naziv: PČ - GLASAM ZA LJUBAV - OLUJIĆ GROZDANA
+  mpcena: 1150.01
+  futog: 1
+- sifra: 2934
+  naziv: PČ - GOSPOJICA MICA - ZORICA KUBUROVIĆ
+  mpcena: 980.02
+  futog: 1
+- sifra: 2935
+  naziv: PČ - GOSPOĐICA DESANKA - MILOVAN VITEZOVIĆ
+  mpcena: 950.03
+  futog: 1
+- sifra: 2936
+  naziv: PČ - GRADITELJSTVO - S.RAJIĆ I I.STANKOVIĆ
+  mpcena: 550.01
+  futog: 1
+- sifra: 2937
+  naziv: PČ - GRAMATIČKA VEŽ - SLUŽBA REČI - MAJA KORAKSIĆ
+  mpcena: 450.0
+  futog: 1
+- sifra: 2938
+  naziv: PČ - GRAMATIČKA VEŽ - VRSTE REČENICA - MAJA KORAKSIĆ
+  mpcena: 450.0
+  futog: 1
+- sifra: 2939
+  naziv: PČ - GRAMATIČKA VEŽ - VRSTE REČI 1 - MAJA KORAKSIĆ
+  mpcena: 450.0
+  futog: 1
+- sifra: 2940
+  naziv: PČ - GRAMATIČKA VEŽ - VRSTE REČI 2 - MAJA KORAKSIĆ
+  mpcena: 450.0
+  futog: 1
+- sifra: 2941
+  naziv: PČ - GRICKO
+  mpcena: 1380.04
+  futog: 1
+- sifra: 2942
+  naziv: PČ - GRICKO PIRIUČNIK
+  mpcena: 1380.04
+  futog: 1
+- sifra: 2943
+  naziv: PČ - GULIVEROVA PUTOVANJA - DŽONATAN SVIFT
+  mpcena: 850.01
+  futog: 1
+- sifra: 2944
+  naziv: PČ - HAJDE DA CRTAMO ZA DEVOJČICE - GORAN MARKOVIĆ
+  mpcena: 649.01
+  futog: 1
+- sifra: 2945
+  naziv: PČ - HAJDE DA CRTAMO ZA DEČAKE - GORAN MARKOVIĆ
+  mpcena: 650.02
+  futog: 1
+- sifra: 2946
+  naziv: PČ - HAJDI - JOHANA ŠPIRI
+  mpcena: 850.01
+  futog: 1
+- sifra: 2947
+  naziv: PČ - HAJDI SLIKOVNICA - ALEKSANDRA BOJOVIĆ
+  mpcena: 1250.02
+  futog: 1
+- sifra: 2948
+  naziv: PČ - HAJDUCI - BRANISLAV NUŠIĆ
+  mpcena: 850.01
+  futog: 1
+- sifra: 2949
+  naziv: PČ - HAJDUK STANKO - JANKO VESELINOVIĆ
+  mpcena: 1050.04
+  futog: 1
+- sifra: 2950
+  naziv: PČ - HAJDUK VELJKO - SLOBODAN STANIŠIĆ
+  mpcena: 580.01
+  futog: 1
+- sifra: 2951
+  naziv: PČ - HAČIKO - G.MARKOVIĆ, I.KRSTIĆ
+  mpcena: 1380.04
+  futog: 1
+- sifra: 2952
+  naziv: PČ - HEJ, ZAMISLI - ALEKSANDAR ČOTRIĆ
+  mpcena: 980.02
+  futog: 1
+- sifra: 2953
+  naziv: PČ - IGRA SKRIVANJA - D.MLADENOVIĆ, T.ĆELANOVIĆ
+  mpcena: 850.01
+  futog: 1
+- sifra: 2954
+  naziv: PČ - ILUSTROVANE BAJKE ZA DEVOJČICE - GORAN MARKOVIĆ
+  mpcena: 1850.04
+  futog: 1
+- sifra: 2955
+  naziv: PČ - ILUSTROVANE BAJKE ZA DEČAKE - GORAN MARKOVIĆ
+  mpcena: 1850.04
+  futog: 1
+- sifra: 2956
+  naziv: PČ - IVICA I MARICA - GORAN MARKOVIĆ
+  mpcena: 450.0
+  futog: 1
+- sifra: 2957
+  naziv: PČ - IZGUBLJENI ŽIR - E.BRUMANA, M.VERTEMARA
+  mpcena: 1280.04
+  futog: 1
+- sifra: 2958
+  naziv: PČ - IZMEĐU DVA ZVONA - N.NOVAK, LJ.KURUCA
+  mpcena: 980.02
+  futog: 1
+- sifra: 2959
+  naziv: PČ - JA SAM STRAŠAN - A.DAMIRON, P.PINO
+  mpcena: 1280.04
+  futog: 1
+- sifra: 2960
+  naziv: PČ - JAPANSKI SAMURAJ - DŽON FARNDON
+  mpcena: 450.0
+  futog: 1
+- sifra: 2962
+  naziv: PČ - JEDAN DAN SA JAGNJETOM SNEŠKOM - N.NOVAK, B.RADOVANOVIĆ
+  mpcena: 350.01
+  futog: 1
+- sifra: 2963
+  naziv: PČ - JEDAN DAN SA KONJEM VIHOROM - N.NOVAK, B.RADOVANOVIĆ
+  mpcena: 350.01
+  futog: 1
+- sifra: 2965
+  naziv: PČ - JEDAN DAN SA KRAVOM BELKOM - N.NOVAK, B.RADOVANOVIĆ
+  mpcena: 350.01
+  futog: 1
+- sifra: 2967
+  naziv: PČ - JEDAN DAN SA MAČKOM LILOM - N.NOVAK, B.RADOVANOVIĆ
+  mpcena: 350.01
+  futog: 1
+- sifra: 2968
+  naziv: PČ - JEDAN DAN SA PRASETOM BUCKOM - N.NOVAK, B.RADOVANOVIĆ
+  mpcena: 110.0
+  srbobran: 0
+  futog: 1
+- sifra: 2969
+  naziv: PČ - JEDAN DAN SA PSOM TEDIJEM - N.NOVAK, B.RADOVANOVIĆ
+  mpcena: 350.01
+  futog: 1
+- sifra: 2970
+  naziv: PČ - JEDNOROG NEĆUROG - M.U.KING, A.HEN
+  mpcena: 980.02
+  futog: 1
+- sifra: 2971
+  naziv: PČ - JEDNOROGOVA POŠTA - EMA JARLET
+  mpcena: 1380.03
+  futog: 1
+- sifra: 2972
+  naziv: PČ - JEFIMIJA PRVA SRPSKA KNJIŽEVNICA - SLOBODAN STANIŠIĆ
+  mpcena: 580.01
+  futog: 1
+- sifra: 2973
+  naziv: PČ - JEŽEVA KUĆICA - BRANKO ĆOPIĆ
+  mpcena: 1180.03
+  futog: 1
+- sifra: 2974
+  naziv: PČ - JOSIF PANČIĆ I LEDENA LEPOTICA - SLOBODAN STANIŠIĆ
+  mpcena: 850.0
+  futog: 1
+- sifra: 2975
+  naziv: PČ - JOVAN CVIJIĆ I ŠAPAT  KAMENA - SLOBODAN STANIŠIĆ
+  mpcena: 850.01
+  futog: 1
+- sifra: 2976
+  naziv: PČ - JOVAN JOVANOVIĆ ZMAJ UZLET - SLOBODAN STANIŠIĆ
+  mpcena: 850.01
+  futog: 1
+- sifra: 2978
+  naziv: PČ - KAD JE NEVEN BIO SUNCE - MILOVAN VITEZOVIĆ
+  mpcena: 850.0
+  futog: 1
+- sifra: 2979
+  naziv: PČ - KAD SE KUĆA PODELI - M.AGIRE, S.D.ĐORĐI
+  mpcena: 1280.04
+  futog: 1
+- sifra: 2980
+  naziv: PČ - KAD SI META PUBERTETA DEVOJČICE - NIKOLETA NOVAK
+  mpcena: 980.02
+  futog: 1
+- sifra: 2981
+  naziv: PČ - KAD SI META PUBERTETA DEČACI - NIKOLETA NOVAK
+  mpcena: 980.02
+  futog: 1
+- sifra: 2982
+  naziv: PČ - KAFIĆ ZA ŽIVOTINJE - E.KERTES, R.HANGA
+  mpcena: 680.02
+  futog: 1
+- sifra: 2983
+  naziv: PČ - KAKO JE BOBO NAŠAO SREĆU
+  mpcena: 980.02
+  futog: 1
+- sifra: 2984
+  naziv: PČ - KALJAVI KONJ - VESNA ALEKSIĆ
+  mpcena: 1250.02
+  futog: 1
+- sifra: 2986
+  naziv: PČ - KARAĐORĐE - SLOBODAN STANIŠIĆ
+  mpcena: 580.01
+  futog: 1
+- sifra: 2987
+  naziv: PČ - KARTA SRBIJE B2
+  mpcena: 90.01
+  futog: 5
+- sifra: 2988
+  naziv: PČ - KLAVIR KNJIGA - BOJANA JOVANOVIĆ
+  mpcena: 2190.05
+  futog: 1
+- sifra: 2990
+  naziv: PČ - KLIMENT I NAUM - VSP - SLOBODAN STANIŠIĆ
+  mpcena: 750.01
+  futog: 1
+- sifra: 2991
+  naziv: PČ - KLUB MALIH MATEMATIČARA - BOJE - GORAN MARKOVIĆ
+  mpcena: 650.01
+  futog: 2
+- sifra: 2992
+  naziv: PČ - KLUB MALIH MATEMATIČARA - BROJEVI - GORAN MARKOVIĆ
+  mpcena: 650.01
+  futog: 2
+- sifra: 2994
+  naziv: PČ - KLUB MALIH MATEMATIČARA - BROJEVI 2.NIVO - GORAN MARKOVIĆ
+  mpcena: 650.01
+  futog: 2
+- sifra: 2995
+  naziv: PČ - KLUB MALIH MATEMATIČARA - OBLICI - GORAN MARKOVIĆ
+  mpcena: 650.01
+  futog: 2
+- sifra: 2996
+  naziv: PČ - KLUB MALIH MATEMATIČARA - OBLICI 2.NIVO - GORAN MARKOVIĆ
+  mpcena: 650.01
+  futog: 2
+- sifra: 2997
+  naziv: PČ - KLUB MALIH MATEMATIČARA - ODUZIMANJE 2.NIVO - GORAN MARKOVIĆ
+  mpcena: 650.01
+  futog: 2
+- sifra: 2998
+  naziv: PČ - KLUB MALIH MATEMATIČARA - PREDMETI - GORAN MARKOVIĆ
+  mpcena: 650.01
+  futog: 2
+- sifra: 2999
+  naziv: PČ - KLUB MALIH MATEMATIČARA - SABIRANJE 2.NIVO - GORAN MARKOVIĆ
+  mpcena: 650.01
+  futog: 2
+- sifra: 3000
+  naziv: PČ - KNEGINJA MILICA I DEVET JUGOVIĆA - SLOBODAN STANIŠIĆ
+  mpcena: 580.01
+  futog: 1
+- sifra: 3001
+  naziv: PČ - KNEZ LAZAR - SLOBODAN STANIŠIĆ
+  mpcena: 580.01
+  futog: 1
+- sifra: 3002
+  naziv: PČ - KNJIGA GLAVU ČUVA
+  mpcena: 750.01
+  futog: 1
+- sifra: 3003
+  naziv: PČ - KNJIGA O MOM LJUBIMCU - GORAN MARKOVIĆ
+  mpcena: 1380.04
+  futog: 1
+- sifra: 3005
+  naziv: PČ - KNJIGE LEPILICE - BOJE - GORAN MARKOVIĆ
+  mpcena: 60.0
+  srbobran: 0
+  futog: 2
+- sifra: 3006
+  naziv: PČ - KNJIGE LEPILICE - BROJEVI - GORAN MARKOVIĆ
+  mpcena: 650.01
+  futog: 2
+- sifra: 3008
+  naziv: PČ - KNJIGE LEPILICE - OBLICI - GORAN AMRKOVIĆ
+  mpcena: 999.0
+  srbobran: 0
+  futog: 2
+- sifra: 3009
+  naziv: PČ - KNJIGE LEPILICE - SLOVA - GORAN MARKOVIĆ
+  mpcena: 650.01
+  futog: 2
+- sifra: 3010
+  naziv: PČ - KNJIŠKI MOLJAC - KORNELIJA FUNKE
+  mpcena: 1180.03
+  futog: 1
+- sifra: 3011
+  naziv: PČ - KO JE MALI, A KO VELIKI
+  mpcena: 1350.03
+  futog: 1
+- sifra: 3012
+  naziv: PČ - KOMPLET - DETINJSTVO SRPSKE - SLOBODAN STANIŠIĆ
+  mpcena: 4590.09
+  futog: 1
+- sifra: 3013
+  naziv: VU - ČITAMO ZAJEDNO
+  mpcena: 399.0
+  srbobran: 1
+- sifra: 3014
+  naziv: PČ - KOMPLET - OD PRVOG SLOVA DO - SLOBODAN STANIŠIĆ
+  mpcena: 4590.09
+  futog: 1
+- sifra: 3015
+  naziv: 'PČ - KOMPLET - MOJE PRVE BOJANKE '
+  mpcena: 950.03
+  futog: 1
+- sifra: 3017
+  naziv: PČ - KOMPLET NARODNA KNJIŽEVNOST
+  mpcena: 3050.06
+  futog: 1
+- sifra: 3018
+  naziv: PČ - KONSTANTIN FILOZOF - VSP - SLOBODAN STANIŠIĆ
+  mpcena: 750.01
+  futog: 1
+- sifra: 3019
+  naziv: PČ - KORNJAČA I ZEC - BASNE U STRIPU - EZOP
+  mpcena: 450.0
+  futog: 1
+- sifra: 3020
+  naziv: PČ - KRALJ DRAGUTIN ISPAŠTA GREH - SLOBODAN STANIŠIĆ
+  mpcena: 580.01
+  futog: 1
+- sifra: 3021
+  naziv: PČ - KRALJ MILUTIN IZMEĐU LJUBAVI I KRUNE - SLOBODAN STANIŠIĆ
+  mpcena: 699.0
+  srbobran: 0
+  futog: 1
+- sifra: 3022
+  naziv: PČ - KRALJ OBLAKA - ZORANA POPOVIĆ
+  mpcena: 980.02
+  futog: 1
+- sifra: 3023
+  naziv: PČ - KRALJEVSTVO ŽIVOTINJA - L.ČITILOV, H.GUTIREZ
+  mpcena: 1280.02
+  futog: 1
+- sifra: 3024
+  naziv: PČ - KRALJEVSTVO ŽIVOTINJA - NA VODI - P.BARTIKOVA, M.KRALIK
+  mpcena: 1280.02
+  futog: 1
+- sifra: 3025
+  naziv: PČ - KRALJEVSTVO ŽIVOTINJA - POD - P.BARTIKOVA, M.KRALIK
+  mpcena: 1280.02
+  futog: 1
+- sifra: 3026
+  naziv: PČ - KRALJICA ELIZABETA I - ALEKSANDRA BOJOVIĆ
+  mpcena: 480.01
+  futog: 1
+- sifra: 3027
+  naziv: PČ - KROZ  PUSTINJU I PRAŠUMU - HENRIK SJENKJEVIČ
+  mpcena: 980.02
+  futog: 1
+- sifra: 3028
+  naziv: PČ - KUPALIĆI - LJUBAZNA PATKICA - WILMA WONDERS
+  mpcena: 980.02
+  futog: 1
+- sifra: 3029
+  naziv: PČ - KUPALIĆI - RADOZNALI KIT - WILMA WONDERS
+  mpcena: 980.02
+  futog: 0
+- sifra: 3030
+  naziv: PČ - KUPALIĆI - VESELA ŽABICA - WILMA WONDERS
+  mpcena: 980.01
+  futog: 1
+- sifra: 3031
+  naziv: PČ - KNEGINJE I KRALJICE KARAĐORĐEVIĆ - IVANA SPASOJEVIĆ
+  mpcena: 950.03
+  futog: 1
+- sifra: 3032
+  naziv: PČ - KNEGINJE I KRALJICE OBRENOVIĆ - IVANA SPASOVIĆ
+  mpcena: 950.03
+  futog: 1
+- sifra: 3033
+  naziv: PČ - KNEŽEVI I KRALJEVI KARAĐORĐEVIĆ - IVANA SPASOVIĆ
+  mpcena: 950.03
+  futog: 1
+- sifra: 3035
+  naziv: PČ - KNEŽEVI I KRALJEVI OBRENOVIĆ - IVANA SPASOVIĆ
+  mpcena: 950.03
+  futog: 1
+- sifra: 3037
+  naziv: PČ- KNJIGA ZA ZALJUBLJENE DEVOJČICE - BOJAN LJUBENOVIĆ
+  mpcena: 1380.04
+  futog: 1
+- sifra: 3038
+  naziv: PČ - KNJIGA ZA ZALJUBLJENE DEČAKE - BOJAN LJUBENOVIĆ
+  mpcena: 1380.04
+  futog: 1
+- sifra: 3039
+  naziv: PČ - DECA ČITAJU SRPSKU ISTORIJU 2 - SLOBODAN STANIŠIĆ
+  mpcena: 3750.07
+  futog: 1
+- sifra: 3041
+  naziv: PČ - DECA ČITAJU SRSPKU ISTORIJU 3 - SLOBODAN STANIŠIĆ
+  mpcena: 3750.07
+  futog: 1
+- sifra: 3042
+  naziv: PČ - KOMPLET BEBINA PRVA KNJIGA
+  mpcena: 2290.05
+  futog: 1
+- sifra: 3043
+  naziv: PČ - KOMPLET DECA ČITAJU SRPSKU ISTORIJU - SLOBODAN STANIŠIĆ
+  mpcena: 3750.07
+  futog: 1
+- sifra: 3044
+  naziv: PČ - LAJANJE NA ZVEZDE - MILOVAN VITEZOVIĆ
+  mpcena: 980.02
+  futog: 1
+- sifra: 3045
+  naziv: PČ - LAJKA MEĐU ZVEZDAMA - GORAN MARKOVIĆ
+  mpcena: 1380.04
+  futog: 1
+- sifra: 3046
+  naziv: PČ - LAV I MIŠ - BASNE U STRIPU - EZOP
+  mpcena: 450.0
+  futog: 1
+- sifra: 3047
+  naziv: PČ - LEGENDE O TAJANSTVENOJ SRBIJI - TATJANA KOVAČEV
+  mpcena: 1180.01
+  futog: 1
+- sifra: 3048
+  naziv: PČ - LEK OD BRESKVINOG LIŠĆA - ZORICA KUBUROVIĆ
+  mpcena: 980.02
+  futog: 1
+- sifra: 3049
+  naziv: PČ - LEKTIRA ZA I RAZRED KOMPLET
+  mpcena: 1000.01
+  futog: 1
+- sifra: 3050
+  naziv: PČ - LEKTIRA ZA II RAZRED KOMPLET
+  mpcena: 1400.03
+  futog: 0
+- sifra: 3051
+  naziv: PČ - LEKTIRA ZA III RAZRED KOMPLET
+  mpcena: 1100.02
+  futog: 0
+- sifra: 3052
+  naziv: PČ - LEKTIRA ZA IV RAZRED KOMPLET
+  mpcena: 1600.05
+  futog: 1
+- sifra: 3054
+  naziv: PČ - LEKTIRA ZA V RAZRED KOMPLET
+  mpcena: 1900.04
+  futog: 1
+- sifra: 3055
+  naziv: PČ - LEPILICE - GODIŠNJA DOBA - DŽ.HANA, A.GULIVER
+  mpcena: 820.01
+  futog: 1
+- sifra: 3056
+  naziv: PČ - LEPILICE - IGRAJMO SE NAPOLJU - DŽ.HANA, N.TJUDOR
+  mpcena: 820.01
+  futog: 1
+- sifra: 3057
+  naziv: PČ - LEPILICE - VOĆE I POVRĆE - DŽ.HANA, M.DENTER
+  mpcena: 820.01
+  futog: 1
+- sifra: 3058
+  naziv: PČ - LEPOTICA I ZVER I DRUGE BAJKE - ŽANA MARI
+  mpcena: 1580.03
+  futog: 1
+- sifra: 3059
+  naziv: PČ - LESI SE VRAĆA KUĆI SLIKOVNICA - ERIK NAJT
+  mpcena: 1250.02
+  futog: 1
+- sifra: 3062
+  naziv: PČ - LISICA I GAVRAN BASNE U STRIPU - EZOP
+  mpcena: 450.0
+  futog: 1
+- sifra: 3063
+  naziv: PČ - LUDVIG VAN BETOVEN - ALEKSANDRA BOJOVIĆ
+  mpcena: 480.01
+  futog: 1
+- sifra: 3065
+  naziv: PČ - LUKA MALI SLIKAR - KOSTA MILANOVIĆ
+  mpcena: 650.02
+  futog: 1
+- sifra: 3066
+  naziv: PČ - LUNA MALA TENISERKA - BOJAN LJUBENOVIĆ
+  mpcena: 650.02
+  futog: 1
+- sifra: 3068
+  naziv: PČ - MAGAREĆE GODINE - BRANKO ĆOPIĆ
+  mpcena: 850.01
+  futog: 1
+- sifra: 3069
+  naziv: PČ - MALA KNJIGA O VELIKIM STVARIMA - M.MANOJLOVIĆ, T.ČELANOVIĆ
+  mpcena: 880.02
+  futog: 1
+- sifra: 3070
+  naziv: PČ - MALA PRIČA IZ VELIKOG MRAVINJA - M.KORAKSIĆ, B.MIHAJLOVIĆ
+  mpcena: 1380.04
+  futog: 1
+- sifra: 3071
+  naziv: PČ - MALI PARTIZANOVAC - GORAN MARKOVIĆ
+  mpcena: 650.02
+  futog: 1
+- sifra: 3072
+  naziv: PČ - MALI PRINC - ANTOAN DE SENT EGZIPERI
+  mpcena: 850.01
+  futog: 1
+- sifra: 3073
+  naziv: PČ - MALI PRINC SLIKOVNICA A.S.D.EGZIPERI, A.D.LESTRADE, V.DOKAMPO
+  mpcena: 1450.03
+  futog: 1
+- sifra: 3074
+  naziv: PČ - MALI VOJNIK VELIKOG RATA - ZORAN MILEKIĆ
+  mpcena: 1280.02
+  futog: 1
+- sifra: 3075
+  naziv: PČ - MALI ZVEZDAŠ - GORAN MARKOVIĆ
+  mpcena: 650.02
+  futog: 1
+- sifra: 3076
+  naziv: PČ - MALO-MALO PA SLON - DEJAN ALEKSIĆ
+  mpcena: 950.03
+  futog: 1
+- sifra: 3077
+  naziv: PČ - MALO-MALO PA EKSPLOZIJA - MARIJA MANOJLOVIĆ
+  mpcena: 780.01
+  futog: 1
+- sifra: 3078
+  naziv: PČ - MARIJA KALAS - NAKLON ŽENAMA - BOJAN HODŽIĆ KOSORIĆ
+  mpcena: 650.02
+  futog: 1
+- sifra: 3079
+  naziv: PČ - MARIJA KIRI - ALEKSANDRA BOJOVIĆ
+  mpcena: 480.01
+  futog: 1
+- sifra: 3080
+  naziv: PČ - MARKO KRALJEVIĆ  - SLOBODAN STANIŠIĆ
+  mpcena: 580.01
+  futog: 1
+- sifra: 3081
+  naziv: PČ - MAČAK U ČIZMAMA - GORAN MARKOVIĆ
+  mpcena: 450.0
+  futog: 1
+- sifra: 3082
+  naziv: PČ - MEDVED I PČELE - BASNE U STRIPU - EZOP
+  mpcena: 450.0
+  futog: 1
+- sifra: 3083
+  naziv: PČ - MEDVEDIĆ I MALINICA - A.VADADI, M.EGRI
+  mpcena: 980.02
+  futog: 1
+- sifra: 3084
+  naziv: PČ - METLA ZA PRINCEZU - ZORICA KUBUROVIĆ
+  mpcena: 680.02
+  futog: 1
+- sifra: 3085
+  naziv: PČ - MI DECA SA STANICE ZOO - KRISTIJANA F.
+  mpcena: 980.02
+  futog: 1
+- sifra: 3086
+  naziv: PČ - MI VOLIMO MATIŠ 1 - M.KORAKSIĆ, L.PETROVIĆ
+  mpcena: 650.02
+  futog: 1
+- sifra: 3087
+  naziv: PČ - MI VOLIMO MATIŠ 2 - M.KORAKSIĆ, L.PETROVIĆ
+  mpcena: 650.02
+  futog: 1
+- sifra: 3088
+  naziv: PČ - MI VOLIMO MATIŠ 3 - M.KORAKSIĆ, L.PETROVIĆ
+  mpcena: 650.02
+  futog: 1
+- sifra: 3089
+  naziv: PČ - MI VOLIMO MATIŠ 4 - M.KORAKSIĆ, L.PETROVIĆ
+  mpcena: 650.02
+  futog: 1
+- sifra: 3090
+  naziv: PČ- MIHAJLO PETROVIĆ ALAS I - SLOBODAN STANIŠIĆ
+  mpcena: 850.01
+  futog: 1
+- sifra: 3091
+  naziv: PČ - MIHAJLO PUPIN I ČUVENI KALEMOVI - SLOBODAN STANIŠIĆ
+  mpcena: 850.01
+  futog: 1
+- sifra: 3092
+  naziv: PČ - MILOŠ OBILIĆ - SLOBODAN STANIŠIĆ
+  mpcena: 580.01
+  futog: 1
+- sifra: 3093
+  naziv: PČ - MILOŠ OBRENOVIĆ - SLOBODAN STANIŠIĆ
+  mpcena: 580.01
+  futog: 1
+- sifra: 3094
+  naziv: PČ - MILUTIN MILANKOVIĆ I OSUNČANJE - SLOBODAN STANIŠIĆ
+  mpcena: 850.01
+  futog: 1
+- sifra: 3095
+  naziv: PČ - MIROSAVLJEVO JEVANĐELJE - VSP - SLOBODAN STANIŠIĆ
+  mpcena: 750.01
+  futog: 1
+- sifra: 3096
+  naziv: PČ - MIŠICA KOJA JE NOSILA SLONA - JASMINA GAVRILOV DRAŽIĆ
+  mpcena: 1480.02
+  futog: 1
+- sifra: 3097
+  naziv: PČ - MIŠJA ZABAVA - G.KOS, J.VUKOTIČ
+  mpcena: 980.02
+  futog: 1
+- sifra: 3098
+  naziv: PČ - MLADUNČE - MILOŠ MIHAILOVIĆ
+  mpcena: 780.01
+  futog: 1
+- sifra: 3099
+  naziv: PČ - MOJ LEKSIKON KNJIGA ZA DEVOJČICE
+  mpcena: 1350.03
+  futog: 1
+- sifra: 3100
+  naziv: PČ - MOJ LEKSIKON KNJIGA ZA DEČAKE
+  mpcena: 1350.03
+  futog: 1
+- sifra: 3101
+  naziv: PČ - MOJA PRVA KARTA SVETA B2 - MIJAT MIJATOVIĆ
+  mpcena: 90.0
+  futog: 5
+- sifra: 3102
+  naziv: PČ - MORSKI KONJIĆ ČITALIĆ - N.NOVAK, N.RISTIĆ
+  mpcena: 1580.03
+  futog: 1
+- sifra: 3103
+  naziv: PČ - MOZGALICE 1 - GORAN MARKOVIĆ
+  mpcena: 750.02
+  futog: 2
+- sifra: 3104
+  naziv: PČ - MOZGALICE 2 - GORAN MARKOVIĆ
+  mpcena: 750.0
+  futog: 2
+- sifra: 3105
+  naziv: PČ - MOZGALICE 3 - GORAN MARKOVIĆ
+  mpcena: 750.02
+  futog: 2
+- sifra: 3106
+  naziv: 'PČ - N.BAJKA ZLATNA JABUKA '
+  mpcena: 550.01
+  futog: 1
+- sifra: 3107
+  naziv: PČ - NAJBOLJE BAKE NA SVETU - ALEKSANDRA BOJOVIĆ
+  mpcena: 1080.01
+  futog: 1
+- sifra: 3108
+  naziv: PČ - NAJBOLJI DRUGOVI NA SVETU - ALEKSANDAR BOJOVIĆ
+  mpcena: 1080.01
+  futog: 1
+- sifra: 3109
+  naziv: PČ - NAJBOLJI LJUBIMCI NA SVETU - ALEKSANDRA BOJOVIĆ
+  mpcena: 1080.01
+  futog: 1
+- sifra: 3110
+  naziv: PČ - NAJBOLJI UČITELJI NA SVETU - ALEKSANDRA BOJOVIĆ
+  mpcena: 1080.01
+  futog: 1
+- sifra: 3111
+  naziv: PČ - NAJLEPŠE BASNE ZA DECU - GORAN MARKOVIĆ
+  mpcena: 1850.04
+  futog: 1
+- sifra: 3112
+  naziv: PČ - NAJSREĆNIJI CVET NA SVETU - MAJA KORAKSIĆ
+  mpcena: 1380.04
+  futog: 1
+- sifra: 3113
+  naziv: PČ - NAJVIŠA PLANINA OD KNJIGA - ROSIO BONILJA
+  mpcena: 1350.03
+  futog: 1
+- sifra: 3114
+  naziv: PČ - NAPOLEON BONAPARTA - ALEKSANDRA BOJOVIĆ
+  mpcena: 480.01
+  futog: 1
+- sifra: 3115
+  naziv: PČ - NARODNA BAJKA GVOZDEN ČOVEK
+  mpcena: 550.01
+  futog: 1
+- sifra: 3116
+  naziv: PČ - NARODNA BAJKA ZLATNORUNI OVAN
+  mpcena: 550.01
+  futog: 1
+- sifra: 3117
+  naziv: PČ - NARODNA BAJKA ČARDAK NI NA NEBU NI NA ZEMLJI
+  mpcena: 550.01
+  futog: 1
+- sifra: 3118
+  naziv: PČ - NARODNI OBIČAJI - S.RAJIĆ, I.STANKOVIĆ
+  mpcena: 550.01
+  futog: 1
+- sifra: 3119
+  naziv: PČ - NARODNO STVARALAŠTVO - S.RAJIĆ, I.STANKOVIĆ
+  mpcena: 550.01
+  futog: 1
+- sifra: 3120
+  naziv: PČ - NAUČI I ZABAVI SE - DINOSAURUSI
+  mpcena: 1990.03
+  futog: 1
+- sifra: 3121
+  naziv: PČ - NAUČI I ZABAVI SE - JEDNOROZI
+  mpcena: 1990.03
+  futog: 1
+- sifra: 3122
+  naziv: PČ - NAUČI I ZABAVI SE - SVET
+  mpcena: 1990.03
+  futog: 1
+- sifra: 3123
+  naziv: PČ - NAVIGATORI - DINOSAURUSI - DEJVID BERNI
+  mpcena: 1380.04
+  futog: 1
+- sifra: 3124
+  naziv: PČ - NAVIGATORI - ELEMENTARNE - MARGARET HAJNZ
+  mpcena: 1380.04
+  futog: 1
+- sifra: 3125
+  naziv: PČ - NAVIGATORI - LJUDSKO TELO - MIRANDA SMIT
+  mpcena: 1380.04
+  futog: 1
+- sifra: 3126
+  naziv: PČ - NAVIGATORI - PLANETA ZEMLJA - BARBARA TEJLOR
+  mpcena: 1380.04
+  futog: 1
+- sifra: 3127
+  naziv: PČ - NAVIGATORI - TEHNOLOGIJA - PITER KENT
+  mpcena: 1380.04
+  futog: 1
+- sifra: 3128
+  naziv: PČ - NAVIGATORI - ZVEZDE I PLANETE - MAJK GOLDSMIT
+  mpcena: 1380.04
+  futog: 1
+- sifra: 3129
+  naziv: PČ - NAVIGATORI - ŽIVOTINJE - MIRANDA SMIT
+  mpcena: 1380.04
+  futog: 1
+- sifra: 3130
+  naziv: PČ - NAVRH DIMA IZ DIMNJAKA - DUŠKO DOMANOVIĆ
+  mpcena: 780.01
+  futog: 1
+- sifra: 3131
+  naziv: PČ - NE VOLIM KNJIGE - E.PERI, Š.DEJVI
+  mpcena: 980.02
+  futog: 1
+- sifra: 3132
+  naziv: PČ - NEPOGODE - BOJAN HODŽIĆ KOSORIĆ
+  mpcena: 80.0
+  srbobran: 0
+  futog: 1
+- sifra: 3135
+  naziv: PČ - NIJE KRIVA SOFIJA - JELENA RADEKA
+  mpcena: 680.02
+  futog: 1
+- sifra: 3136
+  naziv: PČ - NIKOLA TESLA I CRNI MAČAK - SLOBODAN STANIŠIĆ
+  mpcena: 850.0
+  futog: 1
+- sifra: 3137
+  naziv: PČ - NAĐA I VUK - KOMPJUTERSKE IGRE - NIKOLETA NOVAK
+  mpcena: 450.0
+  futog: 1
+- sifra: 3138
+  naziv: PČ - NAĐA I VUK - KUĆNI LJUBIMCI - NIKOLETA NOVAK
+  mpcena: 130.0
+  srbobran: 0
+  futog: 1
+- sifra: 3139
+  naziv: PČ - NAĐA I VUK - LJUBOMORNE TETKE - NIKOLETA NOVAK
+  mpcena: 450.0
+  futog: 1
+- sifra: 3140
+  naziv: PČ - NAĐA I VUK - NASLEDSTVO - NIKOLETA NOVAK
+  mpcena: 450.0
+  futog: 1
+- sifra: 3141
+  naziv: PČ - NAĐA I VUK - NAVIJAČI - NIKOLETA NOVAK
+  mpcena: 450.0
+  futog: 1
+- sifra: 3142
+  naziv: PČ - NAĐA I VUK - NOVE KOMŠIJE - NIKOLETA NOVAK
+  mpcena: 125.0
+  srbobran: 0
+  futog: 1
+- sifra: 3143
+  naziv: PČ - NAĐA I VUK - TVRDOGLAVI DRUGARI - NIKOLETA NOVAK
+  mpcena: 450.0
+  futog: 1
+- sifra: 3144
+  naziv: PČ - NAĐA I VUK - U POSETI ZUBARU - NIKOLETA NOVAK
+  mpcena: 450.0
+  futog: 1
+- sifra: 3145
+  naziv: PČ - OBLUTAK I BELUTAK - GORDANA TIMOTIJEVIĆ
+  mpcena: 1480.02
+  futog: 1
+- sifra: 3146
+  naziv: PČ - OBUĆAR I VILENJACI - GORAN AMRKOVIĆ
+  mpcena: 450.0
+  futog: 1
+- sifra: 3151
+  naziv: PČ - ODRI HEPBERN - NAKLON ŽENAMA - BOJANA JOVANOVIĆ
+  mpcena: 650.02
+  futog: 1
+- sifra: 3152
+  naziv: PČ - OLOVKA PIŠE SRCEM - B.NEŠIĆ, V.R.RAČIĆ
+  mpcena: 650.02
+  futog: 1
+- sifra: 3153
+  naziv: PČ - ORLOVI RANO LETE - BRANKO ĆOPIĆ
+  mpcena: 850.01
+  futog: 1
+- sifra: 3154
+  naziv: PČ - OTKRIVALICE - ŽIVOTINJE U - BOJANA JOVANOVIĆ
+  mpcena: 850.01
+  futog: 1
+- sifra: 3155
+  naziv: PČ - OTKRIVALICE - ŽIVOTINJE U MORU - BOJANA JOVANOVIĆ
+  mpcena: 850.01
+  futog: 1
+- sifra: 3156
+  naziv: PČ - OTKRIVALICE - ŽIVOTINJE U SELU - BOJANA JOVANOVIĆ
+  mpcena: 850.01
+  futog: 1
+- sifra: 3157
+  naziv: PČ - OTKRIVALICE - ŽIVOTINJE U ŠUMI - BOJANA JOVANOVIĆ
+  mpcena: 850.01
+  futog: 1
+- sifra: 3158
+  naziv: PČ - PA ŠTA ? S.KUNDER, G.MABIR
+  mpcena: 1080.01
+  futog: 1
+- sifra: 3159
+  naziv: PČ - PAKETIĆ CRNO BELE KNJIGE ZA BEBE
+  mpcena: 2290.05
+  futog: 1
+- sifra: 3160
+  naziv: PČ - PAMETAN KAO PČELA BOJENJE  - GORAN MARKOVIĆ
+  mpcena: 550.01
+  futog: 2
+- sifra: 3161
+  naziv: PČ - PAMETAN KAO PČELA BROJANJE - GORAN MARKOVIĆ
+  mpcena: 550.01
+  futog: 2
+- sifra: 3162
+  naziv: PČ - PAMETAN KAO PČELA ISTO I RAZLIČITO - GORAN MARKOVIĆ
+  mpcena: 550.01
+  futog: 2
+- sifra: 3163
+  naziv: PČ - PAMETAN KAO PČELA LAVIRINTI - GORAN MARKOVIĆ
+  mpcena: 550.01
+  futog: 2
+- sifra: 3164
+  naziv: PČ - PAMETAN KAO PČELA OD TAČKE DO TAČKE - GORAN MARKOVIĆ
+  mpcena: 550.01
+  futog: 2
+- sifra: 3165
+  naziv: PČ - PAMETAN KAO PČELA SKRIVENE SLIKE - GORAN MARKOVIĆ
+  mpcena: 550.01
+  futog: 2
+- sifra: 3166
+  naziv: PČ - PAS PO IMENU MAČKA - TOMI KONTIO
+  mpcena: 1180.03
+  futog: 1
+- sifra: 3167
+  naziv: PČ - PATULJKOV VENAC I DRUGE BAJKE - GROZDANA OLUJIĆ
+  mpcena: 950.03
+  futog: 1
+- sifra: 3168
+  naziv: PČ - PEPELJUGA - GORAN MARKOVIĆ
+  mpcena: 450.0
+  futog: 1
+- sifra: 3169
+  naziv: PČ - PERIODNI SISTEM A4
+  mpcena: 50.01
+  futog: 4
+- sifra: 3170
+  naziv: PČ - PETA STRANA SVETA - DOBRICA ERIĆ
+  mpcena: 750.01
+  futog: 1
+- sifra: 3171
+  naziv: PČ - PETAR PETROVIĆ NJEGOŠ - VSP - SLOBODAN STANIŠIĆ
+  mpcena: 750.01
+  futog: 1
+- sifra: 3172
+  naziv: PČ - PIRAT SA KARIBA - DŽON FARNDON
+  mpcena: 450.0
+  futog: 1
+- sifra: 3173
+  naziv: PČ - PISMO - IRENE VERDU
+  mpcena: 1280.02
+  futog: 1
+- sifra: 3174
+  naziv: PČ - POJTE MU SRBI - CVETNIK PESAMA ZA DECU O SVETOM SAVI
+  mpcena: 980.02
+  futog: 1
+- sifra: 3175
+  naziv: PČ - PONEKAD SE OSEĆAM MALOM - V.MARTINES, V.KAMBEL
+  mpcena: 1180.03
+  futog: 1
+- sifra: 3176
+  naziv: PČ - POP ĆIRA I POP SPIRA - STEVAN SREMAC
+  mpcena: 950.03
+  futog: 1
+- sifra: 3177
+  naziv: PČ - POZIV - NIKOLETA NOVAK
+  mpcena: 680.02
+  futog: 1
+- sifra: 3178
+  naziv: PČ - PRAISTORIJSKI LOVAC - ANITA GANERI
+  mpcena: 450.0
+  futog: 1
+- sifra: 3179
+  naziv: PČ - PRAVOPISNA VEŽBA - REČCE LI I NE - MAJA KORAKSIĆ
+  mpcena: 450.0
+  futog: 1
+- sifra: 3180
+  naziv: PČ - PRAVOPISNA VEŽBA - REČENIČNI ZNACI - MAJA KORAKSIĆ
+  mpcena: 450.0
+  futog: 1
+- sifra: 3181
+  naziv: PČ - PRAVOPISNA VEŽBA - UPRAVNI GOVOR - MAJA KORAKSIĆ
+  mpcena: 450.0
+  futog: 1
+- sifra: 3182
+  naziv: PČ - PRAVOPISNA VEŽBA - VELIKO SLOVO - MAJA KORAKSIĆ
+  mpcena: 450.0
+  futog: 1
+- sifra: 3183
+  naziv: PČ - PRAZNICI - ZORANA ĆETENOVIĆ
+  mpcena: 650.02
+  futog: 1
+- sifra: 3184
+  naziv: PČ - PREDŠKOLAC - D.VASOVIĆ, S.STJEPOVIĆ
+  mpcena: 1350.03
+  futog: 2
+- sifra: 3185
+  naziv: PČ - PREDŠKOLSKI ZABAVNIK 1 (3-5)
+  mpcena: 850.01
+  futog: 2
+- sifra: 3186
+  naziv: PČ - PREDŠKOLSKI ZABAVNIK 2 (4-6)
+  mpcena: 850.01
+  futog: 2
+- sifra: 3187
+  naziv: PČ - PRINC RASTKO MONAH SAVA - MILOVAN VITEZOVIĆ
+  mpcena: 850.01
+  futog: 1
+- sifra: 3188
+  naziv: PČ - PRINCEZA NA ZRNU GRAŠKA - GORAN MARKOVIĆ
+  mpcena: 450.0
+  futog: 1
+- sifra: 3189
+  naziv: PČ - PRINCEZA OLIVERA NA DVORU SULTANA BAJAZITA - SLOBODAN STANIŠIĆ
+  mpcena: 580.01
+  futog: 1
+- sifra: 3190
+  naziv: PČ - PRIRUČNIK O DRUGARIMA - A.BOJOVIĆ, M.ANĐELKOVIĆ
+  mpcena: 750.01
+  futog: 1
+- sifra: 3191
+  naziv: PČ - PRIRUČNIK O KNJIGAMA - A.BOJOVIĆ, M.ANĐELKOVIĆ
+  mpcena: 750.01
+  futog: 1
+- sifra: 3192
+  naziv: PČ - PRIRUČNIK O PORODICI - A.BOJOVIĆ, M.ANĐELKOVIĆ
+  mpcena: 750.01
+  futog: 1
+- sifra: 3193
+  naziv: 'PČ - PRIRUČNIK O RAZONODI '
+  mpcena: 750.01
+  futog: 1
+- sifra: 3194
+  naziv: PČ - PRIČAOICA 1 - MAJA KORAKSIĆ
+  mpcena: 400.02
+  futog: 1
+- sifra: 3195
+  naziv: PČ - PRIČAOICA 2 - MAJA KORAKSIĆ
+  mpcena: 400.02
+  futog: 1
+- sifra: 3196
+  naziv: PČ - PRIČAOICA 3 - MAJA KORAKSIĆ
+  mpcena: 400.02
+  futog: 1
+- sifra: 3197
+  naziv: PČ - PRIČAOICA 4 - MAJA KORAKSIĆ
+  mpcena: 400.02
+  futog: 1
+- sifra: 3198
+  naziv: PČ - PRIČE SA JASTUKA - B.LJUBENOVIĆ, A.DOMINIK
+  mpcena: 980.02
+  futog: 1
+- sifra: 3199
+  naziv: PČ - PROKLETA JERINA - SLOBODAN STANIŠIĆ
+  mpcena: 580.01
+  futog: 1
+- sifra: 3200
+  naziv: PČ - PRVACI ŠKOLE
+  mpcena: 750.01
+  futog: 1
+- sifra: 3201
+  naziv: PČ - PSSST! ČITAM! - KELI ELIS
+  mpcena: 1180.03
+  futog: 1
+- sifra: 3202
+  naziv: PČ - PTICA BEZ DOMA - MAJA KORAKSIĆ
+  mpcena: 1380.04
+  futog: 1
+- sifra: 3203
+  naziv: PČ - PUSTOLOVINE TOMA SOJERA SLIKOVNICA - MARK TVEN
+  mpcena: 1250.02
+  futog: 1
+- sifra: 3204
+  naziv: PČ - PUTOVANJA PUŽA MAKSIMILIJANA - G.TIMOTIJEVIĆ, M.STOJISAVLJEVIĆ
+  mpcena: 880.02
+  futog: 1
+- sifra: 3205
+  naziv: PČ - PUŽIĆ KOJI JE VEROVAO U SEBE - M.KORAKSIĆ, B.MIHAJLOVIĆ
+  mpcena: 1380.04
+  futog: 1
+- sifra: 3206
+  naziv: PČ - PČELICA MATEMATIČARENJE 1 - M.JANKOVIĆ, S.KOVAČEVIĆ
+  mpcena: 650.02
+  futog: 1
+- sifra: 3207
+  naziv: PČ - PČELICA MATEMATIČARENJE 2 - M.JANKOVIĆ, S.KOVAČEVIĆ
+  mpcena: 650.02
+  futog: 1
+- sifra: 3208
+  naziv: PČ - PČELICA MATEMATIČARENJE 3 - M.JANKOVIĆ, S.KOVAČEVIĆ
+  mpcena: 650.02
+  futog: 1
+- sifra: 3209
+  naziv: PČ - PČELICA MATEMATIČARENJE 4 - M.JANKOVIĆ, S.KOVAČEVIĆ
+  mpcena: 650.02
+  futog: 1
+- sifra: 3210
+  naziv: PČ - PČELICA U VRTIĆU MATEMATIKA - D.VASOVIĆ, M.KORAKSIĆ
+  mpcena: 650.01
+  futog: 2
+- sifra: 3211
+  naziv: PČ - PČELICA U VRTIĆU SRPSKI - D.VASOVIĆ, M.KORAKSIĆ
+  mpcena: 650.01
+  futog: 2
+- sifra: 3212
+  naziv: PČ - PČELICA U VRTIĆU SVET OKO NAS - D.VASOVIĆ, M.KORAKSIĆ
+  mpcena: 650.01
+  futog: 2
+- sifra: 3213
+  naziv: PČ - PČELICA VEŽBALICA 1 - MAJA KORAKSIĆ
+  mpcena: 600.0
+  futog: 2
+- sifra: 3214
+  naziv: PČ - PČELICA VEŽBALICA 2 - MAJA KORAKSIĆ
+  mpcena: 600.0
+  futog: 2
+- sifra: 3216
+  naziv: PČ - PČELICA VEŽBALICA 3 - MAJA KORAKSIĆ
+  mpcena: 600.0
+  futog: 2
+- sifra: 3219
+  naziv: PČ - PČELICA VEŽBALICA 4 - MAJA KORAKSIĆ
+  mpcena: 600.0
+  futog: 2
+- sifra: 3220
+  naziv: PČ - PČELICE RADOZNALICE 3-5 - S.MIRKOVIĆ, G.MARKOVIĆ
+  mpcena: 850.01
+  futog: 2
+- sifra: 3221
+  naziv: PČ - PČELICE RADOZNALICE 4-6 - S.MIRKOVIĆ, G.MARKOVIĆ
+  mpcena: 950.01
+  futog: 2
+- sifra: 3222
+  naziv: PČ - PČELICE RADOZNALICE 5-7 - S.MIRKOVIĆ, G.MARKOVIĆ
+  mpcena: 650.02
+  futog: 6
+- sifra: 3224
+  naziv: PČ - PČELICE U LETU - S.MIRKOVIĆ, G.MARKOVIĆ
+  mpcena: 1350.0
+  futog: 2
+- sifra: 3225
+  naziv: PČ - RADNA SVESKA MATEMATIKA 1 - M.KORAKSIĆ, G.MARKOVIĆ
+  mpcena: 750.02
+  futog: 2
+- sifra: 3226
+  naziv: PČ - RADNA SVESKA MATEMATIKA 2 - M.KORAKSIĆ, G.MARKOVIĆ
+  mpcena: 750.02
+  futog: 2
+- sifra: 3228
+  naziv: PČ - RADNA SVESKA MATEMATIKA 3 - M.KORAKSIĆ, G.MARKOVIĆ
+  mpcena: 750.02
+  futog: 2
+- sifra: 3229
+  naziv: PČ - RADNA SVESKA MATEMATIKA 4 - M.KORAKSIĆ, G.MARKOVIĆ
+  mpcena: 750.02
+  futog: 2
+- sifra: 3231
+  naziv: PČ - RADNA SVESKA PRIRODA I DRUŠTVO 3 - M.KORAKSIĆ, G.MARKOVIĆ
+  mpcena: 209.93
+  srbobran: 0
+  futog: 2
+- sifra: 3232
+  naziv: PČ - RADNA SVESKA PRIRODA I DRUŠTVO 4 - M.KORAKSIĆ, G.MARKOVIĆ
+  mpcena: 750.02
+  futog: 2
+- sifra: 3233
+  naziv: PČ - RADNA SVESKA SRPSKI JEZIK 1 - M.KORAKSIĆ, G.MARKOVIĆ
+  mpcena: 750.02
+  futog: 2
+- sifra: 3235
+  naziv: PČ - RADNA SVESKA SRPSKI JEZIK 2 - M.KORAKSIĆ, G.MARKOVIĆ
+  mpcena: 1750.0
+  srbobran: 0
+  futog: 2
+- sifra: 3237
+  naziv: PČ - RADNA SVESKA SRPSKI JEZIK 3 - M.KORAKSIĆ, G.MARKOVIĆ
+  mpcena: 750.02
+  futog: 2
+- sifra: 3238
+  naziv: PČ - RADNA SVESKA SRPSKI JEZIK 4 - M.KORAKSIĆ, G.MARKOVIĆ
+  mpcena: 750.02
+  futog: 2
+- sifra: 3239
+  naziv: PČ - RADNA SVESKA SVET OKO NAS 1 - M.KORAKSIĆ, G.MARKOVIĆ
+  mpcena: 750.02
+  futog: 2
+- sifra: 3241
+  naziv: PČ - RADNA SVESKA SVET OKO NAS 2 - M.KORAKSIĆ, G.MARKOVIĆ
+  mpcena: 750.02
+  futog: 2
+- sifra: 3243
+  naziv: PČ RADNA SVESKA ZA MALE - 11
+  mpcena: 1099.0
+  srbobran: 0
+  futog: 1
+- sifra: 3244
+  naziv: PČ - RADNA SVESKA ZA MALE - 12
+  mpcena: 6895.0
+  srbobran: 0
+  futog: 1
+- sifra: 3245
+  naziv: PČ - RADNA SVESKA ZA MALE - 13
+  mpcena: 750.01
+  futog: 1
+- sifra: 3246
+  naziv: PČ - RADNA SVESKA ZA MALE ZVEZDAŠE - 8
+  mpcena: 750.01
+  futog: 1
+- sifra: 3247
+  naziv: PČ - RADNA SVESKA ZA MALE ZVEZDAŠE - 9
+  mpcena: 750.01
+  futog: 1
+- sifra: 3248
+  naziv: PČ - RADNA SVESKA ZA MALE ZVEZDAŠE - 10
+  mpcena: 750.01
+  futog: 1
+- sifra: 3249
+  naziv: PČ - RADNI KOMPLET ZA PREDŠKOLCA
+  mpcena: 1950.01
+  futog: 2
+- sifra: 3250
+  naziv: PČ - RADOSNICA - PČELICA
+  mpcena: 1380.04
+  futog: 1
+- sifra: 3252
+  naziv: PČ - RASTKO NEMANJIĆ - VSP - SLOBODAN STANIŠIĆ
+  mpcena: 750.01
+  futog: 1
+- sifra: 3253
+  naziv: PČ - RAČUNALJKA 1 - I.BOJOVIĆ, G.MARKOVIĆ
+  mpcena: 600.0
+  futog: 1
+- sifra: 3254
+  naziv: PČ - RIMSKI GLADIJATOR - ANITA GANERI
+  mpcena: 450.0
+  futog: 1
+- sifra: 3255
+  naziv: PČ - ROBINSON KRUSO - DANIJEL DEFO
+  mpcena: 850.01
+  futog: 1
+- sifra: 3256
+  naziv: PČ - ROZA PARKS - NAKLON ŽENAMA - MILAN BLAGOJEVIĆ
+  mpcena: 650.0
+  futog: 1
+- sifra: 3258
+  naziv: PČ - RUŽNO PAČE - GORAN MARKOVIĆ
+  mpcena: 70.0
+  srbobran: 0
+  futog: 1
+- sifra: 3259
+  naziv: PČ - ROĐENDAN RADNA SVESKA - M.KORAKSIĆ, G.MARKOVIĆ
+  mpcena: 450.0
+  futog: 1
+- sifra: 3260
+  naziv: PČ - RŠUMOVANJE OD A DO Š - LJ.RŠUMOVIĆ, B.MIHAJLOVIĆ
+  mpcena: 995.0
+  srbobran: 0
+  futog: 1
+- sifra: 3261
+  naziv: PČ - SAOBRAĆAJNA POČETNICA - I.BAJOVIĆ, K.DMITRIĆ
+  mpcena: 550.01
+  futog: 2
+- sifra: 3262
+  naziv: PČ - SEVALE SU MUNJE - JELENA TASIĆ
+  mpcena: 375.0
+  srbobran: 0
+  futog: 1
+- sifra: 3264
+  naziv: PČ - SIMONIDA NAJMLAĐA SRPSKA KRALJICA - SLOBODAN STANIŠIĆ
+  mpcena: 580.01
+  futog: 1
+- sifra: 3265
+  naziv: 'PČ - SKLAPALICE - DINOSAURUSI '
+  mpcena: 1680.03
+  futog: 1
+- sifra: 3266
+  naziv: PČ - SKLAPALICE - ŽIVOTINJE
+  mpcena: 1680.03
+  futog: 1
+- sifra: 3267
+  naziv: PČ - SLAVE, OBIČAJI I TRADICIJA - ĐORĐE ČOLOVIĆ
+  mpcena: 650.02
+  futog: 1
+- sifra: 3268
+  naziv: PČ - SLAVUJ SLAVKO 3 - G.MARKOVIĆ, G.MILISAVLJEVIĆ
+  mpcena: 250.0
+  srbobran: 0
+  futog: 1
+- sifra: 3269
+  naziv: PČ - SLAVUJ SLAVKO 4 - G.MARKOVIĆ, G.MILISAVLJEVIĆ
+  mpcena: 750.0
+  srbobran: 0
+  futog: 1
+- sifra: 3271
+  naziv: PČ - SLIČICE - GORDANA TIMOTIJEVIĆ
+  mpcena: 550.01
+  futog: 1
+- sifra: 3272
+  naziv: PČ - SLOVARICA - MAJA KORAKSIĆ
+  mpcena: 650.01
+  futog: 2
+- sifra: 3273
+  naziv: PČ - SNEG NA MORU - F.DELJINOČENTI, M.BOSKO
+  mpcena: 1380.04
+  futog: 1
+- sifra: 3274
+  naziv: PČ - SNEŽANA I SEDAM PATULJAKA - GORAN MARKOVIĆ
+  mpcena: 450.0
+  futog: 1
+- sifra: 3275
+  naziv: PČ - SNEŽNE REČI - VALENTINA MAZELI
+  mpcena: 1280.02
+  futog: 1
+- sifra: 3276
+  naziv: PČ - SPORT - GORAN MILISAVLJEVIĆ
+  mpcena: 550.01
+  futog: 2
+- sifra: 3277
+  naziv: 'PČ - SRPSKE LIRSKE PESME I BALADE '
+  mpcena: 850.01
+  futog: 1
+- sifra: 3278
+  naziv: PČ - SRPSKE NARODNE BAJKE
+  mpcena: 2250.03
+  futog: 1
+- sifra: 3279
+  naziv: 'PČ - SRPSKE NARODNE BAJKE I PRIČE '
+  mpcena: 780.01
+  futog: 1
+- sifra: 3280
+  naziv: PČ - SRPSKE NARODNE EPSKE PESME
+  mpcena: 1050.04
+  futog: 1
+- sifra: 3282
+  naziv: PČ - SRPSKE NARODNE UMOTVORINE
+  mpcena: 750.01
+  futog: 1
+- sifra: 3283
+  naziv: PČ - SRPSKI VELIKANI - DOSITEJ OBRADOVIĆ - ZORAN MILEKIĆ
+  mpcena: 950.03
+  futog: 1
+- sifra: 3284
+  naziv: PČ - SRPSKI VELIKANI - ISIDORA SEKULIĆ - IVANA SPASOVIĆ
+  mpcena: 950.03
+  futog: 1
+- sifra: 3285
+  naziv: PČ - SRPSKI VELIKANI - IVO ANDRIĆ - BOJAN HODŽIĆ KOSORIĆ
+  mpcena: 950.03
+  futog: 1
+- sifra: 3286
+  naziv: PČ - SRPSKI VELIKANI - JOSIF PANČIĆ - NIKOLA MATOVIĆ
+  mpcena: 950.03
+  futog: 1
+- sifra: 3288
+  naziv: PČ - SRPSKI VELIKANI - JOVAN CVIJIĆ - BOJAN HODŽIĆ KOSORIĆ
+  mpcena: 950.03
+  futog: 1
+- sifra: 3289
+  naziv: PČ - SRPSKI VELIKANI - M.P.ALAS - ZORAN MILEKIĆ
+  mpcena: 950.03
+  futog: 1
+- sifra: 3290
+  naziv: PČ - SRPSKI VELIKANI - MIHAJLO PUPIN - IVANA SUBOTIĆ
+  mpcena: 950.03
+  futog: 1
+- sifra: 3291
+  naziv: PČ - SRPSKI VELIKANI - MILUTIN MILANKOVIĆ - IVANA SUBOTIĆ
+  mpcena: 950.03
+  futog: 1
+- sifra: 3292
+  naziv: PČ - SRPSKI VELIKANI - MOKRANJAC - BOJAN HODŽIĆ KOSORIĆ
+  mpcena: 950.03
+  futog: 1
+- sifra: 3293
+  naziv: PČ - SRPSKI VELIKANI - NADEŽDA PETROVIĆ - BOJAN HODŽIĆ KOSORIĆ
+  mpcena: 950.03
+  futog: 1
+- sifra: 3294
+  naziv: PČ - SRPSKI VELIKANI - NIKOLA TESLA - NIKOLA TOMAŠEVIĆ
+  mpcena: 950.03
+  futog: 1
+- sifra: 3295
+  naziv: PČ - SRPSKI VELIKANI - VUK KARADŽIĆ - NIKOLA TOMAŠEVIĆ
+  mpcena: 950.03
+  futog: 1
+- sifra: 3296
+  naziv: PČ - STANOJE GLAVAŠ - SLOBODAN STANIŠIĆ
+  mpcena: 125.0
+  srbobran: 0
+  futog: 1
+- sifra: 3297
+  naziv: PČ - STARI ZANATI - S.RAJIĆ, I.STANKOVIĆ
+  mpcena: 550.01
+  futog: 1
+- sifra: 3298
+  naziv: PČ - STARINA NOVAK - SLOBODAN STANIŠIĆ
+  mpcena: 399.0
+  srbobran: 0
+  futog: 1
+- sifra: 3299
+  naziv: PČ - STEFAN DEČANSKI OD ROBA DO KRALJA - SLOBODAN STANIŠIĆ
+  mpcena: 580.01
+  futog: 1
+- sifra: 3301
+  naziv: PČ - STEFAN NEMANJA DOBIJA SINA RASTKA - SLOBODAN STANIŠIĆ
+  mpcena: 580.01
+  futog: 1
+- sifra: 3302
+  naziv: PČ - STEFAN PRVOVENČANI I VENECIJANSKA PRINCEZA - SLOBODAN STANIŠIĆ
+  mpcena: 580.01
+  futog: 1
+- sifra: 3303
+  naziv: PČ - STIKERI ŠKOLICA ZA SUPERHEROJE - ROBERT TAKARIČ
+  mpcena: 480.01
+  futog: 1
+- sifra: 3304
+  naziv: PČ - STIŽU BLESE, ČUVAJTE SE - DEJAN ALEKSIĆ
+  mpcena: 850.01
+  futog: 1
+- sifra: 3305
+  naziv: PČ - STRIP - MALI RADOJICA - SLOBODAN STANIŠIĆ
+  mpcena: 1080.01
+  futog: 1
+- sifra: 3306
+  naziv: PČ - SVAŠTARICA - MAJA KORAKSIĆ
+  mpcena: 1120.0
+  srbobran: 0
+  futog: 2
+- sifra: 3307
+  naziv: PČ - SVETI SAVA OD PRINCA DO SVECA - ĐORĐE ČOLOVIĆ
+  mpcena: 80.0
+  srbobran: 0
+  futog: 1
+- sifra: 3309
+  naziv: PČ - TABLICA DELJENJA A4
+  mpcena: 50.01
+  futog: 5
+- sifra: 3310
+  naziv: PČ - TAJNA GOSPOĐE MANDORLE - ANA CAKIĆ
+  mpcena: 880.02
+  futog: 1
+- sifra: 3311
+  naziv: PČ - TAJNI VRT SLIKOVNICA - F.H.BERNET
+  mpcena: 835.0
+  srbobran: 0
+  futog: 1
+- sifra: 3313
+  naziv: PČ - TESA MALA BALERINA - NIKOLETA NOVAK
+  mpcena: 650.02
+  futog: 1
+- sifra: 3315
+  naziv: PČ - TOM SOJER - MARK TVEN
+  mpcena: 980.02
+  futog: 1
+- sifra: 3316
+  naziv: PČ - TREĆA MAČKA - K.MILOVANOVIĆ, V.ALEKSIĆ
+  mpcena: 880.02
+  futog: 1
+- sifra: 3317
+  naziv: PČ - TRI MUSKETARA SLIKOVNICA - ALEKSANDAR DIMA
+  mpcena: 1250.02
+  futog: 1
+- sifra: 3318
+  naziv: PČ - TRI PRASETA - GORAN MARKOVIĆ
+  mpcena: 450.0
+  futog: 1
+- sifra: 3319
+  naziv: PČ - U POTRAZI ZA BUDIMIROM - NIKOLETA NOVAK
+  mpcena: 980.02
+  futog: 1
+- sifra: 3321
+  naziv: PČ - UKI MALI FUDBALER - BOJAN LJUBENOVIĆ
+  mpcena: 650.02
+  futog: 1
+- sifra: 3322
+  naziv: PČ - UMEM DA ČITAM - IZGLED VARA - KOZETA ZANOTI
+- sifra: 3323
+  naziv: PČ - UMEM DA ČITAM - KAD SRCE KUCA - KOZETA ZANOTI
+  mpcena: 650.02
+  futog: 1
+- sifra: 3324
+  naziv: PČ - UMEM DA ČITAM - OSETLJIVA, PA ŠTA - KOZETA ZANOTI
+  mpcena: 650.02
+  futog: 1
+- sifra: 3325
+  naziv: PČ - UMEM DA ČITAM - OSMEH SE VRATIO - DANIELA PALUMBO
+  mpcena: 650.02
+  futog: 1
+- sifra: 3326
+  naziv: PČ - UMEM DA ČITAM - SAFRŠENA DIJETA - SOFIJA GALO
+  mpcena: 650.02
+  futog: 1
+- sifra: 3327
+  naziv: PČ - UMEM DA ČITAM - SNAŽNIMA NIJE LAKO - DANIELA VALENTE
+  mpcena: 650.02
+  futog: 1
+- sifra: 3328
+  naziv: PČ - UMEM DA ČITAM - DOSADNE PEGICE - SOFIJA GALO
+  mpcena: 650.02
+  futog: 1
+- sifra: 3329
+  naziv: PČ - UMEM DA ČITAM - NEOBIČAN - FULVIJA D.
+  mpcena: 650.02
+  futog: 1
+- sifra: 3330
+  naziv: PČ - UMEM DA ČITAM - POZORIŠNA - KAROLINA D.A.
+  mpcena: 35.0
+  srbobran: 0
+  futog: 1
+- sifra: 3331
+  naziv: PČ - UPOZNAJMO KUĆNE LJUBIMCE - NIKOLETA NOVAK
+  mpcena: 550.01
+  futog: 2
+- sifra: 3332
+  naziv: PČ - UROŠ NEJAKI SIN DUŠANA SILNOG - SLOBODAN STANIŠIĆ
+  mpcena: 580.01
+  futog: 1
+- sifra: 3333
+  naziv: PČ - UROŠ PRVI I JELENA ANŽUJSKA - SLOBODAN STANIŠIĆ
+  mpcena: 580.01
+  futog: 1
+- sifra: 3334
+  naziv: PČ - UROŠE, IZVINI - JELENA RADEKA
+  mpcena: 680.02
+  futog: 1
+- sifra: 3335
+  naziv: PČ - USAMLJENI MAMUT - ANA T.MARTIN
+  mpcena: 980.02
+  futog: 1
+- sifra: 3337
+  naziv: PČ - USPAVANA LEPOTICA - GORAN MARKOVIĆ
+  mpcena: 450.0
+  futog: 1
+- sifra: 3338
+  naziv: PČ - UČIMO KOLIKO JE SATI - I.BAJOVIĆ, K.DMITRIĆ
+  mpcena: 550.01
+  futog: 2
+- sifra: 3339
+  naziv: PČ - UČIMO ŠAH - M.KOVAČEVIĆ, G.MILISAVLJEVIĆ
+  mpcena: 550.01
+  futog: 2
+- sifra: 3340
+  naziv: PČ - VALENTINA TEREŠKOVA - BOJAN HODŽIĆ KOSORIĆ
+  mpcena: 650.02
+  futog: 1
+- sifra: 3341
+  naziv: PČ - VARKE STARE ŠUME - GORDANA MALETIĆ
+  mpcena: 980.01
+  futog: 1
+- sifra: 3342
+  naziv: PČ - VASKRS RADNA SVESKA - M.KORAKSIĆ, G.MARKOVIĆ
+  mpcena: 650.02
+  futog: 1
+- sifra: 3343
+  naziv: 'PČ - VEKOVI SRPSKE PISMENOSTI '
+  mpcena: 550.0
+  srbobran: 0
+  futog: 1
+- sifra: 3344
+  naziv: PČ - VELIKA FANTAZBUČNA AVANTURA - UGLJEŠA ŠAJTINAC
+  mpcena: 850.01
+  futog: 1
+- sifra: 3345
+  naziv: PČ - VEVERPUH - MILOŠ MIHAILOVIĆ
+  mpcena: 385.0
+  srbobran: 0
+  futog: 1
+- sifra: 3346
+  naziv: PČ - VEŽBANKA IZ MATEMATIKE 1 - S.KOVAČEVIĆ, M.JANKOVIĆ
+  mpcena: 400.01
+  futog: 2
+- sifra: 3347
+  naziv: PČ - VEŽBANKA IZ MATEMATIKE 2 - S.KOVAČEVIĆ, M.JANKOVIĆ
+  mpcena: 400.01
+  futog: 2
+- sifra: 3348
+  naziv: PČ - VEŽBANKA IZ MATEMATIKE 3 - S.KOVAČEVIĆ, M.JANKOVIĆ
+  mpcena: 400.01
+  futog: 2
+- sifra: 3349
+  naziv: PČ - VEŽBANKA IZ MATEMATIKE 4 - S.KOVAČEVIĆ, M.JANKOVIĆ
+  mpcena: 400.01
+  futog: 2
+- sifra: 3350
+  naziv: PČ - VEŽBANKA IZ SRPSKOG 1 - IVANA BAJOVIĆ
+  mpcena: 400.01
+  futog: 2
+- sifra: 3351
+  naziv: PČ - VEŽBANKA IZ SRPSKOG 2 - IVANA BAJOVIĆ
+  mpcena: 400.02
+  futog: 2
+- sifra: 3352
+  naziv: PČ - VEŽBANKA IZ SRPSKOG 3 - IVANA BAJOVIĆ
+  mpcena: 400.01
+  futog: 2
+- sifra: 3353
+  naziv: PČ - VEŽBANKA IZ SRPSKOG 4 - IVANA BAJOVIĆ
+  mpcena: 400.01
+  futog: 2
+- sifra: 3354
+  naziv: PČ - VIKINŠKI RATNIK - ANITA GANERI
+  mpcena: 450.0
+  futog: 1
+- sifra: 3355
+  naziv: PČ - VILIJAM ŠEKSPIR - ALEKSANDRA BOJOVIĆ
+  mpcena: 480.01
+  futog: 1
+- sifra: 3356
+  naziv: PČ - VODIČ ZA ĐAKA PRVAKA - GORAN MARKOVIĆ
+  mpcena: 550.01
+  futog: 1
+- sifra: 3357
+  naziv: PČ - VUK KARADŽIĆ - VSP - SLOBODAN STANIŠIĆ
+  mpcena: 750.01
+  futog: 1
+- sifra: 3358
+  naziv: PČ - VUK MALI GLUMAC - BOJAN LJUBENOVIĆ
+  mpcena: 650.02
+  futog: 1
+- sifra: 3359
+  naziv: PČ - ZADUŽBINE, CRKVE I MANASTIRI - ZORANA ĆETENOVIĆ
+  mpcena: 650.02
+  futog: 1
+- sifra: 3360
+  naziv: PČ - ZAGRLTE IH PESME MOJE - V.N.CENIĆ, M.ANĐELKOVIĆ
+  mpcena: 1180.03
+  futog: 1
+- sifra: 3361
+  naziv: PČ - ZAHARIJE ORFELIN - VSP - SLOBODAN STANIŠIĆ
+  mpcena: 750.01
+  futog: 1
+- sifra: 3362
+  naziv: PČ - ZALJUBLJENA ŽABA - MAJA KORAKSIĆ
+  mpcena: 1380.04
+  futog: 1
+- sifra: 3365
+  naziv: PČ - ZBIRKA IZ MATEMATIKE 1 - M.JANKOVIĆ, S.KOVAČEVIĆ
+  mpcena: 295.0
+  srbobran: 0
+  futog: 1
+- sifra: 3366
+  naziv: PČ - ZBIRKA IZ MATEMATIKE 2 - M.JANKOVIĆ, S.KOVAČEVIĆ
+  mpcena: 850.01
+  futog: 1
+- sifra: 3367
+  naziv: PČ - ZBIRKA IZ MATEMATIKE 3 - M.JANKOVIĆ, S.KOVAČEVIĆ
+  mpcena: 850.01
+  futog: 1
+- sifra: 3368
+  naziv: PČ - ZBIRKA IZ MATEMATIKE 4 - M.JANKOVIĆ, S.KOVAČEVIĆ
+  mpcena: 850.01
+  futog: 1
+- sifra: 3369
+  naziv: PČ - ZBOGOM MOJIH 15 GODINA - KLOD KAMPANJ
+  mpcena: 980.02
+  futog: 1
+- sifra: 3370
+  naziv: 'PČ - ZDRAVLJE LAVLJE '
+  mpcena: 750.01
+  futog: 1
+- sifra: 3371
+  naziv: PČ - ZIMSKI SLADOLED - V.V.GAJOVIĆ
+  mpcena: 980.01
+  futog: 1
+- sifra: 3372
+  naziv: PČ - ZLATOKOSA I TRI MEDVEDA - GORAN MARKOVIĆ
+  mpcena: 450.0
+  futog: 1
+- sifra: 3373
+  naziv: PČ - ZMAJ I ČAROLIJA MESEČINE - KORNELIJA FUNKE
+  mpcena: 1350.03
+  futog: 1
+- sifra: 3374
+  naziv: PČ - ZMAJEVA POŠTA
+  mpcena: 1380.04
+  futog: 1
+- sifra: 3375
+  naziv: PČ - ZNAMENITE SRPKINJE DESANKA MAKSIMOVIĆ- VIOLETA JOVIĆ
+  mpcena: 850.01
+  futog: 1
+- sifra: 3376
+  naziv: PČ - ZNAMENITE SRPKINJE ISIDORA SEKULIĆ - GORDANA MALETIĆ
+  mpcena: 850.01
+  futog: 1
+- sifra: 3377
+  naziv: PČ - ZNAMENITE SRPKINJE - MILENA PAVLOVIĆ - VESNA ALEKSIĆ
+  mpcena: 850.01
+  futog: 1
+- sifra: 3378
+  naziv: PČ - ZNAMENITE SRPKINJE - MILEVA AJNŠTAJN - ZORICA KUBUROVIĆ
+  mpcena: 850.01
+  futog: 1
+- sifra: 3379
+  naziv: PČ - ZNAMENITE SRPKINJE - MILICA STOJADINOVIĆ - LIDIJA NIKOLIĆ
+  mpcena: 850.01
+  futog: 1
+- sifra: 3380
+  naziv: PČ - ZNAMENITE SRPKINJE - MILUNKA SAVIĆ - SLAVKA P.GRUJIČIĆ
+  mpcena: 850.01
+  futog: 1
+- sifra: 3381
+  naziv: PČ - ZNAMENITE SRPKINJE - MINA KARADŽIĆ - GORDANA TIMOTIJEVIĆ
+  mpcena: 850.01
+  futog: 1
+- sifra: 3382
+  naziv: PČ - ZNAMENITE SRPKINJE - NADEŽDA PETROVIĆ
+  mpcena: 850.01
+  futog: 1
+- sifra: 3383
+  naziv: PČ - ZNAMENITE SRPKINJE - ŽANKA STOKIĆ - GORDANA VLAJIĆ
+  mpcena: 850.01
+  futog: 1
+- sifra: 3384
+  naziv: PČ - ZOJA MALA PIJANISTKINJA - NADA V.ĐOKIĆ
+  mpcena: 650.02
+  futog: 1
+- sifra: 3385
+  naziv: PČ - ZUBIĆ PANDA - E.RODRIGEZ, M.VILIJAR
+  mpcena: 1180.03
+  futog: 1
+- sifra: 3386
+  naziv: PČ - ZVUCI ZOO VRTA
+  mpcena: 1990.03
+  futog: 1
+- sifra: 3387
+  naziv: PČ - ZVUCI ŠUME
+  mpcena: 1990.03
+  futog: 1
+- sifra: 3388
+  naziv: PČ - ZVUČNA DŽUNGLA
+  mpcena: 1990.03
+  futog: 1
+- sifra: 3389
+  naziv: PČ - ZVUČNA FARMA
+  mpcena: 1990.03
+  futog: 1
+- sifra: 3390
+  naziv: PČ - ŠEŠIR PROFESORA KOSTE VUJIĆA - MILOVAN VITEZOVIĆ
+  mpcena: 850.01
+  futog: 1
+- sifra: 3391
+  naziv: PČ - ŠKOLJKA PRIČALICA - N.NOVAK, N.RISTIĆ
+  mpcena: 270.0
+  srbobran: 0
+  futog: 1
+- sifra: 3392
+  naziv: PČ - ŠTO NA UMU TO NA DRUMU - LJUBIVOJE RŠUMOVIĆ
+  mpcena: 850.01
+  futog: 1
+- sifra: 3393
+  naziv: PČ - ŽELIŠ LI DA SAGRADIŠ BIBLIOTEKU - LINDZI LESLI
+  mpcena: 1180.03
+  futog: 1
+- sifra: 3394
+  naziv: PČ - ŽELJKO I ŽIVKO - A.MEKDONALD, F.GAMBETEZA
+  mpcena: 780.01
+  futog: 1
+- sifra: 3395
+  naziv: PČ - ŽIVOTINJE POMAŽU DEDA MRAZU - N.NOVAK, B.RADOVANOVIĆ
+  mpcena: 350.01
+  futog: 1
+- sifra: 3396
+  naziv: PČ - ĆIRILO I METODIJE - VSP - SLOBODAN STANIŠIĆ
+  mpcena: 750.01
+  futog: 1
+- sifra: 3397
+  naziv: PČ - ČARLS DARVIN - ALEKSANDRA BOJOVIĆ
+  mpcena: 480.01
+  futog: 1
+- sifra: 3398
+  naziv: PČ - ČAROBNE KROFNE - G.TIMOTIJEVIĆ, B.MIHAJLOVIĆ
+  mpcena: 1480.02
+  futog: 1
+- sifra: 3399
+  naziv: PČ - ČAROBNI PASULJ - GORAN MARKOVIĆ
+  mpcena: 450.0
+  futog: 1
+- sifra: 3400
+  naziv: PČ - ČAROBNJAK IZ OZA SLIKOVNICA - LAJMAN FRENK BAUM
+  mpcena: 1250.02
+  futog: 1
+- sifra: 3401
+  naziv: PČ - ČITAONICA 1 - MAJA KORAKSIĆ
+  mpcena: 400.02
+  futog: 1
+- sifra: 3402
+  naziv: PČ - ČITAONICA 2 - MAJA KORAKSIĆ
+  mpcena: 400.02
+  futog: 1
+- sifra: 3403
+  naziv: PČ - ČOBANIN I VUK - BASNE U STRIPU - EZOP
+  mpcena: 450.0
+  futog: 1
+- sifra: 3404
+  naziv: PČ - ČUVARI VELIKE ŠUME - A.DIMERG, L.LEKONIT
+  mpcena: 850.01
+  futog: 1
+- sifra: 3405
+  naziv: PČ - ČUVARI VELIKE ŠUME - PAZI GLAVU - A.DIMERG, L.LEKONIT
+  mpcena: 850.01
+  futog: 1
+- sifra: 3406
+  naziv: PČ - ČUVARI VELIKE ŠUME - ČUPAVI - A.DIMERG, L.LEKONIT
+  mpcena: 850.01
+  futog: 1
+- sifra: 3407
+  naziv: PČ - ČUČUK STANA - SLOBODAN STANIŠIĆ
+  mpcena: 580.01
+  futog: 1
+- sifra: 3409
+  naziv: KC - VIŠNJIN DAN
+  mpcena: 750.01
+  futog: 1
+- sifra: 3410
+  naziv: KC - KAKO SU SE MAMA MU I GAVRA UPOZNALI
+  mpcena: 950.01
+  futog: 2
+- sifra: 3411
+  naziv: KC - AUTO SERVIS - MALI ISTRAŽIVAČI
+  mpcena: 1450.01
+  futog: 1
+- sifra: 3412
+  naziv: KC - NAJLEPŠI DŽIN U GRADU
+  mpcena: 950.01
+  futog: 2
+- sifra: 3413
+  naziv: VU - 1, 2... VEŽBAM JA - SLOVA I BROJEVI
+  mpcena: 699.01
+  futog: 1
+- sifra: 3414
+  naziv: VU - 100 NEVEROVATNIH ZVUKOVA - PRVE REČI
+  mpcena: 2290.05
+  futog: 1
+- sifra: 3415
+  naziv: VU - 100 NEVEROVATNIH ZVUKOVA - ŽIVOTINJE
+  mpcena: 2290.05
+  futog: 1
+- sifra: 3416
+  naziv: VU - 100 PRVIH ŽIVOTINJA
+  mpcena: 1199.02
+  futog: 1
+- sifra: 3417
+  naziv: VU - 101 PRIČA ZA LAKU NOĆ
+  mpcena: 1399.02
+  futog: 1
+- sifra: 3418
+  naziv: VU - 20 ZVUKOVA I ČINJENICA - FARMA
+  mpcena: 1699.05
+  futog: 1
+- sifra: 3419
+  naziv: VU - 20 ZVUKOVA I ČINJENICA - ŽIVOTINJE
+  mpcena: 1699.05
+  futog: 1
+- sifra: 3420
+  naziv: VU - 50 NEVEROVATNIH ZVUKOVA - BEBE ŽIVOTINJA
+  mpcena: 2390.05
+  futog: 1
+- sifra: 3422
+  naziv: VU - 50 NEVEROVATNIH ZVUKOVA - SVET OKO NAS
+  mpcena: 2390.05
+  futog: 1
+- sifra: 3423
+  naziv: VU - BAKINE I DEKINE PRIČE
+  mpcena: 1199.02
+  futog: 1
+- sifra: 3424
+  naziv: VU - BEBA UPOZNAJE - BOJE/BROJEVE - AKCIJA
+  mpcena: 499.0
+  futog: 3
+- sifra: 3425
+  naziv: VU - BEBA UPOZNAJE - SVET OKO NAS - AKCIJA
+  mpcena: 499.0
+  futog: 2
+- sifra: 3426
+  naziv: VU - BEBA UPOZNAJE - ŽIVOTINJE - AKCIJA
+  mpcena: 499.0
+  futog: 2
+- sifra: 3427
+  naziv: VU - BEBIN SVET - PESMARICA
+  mpcena: 999.02
+  futog: 0
+- sifra: 3431
+  naziv: VU - ČITAMO ZAJEDNO - ČAROBNI PASULJ
+  mpcena: 399.01
+  futog: 1
+- sifra: 3432
+  naziv: VU - ČITAMO ZAJEDNO - IVICA I MARICA
+  mpcena: 399.01
+  futog: 1
+- sifra: 3433
+  naziv: VU - ČITAMO ZAJEDNO - SNEŽNA KRALJICA
+  mpcena: 399.01
+  futog: 1
+- sifra: 3436
+  naziv: VU - ČITAMO ZAJEDNO - TRI PRASETA
+  mpcena: 399.01
+  futog: 1
+- sifra: 3437
+  naziv: VU - ČITAMO ZAJEDNO - ZLATOKOSA I TRI MEDVEDA
+  mpcena: 399.01
+  futog: 1
+- sifra: 3438
+  naziv: VU - ČUDESNI ČAROBNJAK IZ OZA - PAOLA RATACI
+  mpcena: 1499.04
+  futog: 1
+- sifra: 3439
+  naziv: VU - ČUDESNI RAZGOVORI U PRIRODI ŠIROM SVETA
+  mpcena: 2290.05
+  futog: 1
+- sifra: 3440
+  naziv: VU - DNEVNIK VISKE CVETIĆ - NOVA ŠKOLA
+  mpcena: 1099.03
+  futog: 2
+- sifra: 3441
+  naziv: VU - DOGMEN I KETKID
+  mpcena: 1199.02
+  futog: 0
+- sifra: 3442
+  naziv: VU - DOGMEN - GOSPODAR BUVA
+  mpcena: 1199.02
+  futog: 0
+- sifra: 3443
+  naziv: VU - DOGMEN - PRIČA O DVA MAČETA
+  mpcena: 1199.02
+  futog: 1
+- sifra: 3444
+  naziv: VU - DOGMEN - PUŠTEN S LANCA
+  mpcena: 1199.02
+  futog: 1
+- sifra: 3445
+  naziv: VU - DOGMEN - ZA KIM SE LOPTICA KOTRLJA
+  mpcena: 1199.02
+  futog: 1
+- sifra: 3446
+  naziv: VU - DOGMEN - ZLOČIN I KALJAVŠTINA
+  mpcena: 1199.02
+  futog: 1
+- sifra: 3447
+  naziv: VU - DOGMEN
+- sifra: 3448
+  naziv: VU - DŽERONIMO STILTON - INFLUENSER IGROM SLUČAJA
+  mpcena: 999.02
+  futog: 1
+- sifra: 3449
+  naziv: VU - DŽERONIMO STILTON - PRIČE PUNE SMEHA - TAJNA MEMLJIVE LUKE
+  mpcena: 999.02
+  futog: 1
+- sifra: 3450
+  naziv: VU - DŽERONIMO STILTON - PUTOVANJE KROZ VREME 6 - LEGENDA O ATILINOM MAČU
+  mpcena: 1699.05
+  futog: 1
+- sifra: 3451
+  naziv: VU - DŽERONIMO STILTON - STRAVA I UŽAS U LUNA-PARKU
+  mpcena: 999.02
+  futog: 1
+- sifra: 3453
+  naziv: VU - DŽERONIMO STILTON - ZAMAK DUHOVA
+  mpcena: 999.02
+  futog: 1
+- sifra: 3454
+  naziv: VU - FUDBALIČANSTVENI - MISTERIJA SEDAM AUTOGOLOVA
+  mpcena: 1199.02
+  futog: 1
+- sifra: 3455
+  naziv: VU - HAJDE DA ISTRAŽIMO - DINOSAURI
+  mpcena: 999.02
+  futog: 1
+- sifra: 3456
+  naziv: VU - HAJDE DA ISTRAŽIMO - GRADILIŠTE
+  mpcena: 999.02
+  futog: 1
+- sifra: 3458
+  naziv: VU - HAJDE DA ISTRAŽIMO - LJUDSKO TELO - AKCIJA
+  mpcena: 799.0
+  futog: 2
+- sifra: 3459
+  naziv: VU - HAJDE DA ISTRAŽIMO - SVEMIR - AKCIJA
+  mpcena: 799.0
+  futog: 1
+- sifra: 3460
+  naziv: VU - IGRAJ SE SA NAMA - KUCE
+  mpcena: 399.01
+  futog: 1
+- sifra: 3461
+  naziv: VU - IGRAJ SE SA NAMA - MACE
+  mpcena: 399.01
+  futog: 1
+- sifra: 3462
+  naziv: VU - ISIDORA MUN I BUNAR ŽELJA
+  mpcena: 799.01
+  futog: 1
+- sifra: 3463
+  naziv: 'VU - ISIDORA MUN IDE NA LEDENI FESTIVAL '
+  mpcena: 799.01
+  futog: 1
+- sifra: 3464
+  naziv: VU - ISIDORA MUN IDE NA SPAVANJAC KOD DRUGARICE
+  mpcena: 799.01
+  futog: 1
+- sifra: 3465
+  naziv: VU - ISIDORA MUN IZVODI ZIMSKE ČAROLIJE
+  mpcena: 799.01
+  futog: 1
+- sifra: 3466
+  naziv: VU - ISIDORA MUN KREĆE U ŠKOLU
+  mpcena: 799.01
+  futog: 1
+- sifra: 3471
+  naziv: VU - ISIDORA MUN UPADA U NEVOLJU
+  mpcena: 799.01
+  futog: 0
+- sifra: 3472
+  naziv: VU - ISIDORA MUN UPOZNAJE ZUBIĆ VILU
+  mpcena: 799.01
+  futog: 1
+- sifra: 3473
+  naziv: VU - JEDNOGRAD 6 - ZAČARANI PLES
+  mpcena: 799.01
+  futog: 1
+- sifra: 3474
+  naziv: VU - KAD PORASTEM, BIĆU - DOKTOR
+  mpcena: 699.01
+  futog: 1
+- sifra: 3475
+  naziv: VU - KAD PORASTEM BIĆU- VATROGASAC
+  mpcena: 699.01
+  futog: 1
+- sifra: 3476
+  naziv: VU - KARTE - PRVE REČI NA ENGLESKOM JEZIKU
+  mpcena: 499.02
+  futog: 1
+- sifra: 3477
+  naziv: VU - KARTE - PUT OKO SVETA KVIZ
+  mpcena: 499.02
+  futog: 1
+- sifra: 3478
+  naziv: VU - KARTE - UČIM I IGRAM SE - BEBA UČI PRVE REČI
+  mpcena: 499.02
+  futog: 1
+- sifra: 3479
+  naziv: VU - KARTE - UČIM I IGRAM SE - PORODICE ŽIVOTINJE - IGRA SA KARTAMA
+  mpcena: 499.02
+  futog: 1
+- sifra: 3480
+  naziv: VU - KARTE - ZA DEVOJČICE - AZBUKA, BROJEVI I BOJE
+  mpcena: 499.02
+  futog: 1
+- sifra: 3482
+  naziv: VU - KARTE - ZANIMLJIVA MATEMATIKA - SABIRANJE
+  mpcena: 499.02
+  futog: 1
+- sifra: 3483
+  naziv: VU - KETKID - KLUB STRIPOLJUBACA
+  mpcena: 999.02
+  futog: 1
+- sifra: 3484
+  naziv: VU - KITI I AVANTURA U BAŠTI NA KROVU
+  mpcena: 799.01
+  futog: 0
+- sifra: 3485
+  naziv: VU - KLASICI SVETSKE KNJIŽEVNOSTI ZA DECU - BELI OČNJAK
+  mpcena: 899.02
+  futog: 1
+- sifra: 3486
+  naziv: VU - KLASICI SVETSKE KNJIŽEVNOSTI ZA DECU - HAJDI
+  mpcena: 799.01
+  futog: 1
+- sifra: 3487
+  naziv: VU - KLASICI SVETSKE KNJIŽEVNOSTI ZA DECU - KNJIGA O DŽUNGLI
+  mpcena: 599.03
+  futog: 1
+- sifra: 3488
+  naziv: VU - KLASICI SVETSKE KNJIŽEVNOSTI ZA DECU - LESI SE VRAĆA
+  mpcena: 699.01
+  futog: 1
+- sifra: 3489
+  naziv: VU - KNJIGA O SVEMU
+  mpcena: 1899.03
+  futog: 1
+- sifra: 3490
+  naziv: VU - KNJIGA SA MEKANIM TEKSTURAMA - NA FARMI
+  mpcena: 399.01
+  futog: 1
+- sifra: 3491
+  naziv: VU - KNJIGA SA MEKANIM TEKSTURAMA - U DIVLJINI
+  mpcena: 399.01
+  futog: 1
+- sifra: 3492
+  naziv: VU - KNJIGA ZA MARKA
+  mpcena: 799.01
+  futog: 1
+- sifra: 3493
+  naziv: VU - KNJIŽICA GLODALICA - BEBE ŽIVOTINJA
+  mpcena: 499.02
+  futog: 1
+- sifra: 3494
+  naziv: VU - KNJIŽICA GLODALICA - BROJEVI
+  mpcena: 499.02
+  futog: 1
+- sifra: 3495
+  naziv: VU - KNJIŽICA GLODALICA - LJUBIMCI
+  mpcena: 499.02
+  futog: 1
+- sifra: 3496
+  naziv: VU - KNJIŽICA GLODALICA - VOZILA
+  mpcena: 499.02
+  futog: 1
+- sifra: 3497
+  naziv: VU - KNJIŽICE SKRIVALICE - ZEKA I DRUGARI
+  mpcena: 799.01
+  futog: 0
+- sifra: 3498
+  naziv: VU - KOLIKO PEGA IMA GEPARD ?
+  mpcena: 999.02
+  futog: 1
+- sifra: 3499
+  naziv: VU - LEPEZICE SVEZNALICE 4-5 ZELENA
+  mpcena: 599.03
+  futog: 1
+- sifra: 3501
+  naziv: VU - LEPEZICE SVEZNALICE 5-6 ŽUTA
+  mpcena: 599.03
+  futog: 1
+- sifra: 3503
+  naziv: VU - MAGIČNA BOJANKA - AKCIJA
+  mpcena: 799.0
+  futog: 2
+- sifra: 3504
+  naziv: VU - MAGIČNA KNJIŽICA ZA KUPANJE - KORNJAČA
+  mpcena: 699.01
+  futog: 1
+- sifra: 3505
+  naziv: VU - MAGIČNA KNJIŽICA ZA KUPANJE - PAČE
+  mpcena: 699.01
+  futog: 1
+- sifra: 3506
+  naziv: VU - MALA BIBLIOTEKA - PRVE ŽIVOTINJE
+  mpcena: 1499.04
+  futog: 1
+- sifra: 3507
+  naziv: VU - MALI PRINC - PAOLO PROJETI
+  mpcena: 1499.04
+  futog: 1
+- sifra: 3508
+  naziv: VU - MALI UMETNICI BOJENJE PO BROJEVIMA - ŽIVOTINJE
+  mpcena: 299.0
+  futog: 1
+- sifra: 3509
+  naziv: VU - MEKANA KNJIŽICA - PRVE REČI
+  mpcena: 599.03
+  futog: 1
+- sifra: 3510
+  naziv: VU - MIRABEL I PONOĆNA GOZBA
+  mpcena: 799.01
+  futog: 1
+- sifra: 3512
+  naziv: VU - MIRABEL PREUZIMA ODGOVORNOST
+  mpcena: 799.01
+  futog: 0
+- sifra: 3514
+  naziv: VU - MOJ LEKSIKON - PLAVI
+  mpcena: 399.01
+  futog: 2
+- sifra: 3515
+  naziv: VU - MOJ LEKSIKON - ROZE
+  mpcena: 399.01
+  futog: 2
+- sifra: 3516
+  naziv: VU - MOJ MODNI DNEVNIK
+  mpcena: 799.01
+  futog: 1
+- sifra: 3517
+  naziv: VU - MOJ PRVI SALON LEPOTE 1
+  mpcena: 499.02
+  futog: 1
+- sifra: 3518
+  naziv: VU - MOJ PRVI SALON LEPOTE 2
+  mpcena: 499.02
+  futog: 1
+- sifra: 3519
+  naziv: VU - MOJ PRVI SLIKOVNI ATLAS - AKCIJA
+  mpcena: 399.0
+  futog: 2
+- sifra: 3520
+  naziv: VU - MOJA KNJIGA TAJNI
+  mpcena: 899.02
+  futog: 1
+- sifra: 3521
+  naziv: VU - MOJA MALA ZVUČNA KNJIGA - DEDA MILE IMA FARMU
+  mpcena: 1099.02
+  futog: 1
+- sifra: 3522
+  naziv: VU - MOJA PRVA SLIKOVNA ENCIKLOPEDIJA - ČULA
+  mpcena: 699.01
+  futog: 1
+- sifra: 3523
+  naziv: VU - MOJA PRVA SLIKOVNA ENCIKLOPEDIJA - ŠUMSKE ŽIVOTINJE
+  mpcena: 699.01
+  futog: 1
+- sifra: 3524
+  naziv: VU - MOJA PRVA SLIKOVNA ENCIKLOPEDIJA - VOZILA
+  mpcena: 699.01
+  futog: 1
+- sifra: 3525
+  naziv: VU - MOJA PRVA ŠUŠKAVA KNJIŽICA - FARMA
+  mpcena: 1299.03
+  futog: 1
+- sifra: 3526
+  naziv: VU - MOJA RAZIGRANA TORBICA - JEDNOROZI
+  mpcena: 399.01
+  futog: 1
+- sifra: 3527
+  naziv: VU - MOJA SLATKA BOJANKA - NAJBOLJE DRUGARICE
+  mpcena: 699.01
+  futog: 1
+- sifra: 3528
+  naziv: VU - MOJA SLATKA BOJANKA - UŠUŠKANI DANI
+  mpcena: 699.01
+  futog: 1
+- sifra: 3529
+  naziv: VU - MOJA VELIKA KNJIGA ISKAKALICA - LJUDSKO TELO
+  mpcena: 1699.05
+  futog: 1
+- sifra: 3530
+  naziv: VU - MOJA VELIKA KNJIGA ISKAKALICA - SVET
+  mpcena: 1699.05
+  futog: 1
+- sifra: 3531
+  naziv: VU -MOJA ZABAVNA BOJANKA 1
+  mpcena: 399.01
+  futog: 0
+- sifra: 3532
+  naziv: VU - MOJA ZABAVNA BOJANKA 2
+  mpcena: 399.01
+  futog: 1
+- sifra: 3533
+  naziv: VU - MOJA ZABAVNA BOJANKA 4
+  mpcena: 399.01
+  futog: 1
+- sifra: 3534
+  naziv: VU - MOJA ZABAVNA DINO TORBICA
+  mpcena: 599.03
+  futog: 1
+- sifra: 3536
+  naziv: VU - MOJA ZABAVNA ROZE TORBICA
+  mpcena: 599.03
+  futog: 0
+- sifra: 3537
+  naziv: VU - MOJIH PRVIH 100 REČI - AKCIJA
+  mpcena: 699.0
+  futog: 1
+- sifra: 3538
+  naziv: VU - MUZIČKA KNJIGA - KRCKO ORAŠČIĆ
+  mpcena: 1499.04
+  futog: 1
+- sifra: 3539
+  naziv: VU - NAJLEPŠE BAJKE ZA LAKU NOĆ - ANDERSEN
+  mpcena: 1999.04
+  futog: 1
+- sifra: 3540
+  naziv: VU - NAJLEPŠE BAJKE ZA LAKU NOĆ - GRIM
+  mpcena: 1999.04
+  futog: 1
+- sifra: 3541
+  naziv: VU - NAJLEPŠE BAJKE ZA LAKU NOĆ - PERO
+  mpcena: 1999.04
+  futog: 1
+- sifra: 3542
+  naziv: VU - NAJLEPŠE BASNE SVETA V
+  mpcena: 2490.06
+  futog: 1
+- sifra: 3543
+  naziv: VU - NAJLEPŠE KLASIČNE BAJKE-KNJIGA SA ISKAKALICAMA - IVICA I MARICA
+  mpcena: 1399.02
+  futog: 1
+- sifra: 3544
+  naziv: VU - NAJLEPŠE KLASIČNE BAJKE - KNJIGA SA ISKAKALICAMA - KRCKO ORAŠČIĆ
+  mpcena: 1299.03
+  futog: 1
+- sifra: 3545
+  naziv: VU - NAJLEPŠE KLASIČNE BAJKE - KNJIGE SA ISKAKALICAMA - ALADIN
+  mpcena: 1299.03
+  futog: 1
+- sifra: 3546
+  naziv: VU - NAJLEPŠE KLASIČNE BAJKE - KNJIGE SA ISKAKALICAMA - MAČAK U ČIZMAMA
+  mpcena: 1299.03
+  futog: 1
+- sifra: 3547
+  naziv: VU - NAJLEPŠE PRIČE ZA LAKU NOĆ - AKCIJA
+  mpcena: 899.0
+  futog: 2
+- sifra: 3548
+  naziv: VU - NAJLEPŠE PRIČE ZA PRAZNIČNE VEČERI
+  mpcena: 1199.02
+  futog: 1
+- sifra: 3549
+  naziv: PČ - PRIČE IZ ŠUME - CELOVITO IZDANJE - NIKOLETA NOVAK
+  mpcena: 2250.03
+  futog: 1
+- sifra: 3550
+  naziv: VU - OBOJTE JEDNOROGE 1
+  mpcena: 399.01
+  futog: 1
+- sifra: 3551
+  naziv: VU - OBOJTEJEDNOROGE 2
+  mpcena: 399.01
+  futog: 1
+- sifra: 3552
+  naziv: VU - PET PRIJATELJA NA OSTRVU SA BLAGOM 1
+  mpcena: 799.01
+  futog: 1
+- sifra: 3553
+  naziv: VU - POGODI KO SAM - NA SELU
+  mpcena: 499.02
+  futog: 1
+- sifra: 3554
+  naziv: VU - PRIČAM TI PRIČU - PEPELJUGA, CRVENKAPA, ČAROBNJAK IZ OZA
+  mpcena: 899.02
+  futog: 1
+- sifra: 3556
+  naziv: VU - PRIČE IZ ŠKOLE HENRI BIG - NAJBOLJE DRUGARICE ZAUVEK
+  mpcena: 899.02
+  futog: 1
+- sifra: 3557
+  naziv: VU - PRIČE KRATKE ZA SNOVE SLATKE - NAJLEPŠE BAJKE
+  mpcena: 999.02
+  futog: 1
+- sifra: 3558
+  naziv: VU - PRIČE KRATKE ZA SNOVE SLATKE - ŽIVOTINJE
+  mpcena: 999.02
+  futog: 1
+- sifra: 3559
+  naziv: VU - PRIČICE ZA LEPE SNOVE
+  mpcena: 1399.02
+  futog: 1
+- sifra: 3560
+  naziv: VU - PRVA OTKRIĆA - ATLAS PRIRODE
+  mpcena: 1499.04
+  futog: 1
+- sifra: 3561
+  naziv: VU - PRVA OTKRIĆA - ATLAS SVETA
+  mpcena: 1499.04
+  futog: 1
+- sifra: 3562
+  naziv: VU - PRVE NALEPNICE - FARMA
+  mpcena: 499.02
+  futog: 1
+- sifra: 3563
+  naziv: VU - PRVE NALEPNICE - VOZILA
+  mpcena: 499.02
+  futog: 1
+- sifra: 3564
+  naziv: VU - PUSTOLOVINE KAPETANA GAĆERONEA
+  mpcena: 999.02
+  futog: 1
+- sifra: 3565
+  naziv: VU - RADNA SVESKA ZA TALENTOVANU DECU - KONCENTRACIJA 4-5 GODINA
+  mpcena: 999.02
+  futog: 1
+- sifra: 3566
+  naziv: VU - VU - RADNA SVESKA ZA TALENTOVANU DECU - OPAŽANJE 4-5 GODINA
+  mpcena: 999.02
+  futog: 1
+- sifra: 3567
+  naziv: VU - RADNA SVESKA ZA TALENTOVANU DECU - RAZMIŠLJANJE 2-3 GODINE
+  mpcena: 999.02
+  futog: 1
+- sifra: 3568
+  naziv: " VU - SCHOOL ZONE - AZBUKA UČIMO MALA SLOVA"
+  mpcena: 399.01
+  futog: 1
+- sifra: 3569
+  naziv: VU - SCHOOL ZONE - BOJE 4-6
+  mpcena: 399.01
+  futog: 1
+- sifra: 3570
+  naziv: VU - SCHOOL ZONE - LAVIRINTI 4-6
+  mpcena: 399.01
+  futog: 1
+- sifra: 3571
+  naziv: VU - SCHOOL ZONE - LOGIKA I RAZMIŠLJANJE 4-6
+  mpcena: 399.01
+  futog: 1
+- sifra: 3572
+  naziv: VU - SCHOOL ZONE - SABIRANJE I ODUZIMANJE
+  mpcena: 399.01
+  futog: 1
+- sifra: 3573
+  naziv: VU - SCHOOL ZONE - SVAŠTARA 5-6
+  mpcena: 399.01
+  futog: 1
+- sifra: 3574
+  naziv: VU - SCHOOL ZONE - ZABAVNA MATEMATIKA 5-6
+  mpcena: 399.01
+  futog: 1
+- sifra: 3575
+  naziv: VU - SLIKOVNA ENCIKLOPEDIJA - FARMA
+  mpcena: 1399.02
+  futog: 1
+- sifra: 3576
+  naziv: VU - SLIKOVNI REČNIK - SVET OKO NAS
+  mpcena: 599.03
+  futog: 1
+- sifra: 3577
+  naziv: VU - SOVA SVEZNALICA
+  mpcena: 599.03
+  futog: 1
+- sifra: 3579
+  naziv: VU - SPORTSKE PRIČE - KOŠARKAŠKE LEGENDE
+  mpcena: 2199.04
+  futog: 1
+- sifra: 3580
+  naziv: VU - SPORTSKE PRIČE - LEGENDARNI FUDBALSKI KLUBOVI
+  mpcena: 2199.04
+  futog: 0
+- sifra: 3581
+  naziv: VU - SVEOBUHVATNI VODIČ ZA GAJENJE ZMAJEVA
+  mpcena: 899.02
+  futog: 1
+- sifra: 3582
+  naziv: VU - TEA STILTON - KARNEVAL U VENECIJI
+  mpcena: 1399.02
+  futog: 1
+- sifra: 3583
+  naziv: VU - TEA STILTON - KOLAČI IZ SNOVA
+  mpcena: 999.02
+  futog: 1
+- sifra: 3584
+  naziv: VU - TEA STILTON - PESMA KITOVA
+  mpcena: 1299.03
+  futog: 1
+- sifra: 3585
+  naziv: VU - TEA STILTON - PRINC OKEANA
+  mpcena: 1399.02
+  futog: 1
+- sifra: 3586
+  naziv: VU - TEA STILTON - SLUČAJNE DIZAJNERKE
+  mpcena: 999.02
+  futog: 1
+- sifra: 3587
+  naziv: VU - UČIMO ENGLESKI - NAJLEPŠE BAJKE
+  mpcena: 599.03
+  futog: 1
+- sifra: 3588
+  naziv: VU - UPOZNAJEM I OTKRIVAM - DOMAĆE ŽIVOTINJE
+  mpcena: 299.0
+  futog: 1
+- sifra: 3589
+  naziv: VU - UPOZNAJEM I OTKRIVAM - ŠUMSKE ŽIVOTINJE
+  mpcena: 299.0
+  futog: 1
+- sifra: 3590
+  naziv: VU - VELIKA KNJIGA PITANJA I ODGOVORA SA PROZORČIĆIMA - LJUDSKO TELO
+  mpcena: 1399.02
+  futog: 1
+- sifra: 3591
+  naziv: VU - VELIKA KNJIGA PITANJA I ODGOVORA SA PROZORČIĆIMA - ŽIVOTINJE
+  mpcena: 1399.02
+  futog: 1
+- sifra: 3592
+  naziv: VU - ZVUČNA KNJIGA SA ISKAKALICAMA - VOZILA
+  mpcena: 1799.03
+  futog: 1
+- sifra: 3593
+  naziv: VU - ZABAVA SA NALEPNICAMA - PRINCEZE, SIRENE I VILE
+  mpcena: 699.01
+  futog: 1
+- sifra: 3594
+  naziv: VU - ZABAVNI KVIZ - DINOSAURI
+  mpcena: 599.03
+  futog: 1
+- sifra: 3597
+  naziv: VU - ZABAVNI KVIZ - EMOCIJE
+  mpcena: 599.03
+  futog: 1
+- sifra: 3598
+  naziv: VU - ZABAVNI KVIZ - FUDBAL
+  mpcena: 599.03
+  futog: 1
+- sifra: 3599
+  naziv: VU - ZABAVNI KVIZ - PUT OKO SVETA
+  mpcena: 599.03
+  futog: 1
+- sifra: 3601
+  naziv: VU - ZABAVNI KVIZ - SUNČEV SISTEM
+  mpcena: 599.03
+  futog: 1
+- sifra: 3602
+  naziv: VU - ZABAVNI KVIZ - ŽIVOTINJE
+  mpcena: 599.03
+  futog: 1
+- sifra: 3603
+  naziv: VU - ZABAVNI ZADACI ZA RADOZNALCE 1
+  mpcena: 549.01
+  futog: 1
+- sifra: 3604
+  naziv: VU - ZABAVNI ZADACI ZA RADOZNALCE 2
+  mpcena: 549.01
+  futog: 1
+- sifra: 3605
+  naziv: VU - ZANIMLJIVI VODIČ - 101 ČINJENICA O LJUDSKOM TELU
+  mpcena: 1299.03
+  futog: 1
+- sifra: 3606
+  naziv: VU - ZANIMLJIVI VODIČ - 101 ČINJENICA O NAŠOJ PLANETI
+  mpcena: 1299.03
+  futog: 1
+- sifra: 3607
+  naziv: VU - ZRNCE KARTICE - GODIŠNJA DOBA
+  mpcena: 499.02
+  futog: 1
+- sifra: 3608
+  naziv: VU - ZRNCE KARTICE - UČIMO AZBUKU
+  mpcena: 499.02
+  futog: 1
+- sifra: 3609
+  naziv: VU - ZRNCE KARTICE - UČIMO BOJE I OBLIKE LATINICA
+  mpcena: 499.02
+  futog: 1
+- sifra: 3610
+  naziv: VU - ZRNCE KARTICE - UČIMO BOJE I OBLIKE
+  mpcena: 499.02
+  futog: 1
+- sifra: 3611
+  naziv: VU - ZRNCE KARTICE - ZABAVNI KVIZ LATINICA
+  mpcena: 499.02
+  futog: 1
+- sifra: 3612
+  naziv: VU - ZRNCE KARTICE - ZABAVNI KVIZ
+  mpcena: 499.02
+  futog: 1
+- sifra: 3613
+  naziv: VU - ZVUČNA KNJIGA SA ISKAKALICAMA - FARMA
+  mpcena: 1799.03
+  futog: 1
+- sifra: 3614
+  naziv: VU - ZVUČNA SLIKOVNICA - AKCIJA
+  mpcena: 1799.0
+  futog: 4
+- sifra: 3642
+  naziv: VU - ISIDORA MUN I BUNAR ŽELJA
+- sifra: 3741
+  naziv: 'L - '
+  mpcena: 1999.0
+  srbobran: 0
+- sifra: 3744
+  naziv: 'L - '
+  mpcena: 1999.0
+  srbobran: 0
+- sifra: 3748
+  naziv: 'L - '
+  mpcena: 699.0
+  srbobran: 0
+- sifra: 3751
+  naziv: VU - 100 REČI -KNJIGA SA AKTIVNOSTIMA - AKCIJA
+  mpcena: 1299.0
+  srbobran: 0
+  futog: 4
+- sifra: 3752
+  naziv: VU - BEBA OTKRIVA SVET
+  mpcena: 1699.0
+  srbobran: 1
+- sifra: 3789
+  naziv: VU - BEBA UPOZNAJE
+  mpcena: 699.0
+  srbobran: 1
+- sifra: 3791
+  naziv: 'L - '
+  mpcena: 1499.0
+  srbobran: 0
+- sifra: 3792
+  naziv: VU - BOJANKA
+  mpcena: 199.0
+  srbobran: 4
+- sifra: 3793
+  naziv: 'L - '
+  mpcena: 499.0
+  srbobran: 0
+- sifra: 3794
+  naziv: 'L - '
+  mpcena: 2090.0
+  srbobran: 0
+- sifra: 3795
+  naziv: 'L - '
+  mpcena: 499.0
+  srbobran: 0
+- sifra: 3796
+  naziv: VU - LEPEZICE SVEZNALICE
+  mpcena: 599.0
+  srbobran: 2
+- sifra: 3797
+  naziv: VU - MANGA
+  mpcena: 699.0
+  srbobran: 2
+- sifra: 3798
+  naziv: VU - MOJ NEVEROVATNI DNEVNIK
+  mpcena: 799.0
+  srbobran: 1
+- sifra: 3806
+  naziv: VU - MOJA PRVA SLIKOVNA ENCIKLOPEDIJA
+  mpcena: 699.0
+  srbobran: 4
+- sifra: 3807
+  naziv: MOJA PRVA SUSKAVA KNJIZICA
+  mpcena: 1199.0
+  srbobran: 0
+- sifra: 3808
+  naziv: VU - MOJA PRVA ZVUCNA KNJIGA
+  mpcena: 1399.0
+  srbobran: 0
+- sifra: 3819
+  naziv: 'L - '
+- sifra: 3820
+  naziv: VU - MUDRE GLAVICE
+  mpcena: 799.0
+  srbobran: 2
+- sifra: 3821
+  naziv: 'L - '
+- sifra: 3822
+  naziv: 'L - '
+  mpcena: 1299.0
+  srbobran: 0
+- sifra: 3823
+  naziv: 'L - '
+  mpcena: 2490.0
+  srbobran: 0
+- sifra: 3824
+  naziv: VU - NAJLEPSE PRICE SVIH VREMENA
+  mpcena: 2290.0
+  srbobran: 1
+- sifra: 3825
+  naziv: VU - NEVEROVATNA STVORENJA
+  mpcena: 1099.0
+  srbobran: 1
+- sifra: 3831
+  naziv: VU - PET PRIJATELJA
+  mpcena: 799.0
+  srbobran: 1
+- sifra: 3832
+  naziv: 'L - '
+  mpcena: 799.0
+  srbobran: 0
+- sifra: 3834
+  naziv: VU - PODIGNI PROZORCICE I UPOZNAJ
+  mpcena: 699.0
+  srbobran: 2
+- sifra: 3837
+  naziv: VU - PONESI ME
+  mpcena: 499.0
+  srbobran: 1
+- sifra: 3839
+  naziv: 'L - '
+  mpcena: 799.0
+  srbobran: 0
+- sifra: 3853
+  naziv: VU - PRIČE KRATKE
+  mpcena: 999.0
+  srbobran: 2
+- sifra: 3857
+  naziv: VU - SERLOK NJUSKALOMS
+  mpcena: 999.0
+  srbobran: 1
+- sifra: 3858
+  naziv: 'L - '
+  mpcena: 1999.0
+  srbobran: 0
+- sifra: 3963
+  naziv: 'L - '
+- sifra: 3966
+  naziv: 'L - '
+  mpcena: 399.0
+  srbobran: 0
+- sifra: 4085
+  naziv: 'L - '
+  mpcena: 499.0
+  srbobran: 0
+- sifra: 4451
+  naziv: PP - OBOJ PO SLICI - USKRS
+  mpcena: 149.0
+  futog: 2
+- sifra: 4452
+  naziv: PP - MOJ VELIKI ATLAS SVEMIRA
+  mpcena: 1290.03
+  futog: 1
+- sifra: 4453
+  naziv: PP - ŽIVOTINJE U AFRICI - MALA KARTONSKA SLIKOVNICA
+  mpcena: 199.0
+  futog: 2
+- sifra: 4454
+  naziv: PP - ŽIVOTINJE U MORU - MALA KARTONSKA SLIKOVNICA
+  mpcena: 199.0
+  futog: 2
+- sifra: 4455
+  naziv: PP - PTICE - MALA KARTONSKA SLIKOVNICA
+  mpcena: 199.0
+  futog: 2
+- sifra: 4456
+  naziv: PP - MUZIČKI INSTRUMENTI - MALA KARTONSKA SLIKOVNICA
+  mpcena: 199.0
+  futog: 2
+- sifra: 4457
+  naziv: PP - IGRAČKE - MALA KARTONSKA SLIKOVNICA
+  mpcena: 199.0
+  futog: 2
+- sifra: 4458
+  naziv: 'PP - VATROMET ZNANJA '
+  mpcena: 550.01
+  futog: 0
+- sifra: 4459
+  naziv: PP - VRTEŠKA ZNANJA
+  mpcena: 550.01
+  futog: 1
+- sifra: 4460
+  naziv: PP - BEBINA RADOSNICA - ROZE
+  mpcena: 1290.03
+  futog: 1
+- sifra: 4461
+  naziv: PP - UČIUM DA PIŠEM PISANA ĆIRILICA
+- sifra: 4462
+  naziv: PP - BEBINA RADOSNICA - PLAVA
+  mpcena: 1290.03
+  futog: 1
+- sifra: 4463
+  naziv: 'PP - ZAGRLJAJ '
+  mpcena: 649.01
+  futog: 1
+- sifra: 4464
+  naziv: PP - NAJLEPŠE BAJKE SVETA
+  mpcena: 1590.02
+  futog: 1
+- sifra: 4465
+  naziv: PP - USKRŠNJA KNJIGA AKTIVNOSTI
+  mpcena: 299.0
+  futog: 0
+- sifra: 4466
+  naziv: PP - GUSARI - 25 ČUDESNIH LAVIRINATA
+  mpcena: 299.0
+  futog: 1
+- sifra: 4467
+  naziv: PP - JEDNOROZI - 30 ČUDESNIH LAVIRINATA
+  mpcena: 299.0
+  futog: 1
+- sifra: 4468
+  naziv: PP - MALE PRINCEZE - 29 ČUDESNIH LAVIRINATA
+  mpcena: 299.0
+  futog: 1
+- sifra: 4469
+  naziv: PP - POVUCI I OTKRIJ - KOLIKO JE VELIKI MEDVED ?
+  mpcena: 1080.01
+  futog: 1
+- sifra: 4470
+  naziv: PP - PROVIRI I OTKRIJ - KO SE TO KRIJE ?
+  mpcena: 1190.04
+  futog: 1
+- sifra: 4471
+  naziv: PP - OTVORI, DODIRNI, U OGLEDALCE VIRNI ! GDE JE GOSPODIN LAV ?
+  mpcena: 1190.02
+  futog: 1
+- sifra: 4472
+  naziv: PP - BOJANKA PTICE
+  mpcena: 119.0
+  futog: 2
+- sifra: 4473
+  naziv: PP - OBOJ PO SLICI - AFRIČKE ŽIVOTINJE
+  mpcena: 149.0
+  futog: 2
+- sifra: 4474
+  naziv: PP - OBOJ PO SLICI - DIVLJE ŽIVOTINJE
+  mpcena: 149.0
+  futog: 2
+- sifra: 4475
+  naziv: PP - OBOJ PO SLICI - VOĆE I POVRĆE
+  mpcena: 149.0
+  futog: 2
+- sifra: 4476
+  naziv: PP - OBOJ PO SLICI - DOMAĆE ŽIVOTINJE
+  mpcena: 149.0
+  futog: 2
+- sifra: 4477
+  naziv: PP - OBOJ PO SLICI - MORSKE ŽIVOTINJE
+  mpcena: 149.0
+  futog: 2
+- sifra: 4478
+  naziv: PP - OBOJ PO SLICI - INSEKTI
+  mpcena: 149.0
+  futog: 2
+- sifra: 4479
+  naziv: 'PP - BUDI TO ŠTO JESI '
+  mpcena: 499.0
+  futog: 1
+- sifra: 4480
+  naziv: 'PP - KO VOLI ZMAJICU '
+  mpcena: 499.0
+  futog: 1
+- sifra: 4481
+  naziv: PP - MOJE KRŠTENJE
+  mpcena: 1090.02
+  futog: 1
+- sifra: 4482
+  naziv: PP - MOJ PRVI ENGLESKI REČNIK
+  mpcena: 1490.04
+  futog: 1
+- sifra: 4483
+  naziv: PP - UPOZNAJ LJUDSKO TELO - AUZOU
+  mpcena: 3490.06
+  futog: 1
+- sifra: 4484
+  naziv: PP - MOJA PRVA BROJALICA - AUZOU
+  mpcena: 3490.06
+  futog: 1
+- sifra: 4485
+  naziv: PP - KAD NE MOŽEMO DA ZAGRLIMO
+  mpcena: 499.02
+  futog: 1
+- sifra: 4486
+  naziv: 'PP - NE BUDI ZMAJA DOK SPAVA '
+  mpcena: 499.02
+  futog: 1
+- sifra: 4487
+  naziv: PP - DOMAĆE ŽIVOTINJE - KARTONSKA SLIKOVNICA
+  mpcena: 299.01
+  futog: 2
+- sifra: 4488
+  naziv: PP - PORODIČNO BLAGO - MAMA ME VOLI / TATA ME VOLI
+  mpcena: 499.01
+  srbobran: 2
+  futog: 1
+- sifra: 4489
+  naziv: PP - PORODIČNO BLAGO - BAKA ME VOLI / DEKA ME VOLI
+  mpcena: 499.01
+  srbobran: 2
+  futog: 1
+- sifra: 4490
+  naziv: PP - PORODIČNO BLAGO - BATA ME VOLI / SEKA ME VOLI
+  mpcena: 499.01
+  srbobran: 2
+  futog: 1
+- sifra: 4491
+  naziv: 'PP - FARMA - OSLOBODI BOJE ČAROBNOM ČETKICOM '
+  mpcena: 999.02
+  futog: 2
+- sifra: 4492
+  naziv: PP - DINOSAURUSI - OSLOBODI BOJE ČAROBNOM ČETKICOM
+  mpcena: 999.02
+  futog: 2
+- sifra: 4493
+  naziv: PP - EMOCIJE- OSLOBODI BOJE ČAROBNOM ČETKICOM
+  mpcena: 999.02
+  futog: 2
+- sifra: 4494
+  naziv: PP - JEDNOROZI - OSLOBODI BOJE ČAROBNOM ČETKICOM
+  mpcena: 999.02
+  futog: 1
+- sifra: 4495
+  naziv: PP - 100 ZADATAKA - FARMA
+  mpcena: 699.0
+  srbobran: 2
+  futog: 2
+- sifra: 4496
+  naziv: PP - 100 ZADATAKA - PRIRODA
+  mpcena: 699.0
+  srbobran: 2
+  futog: 1
+- sifra: 4497
+  naziv: PP - 100 ZADATAKA - JEDNOROZI
+  mpcena: 699.0
+  srbobran: 2
+  futog: 2
+- sifra: 4498
+  naziv: PP - MONTESORI RS - MOJI MALI EKSPERIMENTI
+  mpcena: 580.0
+  futog: 1
+- sifra: 4499
+  naziv: PP - 100 ZADATAKA - DINOSAURUSI
+  mpcena: 699.0
+  srbobran: 2
+  futog: 2
+- sifra: 4500
+  naziv: PP - MONTESORI RS - EMOCIJE
+  mpcena: 640.02
+  futog: 2
+- sifra: 4501
+  naziv: PP - VOLIM DA ZAGRLIM DRUGARE
+  mpcena: 880.02
+  srbobran: 2
+  futog: 1
+- sifra: 4502
+  naziv: PP - VOLIM MAMIN ZAGRLJAJ
+  mpcena: 880.02
+  srbobran: 2
+  futog: 1
+- sifra: 4503
+  naziv: PP - PRVA ISTRAŽIVANJA - SVET DINOSAURUSA
+  mpcena: 399.01
+  srbobran: 2
+  futog: 2
+- sifra: 4504
+  naziv: PP - PRVA ISTRAŽIVANJA - ŽIVOTINJE SA FARME
+  mpcena: 399.01
+  srbobran: 2
+  futog: 2
+- sifra: 4505
+  naziv: PP - PRVA ISTRAŽIVANJA - ŽIVOTINJE IZ DŽUNGLE
+  mpcena: 399.01
+  srbobran: 2
+  futog: 2
+- sifra: 4506
+  naziv: PP - PRVA ISTRAŽIVANJA - MORSKE ŽIVOTINJE
+  mpcena: 399.01
+  srbobran: 0
+  futog: 2
+- sifra: 4507
+  naziv: PP - DRUGARI SE SAKRIVAJU - PTICE
+  mpcena: 299.0
+  srbobran: 2
+  futog: 2
+- sifra: 4508
+  naziv: PP - NEZABORAVNE PRIČE - MAMINE PRIČE
+  mpcena: 1780.04
+  futog: 1
+- sifra: 4509
+  naziv: PP - DRUGARI SE SAKRIVAJU - FARMA
+  mpcena: 299.0
+  srbobran: 1
+  futog: 1

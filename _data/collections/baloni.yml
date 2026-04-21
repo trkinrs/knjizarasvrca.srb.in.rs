@@ -1,0 +1,336 @@
+---
+- sifra: 9
+  naziv: BALON SB10P 23CM
+  mpcena: 30.0
+  srbobran: 432
+  futog: 37
+- sifra: 10
+  naziv: BALLON TAILS HB SILVER
+  mpcena: 180.0
+  srbobran: 2
+  futog: 1
+- sifra: 19
+  naziv: '09*FBQ PRINTED GL'
+  mpcena: 135.0
+  srbobran: 1
+- sifra: 23
+  naziv: 11*LBQ STANDARD QE
+  mpcena: 35.0
+  srbobran: 59
+- sifra: 28
+  naziv: 11*LBQ PRINT 2/1 LBM
+  mpcena: 55.0
+  srbobran: 6
+  futog: 3
+- sifra: 31
+  naziv: 11*LBQ PRINT 4/1*TW
+  mpcena: 75.0
+  srbobran: 6
+  futog: 3
+- sifra: 34
+  naziv: TRAKA ZA BALONE HB ZLATNA
+  mpcena: 180.0
+  srbobran: 3
+  futog: 1
+- sifra: 35
+  naziv: 11*LBQ PRINT 4/P
+  mpcena: 85.0
+  srbobran: 9
+- sifra: 40
+  naziv: 18*FBQ F/BALON/IF
+  mpcena: 380.0
+  srbobran: 12
+  futog: 7
+- sifra: 44
+  naziv: BUBBLE BALON 22" ST/KAE
+  mpcena: 710.0
+  srbobran: 3
+  futog: 2
+- sifra: 45
+  naziv: GRABO SREDNJI BROJEVI
+  mpcena: 470.0
+  srbobran: 48
+  futog: 52
+- sifra: 54
+  naziv: PM*FP TRAKA 30MM
+  mpcena: 530.0
+  srbobran: 3
+- sifra: 60
+  naziv: PM*TEGIC SMAJLI PP 16G
+  mpcena: 60.0
+  srbobran: 0
+  futog: 5
+- sifra: 61
+  naziv: HRV BUDUĆA MLADA
+  mpcena: 935.0
+  srbobran: 1
+  futog: 1
+- sifra: 64
+  naziv: 18*FBA F S40
+  mpcena: 455.0
+  srbobran: 0
+- sifra: 69
+  naziv: GRABO 18" PRINTED
+  mpcena: 350.0
+  srbobran: 1
+  futog: 1
+- sifra: 74
+  naziv: GRABO SUPER SHAPE F
+  mpcena: 790.0
+  srbobran: 1
+- sifra: 75
+  naziv: FB103 FB RING 60*95CM
+  mpcena: 670.0
+  srbobran: 2
+  futog: 1
+- sifra: 79
+  naziv: FGR PINK
+  mpcena: 545.0
+  srbobran: 0
+  futog: 1
+- sifra: 80
+  naziv: FGR BLUE
+  mpcena: 545.0
+  srbobran: 0
+  futog: 1
+- sifra: 82
+  naziv: HRV DOBRO DOŠAO
+  mpcena: 935.0
+  srbobran: 1
+- sifra: 101
+  naziv: SB PASTEL MIX
+  mpcena: 1550.0
+  srbobran: 0
+- sifra: 102
+  naziv: FB HEART 45CM RED
+  mpcena: 495.0
+  srbobran: 0
+  futog: 0
+- sifra: 105
+  naziv: FB HEART 61CM RED
+  mpcena: 425.0
+  srbobran: 0
+- sifra: 106
+  naziv: FBS 48CM
+  mpcena: 265.0
+  srbobran: 0
+- sifra: 108
+  naziv: FBS 48CM
+  mpcena: 465.0
+  srbobran: 1
+- sifra: 113
+  naziv: '09*FBA A15'
+  mpcena: 150.0
+  srbobran: 1
+- sifra: 114
+  naziv: PROCOS FB 18"
+  mpcena: 610.0
+  srbobran: 2
+  futog: 2
+- sifra: 116
+  naziv: TEGIC 75G
+  mpcena: 180.0
+  srbobran: 0
+- sifra: 117
+  naziv: TEGIC 170G
+  mpcena: 320.0
+  srbobran: 0
+  futog: 0
+- sifra: 120
+  naziv: FOLIJA BP 290
+  mpcena: 495.0
+  srbobran: 0
+  futog: 1
+- sifra: 126
+  naziv: PM*R STALAK ZA BALON BUKET
+  mpcena: 570.0
+  srbobran: 0
+  futog: 2
+- sifra: 129
+  naziv: 'FB HEART 61CM '
+  mpcena: 295.0
+  srbobran: 0
+  futog: 1
+- sifra: 136
+  naziv: FB HEART 45CM
+  mpcena: 185.0
+  srbobran: 0
+  futog: 0
+- sifra: 140
+  naziv: FBH 45CM
+  mpcena: 265.0
+  srbobran: 0
+- sifra: 144
+  naziv: TS*Q TEG KOCKA-SRCE
+  mpcena: 235.0
+  srbobran: 1
+  futog: 0
+- sifra: 146
+  naziv: SM BLUE HEART 46CM
+  mpcena: 495.0
+  srbobran: 0
+- sifra: 158
+  naziv: SSL POMEGRANATE STAR
+  mpcena: 495.0
+  srbobran: 1
+- sifra: 159
+  naziv: VR PM TEG 170G
+  mpcena: 220.0
+  srbobran: 5
+  futog: 1
+- sifra: 161
+  naziv: HOLOGRAPHIC 1ST B CUPCAKE PINK
+  mpcena: 1450.0
+  srbobran: 0
+  futog: 1
+- sifra: 165
+  naziv: FB HEART 61CM SILVER
+  mpcena: 425.0
+  srbobran: 0
+- sifra: 166
+  naziv: HOLOGRAPHIC 1ST B CUPCAKE BOY
+  mpcena: 1450.0
+  srbobran: 0
+  futog: 0
+- sifra: 173
+  naziv: FB STAR 48CM BLACK
+  mpcena: 260.0
+  srbobran: 0
+  futog: 1
+- sifra: 183
+  naziv: 27 FOLIJA 350
+  mpcena: 595.0
+  srbobran: 0
+  futog: 1
+- sifra: 187
+  naziv: PRP5-008 BELA 5MM
+  mpcena: 320.0
+  srbobran: 0
+- sifra: 978
+  naziv: RUNNER 3U1 0,4*4,8M
+  mpcena: 565.0
+  srbobran: 0
+  futog: 3
+- sifra: 1345
+  naziv: YOU ARE MY SUNESHINE
+  mpcena: 520.0
+  srbobran: 1
+- sifra: 1347
+  naziv: HELLO WORLD
+  mpcena: 520.0
+  srbobran: 1
+- sifra: 1349
+  naziv: HEY BABY!
+  mpcena: 520.0
+  srbobran: 0
+  futog: 1
+- sifra: 1350
+  naziv: FB BABY GIRL
+  mpcena: 325.0
+  srbobran: 2
+  futog: 1
+- sifra: 1351
+  naziv: FB HEART ITS A GIRL
+  mpcena: 275.0
+  srbobran: 2
+  futog: 1
+- sifra: 1352
+  naziv: BABY RAINBOW
+  mpcena: 520.0
+  srbobran: 0
+  futog: 1
+- sifra: 1356
+  naziv: STANDARD BABYSAURUS
+  mpcena: 520.0
+  srbobran: 1
+- sifra: 1357
+  naziv: BALON 30CM
+  mpcena: 60.0
+  srbobran: 59
+  futog: 23
+- sifra: 1358
+  naziv: BRIDE TO BE GOLD 30CM
+  mpcena: 45.0
+  srbobran: 10
+- sifra: 1359
+  naziv: FB NUMBER 1 CROWN
+  mpcena: 495.0
+  srbobran: 2
+- sifra: 1362
+  naziv: FB BASKETBALL
+  mpcena: 210.0
+  srbobran: 0
+  futog: 1
+- sifra: 1364
+  naziv: FB FB TENNIS BALL
+  mpcena: 210.0
+  srbobran: 1
+- sifra: 1366
+  naziv: FB FB SOCCER BALL
+  mpcena: 210.0
+  srbobran: 0
+- sifra: 1372
+  naziv: SB 12CM PASTEL PURE WHITE
+  mpcena: 15.0
+  srbobran: 50
+  futog: 49
+- sifra: 1374
+  naziv: FB CANDY 45CM
+  mpcena: 245.0
+  srbobran: 1
+- sifra: 1375
+  naziv: FB CANDY 35CM
+  mpcena: 245.0
+  srbobran: 1
+- sifra: 1377
+  naziv: FB BRIDE TO BE 350*45
+  mpcena: 575.0
+  srbobran: 1
+- sifra: 1378
+  naziv: FB LOVE 140*35
+  mpcena: 375.0
+  srbobran: 2
+- sifra: 1380
+  naziv: FB LOVE 73CM
+  mpcena: 330.0
+  srbobran: 0
+  futog: 2
+- sifra: 1381
+  naziv: BALLOON GENDER REVEAL 1M
+  mpcena: 945.0
+  srbobran: 3
+  futog: 1
+- sifra: 1382
+  naziv: CONFETTI GENDER REVEAL
+  mpcena: 695.0
+  srbobran: 2
+  futog: 2
+- sifra: 1384
+  naziv: SASH BRIDE TO BE
+  mpcena: 660.0
+  srbobran: 2
+  futog: 1
+- sifra: 1386
+  naziv: SASH BRIDE TO BE ROSE GOLD
+- sifra: 1388
+  naziv: WEDDING PHOTO PROPS
+  mpcena: 530.0
+  srbobran: 1
+- sifra: 1389
+  naziv: GLOSSY BALLONS 30CM
+  mpcena: 60.0
+  srbobran: 0
+  futog: 39
+- sifra: 1391
+  naziv: KARTE PIATNIK 1/1
+  mpcena: 335.0
+  srbobran: 2
+  futog: 0
+- sifra: 1392
+  naziv: POSTOLJE ZA BALONE PARTY
+  mpcena: 5113.2
+  srbobran: 0
+- sifra: 3300
+  naziv: BALONI AG/AU
+  mpcena: 25.0
+  srbobran: 23

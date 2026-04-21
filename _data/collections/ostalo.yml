@@ -1,0 +1,1227 @@
+---
+- sifra: 37
+  naziv: SABLON DEKOR
+  mpcena: 155.0
+  srbobran: 6
+- sifra: 118
+  naziv: MASNA CRVENA
+  mpcena: 80.0
+  srbobran: 18
+  futog: 9
+- sifra: 131
+  naziv: PLANER VENCANJA
+  mpcena: 1560.0
+  srbobran: 2
+  futog: 1
+- sifra: 150
+  naziv: MASNA
+  mpcena: 45.0
+  srbobran: 24
+  futog: 20
+- sifra: 168
+  naziv: NOVOGODISNJA BOJANKA
+  mpcena: 635.0
+  srbobran: 1
+- sifra: 172
+  naziv: SALVETE 3SL/20
+  mpcena: 290.0
+  srbobran: 4
+- sifra: 176
+  naziv: BOJANKA A/4 NOVOGODISNJA
+  mpcena: 225.0
+  srbobran: 8
+  futog: 7
+- sifra: 198
+  naziv: ČESTITKA ROĐENDAN
+  mpcena: 120.0
+  srbobran: 83
+  futog: 52
+- sifra: 201
+  naziv: SALVETE 38*38/40
+  mpcena: 330.0
+  srbobran: 3
+  futog: 4
+- sifra: 215
+  naziv: RAM ZA SLIKE A/4
+  mpcena: 355.0
+  srbobran: 0
+- sifra: 236
+  naziv: KORPICE ZA KOLACE - 7
+  mpcena: 50.0
+  srbobran: 16
+- sifra: 237
+  naziv: GLITTER U CASI 1/6 BOJA
+  mpcena: 350.0
+  srbobran: 0
+  futog: 3
+- sifra: 239
+  naziv: NOVČANIK 19,5*10,4/6*60
+  mpcena: 1225.0
+  srbobran: 3
+  futog: 3
+- sifra: 240
+  naziv: IGRA OSVAJAČ
+  mpcena: 1350.0
+  srbobran: 0
+  futog: 1
+- sifra: 241
+  naziv: SALVETE 1/20
+  mpcena: 260.0
+  srbobran: 1
+- sifra: 250
+  naziv: REGISTAR PREGLEDANIH VOZILA
+  mpcena: 2850.0
+  srbobran: 0
+- sifra: 251
+  naziv: PARTI DUVALJKE
+  mpcena: 145.0
+  srbobran: 3
+- sifra: 254
+  naziv: UKRASNI TANJIRICI
+  mpcena: 140.0
+  srbobran: 10
+- sifra: 258
+  naziv: PAPIR A/4 ŠVRĆA
+  mpcena: 351.6
+  srbobran: 0
+  futog: 0
+- sifra: 262
+  naziv: DOMINE MAXI
+  mpcena: 750.0
+  srbobran: 0
+- sifra: 268
+  naziv: 'MASNA '
+  mpcena: 30.0
+  srbobran: 5
+- sifra: 269
+  naziv: PRIVEZAK ZIVOTINJICA
+  mpcena: 450.0
+  srbobran: 61
+  futog: 63
+- sifra: 270
+  naziv: FUTROLA ZA KLJUCEVE
+  mpcena: 825.0
+  srbobran: 0
+  futog: 2
+- sifra: 271
+  naziv: NOVCANIK ZA KK
+  mpcena: 925.0
+  srbobran: 0
+  futog: 3
+- sifra: 272
+  naziv: FUTROLA ZA NAOCARI
+  mpcena: 1250.0
+  srbobran: 0
+- sifra: 276
+  naziv: PARTY ZASTAVICA
+  mpcena: 87.0
+  srbobran: 0
+- sifra: 288
+  naziv: KAIS KOZA
+  mpcena: 1915.0
+  srbobran: 0
+  futog: 1
+- sifra: 290
+  naziv: PARTY TANJIRICI
+  mpcena: 87.0
+  srbobran: 0
+- sifra: 292
+  naziv: TACNE T-5
+  mpcena: 215.0
+  srbobran: 1
+- sifra: 299
+  naziv: FOTO ALBUM 13*18/100
+  mpcena: 1200.0
+  srbobran: 2
+- sifra: 301
+  naziv: BLOK ZA YAMB
+  mpcena: 60.0
+  srbobran: 5
+  futog: 5
+- sifra: 307
+  naziv: SVECICA BIG
+  mpcena: 125.0
+  srbobran: 0
+- sifra: 311
+  naziv: BASNE SRPSKI/ENGLESKI
+  mpcena: 160.0
+  srbobran: 2
+- sifra: 314
+  naziv: POZIVNICE ZA RODJENDAN
+  mpcena: 10.0
+  srbobran: 0
+- sifra: 315
+  naziv: TREZOR JOLLY
+  mpcena: 1685.0
+  srbobran: 0
+- sifra: 317
+  naziv: PUZZLE 3000
+  mpcena: 2750.0
+  srbobran: 1
+- sifra: 318
+  naziv: PUZZLE 1/1000
+  mpcena: 1610.0
+  srbobran: 2
+  futog: 2
+- sifra: 319
+  naziv: DRUSTVENA IGRA
+  mpcena: 1150.0
+  srbobran: 1
+- sifra: 320
+  naziv: KAPITAL
+  mpcena: 1270.0
+  srbobran: 0
+  futog: 1
+- sifra: 322
+  naziv: UNO KARTE
+  mpcena: 210.0
+  srbobran: 1
+  futog: 1
+- sifra: 325
+  naziv: PP - MOJ SKOLSKI SPOMENAR - BROS
+  mpcena: 400.0
+  srbobran: 0
+  futog: 1
+- sifra: 326
+  naziv: KLIKER
+  mpcena: 15.0
+  srbobran: 18
+- sifra: 333
+  naziv: RAM ZA SLIKE PF7
+  mpcena: 355.0
+  srbobran: 1
+  futog: 1
+- sifra: 334
+  naziv: PUZZLE 1/2000
+  mpcena: 1810.0
+  srbobran: 2
+- sifra: 337
+  naziv: PUZZLE 2*20
+  mpcena: 1120.0
+  srbobran: 0
+  futog: 1
+- sifra: 340
+  naziv: BOJANKA A/4
+  mpcena: 80.0
+  srbobran: 3
+- sifra: 343
+  naziv: PUZZLE 35
+  mpcena: 1120.0
+  srbobran: 1
+- sifra: 350
+  naziv: MAGNET
+  mpcena: 165.0
+  srbobran: 2
+- sifra: 356
+  naziv: FOTO ALBUM 13*18/200
+  mpcena: 1500.0
+  srbobran: 1
+- sifra: 361
+  naziv: FOTO ALBUM 13*18/100
+  mpcena: 1330.0
+  srbobran: 0
+- sifra: 366
+  naziv: FOTO ALBUM 13/18 200F
+- sifra: 368
+  naziv: CESTITKA
+  mpcena: 60.0
+  srbobran: 5
+  futog: 5
+- sifra: 370
+  naziv: ČESTITKA ŠTAMPANA
+  mpcena: 220.0
+  srbobran: 18
+  futog: 23
+- sifra: 371
+  naziv: ČESTITKA CVETNA
+  mpcena: 120.0
+  srbobran: 27
+  futog: 14
+- sifra: 373
+  naziv: CESTITKA MINI
+  mpcena: 90.0
+  srbobran: 13
+  futog: 16
+- sifra: 374
+  naziv: CESTITKA MINI
+  mpcena: 250.0
+  srbobran: 0
+- sifra: 375
+  naziv: PP - MONTESORI U VRTICU 3-4
+  mpcena: 880.0
+  srbobran: 0
+- sifra: 376
+  naziv: CESTITKA
+  mpcena: 190.0
+  srbobran: 6
+  futog: 9
+- sifra: 379
+  naziv: CESTITKA
+  mpcena: 85.0
+  srbobran: 2
+- sifra: 381
+  naziv: BOJANKA A/4
+  mpcena: 75.0
+  srbobran: 3
+- sifra: 382
+  naziv: CESTITKA
+  mpcena: 80.0
+  srbobran: 2
+- sifra: 385
+  naziv: CESTITKA MINI
+  mpcena: 160.0
+  srbobran: 18
+  futog: 10
+- sifra: 386
+  naziv: CESTITKA
+  mpcena: 95.0
+  srbobran: 3
+- sifra: 396
+  naziv: NOVCANIK SC
+  mpcena: 595.0
+  srbobran: 3
+  futog: 4
+- sifra: 399
+  naziv: NOVOGODISNJA KUGLA
+  mpcena: 75.0
+  srbobran: 0
+- sifra: 426
+  naziv: KISOBRAN CLASSIC
+  mpcena: 895.0
+  srbobran: 9
+  futog: 10
+- sifra: 427
+  naziv: DZEPNI RECNIK
+  mpcena: 170.0
+  srbobran: 3
+- sifra: 429
+  naziv: VITRAZ
+  mpcena: 265.0
+  srbobran: 5
+- sifra: 446
+  naziv: MAGIČNA KOCKA 6,3CM
+  mpcena: 460.0
+  srbobran: 0
+  futog: 2
+- sifra: 453
+  naziv: FOTO ALBUM 13/18 100F
+  mpcena: 570.0
+  srbobran: 0
+- sifra: 462
+  naziv: MAGIČNA KOCKA 5,7CM
+  mpcena: 395.0
+  srbobran: 2
+- sifra: 515
+  naziv: SET HO+PENKALO TTO
+  mpcena: 1560.0
+  srbobran: 3
+  futog: 2
+- sifra: 516
+  naziv: LOPTA FLUO
+- sifra: 518
+  naziv: NESESER 8312
+  mpcena: 455.0
+  srbobran: 0
+- sifra: 559
+  naziv: IGRA MEMORIJE
+- sifra: 563
+  naziv: BOJA ZA LICE
+  mpcena: 685.0
+  srbobran: 0
+- sifra: 591
+  naziv: 'KRAFT OCI MIX '
+  mpcena: 70.0
+  srbobran: 0
+- sifra: 639
+  naziv: KRAFT SRCE/ZVEZDA
+  mpcena: 25.0
+  srbobran: 2
+- sifra: 650
+  naziv: MAGNET
+  mpcena: 115.0
+  srbobran: 6
+- sifra: 677
+  naziv: PARTY GIRLANDA
+  mpcena: 245.0
+  srbobran: 2
+- sifra: 688
+  naziv: DEKOR BLOK
+  mpcena: 755.0
+  srbobran: 0
+  futog: 1
+- sifra: 694
+  naziv: IGRA 4/1
+- sifra: 700
+  naziv: REKET PVC
+  mpcena: 495.0
+  srbobran: 2
+  futog: 2
+- sifra: 714
+  naziv: 'MUŠKI KOŽNI NOVČANIK '
+  mpcena: 3350.0
+  srbobran: 2
+- sifra: 716
+  naziv: KUVAR SA PORUKOM
+  mpcena: 530.0
+  srbobran: 1
+- sifra: 719
+  naziv: MAGNET
+  mpcena: 110.0
+  srbobran: 5
+- sifra: 769
+  naziv: NOVOGODISNJI STAPIC
+  mpcena: 200.0
+  srbobran: 8
+- sifra: 797
+  naziv: KRAFT OCI 1/60
+  mpcena: 180.0
+  srbobran: 0
+- sifra: 804
+  naziv: KRAFT OCI 1/20
+  mpcena: 120.0
+  srbobran: 2
+- sifra: 839
+  naziv: DECIJI KISOBRAN
+  mpcena: 765.0
+  srbobran: 1
+- sifra: 877
+  naziv: RAM ZA SLIKE 23-017-11
+  mpcena: 215.0
+  srbobran: 1
+  futog: 1
+- sifra: 881
+  naziv: SPISAK ZA KUPOVINU
+  mpcena: 120.0
+  srbobran: 0
+- sifra: 895
+  naziv: RADOSNICA UNA
+  mpcena: 1850.0
+  srbobran: 1
+- sifra: 914
+  naziv: OGLEDALCE RETRO
+  mpcena: 375.0
+  srbobran: 0
+  futog: 5
+- sifra: 936
+  naziv: MASKA ZA SPAVANJE
+  mpcena: 1365.0
+  srbobran: 3
+  futog: 2
+- sifra: 945
+  naziv: RAM ZA SLIKE
+  mpcena: 365.0
+  srbobran: 0
+  futog: 1
+- sifra: 948
+  naziv: MASNA NA POTEZ
+  mpcena: 80.0
+  srbobran: 0
+  futog: 3
+- sifra: 951
+  naziv: IGRA METROPOL
+- sifra: 954
+  naziv: SALVETE 33*33
+- sifra: 956
+  naziv: SALVETE 33*33/20
+  mpcena: 250.0
+  srbobran: 1
+- sifra: 960
+  naziv: TABLICA A/5
+  mpcena: 40.0
+  srbobran: 5
+  futog: 0
+- sifra: 976
+  naziv: CESTITKA
+  mpcena: 99.0
+  srbobran: 11
+  futog: 3
+- sifra: 990
+  naziv: SET ZA DECU DEXYCO
+  mpcena: 575.0
+  srbobran: 0
+  futog: 1
+- sifra: 1004
+  naziv: KRAFT GLITTER 60G
+- sifra: 1006
+  naziv: PRIRUCNIK STRANI JEZICI
+  mpcena: 305.0
+  srbobran: 2
+- sifra: 1007
+  naziv: JAJE STIROPOR 60MM
+  mpcena: 20.0
+  srbobran: 15
+- sifra: 1015
+  naziv: MOJI RECEPTI
+  mpcena: 1275.0
+  srbobran: 0
+- sifra: 1016
+  naziv: PLANER OBROKA
+  mpcena: 755.0
+  srbobran: 1
+- sifra: 1019
+  naziv: KRAFT STIPALJKA UNICORN
+  mpcena: 30.0
+  srbobran: 2
+- sifra: 1024
+  naziv: KRAFT SMAJLI FILC
+- sifra: 1057
+  naziv: KOCKICE ZA YAMB
+  mpcena: 195.0
+  srbobran: 1
+- sifra: 1059
+  naziv: NEDELJNI PLANER A/4
+  mpcena: 495.0
+  srbobran: 2
+- sifra: 1064
+  naziv: BG-RL MATEMATIKA 2 DEO 2/M
+  mpcena: 850.0
+  srbobran: 0
+- sifra: 1069
+  naziv: NOVČANIK 3*60
+  mpcena: 2100.0
+  srbobran: 3
+  futog: 3
+- sifra: 1070
+  naziv: NOVCANIK SC/YL
+  mpcena: 550.0
+  srbobran: 3
+- sifra: 1076
+  naziv: DECIJI PECAT
+- sifra: 1087
+  naziv: PUZZLE 1/100
+  mpcena: 1545.0
+  srbobran: 1
+  futog: 0
+- sifra: 1094
+  naziv: TACNA T-4
+  mpcena: 165.0
+  srbobran: 2
+- sifra: 1117
+  naziv: MAGNET FLAMINGO
+  mpcena: 99.0
+  srbobran: 0
+- sifra: 1136
+  naziv: MAGNET SAT
+  mpcena: 115.0
+  srbobran: 0
+- sifra: 1149
+  naziv: PRIVEZAK KOZA
+  mpcena: 535.0
+  srbobran: 0
+  futog: 1
+- sifra: 1166
+  naziv: ENGLESKI RECNIK
+  mpcena: 895.0
+  srbobran: 3
+- sifra: 1171
+  naziv: TACNA T-7
+  mpcena: 310.0
+  srbobran: 0
+- sifra: 1173
+  naziv: TACNA T-3
+  mpcena: 190.0
+  srbobran: 2
+  futog: 2
+- sifra: 1177
+  naziv: PUZZLE 1/500
+  mpcena: 895.0
+  srbobran: 1
+  futog: 0
+- sifra: 1182
+  naziv: 'KRAVATA FERE '
+  mpcena: 1915.0
+  srbobran: 1
+- sifra: 1188
+  naziv: RODJENDANSKA SVECICA LOVE
+  mpcena: 80.0
+  srbobran: 6
+- sifra: 1192
+  naziv: ČESTITKA BEBI
+  mpcena: 120.0
+  srbobran: 8
+  futog: 8
+- sifra: 1215
+  naziv: KRAVATA BOSS
+  mpcena: 4799.0
+  srbobran: 1
+- sifra: 1218
+  naziv: KARTA SVETA
+  mpcena: 305.0
+  srbobran: 1
+- sifra: 1224
+  naziv: IGRA NE ZNAM KO SAM
+  mpcena: 1200.0
+  srbobran: 1
+- sifra: 1230
+  naziv: CESTITKA MINI
+  mpcena: 80.0
+  srbobran: 0
+  futog: 2
+- sifra: 1231
+  naziv: 'CESTITKA '
+  mpcena: 160.0
+  srbobran: 1
+  futog: 1
+- sifra: 1232
+  naziv: BUSAC BORDURA
+  mpcena: 325.0
+  srbobran: 1
+- sifra: 1246
+  naziv: CESTITKA
+  mpcena: 85.0
+  srbobran: 0
+- sifra: 1257
+  naziv: PAPIRNA TACNA
+  mpcena: 110.0
+  srbobran: 0
+  futog: 3
+- sifra: 1261
+  naziv: IGRA RIKOSET
+  mpcena: 925.0
+  srbobran: 0
+- sifra: 1289
+  naziv: PUZZLE 1/200
+  mpcena: 1870.0
+  srbobran: 1
+  futog: 0
+- sifra: 1340
+  naziv: KANTA ZA SMEĆE
+  mpcena: 348.48
+  srbobran: 0
+- sifra: 1341
+  naziv: ZAVOD-LIKOVNO 8
+  mpcena: 605.0
+  srbobran: 0
+- sifra: 1342
+  naziv: ČOVEČE NE LJUTI SE
+  mpcena: 220.0
+  srbobran: 1
+- sifra: 1343
+  naziv: RADOSNICA UNA+ALBUM
+  mpcena: 2550.0
+  srbobran: 2
+- sifra: 1353
+  naziv: KISOBRAN
+  mpcena: 585.0
+  srbobran: 1
+  futog: 1
+- sifra: 1369
+  naziv: KISOBRAN CAMPOS
+  mpcena: 895.0
+  srbobran: 1
+  futog: 2
+- sifra: 1387
+  naziv: TACNA STAMPA
+  mpcena: 135.0
+  srbobran: 0
+- sifra: 1396
+  naziv: IGRA MISTERIJA
+  mpcena: 1350.0
+  srbobran: 1
+- sifra: 1424
+  naziv: TACNA T-2
+  mpcena: 150.0
+  srbobran: 2
+- sifra: 1430
+  naziv: DECIJI KISOBRAN
+  mpcena: 550.0
+  srbobran: 2
+  futog: 1
+- sifra: 1432
+  naziv: POPISNA LISTA OS
+  mpcena: 1100.0
+  srbobran: 0
+- sifra: 1502
+  naziv: VILJSUKE PVC 1/25
+  mpcena: 150.0
+  srbobran: 1
+- sifra: 1515
+  naziv: CESTITKA
+  mpcena: 70.0
+  srbobran: 5
+  futog: 7
+- sifra: 1518
+  naziv: BUSAC 10L MAPED
+  mpcena: 545.0
+  srbobran: 0
+- sifra: 1525
+  naziv: ČESTITKA
+  mpcena: 130.0
+  srbobran: 31
+  futog: 23
+- sifra: 1886
+  naziv: RULET
+  mpcena: 2110.0
+  srbobran: 1
+  futog: 1
+- sifra: 1898
+  naziv: TACNA FI-18CM
+- sifra: 1929
+  naziv: PRIVEZAK FUNKY
+- sifra: 1933
+  naziv: BOJANKA SA CETKICOM
+  mpcena: 350.0
+  srbobran: 0
+- sifra: 1938
+  naziv: NOVČANIK 19,5*10,4/5*60
+  mpcena: 1410.0
+  srbobran: 3
+  futog: 2
+- sifra: 1940
+  naziv: NOVOGODISNJE KUGLE 1819
+- sifra: 1943
+  naziv: RUKAVICE KOZA
+  mpcena: 3975.0
+  srbobran: 0
+  futog: 1
+- sifra: 1945
+  naziv: JAJE DINO 2/1
+  mpcena: 360.0
+  srbobran: 0
+- sifra: 1955
+  naziv: 'JAJE DINO '
+- sifra: 2049
+  naziv: 'MASNA '
+  mpcena: 40.0
+  srbobran: 38
+  futog: 19
+- sifra: 2050
+  naziv: MAGNET SENDVIC/CUP
+  mpcena: 135.0
+  srbobran: 2
+- sifra: 2058
+  naziv: MAGNET
+  mpcena: 60.0
+  srbobran: 1
+- sifra: 2116
+  naziv: SALVETE PARTY
+  mpcena: 87.0
+  srbobran: 0
+- sifra: 2151
+  naziv: SABLON PVC
+  mpcena: 230.0
+  srbobran: 4
+  futog: 8
+- sifra: 2170
+  naziv: 'PRSTEN '
+  mpcena: 70.0
+  srbobran: 21
+  futog: 27
+- sifra: 2173
+  naziv: SET MALA DOKTORKA 5 DELOVA
+  mpcena: 320.0
+  futog: 1
+- sifra: 2174
+  naziv: KARTE ZA REMI 1/2
+  mpcena: 1050.0
+  srbobran: 0
+  futog: 1
+- sifra: 2175
+  naziv: PUZZLE 1/1500
+  mpcena: 1680.0
+  srbobran: 1
+- sifra: 2176
+  naziv: BUSAC VELIKI OBLICI
+  mpcena: 490.0
+  srbobran: 3
+- sifra: 2177
+  naziv: SET MALA DOKTORKA 8 DELOVA
+  mpcena: 8.0
+  srbobran: 0
+  futog: 0
+- sifra: 2180
+  naziv: DRVENE SLAGALICE 15*15
+  mpcena: 195.0
+  futog: 4
+- sifra: 2181
+  naziv: DRVENE SLAGALICE 15*22
+  mpcena: 600.0
+  futog: 3
+- sifra: 2182
+  naziv: PAPIRNA KUTIJA ZA RUČAK
+  mpcena: 120.0
+  srbobran: 3
+  futog: 3
+- sifra: 2184
+  naziv: PLATNO SA PRINTOM + VODENE BOJE
+  mpcena: 170.0
+  futog: 2
+- sifra: 2185
+  naziv: BOJANKA MEDIA
+  mpcena: 130.0
+  srbobran: 9
+  futog: 11
+- sifra: 2190
+  naziv: 'STIKERI PO OBLIKU '
+  mpcena: 220.0
+  futog: 1
+- sifra: 2191
+  naziv: STIKERI JEDNOROG
+  mpcena: 190.0
+  srbobran: 0
+  futog: 1
+- sifra: 2192
+  naziv: SET STIKERA SLOVA I BROJEVI
+  mpcena: 220.0
+  futog: 0
+- sifra: 2196
+  naziv: STIKERI DINO
+  mpcena: 140.0
+  futog: 1
+- sifra: 2198
+  naziv: 'SVETLUCAVI STIKERI '
+  mpcena: 160.0
+  futog: 0
+- sifra: 2199
+  naziv: POTAPANJE BRODOVA
+  mpcena: 1395.0
+  futog: 1
+- sifra: 2202
+  naziv: NALEPNICA KOJA SVETLI U MRAKU
+  mpcena: 320.0
+  futog: 2
+- sifra: 2204
+  naziv: NALEPNICE KOJE SVETLE U MRAKU
+  mpcena: 110.0
+  futog: 2
+- sifra: 2206
+  naziv: PEČATI ZOO
+  mpcena: 60.0
+  srbobran: 14
+  futog: 0
+- sifra: 2207
+  naziv: MINI HIGHLIGHTER
+  mpcena: 70.0
+  srbobran: 25
+  futog: 0
+- sifra: 2209
+  naziv: INDIKATORI STRELICE
+  mpcena: 90.0
+  futog: 0
+- sifra: 2210
+  naziv: INDIKATORI VOĆE
+  mpcena: 170.0
+  futog: 0
+- sifra: 2214
+  naziv: PLASTELIN 4 BOJE
+  mpcena: 390.0
+  futog: 1
+- sifra: 2215
+  naziv: PLASTELIN 6 BOJA
+  mpcena: 120.0
+  srbobran: 0
+  futog: 0
+- sifra: 2217
+  naziv: AKRILNA BOJA
+  mpcena: 90.0
+  futog: 13
+- sifra: 2218
+  naziv: TACK IT - VIŠENAMENSKI LEPAK
+  mpcena: 175.0
+  srbobran: 0
+  futog: 0
+- sifra: 2221
+  naziv: ŽIVOTINJE 1/1
+  mpcena: 220.0
+  srbobran: 34
+  futog: 72
+- sifra: 2223
+  naziv: SPIRALNA OPRUGA DUGINIH BOJA
+  mpcena: 220.0
+  futog: 0
+- sifra: 2224
+  naziv: CRVIĆI NA NAVIJANJE
+  mpcena: 250.0
+  srbobran: 4
+  futog: 5
+- sifra: 2225
+  naziv: IQ TWINS - SG 306
+  mpcena: 1945.0
+  futog: 1
+- sifra: 2227
+  naziv: IQ FIT - SG 423
+  mpcena: 805.0
+  srbobran: 0
+  futog: 1
+- sifra: 2230
+  naziv: IQ PUZZLER PRO - SG 455
+  mpcena: 1945.0
+  futog: 1
+- sifra: 2231
+  naziv: IQ SIX PRO - SG 479
+  mpcena: 1945.0
+  futog: 0
+- sifra: 2232
+  naziv: IQ LOVE - SG 302
+  mpcena: 2375.0
+  futog: 1
+- sifra: 2235
+  naziv: JUMPIN - SG 421
+  mpcena: 2810.0
+  futog: 1
+- sifra: 2236
+  naziv: SQUIRRELS GO NUTS! - SG 425
+  mpcena: 2810.0
+  futog: 1
+- sifra: 2237
+  naziv: GOOAL! - SGT 320
+  mpcena: 1840.0
+  futog: 1
+- sifra: 2239
+  naziv: PUZZLE BEACH - SGT 300
+  mpcena: 1840.0
+  futog: 1
+- sifra: 2240
+  naziv: IQ BUBBLES - SG 493
+  mpcena: 1945.0
+  futog: 1
+- sifra: 2241
+  naziv: IQ DELUXE - CIRCLE - SG 311
+  mpcena: 3565.0
+  futog: 1
+- sifra: 2242
+  naziv: IQ DELUXE - HEXAGON - SG 314
+  mpcena: 5999.0
+  srbobran: 0
+  futog: 1
+- sifra: 2243
+  naziv: MAX PREMIUM - RETRO - 15 IN DISPLAY
+  mpcena: 140.0
+  srbobran: 0
+  futog: 1
+- sifra: 2244
+  naziv: MAX PREMIUM - FLOWERS - 15  IN DISPLAY
+  mpcena: 2145.0
+  futog: 1
+- sifra: 2245
+  naziv: 'AKRILLNI MARKER '
+  mpcena: 170.0
+  futog: 1
+- sifra: 2262
+  naziv: BOJE ZA LICE
+- sifra: 2274
+  naziv: TABLA PISI-BRISI
+  mpcena: 690.0
+  srbobran: 1
+- sifra: 2474
+  naziv: PARTY PISTALJKA 1/6
+  mpcena: 140.0
+  srbobran: 3
+- sifra: 2478
+  naziv: STIKERI TEXTIL
+- sifra: 2504
+  naziv: KUVAR SA DASKOM
+  mpcena: 555.0
+  srbobran: 0
+- sifra: 2508
+  naziv: RAM ZA SLIKE
+  mpcena: 205.0
+  srbobran: 2
+- sifra: 2509
+  naziv: TANJIRI U BOJI
+  mpcena: 95.0
+  srbobran: 1
+- sifra: 2517
+  naziv: YAMB LIMENKA
+  mpcena: 795.0
+  srbobran: 1
+  futog: 2
+- sifra: 2527
+  naziv: VILJUSKE/KASIKE PVC
+  mpcena: 150.0
+  srbobran: 5
+- sifra: 2655
+  naziv: UP STRIKE
+  mpcena: 857.0
+  srbobran: 1
+- sifra: 2734
+  naziv: RETRO KUVAR SA DASKOM
+  mpcena: 450.0
+  srbobran: 0
+  futog: 2
+- sifra: 2747
+  naziv: 'DEČIJE MUKE '
+  mpcena: 999.0
+  srbobran: 3
+  futog: 3
+- sifra: 2758
+  naziv: ČOVEČE NE LJUTI SE
+  mpcena: 420.0
+  srbobran: 1
+- sifra: 2787
+  naziv: ŠAH DRVENI MANJI
+  mpcena: 3700.0
+  srbobran: 1
+  futog: 1
+- sifra: 2788
+  naziv: PUZZLE 1/500
+  mpcena: 1020.0
+  futog: 1
+- sifra: 2789
+  naziv: SLAGALICA
+  mpcena: 1060.0
+  futog: 0
+- sifra: 2793
+  naziv: IGRA IZGRADI ZID
+  mpcena: 1060.0
+  srbobran: 1
+  futog: 0
+- sifra: 2794
+  naziv: POGODI ŠTA JE NA SLICI ?
+  mpcena: 1330.0
+  futog: 1
+- sifra: 2795
+  naziv: NOVČANIK MUŠKI
+  mpcena: 1940.0
+  futog: 2
+- sifra: 2796
+  naziv: NOVČANIK MUŠKI 3533
+  mpcena: 2020.0
+  futog: 2
+- sifra: 2798
+  naziv: PUZZLE 26 STORY THE FARM
+  mpcena: 1650.0
+  futog: 1
+- sifra: 2799
+  naziv: 'PUZZLE 4U1 '
+  mpcena: 1510.0
+  srbobran: 3
+  futog: 3
+- sifra: 2800
+  naziv: 'PUZZLE 3D '
+  mpcena: 2260.0
+  srbobran: 1
+  futog: 1
+- sifra: 2802
+  naziv: PUZZLE 300
+  mpcena: 1500.0
+  futog: 1
+- sifra: 2803
+  naziv: PUZZLE 1/1000
+  mpcena: 1600.0
+  srbobran: 1
+  futog: 2
+- sifra: 2804
+  naziv: PUZZLE 1/1500
+  mpcena: 2070.0
+  srbobran: 1
+  futog: 1
+- sifra: 2805
+  naziv: PUZZLE BABY DINOSAURIOS
+  mpcena: 1310.0
+  srbobran: 1
+  futog: 0
+- sifra: 2806
+  naziv: PUZZLE 1/500
+  mpcena: 1260.0
+  futog: 1
+- sifra: 2903
+  naziv: FLASICA ZA VODU ALUMINIJUM
+  mpcena: 625.0
+  srbobran: 2
+  futog: 1
+- sifra: 2964
+  naziv: PARTY TANJIRICI DIZNI
+  mpcena: 125.0
+  srbobran: 5
+- sifra: 2985
+  naziv: TACNA KARTON FI/21CM
+  mpcena: 160.0
+  srbobran: 2
+- sifra: 2993
+  naziv: VADICEP MODERATO
+  mpcena: 220.0
+  srbobran: 5
+- sifra: 3004
+  naziv: CESTITKA
+  mpcena: 115.0
+  srbobran: 0
+  futog: 2
+- sifra: 3016
+  naziv: KUTIJA ZA HO+TO CENTRY
+  mpcena: 130.0
+  srbobran: 6
+- sifra: 3053
+  naziv: CESTITKE
+  mpcena: 280.0
+  srbobran: 20
+  futog: 5
+- sifra: 3147
+  naziv: SET ZA UZINU
+  mpcena: 955.0
+  srbobran: 4
+  futog: 3
+- sifra: 3215
+  naziv: RADOSNICA
+- sifra: 3218
+  naziv: MASNA NA POTEZ
+  mpcena: 110.0
+  srbobran: 6
+- sifra: 3251
+  naziv: MANIKIR SET DOLL
+  mpcena: 515.0
+  srbobran: 5
+  futog: 2
+- sifra: 3257
+  naziv: OGLEDALCE PARIS
+  mpcena: 315.0
+  srbobran: 2
+- sifra: 3263
+  naziv: GLOBUS SVETLECI
+  mpcena: 5200.0
+  srbobran: 0
+  futog: 1
+- sifra: 3270
+  naziv: MAGNET
+  mpcena: 120.0
+  srbobran: 22
+- sifra: 3468
+  naziv: TABLICA 22/15,5
+- sifra: 3469
+  naziv: TABLICA 12/17
+  mpcena: 150.0
+  srbobran: 2
+- sifra: 3470
+  naziv: ZAKACKA ZA VRATA
+  mpcena: 100.0
+  srbobran: 0
+- sifra: 3481
+  naziv: PODLOGA ZA BUSAC
+  mpcena: 55.0
+  srbobran: 90
+  futog: 46
+- sifra: 3511
+  naziv: TACNA GOLD 30*30
+  mpcena: 160.0
+  srbobran: 1
+- sifra: 3513
+  naziv: TACNA GOLD 30*32
+- sifra: 3615
+  naziv: MARKER 8660/8 BABY
+  mpcena: 430.0
+  srbobran: 2
+  futog: 1
+- sifra: 3708
+  naziv: LOPTICA SKOCICA
+  mpcena: 80.0
+  srbobran: 24
+  futog: 25
+- sifra: 3722
+  naziv: CESTITKA BC/R
+  mpcena: 160.0
+  srbobran: 5
+  futog: 6
+- sifra: 3723
+  naziv: CESTITKA BC/P
+  mpcena: 190.0
+  srbobran: 7
+  futog: 3
+- sifra: 3724
+  naziv: BOJANKA B/5
+  mpcena: 210.0
+  srbobran: 4
+  futog: 3
+- sifra: 3738
+  naziv: KUTIJA SA TACNOM 6602
+  mpcena: 195.0
+  srbobran: 0
+- sifra: 3745
+  naziv: FOTO RAM SNESKO
+  mpcena: 210.0
+  srbobran: 0
+- sifra: 3750
+  naziv: BOJANKA B/5
+- sifra: 3763
+  naziv: DRVENA KLIPSA+REZAC
+- sifra: 3768
+  naziv: KARTE PIATNIK MAĐARICE
+  mpcena: 310.0
+  srbobran: 1
+  futog: 1
+- sifra: 3771
+  naziv: NOVOGODISNJA SVECA
+  mpcena: 495.0
+  srbobran: 0
+- sifra: 3783
+  naziv: KRAFT REBRASTI KARTON
+  mpcena: 85.0
+  srbobran: 0
+- sifra: 3814
+  naziv: SVECICA BROJ
+  mpcena: 50.0
+  srbobran: 45
+- sifra: 3826
+  naziv: 'L - '
+  mpcena: 249.0
+  srbobran: 0
+- sifra: 3848
+  naziv: PRIVEZAK ZA KLJUCEVE
+  mpcena: 350.0
+  srbobran: 0
+  futog: 7
+- sifra: 3954
+  naziv: BOJANKA A/4 SAVPO
+- sifra: 3979
+  naziv: EDUKATIVNE KARTE
+  mpcena: 490.0
+  srbobran: 0
+  futog: 2
+- sifra: 4073
+  naziv: DECIJI KISOBRAN
+  mpcena: 650.0
+  srbobran: 1
+  futog: 2
+- sifra: 4074
+  naziv: RUBIKOVA KOCKA
+  mpcena: 315.0
+  srbobran: 1
+- sifra: 4109
+  naziv: BOJA GLITTER MAGIC
+  mpcena: 240.0
+  srbobran: 1
+- sifra: 4115
+  naziv: SALVETA 1/1
+  mpcena: 20.0
+  srbobran: 0
+- sifra: 4120
+  naziv: NALEPNICE ZA JAJA
+  mpcena: 42.0
+  srbobran: 3
+- sifra: 4121
+  naziv: NALEPNICE ZA JAJA
+  mpcena: 35.0
+  srbobran: 2
+- sifra: 4122
+  naziv: POKER
+  mpcena: 910.0
+  srbobran: 1
+- sifra: 4139
+  naziv: PODLOGA ZA BUSAC
+  mpcena: 25.0
+  srbobran: 3
+- sifra: 4156
+  naziv: 'CESTITKA '
+  mpcena: 140.0
+  srbobran: 7
+  futog: 6
+- sifra: 4265
+  naziv: SELOTEJP UKRASNI
+- sifra: 4267
+  naziv: PUZZLE 1/3000
+  mpcena: 2950.0
+  srbobran: 0
+  futog: 1
+- sifra: 4272
+  naziv: PAPIRNI STOLNJAK 7M
+  mpcena: 940.0
+  srbobran: 2
+  futog: 1
+- sifra: 4514
+  naziv: PREVOZ POŠILJKE
+- sifra: 4515
+  naziv: AVANS
+  mpcena: 100.0
+  srbobran: 0
+  futog: 0
+- sifra: 4516
+  naziv: KANCELARIJSKI MATERIJAL
