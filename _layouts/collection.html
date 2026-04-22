@@ -2,6 +2,8 @@
 layout: page
 ---
 
+{{ content }}
+
 <table>
   <thead>
     <tr>
@@ -17,7 +19,7 @@ layout: page
     {% for article in articles %}
     <tr>
       <td>{{ article.sku }}</td>
-      <td><a href="{{ article.url }}">{{ article.title }}</a></td>
+      <td><a href="{{ article.url | relative_url }}">{{ article.title }}</a></td>
       <td>{% if article.price %}{{ article.price }}{% endif %}</td>
       <td>{% if article.srbobran %}{{ article.srbobran }}{% endif %}</td>
       <td>{% if article.futog %}{{ article.futog }}{% endif %}</td>

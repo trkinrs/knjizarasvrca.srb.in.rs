@@ -1,6 +1,8 @@
 ---
 layout: collection
-title: Baloni
-permalink: /collections/baloni/
+title: Baloni ok
+permalink: "/collections/baloni/"
 collection_name: baloni
 ---
+Napuhanci
+
