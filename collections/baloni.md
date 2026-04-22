@@ -1,8 +1,8 @@
 ---
 layout: collection
-title: Baloni ok
+title: Baloni
 permalink: "/collections/baloni/"
 collection_name: baloni
 ---
-Napuhanci
+Napuhanci i obicni
 
