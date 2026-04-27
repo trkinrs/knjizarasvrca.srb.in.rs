@@ -1,0 +1,22 @@
+---
+layout: null
+---
+[
+  {% assign first = true %}
+  {% for collection in site.collections %}
+    {% for doc in collection.docs %}
+  {% unless first %},{% endunless %}{% assign first = false %}
+  {% assign item_data = site.data.collections[collection.label][doc.sku] %}
+  {
+    "title": {{ doc.title | jsonify }},
+    "sku": {{ doc.sku | jsonify }},
+    "url": {{ doc.url | relative_url | jsonify }},
+    "collection": {{ collection.label | jsonify }},
+    "image": {{ doc.image | relative_url | jsonify }},
+    "price": {{ item_data.price | jsonify }},
+    "srbobran": {{ item_data.srbobran | jsonify }},
+    "futog": {{ item_data.futog | jsonify }}
+  }
+    {% endfor %}
+  {% endfor %}
+]

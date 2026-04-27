@@ -65,6 +65,10 @@ collections:
   usluga:
     output: 'true'
     permalink: "/:collection/:name/"
+header_pages:
+  - search.md
+  - about.md
+
 theme: minima
 plugins:
 - jekyll-feed
