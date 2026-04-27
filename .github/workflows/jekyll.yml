@@ -22,6 +22,9 @@ jobs:
           ruby-version: '3.3'
           bundler-cache: true
 
+      - name: Generate article pages
+        run: ruby scripts/generate_article_pages.rb
+
       - name: Build Jekyll site
         run: bundle exec jekyll build
 

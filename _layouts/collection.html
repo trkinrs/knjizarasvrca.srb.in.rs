@@ -7,15 +7,15 @@ layout: page
 <table>
   <thead>
     <tr>
-      <th>SKU</th>
-      <th>Title</th>
-      <th>Price</th>
+      <th>Šifra</th>
+      <th>Naziv</th>
+      <th>Cena</th>
       <th>Srbobran</th>
       <th>Futog</th>
     </tr>
   </thead>
   <tbody>
-    {% assign articles = site[page.collection_name] %}
+    {% assign articles = site[page.collection_name] | sort: "sku" | reverse %}
     {% for article in articles %}
     {% assign item_data = site.data.collections[page.collection_name][article.sku] %}
     <tr>
