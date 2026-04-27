@@ -2,6 +2,9 @@
 layout: article
 title: KARTA SVETA
 sku: 1218
+image: "/assets/images/1218/karta-sveta-1.jpg"
+images:
+- "/assets/images/1218/karta-sveta-2.jpg"
 ---
 
 ## 🗺️ Auto Karta Evrope

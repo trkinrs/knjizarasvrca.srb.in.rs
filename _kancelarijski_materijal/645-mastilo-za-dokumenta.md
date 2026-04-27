@@ -2,6 +2,9 @@
 layout: article
 title: MASTILO ZA DOKUMENTA
 sku: 645
+image: "/assets/images/645/mastilo-za-dokumenta-1.jpg"
+images:
+- "/assets/images/645/mastilo-za-dokumenta-2.jpg"
 ---
 
 ✒️ **Mastilo za dokumenta – Dugotrajan otisak za zvanične i pravne potrebe**

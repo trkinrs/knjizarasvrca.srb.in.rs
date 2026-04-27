@@ -2,6 +2,9 @@
 layout: article
 title: NALOG-NAPLATI
 sku: 845
+image: "/assets/images/845/nalog-naplati-1.jpg"
+images:
+- "/assets/images/845/nalog-naplati-2.jpg"
 ---
 
 ## 💰 Nalog Blagajni da Naplati A5

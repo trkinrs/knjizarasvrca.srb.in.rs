@@ -2,6 +2,7 @@
 layout: article
 title: PP - BEBA SE VOZI - AVION
 sku: 436
+image: "/assets/images/436/pp-beba-se-vozi-avion-1.jpg"
 ---
 
 prevodilac:&nbsp;Jelena Radojičić

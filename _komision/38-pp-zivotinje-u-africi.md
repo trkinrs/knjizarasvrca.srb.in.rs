@@ -2,6 +2,7 @@
 layout: article
 title: PP - ZIVOTINJE U AFRICI
 sku: 38
+image: "/assets/images/38/pp-zivotinje-u-africi-1.jpg"
 ---
 
 povez:&nbsp;tvrd

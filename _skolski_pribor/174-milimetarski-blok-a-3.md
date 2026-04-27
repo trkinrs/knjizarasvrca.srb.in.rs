@@ -2,6 +2,9 @@
 layout: article
 title: MILIMETARSKI BLOK A/3
 sku: 174
+image: "/assets/images/174/milimetarski-blok-a-3-1.jpg"
+images:
+- "/assets/images/174/milimetarski-blok-a-3-2.jpg"
 ---
 
 📐 **Milimetarski blok A3 S-cool**  

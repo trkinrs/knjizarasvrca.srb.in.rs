@@ -2,6 +2,10 @@
 layout: article
 title: RANAC SUPER
 sku: 3736
+image: "/assets/images/3736/ranac-super-1.jpg"
+images:
+- "/assets/images/3736/ranac-super-2.jpg"
+- "/assets/images/3736/ranac-super-3.jpg"
 ---
 
 ### 🎒 Ranac S-cool Superpack – Sve staje, ništa ne fali!

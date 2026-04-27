@@ -2,6 +2,7 @@
 layout: article
 title: 'PP - MAMA '
 sku: 394
+image: "/assets/images/394/pp-mama-1.jpg"
 ---
 
 prevodilac:&nbsp;Vladimir D. Janković

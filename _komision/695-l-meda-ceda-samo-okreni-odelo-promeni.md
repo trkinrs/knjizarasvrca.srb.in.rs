@@ -2,6 +2,7 @@
 layout: article
 title: L - MEDA ČEDA - SAMO OKRENI, ODELO PROMENI
 sku: 695
+image: "/assets/images/695/l-meda-ceda-samo-okreni-odelo-promeni-1.jpg"
 ---
 
 Uz čak 2000 različitih odevnih kombinacija!  

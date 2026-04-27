@@ -2,6 +2,11 @@
 layout: article
 title: SVESKA A/4 SC
 sku: 494
+image: "/assets/images/494/sveska-a-4-sc-1.jpg"
+images:
+- "/assets/images/494/sveska-a-4-sc-2.jpg"
+- "/assets/images/494/sveska-a-4-sc-3.jpg"
+- "/assets/images/494/sveska-a-4-sc-4.jpg"
 ---
 
 📘 **Sveska A4&nbsp; – kompaktna, a moćna**

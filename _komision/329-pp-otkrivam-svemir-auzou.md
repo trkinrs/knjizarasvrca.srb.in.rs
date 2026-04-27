@@ -2,6 +2,7 @@
 layout: article
 title: PP - OTKRIVAM SVEMIR - AUZOU
 sku: 329
+image: "/assets/images/329/pp-otkrivam-svemir-auzou-1.jpg"
 ---
 
 prevodilac:&nbsp;Zorana Račić

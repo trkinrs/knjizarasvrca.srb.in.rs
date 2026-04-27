@@ -2,6 +2,9 @@
 layout: article
 title: SKRACENI DELOVODNIK
 sku: 901
+image: "/assets/images/901/skraceni-delovodnik-1.jpg"
+images:
+- "/assets/images/901/skraceni-delovodnik-2.jpg"
 ---
 
 📓 **Skraćeni delovodnik – Brza evidencija primljene i poslate pošte**

@@ -2,6 +2,9 @@
 layout: article
 title: BLOK ZA YAMB
 sku: 301
+image: "/assets/images/301/blok-za-yamb-1.jpg"
+images:
+- "/assets/images/301/blok-za-yamb-2.jpg"
 ---
 
 🎲 **Blok za Yamb – 10 kolona**

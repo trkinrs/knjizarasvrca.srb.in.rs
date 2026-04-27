@@ -2,6 +2,7 @@
 layout: article
 title: VU - KETKID
 sku: 1901
+image: "/assets/images/1901/vu-ketkid-1.jpg"
 ---
 
 Klub stripoljubaca zvanično šljaka! Olovku u ruke i pridružite mu se!  

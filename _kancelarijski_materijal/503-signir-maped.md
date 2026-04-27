@@ -2,6 +2,9 @@
 layout: article
 title: SIGNIR MAPED
 sku: 503
+image: "/assets/images/503/signir-maped-1.jpg"
+images:
+- "/assets/images/503/signir-maped-2.jpg"
 ---
 
 🖍️ **Signir Maped – narandžasti**  

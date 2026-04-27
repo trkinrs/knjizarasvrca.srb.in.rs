@@ -2,6 +2,9 @@
 layout: article
 title: JAJE STIROPOR 60MM
 sku: 1007
+image: "/assets/images/1007/jaje-stiropor-60mm-1.jpg"
+images:
+- "/assets/images/1007/jaje-stiropor-60mm-2.jpg"
 ---
 
 ### 🥚 Jaje od stiropora – Savršena osnova za kreativne projekte!

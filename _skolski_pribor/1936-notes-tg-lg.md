@@ -2,6 +2,9 @@
 layout: article
 title: NOTES TG/LG
 sku: 1936
+image: "/assets/images/1936/notes-tg-lg-1.jpg"
+images:
+- "/assets/images/1936/notes-tg-lg-2.jpg"
 ---
 
 ### 📔 Notes LG A5 – Praktičnost i elegancija u jednom

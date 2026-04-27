@@ -2,6 +2,9 @@
 layout: article
 title: GEL OLOVKA PIŠI-BRIŠI
 sku: 467
+image: "/assets/images/467/gel-olovka-pisi-brisi-1.jpg"
+images:
+- "/assets/images/467/gel-olovka-pisi-brisi-2.jpg"
 ---
 
 ### ✒️ Hemijska olovka AH-567C Mix – Plava

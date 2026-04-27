@@ -2,6 +2,9 @@
 layout: article
 title: FUTROLA ZA NAOCARI
 sku: 272
+image: "/assets/images/272/futrola-za-naocari-1.jpg"
+images:
+- "/assets/images/272/futrola-za-naocari-2.jpg"
 ---
 
 🕶️ **Futrola za naočare Triballi – Moderan dizajn i sigurna zaštita**

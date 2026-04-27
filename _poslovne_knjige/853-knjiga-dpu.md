@@ -2,6 +2,9 @@
 layout: article
 title: KNJIGA DPU
 sku: 853
+image: "/assets/images/853/knjiga-dpu-1.jpg"
+images:
+- "/assets/images/853/knjiga-dpu-2.jpg"
 ---
 
 ## 📘 Dnevni Promet Ugostitelja A4

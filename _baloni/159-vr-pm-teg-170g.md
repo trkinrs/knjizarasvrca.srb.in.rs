@@ -2,6 +2,9 @@
 layout: article
 title: VR PM TEG 170G
 sku: 159
+image: "/assets/images/159/vr-pm-teg-170g-1.jpg"
+images:
+- "/assets/images/159/vr-pm-teg-170g-2.jpg"
 ---
 
 ### 🎈 Teg za balone – 170 g

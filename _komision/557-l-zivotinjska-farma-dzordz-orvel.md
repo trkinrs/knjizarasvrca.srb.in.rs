@@ -2,6 +2,7 @@
 layout: article
 title: L - ŽIVOTINJSKA FARMA - DŽORDŽ ORVEL
 sku: 557
+image: "/assets/images/557/l-zivotinjska-farma-dzordz-orvel-1.jpg"
 ---
 
 _Kultna knjiga XX veka._  

@@ -2,6 +2,9 @@
 layout: article
 title: SESTAR SC PROFI
 sku: 1264
+image: "/assets/images/1264/sestar-sc-profi-1.jpg"
+images:
+- "/assets/images/1264/sestar-sc-profi-2.jpg"
 ---
 
 📐 **Šestar S-cool TECHNICAL – Preciznost i pouzdanost za tehničko crtanje**

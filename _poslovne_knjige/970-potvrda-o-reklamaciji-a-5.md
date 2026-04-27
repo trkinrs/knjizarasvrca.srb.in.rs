@@ -2,6 +2,9 @@
 layout: article
 title: POTVRDA O REKLAMACIJI A/5
 sku: 970
+image: "/assets/images/970/potvrda-o-reklamaciji-a-5-1.jpg"
+images:
+- "/assets/images/970/potvrda-o-reklamaciji-a-5-2.jpg"
 ---
 
 ## 📄 Potvrda o prijemu reklamacije A5 (NCR)

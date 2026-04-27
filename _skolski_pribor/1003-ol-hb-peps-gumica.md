@@ -2,6 +2,9 @@
 layout: article
 title: OL HB PEPS GUMICA
 sku: 1003
+image: "/assets/images/1003/ol-hb-peps-gumica-1.jpg"
+images:
+- "/assets/images/1003/ol-hb-peps-gumica-2.jpg"
 ---
 
 **✏️ Grafitna olovka HB Pastel Maped – Šareno pisanje sa stilom**

@@ -2,6 +2,7 @@
 layout: article
 title: L - OKLOPNO SRCE - JU NESBE
 sku: 857
+image: "/assets/images/857/l-oklopno-srce-ju-nesbe-1.jpg"
 ---
 
 „Nesbe je neprikosnoven u žanru. Ovo je najbolji krimić ne samo u Norveškoj već možda i na svetu.“&nbsp;_Dagbladet_  

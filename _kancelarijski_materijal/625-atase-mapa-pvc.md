@@ -2,6 +2,9 @@
 layout: article
 title: ATAŠE MAPA PVC
 sku: 625
+image: "/assets/images/625/atase-mapa-pvc-1.jpg"
+images:
+- "/assets/images/625/atase-mapa-pvc-2.jpg"
 ---
 
 ### 📁 Ataše mapa A4 – Profesionalna organizacija na dohvat ruke

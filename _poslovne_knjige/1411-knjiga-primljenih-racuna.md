@@ -2,6 +2,9 @@
 layout: article
 title: KNJIGA PRIMLJENIH RACUNA
 sku: 1411
+image: "/assets/images/1411/knjiga-primljenih-racuna-1.jpg"
+images:
+- "/assets/images/1411/knjiga-primljenih-racuna-2.jpg"
 ---
 
 📘 **Knjiga primljenih računa (KPR) – Sigurna evidencija ulaznih troškova**

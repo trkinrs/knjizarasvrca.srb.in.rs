@@ -2,6 +2,7 @@
 layout: article
 title: PP - SLATKE ZVUCNE PRICE - NA FARMI
 sku: 475
+image: "/assets/images/475/pp-slatke-zvucne-price-na-farmi-1.jpg"
 ---
 
 prevodilac:&nbsp;Jelena Radojičić

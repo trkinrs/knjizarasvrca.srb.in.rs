@@ -2,6 +2,9 @@
 layout: article
 title: PLASTELIN 1/10 SPEKTRA
 sku: 228
+image: "/assets/images/228/plastelin-1-10-spektra-1.jpg"
+images:
+- "/assets/images/228/plastelin-1-10-spektra-2.jpg"
 ---
 
 🧱 **Plastelin 200g 1/10 u celofanu – S-cool**  

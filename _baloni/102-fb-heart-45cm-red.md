@@ -2,6 +2,9 @@
 layout: article
 title: FB HEART 45CM RED
 sku: 102
+image: "/assets/images/102/fb-heart-45cm-red-1.jpg"
+images:
+- "/assets/images/102/fb-heart-45cm-red-2.jpg"
 ---
 
 **✏️ Grafitna olovka HB S-cool – Kvalitetno pisanje za svakodnevnu upotrebu**

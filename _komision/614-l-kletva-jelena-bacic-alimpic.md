@@ -2,6 +2,7 @@
 layout: article
 title: L - KLETVA - JELENA BAČIĆ ALIMPIĆ
 sku: 614
+image: "/assets/images/614/l-kletva-jelena-bacic-alimpic-1.jpg"
 ---
 
 _Zapamti, dušo, strah je čovekov najveći neprijatelj..._  

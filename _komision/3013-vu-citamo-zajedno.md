@@ -2,6 +2,7 @@
 layout: article
 title: VU - ČITAMO ZAJEDNO
 sku: 3013
+image: "/assets/images/3013/vu-citamo-zajedno-1.jpg"
 ---
 
 Nekada davno... ili Bio jednom jedan... eto, tako počinju. Ali ne brinite! Sve se završavaju: ... živeli su dugo i srećno. Udobno se smestite i neka čarolija čitanja počne. A mašta može svašta!  

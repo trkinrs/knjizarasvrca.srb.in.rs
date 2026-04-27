@@ -2,6 +2,7 @@
 layout: article
 title: L - PREŽIVETI SMRT - VESNA RADUSINOVIĆ
 sku: 600
+image: "/assets/images/600/l-preziveti-smrt-vesna-radusinovic-1.jpg"
 ---
 
 Dugoočekivani roman autorke bestselera&nbsp;_Vatra i led_  

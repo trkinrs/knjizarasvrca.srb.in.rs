@@ -2,6 +2,9 @@
 layout: article
 title: PROCOS FB 18"
 sku: 114
+image: "/assets/images/114/procos-fb-18-1.jpg"
+images:
+- "/assets/images/114/procos-fb-18-2.jpg"
 ---
 
 🎈 **Disney folija balon – Magična dekoracija za male i velike fanove!**

@@ -2,6 +2,9 @@
 layout: article
 title: ROKOVNIK B/5 CROCO
 sku: 83
+image: "/assets/images/83/rokovnik-b-5-croco-1.jpg"
+images:
+- "/assets/images/83/rokovnik-b-5-croco-2.jpg"
 ---
 
 ## 📔 Rokovnik B5 Croco

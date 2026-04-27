@@ -2,6 +2,7 @@
 layout: article
 title: PP - DOMACE ZIVOTINJE KNJIGA SA VISE OD 1000 NALEPNICA
 sku: 323
+image: "/assets/images/323/pp-domace-zivotinje-knjiga-sa-vise-od-1000-nalepnica-1.jpg"
 ---
 
 povez:&nbsp;mek

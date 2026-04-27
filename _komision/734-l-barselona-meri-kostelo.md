@@ -2,6 +2,7 @@
 layout: article
 title: L - BARSELONA - MERI KOSTELO
 sku: 734
+image: "/assets/images/734/l-barselona-meri-kostelo-1.jpg"
 ---
 
 „Kostelo je višestruko nagrađivana autorka koja nenadmašno sažima čitave intimne univerzume unutar svojih priča.“  

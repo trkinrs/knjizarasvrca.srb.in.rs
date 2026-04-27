@@ -2,6 +2,9 @@
 layout: article
 title: REGISTRATOR A/5 N
 sku: 687
+image: "/assets/images/687/registrator-a-5-n-1.jpg"
+images:
+- "/assets/images/687/registrator-a-5-n-2.jpg"
 ---
 
 📁 **Registrator Eko Line A5 – Normalni (Široki), Teget Plavi sa Metalnim Obručem i Ojačanim Ivicama**  

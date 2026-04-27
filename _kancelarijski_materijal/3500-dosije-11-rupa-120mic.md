@@ -2,6 +2,9 @@
 layout: article
 title: DOSIJE 11 RUPA 120MIC
 sku: 3500
+image: "/assets/images/3500/dosije-11-rupa-120mic-1.jpg"
+images:
+- "/assets/images/3500/dosije-11-rupa-120mic-2.jpg"
 ---
 
 📂 **Fascikla 11 rupa – 120 mikrona**

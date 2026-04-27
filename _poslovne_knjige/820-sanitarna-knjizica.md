@@ -2,6 +2,7 @@
 layout: article
 title: SANITARNA KNJIZICA
 sku: 820
+image: "/assets/images/820/sanitarna-knjizica-1.jpg"
 ---
 
 ## 🏥 Sanitarna Knjižica

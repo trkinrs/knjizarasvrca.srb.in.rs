@@ -2,6 +2,9 @@
 layout: article
 title: KARTA SRBIJE
 sku: 1500
+image: "/assets/images/1500/karta-srbije-1.jpg"
+images:
+- "/assets/images/1500/karta-srbije-2.jpg"
 ---
 
 ## 🌍 Politička Karta Evrope

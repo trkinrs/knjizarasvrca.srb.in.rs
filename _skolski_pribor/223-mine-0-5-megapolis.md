@@ -2,6 +2,9 @@
 layout: article
 title: MINE 0,5 MEGAPOLIS
 sku: 223
+image: "/assets/images/223/mine-0-5-megapolis-1.jpg"
+images:
+- "/assets/images/223/mine-0-5-megapolis-2.jpg"
 ---
 
 **✏️ Grafitne mine ErichKrause 0.5 mm – Pouzdan izbor za precizno pisanje i crtanje**

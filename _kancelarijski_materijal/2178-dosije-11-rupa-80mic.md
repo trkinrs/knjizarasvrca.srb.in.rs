@@ -2,6 +2,9 @@
 layout: article
 title: DOSIJE 11 RUPA 80MIC
 sku: 2178
+image: "/assets/images/2178/dosije-11-rupa-80mic-1.jpg"
+images:
+- "/assets/images/2178/dosije-11-rupa-80mic-2.jpg"
 ---
 
 📂 **Fascikla 11 rupa – 100 mikrona**

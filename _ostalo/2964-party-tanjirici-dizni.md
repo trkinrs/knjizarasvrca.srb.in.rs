@@ -2,6 +2,9 @@
 layout: article
 title: PARTY TANJIRICI DIZNI
 sku: 2964
+image: "/assets/images/2964/party-tanjirici-dizni-1.jpg"
+images:
+- "/assets/images/2964/party-tanjirici-dizni-2.jpg"
 ---
 
 **Naziv proizvoda:** Okrugli Party Tanjirići – Pakovanje od 6 komada

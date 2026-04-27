@@ -2,6 +2,9 @@
 layout: article
 title: OGLEDALCE PARIS
 sku: 3257
+image: "/assets/images/3257/ogledalce-paris-1.jpg"
+images:
+- "/assets/images/3257/ogledalce-paris-2.jpg"
 ---
 
 **🪞 Ogledalce – Praktično i elegantno ogledalo za svaki dan**

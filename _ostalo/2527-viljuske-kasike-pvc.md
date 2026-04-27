@@ -2,6 +2,7 @@
 layout: article
 title: VILJUSKE/KASIKE PVC
 sku: 2527
+image: "/assets/images/2527/viljuske-kasike-pvc-1.jpg"
 ---
 
 **Naziv proizvoda:** Party PVC Kašikice – Praktične i Šarene za Svaku Proslavu

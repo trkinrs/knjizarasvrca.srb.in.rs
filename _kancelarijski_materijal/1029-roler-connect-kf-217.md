@@ -2,6 +2,9 @@
 layout: article
 title: ROLER CONNECT KF-217
 sku: 1029
+image: "/assets/images/1029/roler-connect-kf-217-1.jpg"
+images:
+- "/assets/images/1029/roler-connect-kf-217-2.jpg"
 ---
 
 **Naziv proizvoda:** Roler Q-Connect Plavi KF21717

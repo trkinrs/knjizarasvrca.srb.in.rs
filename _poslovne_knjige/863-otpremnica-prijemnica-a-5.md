@@ -2,6 +2,9 @@
 layout: article
 title: OTPREMNICA-PRIJEMNICA A/5
 sku: 863
+image: "/assets/images/863/otpremnica-prijemnica-a-5-1.jpg"
+images:
+- "/assets/images/863/otpremnica-prijemnica-a-5-2.jpg"
 ---
 
 ## 📄 Otpremnica / Prijemnica A5 NCR

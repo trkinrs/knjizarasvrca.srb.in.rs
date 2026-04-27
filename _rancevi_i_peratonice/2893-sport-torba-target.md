@@ -2,6 +2,9 @@
 layout: article
 title: SPORT TORBA TARGET
 sku: 2893
+image: "/assets/images/2893/sport-torba-target-1.jpg"
+images:
+- "/assets/images/2893/sport-torba-target-2.jpg"
 ---
 
 ### 🎒 Sportska torba Target – Stil i funkcionalnost u pokretu!

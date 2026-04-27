@@ -2,6 +2,9 @@
 layout: article
 title: HEFT MASINA OF
 sku: 3788
+image: "/assets/images/3788/heft-masina-of-1.jpg"
+images:
+- "/assets/images/3788/heft-masina-of-2.jpg"
 ---
 
 **Heft mašina Maped S-10**

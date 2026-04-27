@@ -2,6 +2,9 @@
 layout: article
 title: LEPAK OF STICK 21G
 sku: 184
+image: "/assets/images/184/lepak-of-stick-21g-1.jpg"
+images:
+- "/assets/images/184/lepak-of-stick-21g-2.jpg"
 ---
 
 🖊️ **Tečni lepak Nora – 30 ml**

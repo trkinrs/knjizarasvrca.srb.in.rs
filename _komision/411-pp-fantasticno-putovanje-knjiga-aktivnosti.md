@@ -2,6 +2,7 @@
 layout: article
 title: PP - FANTASTICNO PUTOVANJE - KNJIGA AKTIVNOSTI
 sku: 411
+image: "/assets/images/411/pp-fantasticno-putovanje-knjiga-aktivnosti-1.jpg"
 ---
 
 ilustrator:&nbsp;ćirilica

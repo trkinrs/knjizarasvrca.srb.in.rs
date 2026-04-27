@@ -2,6 +2,9 @@
 layout: article
 title: RASHTEFTIVAC
 sku: 548
+image: "/assets/images/548/rashteftivac-1.jpg"
+images:
+- "/assets/images/548/rashteftivac-2.jpg"
 ---
 
 ### **Rasheftivač DL-806 – Kvalitetan alat za uklanjanje heftalica**

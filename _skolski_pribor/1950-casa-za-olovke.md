@@ -2,6 +2,9 @@
 layout: article
 title: 'CASA ZA OLOVKE '
 sku: 1950
+image: "/assets/images/1950/casa-za-olovke-1.jpg"
+images:
+- "/assets/images/1950/casa-za-olovke-2.jpg"
 ---
 
 ### 🖊️ PVC Čaša za Olovke – Jednostavna i funkcionalna

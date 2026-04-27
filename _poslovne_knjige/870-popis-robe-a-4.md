@@ -2,6 +2,9 @@
 layout: article
 title: POPIS ROBE A/4
 sku: 870
+image: "/assets/images/870/popis-robe-a-4-1.jpg"
+images:
+- "/assets/images/870/popis-robe-a-4-2.jpg"
 ---
 
 ## 📦 Popis Robe A4

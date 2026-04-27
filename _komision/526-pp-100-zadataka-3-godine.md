@@ -2,6 +2,7 @@
 layout: article
 title: PP - 100 ZADATAKA 3 GODINE
 sku: 526
+image: "/assets/images/526/pp-100-zadataka-3-godine-1.jpg"
 ---
 
 prevodilac:&nbsp;Milica Gnjatović

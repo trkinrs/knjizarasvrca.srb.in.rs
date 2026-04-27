@@ -2,6 +2,9 @@
 layout: article
 title: NALEPNICE P
 sku: 171
+image: "/assets/images/171/nalepnice-p-1.jpg"
+images:
+- "/assets/images/171/nalepnice-p-2.jpg"
 ---
 
 ### 🚗 Nalepnica "P" za probnu vozačku dozvolu – Obavezna i praktična oznaka

@@ -2,6 +2,7 @@
 layout: article
 title: L - DOK SVETAC DBI - LJILJANA ŠARAC
 sku: 824
+image: "/assets/images/824/l-dok-svetac-dbi-ljiljana-sarac-1.jpg"
 ---
 
 Sudbine Paunovića i Vasiljevića, dve familije koje generacijama žive kao prve komšije, neraskidivo su isprepletane. Njihovi jedinci Milenko i Sreten rastu jedan uz drugog, deleći dobro i zlo, dok naposletku ne izmešaju i krv pobratimivši se. Naizgled čvrsto i neraskidivo prijateljstvo u jednom trenutku biva zauvek narušeno.  

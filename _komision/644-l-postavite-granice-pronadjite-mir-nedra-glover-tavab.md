@@ -2,6 +2,7 @@
 layout: article
 title: L - POSTAVITE GRANICE, PRONAĐITE MIR - NEDRA GLOVER TAVAB
 sku: 644
+image: "/assets/images/644/l-postavite-granice-pronadjite-mir-nedra-glover-tavab-1.jpg"
 ---
 
 Bestseler&nbsp;_New York Timesa_  

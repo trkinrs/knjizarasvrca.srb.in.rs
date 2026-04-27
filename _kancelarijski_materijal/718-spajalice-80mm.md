@@ -2,6 +2,9 @@
 layout: article
 title: SPAJALICE 80MM
 sku: 718
+image: "/assets/images/718/spajalice-80mm-1.jpg"
+images:
+- "/assets/images/718/spajalice-80mm-2.jpg"
 ---
 
 📎 **Spajalice 80 mm – Ekstra duge za velike dokumente**

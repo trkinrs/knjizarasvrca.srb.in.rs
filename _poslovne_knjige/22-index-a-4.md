@@ -2,6 +2,9 @@
 layout: article
 title: INDEX A/4
 sku: 22
+image: "/assets/images/22/index-a-4-1.jpg"
+images:
+- "/assets/images/22/index-a-4-2.jpg"
 ---
 
 📁 **Indeks A4 – Organizacija na dohvat ruke**

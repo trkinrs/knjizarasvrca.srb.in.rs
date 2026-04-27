@@ -2,6 +2,7 @@
 layout: article
 title: PP - PRINCEZE, SIRENE I JEDNOROZI - KNJIGA AKTIVNOSTI
 sku: 416
+image: "/assets/images/416/pp-princeze-sirene-i-jednorozi-knjiga-aktivnosti-1.jpg"
 ---
 
 prevodilac:&nbsp;Jelena Radojičić

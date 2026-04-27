@@ -2,6 +2,9 @@
 layout: article
 title: PČ - STANOJE GLAVAŠ - SLOBODAN STANIŠIĆ
 sku: 3296
+image: "/assets/images/3296/pc-stanoje-glavas-slobodan-stanisic-1.jpg"
+images:
+- "/assets/images/3296/pc-stanoje-glavas-slobodan-stanisic-2.jpg"
 ---
 
 ### 🗒️ Samolepljivi Blok 1/100 – Zvezda

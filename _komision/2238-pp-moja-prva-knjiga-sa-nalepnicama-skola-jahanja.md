@@ -2,6 +2,7 @@
 layout: article
 title: PP - MOJA PRVA KNJIGA SA NALEPNICAMA - ŠKOLA JAHANJA
 sku: 2238
+image: "/assets/images/2238/pp-moja-prva-knjiga-sa-nalepnicama-skola-jahanja-1.jpg"
 ---
 
 prevodilac:&nbsp;Ana Miletić

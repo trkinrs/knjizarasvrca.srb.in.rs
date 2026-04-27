@@ -2,6 +2,9 @@
 layout: article
 title: DRVENA BOJA 1/12 STAEDTLER
 sku: 84
+image: "/assets/images/84/drvena-boja-1-12-staedtler-1.jpg"
+images:
+- "/assets/images/84/drvena-boja-1-12-staedtler-2.jpg"
 ---
 
 🌈 **Drvene bojice 1/12 Staedtler Noris**  

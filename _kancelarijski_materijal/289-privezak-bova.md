@@ -2,6 +2,11 @@
 layout: article
 title: PRIVEZAK BOVA
 sku: 289
+image: "/assets/images/289/privezak-bova-1.jpg"
+images:
+- "/assets/images/289/privezak-bova-2.jpg"
+- "/assets/images/289/privezak-bova-3.jpg"
+- "/assets/images/289/privezak-bova-4.jpg"
 ---
 
 🪢 **Privezak od plute – Bova**  

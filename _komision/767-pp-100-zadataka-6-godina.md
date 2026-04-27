@@ -2,6 +2,7 @@
 layout: article
 title: PP - 100 ZADATAKA - 6 GODINA
 sku: 767
+image: "/assets/images/767/pp-100-zadataka-6-godina-1.jpg"
 ---
 
 prevodilac:&nbsp;Milica Gnjatović

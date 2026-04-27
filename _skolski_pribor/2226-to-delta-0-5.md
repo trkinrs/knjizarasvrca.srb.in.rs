@@ -2,6 +2,9 @@
 layout: article
 title: TO DELTA 0,5
 sku: 2226
+image: "/assets/images/2226/to-delta-0-5-1.jpg"
+images:
+- "/assets/images/2226/to-delta-0-5-2.jpg"
 ---
 
 **✏️ Tehnička olovka Erich Krause Delta 0,5 mm – Pouzdanost za svaki dan**

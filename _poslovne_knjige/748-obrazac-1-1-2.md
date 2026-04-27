@@ -2,6 +2,7 @@
 layout: article
 title: OBRAZAC 1 1+2
 sku: 748
+image: "/assets/images/748/obrazac-1-1-2-1.jpg"
 ---
 
 **Naziv proizvoda:** Nalog za uplatu - Obrazac br.1 (1+2)

@@ -2,6 +2,9 @@
 layout: article
 title: SET CETKICA 1/6
 sku: 196
+image: "/assets/images/196/set-cetkica-1-6-1.jpg"
+images:
+- "/assets/images/196/set-cetkica-1-6-2.jpg"
 ---
 
 🎨 **Set četkica 1/6 – Praktičan izbor za svakog kreativca**

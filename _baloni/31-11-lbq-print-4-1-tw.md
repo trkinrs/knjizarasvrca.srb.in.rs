@@ -2,6 +2,9 @@
 layout: article
 title: 11*LBQ PRINT 4/1*TW
 sku: 31
+image: "/assets/images/31/11-lbq-print-4-1-tw-1.jpg"
+images:
+- "/assets/images/31/11-lbq-print-4-1-tw-2.jpg"
 ---
 
 🎉 **Lateks balon sa printom – Vesela dekoracija za svaku priliku!**

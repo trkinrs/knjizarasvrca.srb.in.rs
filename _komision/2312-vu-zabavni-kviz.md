@@ -2,6 +2,7 @@
 layout: article
 title: VU - ZABAVNI KVIZ
 sku: 2312
+image: "/assets/images/2312/vu-zabavni-kviz-1.jpg"
 ---
 
 Više od 200 pitanja, odgovora i zanimljivosti uz koje možeš da otkrivaš, naučiš, igraš se i zabaviš, dok ujedno razvijaš mentalne sposobnosti poput pamćenja i logike.  

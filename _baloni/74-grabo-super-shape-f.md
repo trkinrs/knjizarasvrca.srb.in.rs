@@ -2,6 +2,9 @@
 layout: article
 title: GRABO SUPER SHAPE F
 sku: 74
+image: "/assets/images/74/grabo-super-shape-f-1.jpg"
+images:
+- "/assets/images/74/grabo-super-shape-f-2.jpg"
 ---
 
 👖 **Kožni kaiš Falco**  

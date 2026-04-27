@@ -2,6 +2,7 @@
 layout: article
 title: PP - IGRA SKRIVALICA - GDE JE LAV ?
 sku: 540
+image: "/assets/images/540/pp-igra-skrivalica-gde-je-lav-1.jpg"
 ---
 
 prevodilac:&nbsp;Jelena Radojičić

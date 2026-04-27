@@ -2,6 +2,7 @@
 layout: article
 title: PP - KNJIGE U OBLICIMA - VOLI TE BAKA
 sku: 471
+image: "/assets/images/471/pp-knjige-u-oblicima-voli-te-baka-1.jpg"
 ---
 
 prevodilac:&nbsp;Jelena Radojičić

@@ -2,6 +2,7 @@
 layout: article
 title: L - KIŠNI GLISTAC - ANDRIJA MILOŠEVIĆ
 sku: 831
+image: "/assets/images/831/l-kisni-glistac-andrija-milosevic-1.jpg"
 ---
 
 **Slikovnica namenjena za male čitaoce.**

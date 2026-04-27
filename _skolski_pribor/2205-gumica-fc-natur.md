@@ -2,6 +2,9 @@
 layout: article
 title: GUMICA FC NATUR
 sku: 2205
+image: "/assets/images/2205/gumica-fc-natur-1.jpg"
+images:
+- "/assets/images/2205/gumica-fc-natur-2.jpg"
 ---
 
 🧽 **Gumica za brisanje – Faber-Castell Natur**  

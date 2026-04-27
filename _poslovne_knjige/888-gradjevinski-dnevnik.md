@@ -2,6 +2,9 @@
 layout: article
 title: GRADJEVINSKI DNEVNIK
 sku: 888
+image: "/assets/images/888/gradjevinski-dnevnik-1.jpg"
+images:
+- "/assets/images/888/gradjevinski-dnevnik-2.jpg"
 ---
 
 ## 📘 Građevinski Dnevnik

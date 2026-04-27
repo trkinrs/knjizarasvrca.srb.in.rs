@@ -2,6 +2,7 @@
 layout: article
 title: NALEPNICE
 sku: 155
+image: "/assets/images/155/nalepnice-1.jpg"
 ---
 
 🚪 **Nalepnice tipa "Vuci/Guraj" i "Put za evakuaciju"**  

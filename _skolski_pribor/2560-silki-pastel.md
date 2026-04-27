@@ -2,6 +2,10 @@
 layout: article
 title: SILKI PASTEL
 sku: 2560
+image: "/assets/images/2560/silki-pastel-1.jpg"
+images:
+- "/assets/images/2560/silki-pastel-2.jpg"
+- "/assets/images/2560/silki-pastel-3.jpg"
 ---
 
 🖍️ **Voštane pastele 1/12 Soft – S-cool**  

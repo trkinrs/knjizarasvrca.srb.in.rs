@@ -2,6 +2,9 @@
 layout: article
 title: ATASE PODLOGA
 sku: 1111
+image: "/assets/images/1111/atase-podloga-1.jpg"
+images:
+- "/assets/images/1111/atase-podloga-2.jpg"
 ---
 
 ### 📁 Ataše mapa A4 – Profesionalna organizacija na dohvat ruke

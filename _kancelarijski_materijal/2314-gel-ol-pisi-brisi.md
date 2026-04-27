@@ -2,6 +2,9 @@
 layout: article
 title: GEL OL PISI-BRISI
 sku: 2314
+image: "/assets/images/2314/gel-ol-pisi-brisi-1.jpg"
+images:
+- "/assets/images/2314/gel-ol-pisi-brisi-2.jpg"
 ---
 
 🖊️ **Gel olovka Piši-Briši – Crvena**  

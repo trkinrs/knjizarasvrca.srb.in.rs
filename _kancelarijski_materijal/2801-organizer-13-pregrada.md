@@ -2,6 +2,9 @@
 layout: article
 title: ORGANIZER 13 PREGRADA
 sku: 2801
+image: "/assets/images/2801/organizer-13-pregrada-1.jpg"
+images:
+- "/assets/images/2801/organizer-13-pregrada-2.jpg"
 ---
 
 🗂️ **Stoni organizer – 13 pregrada**  

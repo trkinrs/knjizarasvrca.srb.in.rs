@@ -2,6 +2,7 @@
 layout: article
 title: PP - BAJKE - MILES KELLY
 sku: 383
+image: "/assets/images/383/pp-bajke-miles-kelly-1.jpg"
 ---
 
 prevodilac:&nbsp;Jelena Radojičić

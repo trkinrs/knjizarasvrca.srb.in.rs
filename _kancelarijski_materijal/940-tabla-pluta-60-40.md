@@ -2,6 +2,7 @@
 layout: article
 title: TABLA PLUTA 60*40
 sku: 940
+image: "/assets/images/940/tabla-pluta-60-40-1.jpg"
 ---
 
 ## 📋 Tabla Pluta 60x40

@@ -2,6 +2,9 @@
 layout: article
 title: MARKER CN KOSI VRH
 sku: 556
+image: "/assets/images/556/marker-cn-kosi-vrh-1.jpg"
+images:
+- "/assets/images/556/marker-cn-kosi-vrh-2.jpg"
 ---
 
 🖊️ **Marker Q-Connect – Plavi (kosi vrh)**  

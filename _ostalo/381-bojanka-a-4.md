@@ -2,6 +2,9 @@
 layout: article
 title: BOJANKA A/4
 sku: 381
+image: "/assets/images/381/bojanka-a-4-1.jpg"
+images:
+- "/assets/images/381/bojanka-a-4-2.jpg"
 ---
 
 📘 **Bojanka "Basne – srpski/engleski" – Učenje jezika kroz bojenje i priče**

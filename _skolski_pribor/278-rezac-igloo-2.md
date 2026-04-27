@@ -2,6 +2,10 @@
 layout: article
 title: REZAC IGLOO 2
 sku: 278
+image: "/assets/images/278/rezac-igloo-2-1.jpg"
+images:
+- "/assets/images/278/rezac-igloo-2-2.jpg"
+- "/assets/images/278/rezac-igloo-2-3.jpg"
 ---
 
 **✏️ Rezač Maped igloo 2 – Dvostruka funkcionalnost u modernom dizajnu**

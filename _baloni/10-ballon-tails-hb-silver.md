@@ -2,6 +2,9 @@
 layout: article
 title: BALLON TAILS HB SILVER
 sku: 10
+image: "/assets/images/10/ballon-tails-hb-silver-1.jpg"
+images:
+- "/assets/images/10/ballon-tails-hb-silver-2.jpg"
 ---
 
 ### 🎉 Traka za balone "Happy Birthday" – savršen dodatak svakoj proslavi!

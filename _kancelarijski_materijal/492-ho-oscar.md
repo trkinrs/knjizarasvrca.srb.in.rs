@@ -2,6 +2,9 @@
 layout: article
 title: HO OSCAR
 sku: 492
+image: "/assets/images/492/ho-oscar-1.jpg"
+images:
+- "/assets/images/492/ho-oscar-2.jpg"
 ---
 
 **Naziv proizvoda:** Hemijska olovka Erich Krause - Neo Candy

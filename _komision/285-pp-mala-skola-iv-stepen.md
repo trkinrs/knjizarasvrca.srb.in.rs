@@ -2,6 +2,7 @@
 layout: article
 title: PP - MALA SKOLA IV STEPEN
 sku: 285
+image: "/assets/images/285/pp-mala-skola-iv-stepen-1.jpg"
 ---
 
 povez:&nbsp;mek

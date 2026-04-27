@@ -2,6 +2,11 @@
 layout: article
 title: DOSIJE 30 DZEPOVA
 sku: 81
+image: "/assets/images/81/dosije-30-dzepova-1.jpg"
+images:
+- "/assets/images/81/dosije-30-dzepova-2.jpg"
+- "/assets/images/81/dosije-30-dzepova-3.jpg"
+- "/assets/images/81/dosije-30-dzepova-4.jpg"
 ---
 
 📁 **Fascikla mapa sa 30 U folija – Više mesta, više reda**

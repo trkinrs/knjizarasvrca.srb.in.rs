@@ -2,6 +2,9 @@
 layout: article
 title: UKRASNI TANJIRICI
 sku: 254
+image: "/assets/images/254/ukrasni-tanjirici-1.jpg"
+images:
+- "/assets/images/254/ukrasni-tanjirici-2.jpg"
 ---
 
 **Naziv proizvoda:** Okrugli Party Tanjirići – Pakovanje od 6 komada

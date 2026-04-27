@@ -2,6 +2,11 @@
 layout: article
 title: 'SET HO+ROLER '
 sku: 197
+image: "/assets/images/197/set-ho-roler-1.jpg"
+images:
+- "/assets/images/197/set-ho-roler-2.jpg"
+- "/assets/images/197/set-ho-roler-3.jpg"
+- "/assets/images/197/set-ho-roler-4.jpg"
 ---
 
 ### 🎁 Poklon set Astra Plus – Hemijska olovka + Roler

@@ -2,6 +2,7 @@
 layout: article
 title: PP - KNJIGA SA MAGNETIMA - ZIVOTINJE
 sku: 505
+image: "/assets/images/505/pp-knjiga-sa-magnetima-zivotinje-1.jpg"
 ---
 
 prevodilac:&nbsp;Jelena Radojičić

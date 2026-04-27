@@ -2,6 +2,7 @@
 layout: article
 title: PP - MONTESORI U VRTICU 5-6
 sku: 378
+image: "/assets/images/378/pp-montesori-u-vrticu-5-6-1.jpg"
 ---
 
 prevodilac:&nbsp;Milica Gnjatović

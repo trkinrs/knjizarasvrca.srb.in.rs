@@ -2,6 +2,7 @@
 layout: article
 title: PP - PTICE
 sku: 100
+image: "/assets/images/100/pp-ptice-1.jpg"
 ---
 
 povez:&nbsp;tvrd

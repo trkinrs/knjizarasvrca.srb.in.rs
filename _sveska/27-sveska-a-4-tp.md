@@ -2,6 +2,13 @@
 layout: article
 title: SVESKA A/4 TP
 sku: 27
+image: "/assets/images/27/sveska-a-4-tp-1.jpg"
+images:
+- "/assets/images/27/sveska-a-4-tp-2.jpg"
+- "/assets/images/27/sveska-a-4-tp-3.jpg"
+- "/assets/images/27/sveska-a-4-tp-4.jpg"
+- "/assets/images/27/sveska-a-4-tp-5.jpg"
+- "/assets/images/27/sveska-a-4-tp-6.jpg"
 ---
 
 ### 📘 **Sveska A/4 TP – pouzdana sveska za ozbiljne beleške**

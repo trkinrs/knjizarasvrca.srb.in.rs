@@ -2,6 +2,9 @@
 layout: article
 title: SET CETKICA 1/4
 sku: 967
+image: "/assets/images/967/set-cetkica-1-4-1.jpg"
+images:
+- "/assets/images/967/set-cetkica-1-4-2.jpg"
 ---
 
 ## 🖌️ Set Četkica – 4 kom

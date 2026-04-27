@@ -2,6 +2,7 @@
 layout: article
 title: PP - 50 ZVUKOVA - TRAZI I PRONADJI - U POKRETU
 sku: 474
+image: "/assets/images/474/pp-50-zvukova-trazi-i-pronadji-u-pokretu-1.jpg"
 ---
 
 prevodilac:&nbsp;Jelena Radojičić

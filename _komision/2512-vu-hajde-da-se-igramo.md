@@ -2,6 +2,7 @@
 layout: article
 title: VU - HAJDE DA SE IGRAMO
 sku: 2512
+image: "/assets/images/2512/vu-hajde-da-se-igramo-1.png"
 ---
 
 Čega god Mićko želi da se igra, i Milica želi takođe…  

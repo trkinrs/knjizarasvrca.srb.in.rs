@@ -2,6 +2,7 @@
 layout: article
 title: MAGNET
 sku: 2058
+image: "/assets/images/2058/magnet-1.jpg"
 ---
 
 🧲 **Ukrasni magnet – Mali detalj, velika poruka!**

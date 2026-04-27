@@ -2,6 +2,9 @@
 layout: article
 title: MARKER ALUMINIJUM
 sku: 2083
+image: "/assets/images/2083/marker-aluminijum-1.jpg"
+images:
+- "/assets/images/2083/marker-aluminijum-2.jpg"
 ---
 
 🖊️ **Marker za aluminijum – Trajno obeležavanje na metalnim površinama**

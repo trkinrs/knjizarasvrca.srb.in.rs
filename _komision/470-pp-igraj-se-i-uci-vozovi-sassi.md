@@ -2,6 +2,7 @@
 layout: article
 title: PP - IGRAJ SE I UCI - VOZOVI SASSI
 sku: 470
+image: "/assets/images/470/pp-igraj-se-i-uci-vozovi-sassi-1.jpg"
 ---
 
 prevodilac:&nbsp;Jelena Radojčić

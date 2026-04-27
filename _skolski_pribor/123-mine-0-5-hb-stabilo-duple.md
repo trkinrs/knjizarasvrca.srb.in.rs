@@ -2,6 +2,9 @@
 layout: article
 title: MINE 0,5 HB STABILO DUPLE
 sku: 123
+image: "/assets/images/123/mine-0-5-hb-stabilo-duple-1.jpg"
+images:
+- "/assets/images/123/mine-0-5-hb-stabilo-duple-2.jpg"
 ---
 
 ![]()

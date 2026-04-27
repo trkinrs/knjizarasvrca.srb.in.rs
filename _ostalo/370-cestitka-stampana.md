@@ -2,6 +2,9 @@
 layout: article
 title: ČESTITKA ŠTAMPANA
 sku: 370
+image: "/assets/images/370/cestitka-stampana-1.jpg"
+images:
+- "/assets/images/370/cestitka-stampana-2.jpg"
 ---
 
 💌 **Čestitka – Reči koje ostaju zauvek**

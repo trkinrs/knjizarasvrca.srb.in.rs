@@ -2,6 +2,7 @@
 layout: article
 title: VU - PONESI ME
 sku: 3837
+image: "/assets/images/3837/vu-ponesi-me-1.jpg"
 ---
 
 Krenite u uzbudljivu avanturu kroz učenje i maštu, uz ovu knjigu sa aktivnostima, posebno osmišljenu za radoznale mališane.  

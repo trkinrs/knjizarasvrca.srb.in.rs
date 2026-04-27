@@ -2,6 +2,9 @@
 layout: article
 title: UGLOMER
 sku: 798
+image: "/assets/images/798/uglomer-1.jpg"
+images:
+- "/assets/images/798/uglomer-2.jpg"
 ---
 
 ## 📐 Uglomer

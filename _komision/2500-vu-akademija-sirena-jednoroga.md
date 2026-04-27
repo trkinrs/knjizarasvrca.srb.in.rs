@@ -2,6 +2,7 @@
 layout: article
 title: VU - AKADEMIJA SIRENA/JEDNOROGA
 sku: 2500
+image: "/assets/images/2500/vu-akademija-sirena-jednoroga-1.jpg"
 ---
 
 Akademija jednoroga je mesto gde su čuda moguća! Upoznajte čarobne jednoroge i njihove prijatelje i uživajte u neverovatnim avanturama.  

@@ -2,6 +2,7 @@
 layout: article
 title: L - MALI PRINC TP - ANTOAN DE SENT EGZIPERI
 sku: 666
+image: "/assets/images/666/l-mali-princ-tp-antoan-de-sent-egziperi-1.jpg"
 ---
 
 _...Kažete li im: „Dokaz da je mali princ postojao jeste to što je bio divan, što se smejao, što je želeo ovcu. Kad čovek želi ovcu, to je dokaz da postoji“, oni će slegnuti ramenima i smatraće vas detetom! Međutim, ukoliko im saopštite: „Planeta s koje je došao mali princ jeste asteroid B612“, biće zadovoljni i neće vam više dosađivati pitanjima. Takvi su oni. Ne valja se zato na njih ljutiti. Deca moraju mnogo toga da praštaju odraslima._  

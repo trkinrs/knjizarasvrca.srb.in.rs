@@ -2,6 +2,9 @@
 layout: article
 title: DRVENA BOJA 1/12 OBOSTRANA
 sku: 2705
+image: "/assets/images/2705/drvena-boja-1-12-obostrana-1.jpg"
+images:
+- "/assets/images/2705/drvena-boja-1-12-obostrana-2.jpg"
 ---
 
 🎨 **Drvene boje obostrane 1/12 – S-cool**

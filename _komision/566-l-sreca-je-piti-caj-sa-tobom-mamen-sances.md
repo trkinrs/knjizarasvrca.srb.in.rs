@@ -2,6 +2,7 @@
 layout: article
 title: L - SREĆA JE PITI ČAJ SA TOBOM - MAMEN SANČES
 sku: 566
+image: "/assets/images/566/l-sreca-je-piti-caj-sa-tobom-mamen-sances-1.jpg"
 ---
 
 „Duhovito, romantično i apsolutno šarmantno.“  

@@ -2,6 +2,9 @@
 layout: article
 title: DOSIJE 11 RUPA 60MIC
 sku: 1445
+image: "/assets/images/1445/dosije-11-rupa-60mic-1.jpg"
+images:
+- "/assets/images/1445/dosije-11-rupa-60mic-2.jpg"
 ---
 
 📂 **Fascikla 11 rupa – 60 mikrona**

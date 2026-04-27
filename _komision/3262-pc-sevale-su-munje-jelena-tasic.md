@@ -2,6 +2,9 @@
 layout: article
 title: PČ - SEVALE SU MUNJE - JELENA TASIĆ
 sku: 3262
+image: "/assets/images/3262/pc-sevale-su-munje-jelena-tasic-1.jpg"
+images:
+- "/assets/images/3262/pc-sevale-su-munje-jelena-tasic-2.jpg"
 ---
 
 🖍️ **Voštane boje 1/48 – S-cool**  

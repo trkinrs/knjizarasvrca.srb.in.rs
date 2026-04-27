@@ -2,6 +2,9 @@
 layout: article
 title: RANAC SC
 sku: 2062
+image: "/assets/images/2062/ranac-sc-1.jpg"
+images:
+- "/assets/images/2062/ranac-sc-2.jpg"
 ---
 
 ### 🎒 Ranac za svaki dan Upper-B – Tvoj idealni suputnik za svaki dan!

@@ -2,6 +2,7 @@
 layout: article
 title: L - MOJ SUPER BLOK - ŽIVOTINJE SA NALEPNICAMA
 sku: 741
+image: "/assets/images/741/l-moj-super-blok-zivotinje-sa-nalepnicama-1.jpg"
 ---
 
 Dohvati bojice i flomastere, zalepi odgovarajuće nalepnice i prati boje sa njih. Na stranicama ćeš pronaći i posebne nagrade za najlepše obojene slike. Ovo je tvoj posebni blok za bojenje!

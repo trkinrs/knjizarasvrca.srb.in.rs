@@ -2,6 +2,9 @@
 layout: article
 title: AUTO KARTA ZAPADNI BALKAN
 sku: 1818
+image: "/assets/images/1818/auto-karta-zapadni-balkan-1.jpg"
+images:
+- "/assets/images/1818/auto-karta-zapadni-balkan-2.jpg"
 ---
 
 ## 🗺️ Auto Karta Zapadnog Balkana

@@ -2,6 +2,7 @@
 layout: article
 title: PP - ZIVOTINJE SA FARME - MINI ISKAKALICE
 sku: 495
+image: "/assets/images/495/pp-zivotinje-sa-farme-mini-iskakalice-1.jpg"
 ---
 
 prevodilac:&nbsp;Jelena Radijčić

@@ -2,6 +2,9 @@
 layout: article
 title: RANAC SC
 sku: 2046
+image: "/assets/images/2046/ranac-sc-1.jpg"
+images:
+- "/assets/images/2046/ranac-sc-2.jpg"
 ---
 
 ### 💻 Ranac/Torba za laptop Upper-B – Stil i zaštita za tvoj laptop!

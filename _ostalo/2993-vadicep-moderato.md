@@ -2,6 +2,9 @@
 layout: article
 title: VADICEP MODERATO
 sku: 2993
+image: "/assets/images/2993/vadicep-moderato-1.jpg"
+images:
+- "/assets/images/2993/vadicep-moderato-2.jpg"
 ---
 
 **🍷 Vadičep Moderato – Elegantan i pouzdan pomoćnik za svaku bocu**

@@ -2,6 +2,9 @@
 layout: article
 title: IQ DELUXE - HEXAGON - SG 314
 sku: 2242
+image: "/assets/images/2242/iq-deluxe-hexagon-sg-314-1.jpg"
+images:
+- "/assets/images/2242/iq-deluxe-hexagon-sg-314-2.jpg"
 ---
 
 ### 🎒 Anatomski ranac Extreme4Me – Snaga, udobnost i stil u jednom!

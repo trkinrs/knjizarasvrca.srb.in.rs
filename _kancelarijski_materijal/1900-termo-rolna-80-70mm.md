@@ -2,6 +2,7 @@
 layout: article
 title: TERMO ROLNA 80/70MM
 sku: 1900
+image: "/assets/images/1900/termo-rolna-80-70mm-1.jpg"
 ---
 
 📜 **Termo Rolna 80/70mm\*65m**  

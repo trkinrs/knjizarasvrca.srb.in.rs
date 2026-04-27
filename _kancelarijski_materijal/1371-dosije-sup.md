@@ -2,6 +2,9 @@
 layout: article
 title: DOSIJE SUP
 sku: 1371
+image: "/assets/images/1371/dosije-sup-1.jpg"
+images:
+- "/assets/images/1371/dosije-sup-2.jpg"
 ---
 
 📁 **Dosije za SUP – Pouzdano čuvanje dokumentacije**

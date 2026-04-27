@@ -2,6 +2,7 @@
 layout: article
 title: PP - MONTESORI - OTKRIVAM SELO
 sku: 339
+image: "/assets/images/339/pp-montesori-otkrivam-selo-1.jpg"
 ---
 
 prevodilac:&nbsp;Bojana Jovanović

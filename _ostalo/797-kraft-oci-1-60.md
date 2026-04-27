@@ -2,6 +2,9 @@
 layout: article
 title: KRAFT OCI 1/60
 sku: 797
+image: "/assets/images/797/kraft-oci-1-60-1.jpg"
+images:
+- "/assets/images/797/kraft-oci-1-60-2.jpg"
 ---
 
 **Naziv proizvoda:** Kraft Ukrasne Oči sa Trepavicama – Za Kreativne Projekte i Dekoracije

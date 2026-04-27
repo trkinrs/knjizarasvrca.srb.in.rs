@@ -2,6 +2,7 @@
 layout: article
 title: RECNIK A/6 2/3 KOLONE
 sku: 1527
+image: "/assets/images/1527/recnik-a-6-2-3-kolone-1.jpg"
 ---
 
 📚 **Rečnik A/6**  

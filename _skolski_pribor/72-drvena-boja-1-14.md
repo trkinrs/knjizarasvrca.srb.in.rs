@@ -2,6 +2,9 @@
 layout: article
 title: DRVENA BOJA 1/14
 sku: 72
+image: "/assets/images/72/drvena-boja-1-14-1.jpg"
+images:
+- "/assets/images/72/drvena-boja-1-14-2.jpg"
 ---
 
 🖍️ **Drvene boje 1/14 S-cool – Sa zlatnom i srebrnom za posebne efekte!**

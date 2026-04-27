@@ -2,6 +2,9 @@
 layout: article
 title: VU - ADRENALIN - AKCIJA
 sku: 2261
+image: "/assets/images/2261/vu-adrenalin-akcija-1.jpg"
+images:
+- "/assets/images/2261/vu-adrenalin-akcija-2.jpg"
 ---
 
 ### ✏️ Drvene Boje sa Gumicom S-cool 1/12 – Boji i briši bez brige!

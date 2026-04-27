@@ -2,6 +2,9 @@
 layout: article
 title: PECATNI VOSAK
 sku: 2219
+image: "/assets/images/2219/pecatni-vosak-1.jpg"
+images:
+- "/assets/images/2219/pecatni-vosak-2.jpg"
 ---
 
 ### 🕯️ Pečatni vosak – Dodir elegancije i tradicije

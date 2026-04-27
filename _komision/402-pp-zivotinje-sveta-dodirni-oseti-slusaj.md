@@ -2,6 +2,7 @@
 layout: article
 title: PP - ZIVOTINJE SVETA - DODIRNI, OSETI, SLUSAJ
 sku: 402
+image: "/assets/images/402/pp-zivotinje-sveta-dodirni-oseti-slusaj-1.jpg"
 ---
 
 prevodilac:&nbsp;Ana Miletić

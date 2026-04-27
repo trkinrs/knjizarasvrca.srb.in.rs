@@ -2,6 +2,9 @@
 layout: article
 title: OL STAEDTLER NORIS
 sku: 98
+image: "/assets/images/98/ol-staedtler-noris-1.jpg"
+images:
+- "/assets/images/98/ol-staedtler-noris-2.jpg"
 ---
 
 **✏️ Grafitna olovka HB OF – Osnovni alat za svakodnevno pisanje i crtanje**

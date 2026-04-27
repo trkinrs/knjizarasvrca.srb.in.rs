@@ -2,6 +2,9 @@
 layout: article
 title: KOVERAT CD
 sku: 588
+image: "/assets/images/588/koverat-cd-1.jpg"
+images:
+- "/assets/images/588/koverat-cd-2.jpg"
 ---
 
 **📀 Beli koverat za CD – Elegantno i sigurno čuvanje vaših diskova**

@@ -2,6 +2,7 @@
 layout: article
 title: L - KIKI I COLE - NAJBOLJI NEPRIJATELJI - BOJAN LJUBENOVIĆ
 sku: 803
+image: "/assets/images/803/l-kiki-i-cole-najbolji-neprijatelji-bojan-ljubenovic-1.jpg"
 ---
 
 ## Slikovnica za male školarce.

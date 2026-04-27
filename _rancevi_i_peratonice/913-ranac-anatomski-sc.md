@@ -2,6 +2,9 @@
 layout: article
 title: RANAC ANATOMSKI SC
 sku: 913
+image: "/assets/images/913/ranac-anatomski-sc-1.jpg"
+images:
+- "/assets/images/913/ranac-anatomski-sc-2.jpg"
 ---
 
 ### 🎒 Školski ranac S-cool sa ojačanim leđima – Udobnost i stil u svakom koraku!

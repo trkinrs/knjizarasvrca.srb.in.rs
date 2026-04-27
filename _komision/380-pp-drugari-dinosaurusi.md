@@ -2,6 +2,7 @@
 layout: article
 title: PP - DRUGARI DINOSAURUSI
 sku: 380
+image: "/assets/images/380/pp-drugari-dinosaurusi-1.jpg"
 ---
 
 prevodilac:&nbsp;Jelena Radojičić

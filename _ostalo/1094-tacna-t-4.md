@@ -2,6 +2,9 @@
 layout: article
 title: TACNA T-4
 sku: 1094
+image: "/assets/images/1094/tacna-t-4-1.jpg"
+images:
+- "/assets/images/1094/tacna-t-4-2.jpg"
 ---
 
 ### 🍽️ Tacna 3A Bela – Savršen balans funkcionalnosti i stila

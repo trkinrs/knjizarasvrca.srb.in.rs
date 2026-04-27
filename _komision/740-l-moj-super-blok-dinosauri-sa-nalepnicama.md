@@ -2,6 +2,7 @@
 layout: article
 title: L - MOJ SUPER BLOK - DINOSAURI SA NALEPNICAMA
 sku: 740
+image: "/assets/images/740/l-moj-super-blok-dinosauri-sa-nalepnicama-1.jpg"
 ---
 
 Dohvati bojice i flomastere, zalepi odgovarajuće nalepnice i prati boje sa njih. Na stranicama ćeš pronaći i posebne nagrade za najlepše obojene slike. Ovo je tvoj posebni blok za bojenje!

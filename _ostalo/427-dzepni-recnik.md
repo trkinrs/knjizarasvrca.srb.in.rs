@@ -2,6 +2,9 @@
 layout: article
 title: DZEPNI RECNIK
 sku: 427
+image: "/assets/images/427/dzepni-recnik-1.jpg"
+images:
+- "/assets/images/427/dzepni-recnik-2.jpg"
 ---
 
 ## 📘 Džepni Rečnik: Grčki sa Izgovorom

@@ -2,6 +2,9 @@
 layout: article
 title: KREDE BOJA 1/12
 sku: 1270
+image: "/assets/images/1270/krede-boja-1-12-1.jpg"
+images:
+- "/assets/images/1270/krede-boja-1-12-2.jpg"
 ---
 
 🖍️ **Krede u boji 1/12 – Za šarene ideje na tabli i trotoaru!**

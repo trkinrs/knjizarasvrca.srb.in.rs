@@ -2,6 +2,9 @@
 layout: article
 title: NOTNA SVESKA B/5
 sku: 2989
+image: "/assets/images/2989/notna-sveska-b-5-1.jpg"
+images:
+- "/assets/images/2989/notna-sveska-b-5-2.jpg"
 ---
 
 🎼 **Notna sveska B/5**  

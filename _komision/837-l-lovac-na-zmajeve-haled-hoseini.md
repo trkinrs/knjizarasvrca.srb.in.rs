@@ -2,6 +2,7 @@
 layout: article
 title: L - LOVAC NA ZMAJEVE - HALED HOSEINI
 sku: 837
+image: "/assets/images/837/l-lovac-na-zmajeve-haled-hoseini-1.jpg"
 ---
 
 Ovaj snažan debitantski roman… pripoveda o žestokoj okrutnosti i žestokoj ljubavi koja iskupljuje. Oboje menjaju život Amiru, mladom i bogatom pripovedaču, koji sazreva u poslednjim mirnim danima svoje otadžbine, pre revolucije i upada ruske vojske. Ali politički događaji, čak i oni dramatični poput ovih prikazanih u&nbsp;_Lovcu na zmajeve_, samo su deo ove priče. U&nbsp;_Lovcu na zmajeve&nbsp;_Haled Hoseini nam daje živopisnu i životnu priču koja nas podseća na to koliko se njegov narod bori da trijumfuje nad silama nasilja – silama koje mu i danas prete.  

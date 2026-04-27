@@ -2,6 +2,9 @@
 layout: article
 title: PLANER A/5
 sku: 185
+image: "/assets/images/185/planer-a-5-1.jpg"
+images:
+- "/assets/images/185/planer-a-5-2.jpg"
 ---
 
 ### 📔 Planer A5 – Organizacija na dohvat ruke

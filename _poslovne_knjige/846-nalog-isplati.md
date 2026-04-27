@@ -2,6 +2,9 @@
 layout: article
 title: NALOG-ISPLATI
 sku: 846
+image: "/assets/images/846/nalog-isplati-1.jpg"
+images:
+- "/assets/images/846/nalog-isplati-2.jpg"
 ---
 
 ## 💵 Nalog Blagajni da Isplati A5

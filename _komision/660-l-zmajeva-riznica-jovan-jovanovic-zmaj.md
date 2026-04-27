@@ -2,6 +2,7 @@
 layout: article
 title: L - ZMAJEVA RIZNICA - JOVAN JOVANOVIĆ ZMAJ
 sku: 660
+image: "/assets/images/660/l-zmajeva-riznica-jovan-jovanovic-zmaj-1.jpg"
 ---
 
 Pesme za decu  

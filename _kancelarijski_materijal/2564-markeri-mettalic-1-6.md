@@ -2,6 +2,7 @@
 layout: article
 title: MARKERI METTALIC 1/6
 sku: 2564
+image: "/assets/images/2564/markeri-mettalic-1-6-1.png"
 ---
 
 ### ✨ Metallic Markeri – Sjaj koji ističe svaku ideju!

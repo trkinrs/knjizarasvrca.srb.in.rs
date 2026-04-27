@@ -2,6 +2,9 @@
 layout: article
 title: STILO ZA PERO
 sku: 497
+image: "/assets/images/497/stilo-za-pero-1.jpg"
+images:
+- "/assets/images/497/stilo-za-pero-2.jpg"
 ---
 
 ✒️ **Štilo za pero – PVC drška za precizno i elegantno pisanje**

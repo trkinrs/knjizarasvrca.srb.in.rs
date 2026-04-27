@@ -2,6 +2,7 @@
 layout: article
 title: PP - UČIM DA PIŠEM ŠTAMPANA LATINICA
 sku: 757
+image: "/assets/images/757/pp-ucim-da-pisem-stampana-latinica-1.jpg"
 ---
 
 povez:&nbsp;mek

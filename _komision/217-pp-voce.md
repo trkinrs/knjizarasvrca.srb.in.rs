@@ -2,6 +2,7 @@
 layout: article
 title: PP - VOCE
 sku: 217
+image: "/assets/images/217/pp-voce-1.jpg"
 ---
 
 povez:&nbsp;tvrd

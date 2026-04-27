@@ -2,6 +2,7 @@
 layout: article
 title: PP - BEBA SE VOZI - VOZ
 sku: 441
+image: "/assets/images/441/pp-beba-se-vozi-voz-1.jpg"
 ---
 
 prevodilac:&nbsp;Jelena Radojičić

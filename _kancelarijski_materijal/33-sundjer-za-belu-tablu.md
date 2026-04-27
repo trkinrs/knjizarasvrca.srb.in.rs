@@ -2,6 +2,9 @@
 layout: article
 title: SUNDJER ZA BELU TABLU
 sku: 33
+image: "/assets/images/33/sundjer-za-belu-tablu-1.jpg"
+images:
+- "/assets/images/33/sundjer-za-belu-tablu-2.jpg"
 ---
 
 🧽 **Sunđer za belu tablu – Čist početak svake ideje**

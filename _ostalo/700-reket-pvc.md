@@ -2,6 +2,9 @@
 layout: article
 title: REKET PVC
 sku: 700
+image: "/assets/images/700/reket-pvc-1.jpg"
+images:
+- "/assets/images/700/reket-pvc-2.jpg"
 ---
 
 ### 🏓 PVC reket sa sunđerastom loptom – Zabava za sve uzraste!

@@ -2,6 +2,7 @@
 layout: article
 title: L - DOBRO RAZMISLI - HARLAN KOBEN
 sku: 601
+image: "/assets/images/601/l-dobro-razmisli-harlan-koben-1.jpg"
 ---
 
 Autor bestselera&nbsp;_Naći ću te_,&nbsp;_Nikom ni reči_&nbsp;i&nbsp;_Beži_  

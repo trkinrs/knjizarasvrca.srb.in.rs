@@ -2,6 +2,7 @@
 layout: article
 title: L - NAROD ŠTO PO SNEGU SEJE - TINA HARNESK
 sku: 575
+image: "/assets/images/575/l-narod-sto-po-snegu-seje-tina-harnesk-1.jpg"
 ---
 
 Nagrada&nbsp;_Švedski roman godine_  

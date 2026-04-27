@@ -2,6 +2,7 @@
 layout: article
 title: VU - TESTOVI ZA MALISANE
 sku: 2220
+image: "/assets/images/2220/vu-testovi-za-malisane-1.jpg"
 ---
 
 Poštovani odrasli,  

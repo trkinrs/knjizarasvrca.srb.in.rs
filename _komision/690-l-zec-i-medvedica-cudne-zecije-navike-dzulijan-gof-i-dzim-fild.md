@@ -2,6 +2,7 @@
 layout: article
 title: L - ZEC I MEDVEDICA - ČUDNE ZEČIJE NAVIKE - DŽULIJAN GOF I DŽIM FILD
 sku: 690
+image: "/assets/images/690/l-zec-i-medvedica-cudne-zecije-navike-dzulijan-gof-i-dzim-fild-1.jpg"
 ---
 
 „_Čudne zečje navike_&nbsp;su novi glas u dečjoj književnosti – ovo je priča o Zecu, Vuku, Medvedici, lavini i Snešku Beliću uz koju ćete se smejati na sav glas. Ovakve knjige vas teraju da decu poterate u krevet što pre da biste mogli da im ih čitate.“  

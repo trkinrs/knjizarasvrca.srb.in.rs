@@ -2,6 +2,9 @@
 layout: article
 title: FLASICA ZA VODU PVC
 sku: 924
+image: "/assets/images/924/flasica-za-vodu-pvc-1.jpg"
+images:
+- "/assets/images/924/flasica-za-vodu-pvc-2.jpg"
 ---
 
 ### 💧 Flašica za vodu PVC S-cool – Šarena hidracija u pokretu!

@@ -2,6 +2,9 @@
 layout: article
 title: FLASICA ZA VODU ALUMINIJUM
 sku: 2903
+image: "/assets/images/2903/flasica-za-vodu-aluminijum-1.jpg"
+images:
+- "/assets/images/2903/flasica-za-vodu-aluminijum-2.jpg"
 ---
 
 ### 💦 Flašica za vodu S-cool – Moderna, praktična i uvek uz tebe!

@@ -2,6 +2,7 @@
 layout: article
 title: PP - CRTAJ I BOJI - JA VOLIM MACE
 sku: 364
+image: "/assets/images/364/pp-crtaj-i-boji-ja-volim-mace-1.jpg"
 ---
 
 prevodilac:&nbsp;Ana Miletić

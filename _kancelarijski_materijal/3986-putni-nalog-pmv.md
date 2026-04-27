@@ -2,6 +2,9 @@
 layout: article
 title: PUTNI NALOG PMV
 sku: 3986
+image: "/assets/images/3986/putni-nalog-pmv-1.jpg"
+images:
+- "/assets/images/3986/putni-nalog-pmv-2.jpg"
 ---
 
 📝 **Putni nalog za PMV (Putničko motorno vozilo)**  

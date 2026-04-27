@@ -2,6 +2,9 @@
 layout: article
 title: KRAFT OCI 1/20
 sku: 804
+image: "/assets/images/804/kraft-oci-1-20-1.jpg"
+images:
+- "/assets/images/804/kraft-oci-1-20-2.jpg"
 ---
 
 **Naziv proizvoda:** Kraft Ukrasne Oči sa Trepavicama – Za Kreativne Projekte i Dekoracije

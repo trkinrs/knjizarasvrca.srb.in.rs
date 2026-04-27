@@ -2,6 +2,9 @@
 layout: article
 title: MINE 0,5 HB/B/2B SC
 sku: 127
+image: "/assets/images/127/mine-0-5-hb-b-2b-sc-1.jpg"
+images:
+- "/assets/images/127/mine-0-5-hb-b-2b-sc-2.jpg"
 ---
 
 **✏️ Grafitne mine 0.5 S-cool – Fina preciznost za svakodnevno pisanje**

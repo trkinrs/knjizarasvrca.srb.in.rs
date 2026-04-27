@@ -2,6 +2,7 @@
 layout: article
 title: L - ĐURĐEVIM STOPAMA - LJILJANA ŠARAC
 sku: 825
+image: "/assets/images/825/l-djurdjevim-stopama-ljiljana-sarac-1.jpg"
 ---
 
 Zima je 1455. godine. U studenoj Silađijevoj tamnici, ranjen i onemoćao, čami osamdesetogodišnji despot Đurađ Branković. Dok čeka da se za njega prikupi otkup, prebira po svojoj burnoj prošlosti. Priseća se mladalačkih pustolovina i ženidbe ponositom Irinom Kantakuzin, ljutog rivalstva sa ujakom Stefanom Lazarevićem, mukotrpne gradnje Smedereva i upinjanja da za svoj narod osvoji što više slobode. On nastoji da sačuva svoje dostojanstvo i smogne snage za još jedan podvig kojim će, poput zvezde repatice, ostaviti blistavi trag po mrkloj tmini koja je prekrila njegovu zlosrećnu despotovinu.  

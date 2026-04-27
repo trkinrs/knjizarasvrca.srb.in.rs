@@ -2,6 +2,7 @@
 layout: article
 title: L - KOFER IZ BERLINA - JELENA BAČIĆ ALIMPIĆ
 sku: 617
+image: "/assets/images/617/l-kofer-iz-berlina-jelena-bacic-alimpic-1.jpg"
 ---
 
 Bila je potrebna hrabrost da se ostane. Još veća – da se ode. Ona je znala šta mora da učini.  

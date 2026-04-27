@@ -2,6 +2,9 @@
 layout: article
 title: RANAC PULSE SCATE
 sku: 1914
+image: "/assets/images/1914/ranac-pulse-scate-1.jpg"
+images:
+- "/assets/images/1914/ranac-pulse-scate-2.jpg"
 ---
 
 ### 🎒 Ranac Pulse – Scate – urbana funkcionalnost i stil

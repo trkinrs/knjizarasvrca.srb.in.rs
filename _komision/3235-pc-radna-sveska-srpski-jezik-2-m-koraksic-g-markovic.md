@@ -2,6 +2,9 @@
 layout: article
 title: PČ - RADNA SVESKA SRPSKI JEZIK 2 - M.KORAKSIĆ, G.MARKOVIĆ
 sku: 3235
+image: "/assets/images/3235/pc-radna-sveska-srpski-jezik-2-m-koraksic-g-markovic-1.jpg"
+images:
+- "/assets/images/3235/pc-radna-sveska-srpski-jezik-2-m-koraksic-g-markovic-2.jpg"
 ---
 
 **Naziv proizvoda:** Ogrlica 210 Swarovski

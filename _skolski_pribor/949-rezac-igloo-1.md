@@ -2,6 +2,9 @@
 layout: article
 title: REZAC IGLOO 1
 sku: 949
+image: "/assets/images/949/rezac-igloo-1-1.jpg"
+images:
+- "/assets/images/949/rezac-igloo-1-2.jpg"
 ---
 
 **✏️ Rezač Maped Igloo 1 – Moderan dizajn, oštro sečenje, uvek spreman!**

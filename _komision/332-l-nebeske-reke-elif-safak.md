@@ -2,6 +2,7 @@
 layout: article
 title: L - NEBESKE REKE - ELIF SAFAK
 sku: 332
+image: "/assets/images/332/l-nebeske-reke-elif-safak-1.jpg"
 ---
 
 Autorka bestselera&nbsp;_Ostrvo nestalog drveća_&nbsp;i&nbsp;_Vašljiva palata_  

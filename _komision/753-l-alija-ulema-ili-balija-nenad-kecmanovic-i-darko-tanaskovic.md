@@ -2,6 +2,7 @@
 layout: article
 title: 'L - ALIJA : ULEMA ILI BALIJA ? - NENAD KECMANOVIĆ I DARKO TANASKOVIĆ'
 sku: 753
+image: "/assets/images/753/l-alija-ulema-ili-balija-nenad-kecmanovic-i-darko-tanaskovic-1.jpg"
 ---
 
 „Ova knjiga nam otvara lik Alije Izetbegovića u ogromnom spektru, gdje dominiraju sivilo njegovih uvjerenja, slabost karaktera i način na koji je bio teledirigovan iz srca kolonijalnog Zapada. Čovjek sa lažno zamišljenom facom do kraja je u sebi iscrpio užas praznine čije posljedice će dugo plaćati njegovi sunarodnici. Nenad Kecmanović i Darko Tanasković su napisali važnu i zanimljivu knjigu.“  

@@ -2,6 +2,9 @@
 layout: article
 title: MARKER  LUMO
 sku: 555
+image: "/assets/images/555/marker-lumo-1.jpg"
+images:
+- "/assets/images/555/marker-lumo-2.jpg"
 ---
 
 🖊️ **ErichKrause Marker za belu tablu – Crveni**

@@ -2,6 +2,7 @@
 layout: article
 title: FLOMASTERI 1/12 JUMBO
 sku: 1338
+image: "/assets/images/1338/flomasteri-1-12-jumbo-1.jpg"
 ---
 
 ### 🖍️ S-cool Flomasteri – Set od 6 Osnovnih Boja

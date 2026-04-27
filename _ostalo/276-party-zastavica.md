@@ -2,6 +2,9 @@
 layout: article
 title: PARTY ZASTAVICA
 sku: 276
+image: "/assets/images/276/party-zastavica-1.jpg"
+images:
+- "/assets/images/276/party-zastavica-2.jpg"
 ---
 
 **Naziv proizvoda:** Party Zastavice – Savršen Dekor za Svaku Proslavu

@@ -2,6 +2,11 @@
 layout: article
 title: SET HO+PENKALO TTO
 sku: 515
+image: "/assets/images/515/set-ho-penkalo-tto-1.jpg"
+images:
+- "/assets/images/515/set-ho-penkalo-tto-2.jpg"
+- "/assets/images/515/set-ho-penkalo-tto-3.jpg"
+- "/assets/images/515/set-ho-penkalo-tto-4.jpg"
 ---
 
 ## ✨ Set olovaka HO + Penkalo TTO – Elegantan poklon za svaku priliku

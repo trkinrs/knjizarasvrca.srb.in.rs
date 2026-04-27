@@ -2,6 +2,9 @@
 layout: article
 title: TACNA T-3
 sku: 1173
+image: "/assets/images/1173/tacna-t-3-1.jpg"
+images:
+- "/assets/images/1173/tacna-t-3-2.jpg"
 ---
 
 **Naziv proizvoda:** Tacna T3 Bela – Praktično i Elegantno Posluživanje

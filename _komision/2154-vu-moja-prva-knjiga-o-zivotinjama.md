@@ -2,6 +2,7 @@
 layout: article
 title: VU - MOJA PRVA KNJIGA O ZIVOTINJAMA
 sku: 2154
+image: "/assets/images/2154/vu-moja-prva-knjiga-o-zivotinjama-1.jpg"
 ---
 
 Upoznajte tropske životinje u ovoj čudesno ilustrovanoj knjizi za najmlađe. Čekaju vas zanimljive činjenice o ari, tigru, orangutanu, kameleonu i pitonu.  

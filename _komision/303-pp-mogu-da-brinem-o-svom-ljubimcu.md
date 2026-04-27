@@ -2,6 +2,7 @@
 layout: article
 title: PP - MOGU DA BRINEM O SVOM LJUBIMCU
 sku: 303
+image: "/assets/images/303/pp-mogu-da-brinem-o-svom-ljubimcu-1.jpg"
 ---
 
 prevodilac:&nbsp;Milica Rakić

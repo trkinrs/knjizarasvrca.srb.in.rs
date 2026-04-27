@@ -2,6 +2,7 @@
 layout: article
 title: L - BRIDŽET DŽOUNS - LUDA ZA NJIM - HELEN FILDING
 sku: 738
+image: "/assets/images/738/l-bridzet-dzouns-luda-za-njim-helen-filding-1.jpg"
 ---
 
 Od autorke bestselera&nbsp;_Dnevnik Bridžet Džouns_  

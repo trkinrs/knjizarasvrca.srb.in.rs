@@ -2,6 +2,7 @@
 layout: article
 title: L - TRAGOVI ČUDA - NIKOLAS SPARKS
 sku: 593
+image: "/assets/images/593/l-tragovi-cuda-nikolas-sparks-1.jpg"
 ---
 
 Tanera Hjuza odgajili su baka i deka, na kog se od detinjstva ugledao pa je tako i postao rendžer. Najsrećniji je kada se otisne u novu avanturu, bez imalo želje da se skrasi. Na samrti baka će ga zavetovati da pronađe mesto kojem pripada i saopštiće mu dugo čuvanu tajnu – ime oca kog nikad nije upoznao i gde da ga pronađe.  

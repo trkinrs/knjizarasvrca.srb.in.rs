@@ -2,6 +2,7 @@
 layout: article
 title: PP - VELIKE MASINE - KAMIONI
 sku: 552
+image: "/assets/images/552/pp-velike-masine-kamioni-1.jpg"
 ---
 
 prevodilac:&nbsp;Jelena Radojčić

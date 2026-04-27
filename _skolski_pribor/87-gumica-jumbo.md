@@ -2,6 +2,9 @@
 layout: article
 title: GUMICA JUMBO
 sku: 87
+image: "/assets/images/87/gumica-jumbo-1.jpg"
+images:
+- "/assets/images/87/gumica-jumbo-2.jpg"
 ---
 
 **🧼 Gumica JUMBO S-cool – Velika snaga u brisanju za velike zadatke**

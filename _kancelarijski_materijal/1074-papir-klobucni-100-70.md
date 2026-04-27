@@ -2,6 +2,7 @@
 layout: article
 title: PAPIR KLOBUCNI 100*70
 sku: 1074
+image: "/assets/images/1074/papir-klobucni-100-70-1.jpg"
 ---
 
 ## 📄 Flis Papir - Klobučna Hartija 70x100cm

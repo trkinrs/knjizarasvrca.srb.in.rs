@@ -2,6 +2,9 @@
 layout: article
 title: DRŽAČ ZA KARTICE CHECK
 sku: 4147
+image: "/assets/images/4147/drzac-za-kartice-check-1.jpg"
+images:
+- "/assets/images/4147/drzac-za-kartice-check-2.jpg"
 ---
 
 ## ✨ Držač za kartice Check – Moderan, kompaktan i uvek pri ruci

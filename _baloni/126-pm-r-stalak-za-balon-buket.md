@@ -2,6 +2,10 @@
 layout: article
 title: PM*R STALAK ZA BALON BUKET
 sku: 126
+image: "/assets/images/126/pm-r-stalak-za-balon-buket-1.jpg"
+images:
+- "/assets/images/126/pm-r-stalak-za-balon-buket-2.jpg"
+- "/assets/images/126/pm-r-stalak-za-balon-buket-3.jpg"
 ---
 
 🎈 **PVC Stalak za balone – Buket: Efekat balonskog aranžmana bez helijuma!**

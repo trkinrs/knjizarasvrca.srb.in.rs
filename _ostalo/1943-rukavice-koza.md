@@ -2,6 +2,9 @@
 layout: article
 title: RUKAVICE KOZA
 sku: 1943
+image: "/assets/images/1943/rukavice-koza-1.jpg"
+images:
+- "/assets/images/1943/rukavice-koza-2.jpg"
 ---
 
 🧤 **Kožne rukavice – Elegancija, toplina i bezvremenski stil**

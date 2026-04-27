@@ -2,6 +2,9 @@
 layout: article
 title: SIGNIR FC
 sku: 504
+image: "/assets/images/504/signir-fc-1.jpg"
+images:
+- "/assets/images/504/signir-fc-2.jpg"
 ---
 
 **✍️ Signir Faber-Castell Crveni – Elegantno i precizno pisanje u jarkoj boji**

@@ -2,6 +2,9 @@
 layout: article
 title: REGISTRATOR A/4 N
 sku: 1379
+image: "/assets/images/1379/registrator-a-4-n-1.jpg"
+images:
+- "/assets/images/1379/registrator-a-4-n-2.jpg"
 ---
 
 📁 **Registrator Markk A4 – Normal, Teget Plavi**  

@@ -2,6 +2,9 @@
 layout: article
 title: NEDELJNI PLANER A/4
 sku: 1059
+image: "/assets/images/1059/nedeljni-planer-a-4-1.jpg"
+images:
+- "/assets/images/1059/nedeljni-planer-a-4-2.jpg"
 ---
 
 ### 🤰 Moj Planer Trudnoće A5 – Započnite svoje putovanje sa stilom

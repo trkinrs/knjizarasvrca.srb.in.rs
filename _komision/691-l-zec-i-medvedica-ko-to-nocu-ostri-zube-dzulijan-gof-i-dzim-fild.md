@@ -2,6 +2,7 @@
 layout: article
 title: L - ZEC I MEDVEDICA - KO TO NOĆU OŠTRI ZUBE ? - DŽULIJAN GOF I DŽIM FILD
 sku: 691
+image: "/assets/images/691/l-zec-i-medvedica-ko-to-nocu-ostri-zube-dzulijan-gof-i-dzim-fild-1.jpg"
 ---
 
 „Savršen životinjski tandem.“  

@@ -2,6 +2,9 @@
 layout: article
 title: OL HB SC
 sku: 233
+image: "/assets/images/233/ol-hb-sc-1.jpg"
+images:
+- "/assets/images/233/ol-hb-sc-2.jpg"
 ---
 
 **✏️ Grafitna olovka HB BIC – Pouzdana klasika za svakodnevnu upotrebu**

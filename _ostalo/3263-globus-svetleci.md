@@ -2,6 +2,9 @@
 layout: article
 title: GLOBUS SVETLECI
 sku: 3263
+image: "/assets/images/3263/globus-svetleci-1.jpg"
+images:
+- "/assets/images/3263/globus-svetleci-2.jpg"
 ---
 
 **🌍 Globus 32 cm PVC – Svetleći edukativni detalj za svaki prostor**

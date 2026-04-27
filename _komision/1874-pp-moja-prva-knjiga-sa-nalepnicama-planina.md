@@ -2,6 +2,7 @@
 layout: article
 title: PP - MOJA PRVA KNJIGA SA NALEPNICAMA - PLANINA
 sku: 1874
+image: "/assets/images/1874/pp-moja-prva-knjiga-sa-nalepnicama-planina-1.jpg"
 ---
 
 prevodilac:&nbsp;Ana Miletić

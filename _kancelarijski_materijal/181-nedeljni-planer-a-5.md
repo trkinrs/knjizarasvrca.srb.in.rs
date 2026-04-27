@@ -2,6 +2,9 @@
 layout: article
 title: NEDELJNI PLANER A/5
 sku: 181
+image: "/assets/images/181/nedeljni-planer-a-5-1.jpg"
+images:
+- "/assets/images/181/nedeljni-planer-a-5-2.jpg"
 ---
 
 ## 🗓️ Nedeljni planer A5

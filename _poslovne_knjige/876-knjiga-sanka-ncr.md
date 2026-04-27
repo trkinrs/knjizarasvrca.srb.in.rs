@@ -2,6 +2,9 @@
 layout: article
 title: KNJIGA SANKA NCR
 sku: 876
+image: "/assets/images/876/knjiga-sanka-ncr-1.jpg"
+images:
+- "/assets/images/876/knjiga-sanka-ncr-2.jpg"
 ---
 
 ## 🍻 Knjiga Šanka NCR

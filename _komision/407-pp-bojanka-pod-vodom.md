@@ -2,6 +2,7 @@
 layout: article
 title: PP - BOJANKA - POD VODOM
 sku: 407
+image: "/assets/images/407/pp-bojanka-pod-vodom-1.jpg"
 ---
 
 povez:&nbsp;mek

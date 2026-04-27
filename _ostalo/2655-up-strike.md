@@ -2,6 +2,9 @@
 layout: article
 title: UP STRIKE
 sku: 2655
+image: "/assets/images/2655/up-strike-1.jpg"
+images:
+- "/assets/images/2655/up-strike-2.jpg"
 ---
 
 ### 🔥 Muški metalni upaljač **STRIKE** – Snaga i stil u vašoj ruci

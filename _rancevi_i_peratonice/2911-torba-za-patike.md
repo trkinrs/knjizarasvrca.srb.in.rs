@@ -2,6 +2,9 @@
 layout: article
 title: TORBA ZA PATIKE
 sku: 2911
+image: "/assets/images/2911/torba-za-patike-1.jpg"
+images:
+- "/assets/images/2911/torba-za-patike-2.jpg"
 ---
 
 ### 👟 Torba za patike S-cool – Praktična i moderna

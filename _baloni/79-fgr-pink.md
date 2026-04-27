@@ -2,6 +2,9 @@
 layout: article
 title: FGR PINK
 sku: 79
+image: "/assets/images/79/fgr-pink-1.jpg"
+images:
+- "/assets/images/79/fgr-pink-2.jpg"
 ---
 
 ### 💙 Balon folija – It’s a Boy – Plava zvezda

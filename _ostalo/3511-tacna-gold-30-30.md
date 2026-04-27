@@ -2,6 +2,9 @@
 layout: article
 title: TACNA GOLD 30*30
 sku: 3511
+image: "/assets/images/3511/tacna-gold-30-30-1.jpg"
+images:
+- "/assets/images/3511/tacna-gold-30-30-2.jpg"
 ---
 
 🍰 **Kartonska tacna 30x30 cm – Čvrsta osnova za Vaše poslastice!**

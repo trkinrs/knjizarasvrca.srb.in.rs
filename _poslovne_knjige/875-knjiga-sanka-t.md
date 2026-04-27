@@ -2,6 +2,9 @@
 layout: article
 title: KNJIGA SANKA T
 sku: 875
+image: "/assets/images/875/knjiga-sanka-t-1.jpg"
+images:
+- "/assets/images/875/knjiga-sanka-t-2.jpg"
 ---
 
 ## 🍻 Knjiga Šanka A4 (Ne-kopirajuća)

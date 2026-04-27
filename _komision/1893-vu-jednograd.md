@@ -2,6 +2,7 @@
 layout: article
 title: VU - JEDNOGRAD
 sku: 1893
+image: "/assets/images/1893/vu-jednograd-1.jpg"
 ---
 
 Pravljenje mafina je tako zabavno! A naročito kad se koriste magični sastojci i recepti Jednorograda! Ovde je brašno raznobojno, glazura ima šljokice, a puter skakuće po kuhinji!  

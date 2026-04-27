@@ -2,6 +2,7 @@
 layout: article
 title: L - NASLEĐE - DŽESI ROZEN
 sku: 589
+image: "/assets/images/589/l-nasledje-dzesi-rozen-1.jpg"
 ---
 
 Bestseler novina&nbsp;_USA Today_  

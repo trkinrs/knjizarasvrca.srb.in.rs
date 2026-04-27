@@ -2,6 +2,7 @@
 layout: article
 title: L - PONOĆNI CIRKUS - UROŠ PETROVIĆ
 sku: 681
+image: "/assets/images/681/l-ponocni-cirkus-uros-petrovic-1.jpg"
 ---
 
 Ilustrovala Ana Grigorjev  

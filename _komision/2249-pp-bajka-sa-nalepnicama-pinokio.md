@@ -2,6 +2,7 @@
 layout: article
 title: PP - BAJKA SA NALEPNICAMA - PINOKIO
 sku: 2249
+image: "/assets/images/2249/pp-bajka-sa-nalepnicama-pinokio-1.jpg"
 ---
 
 prevodilac:&nbsp;Milica Rakić

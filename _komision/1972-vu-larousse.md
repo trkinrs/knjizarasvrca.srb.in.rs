@@ -2,6 +2,7 @@
 layout: article
 title: VU - LAROUSSE
 sku: 1972
+image: "/assets/images/1972/vu-larousse-1.webp"
 ---
 
 Nezaobilazna Larousse enciklopedija za sve one koji žele da nauče nešto o dinosaurima!  

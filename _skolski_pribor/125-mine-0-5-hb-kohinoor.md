@@ -2,6 +2,9 @@
 layout: article
 title: MINE 0,5 HB KOHINOOR
 sku: 125
+image: "/assets/images/125/mine-0-5-hb-kohinoor-1.jpg"
+images:
+- "/assets/images/125/mine-0-5-hb-kohinoor-2.jpg"
 ---
 
 ✏️ **Grafitne mine Koh-i-Noor 0,5 mm – 2H**  

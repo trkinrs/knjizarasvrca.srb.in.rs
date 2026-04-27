@@ -2,6 +2,9 @@
 layout: article
 title: KOVERAT VAZDUSNI BR-7
 sku: 586
+image: "/assets/images/586/koverat-vazdusni-br-7-1.jpg"
+images:
+- "/assets/images/586/koverat-vazdusni-br-7-2.jpg"
 ---
 
 📦 **Vazdušni koverat br. 7 – Maksimalna zaštita za veće pošiljke**

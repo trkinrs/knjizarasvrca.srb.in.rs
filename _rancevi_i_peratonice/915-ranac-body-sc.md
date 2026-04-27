@@ -2,6 +2,9 @@
 layout: article
 title: RANAC BODY SC
 sku: 915
+image: "/assets/images/915/ranac-body-sc-1.jpg"
+images:
+- "/assets/images/915/ranac-body-sc-2.jpg"
 ---
 
 ### 🎒 Mini ranac na 1 rame S-cool – Kompaktno, kul i praktično!

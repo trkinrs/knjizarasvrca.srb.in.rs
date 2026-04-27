@@ -2,6 +2,9 @@
 layout: article
 title: SALVETE PARTY
 sku: 2116
+image: "/assets/images/2116/salvete-party-1.jpg"
+images:
+- "/assets/images/2116/salvete-party-2.jpg"
 ---
 
 🎉 **Salvete Party – 12 komada**  

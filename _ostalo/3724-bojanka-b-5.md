@@ -2,6 +2,9 @@
 layout: article
 title: BOJANKA B/5
 sku: 3724
+image: "/assets/images/3724/bojanka-b-5-1.jpg"
+images:
+- "/assets/images/3724/bojanka-b-5-2.jpg"
 ---
 
 ### 🎨 Bojanka za Odrasle – Oslobodi maštu, oslobodi stres

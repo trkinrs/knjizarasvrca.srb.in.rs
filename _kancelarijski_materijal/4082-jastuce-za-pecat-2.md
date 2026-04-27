@@ -2,6 +2,9 @@
 layout: article
 title: JASTUČE ZA PEČAT 2
 sku: 4082
+image: "/assets/images/4082/jastuce-za-pecat-2-1.jpg"
+images:
+- "/assets/images/4082/jastuce-za-pecat-2-2.jpg"
 ---
 
 ### 🖋️ Jastuče za Pečat

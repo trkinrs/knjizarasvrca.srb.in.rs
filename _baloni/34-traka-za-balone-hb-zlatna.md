@@ -2,6 +2,9 @@
 layout: article
 title: TRAKA ZA BALONE HB ZLATNA
 sku: 34
+image: "/assets/images/34/traka-za-balone-hb-zlatna-1.jpg"
+images:
+- "/assets/images/34/traka-za-balone-hb-zlatna-2.jpg"
 ---
 
 ### 👛 Ženski kožni novčanik **Falco** – Spoj elegancije i funkcionalnosti

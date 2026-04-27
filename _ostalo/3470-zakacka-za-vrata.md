@@ -2,6 +2,7 @@
 layout: article
 title: ZAKACKA ZA VRATA
 sku: 3470
+image: "/assets/images/3470/zakacka-za-vrata-1.jpg"
 ---
 
 🚪 **Zakačka za vrata sa porukom – Kreativan način da ostaviš trag**

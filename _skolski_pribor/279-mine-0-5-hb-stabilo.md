@@ -2,6 +2,9 @@
 layout: article
 title: MINE 0,5 HB STABILO
 sku: 279
+image: "/assets/images/279/mine-0-5-hb-stabilo-1.jpg"
+images:
+- "/assets/images/279/mine-0-5-hb-stabilo-2.jpg"
 ---
 
 **✏️ Grafitne mine Rotring 0.5 mm – Inženjerska preciznost i maksimalna izdržljivost**

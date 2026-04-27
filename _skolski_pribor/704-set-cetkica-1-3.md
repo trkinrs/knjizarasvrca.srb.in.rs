@@ -2,6 +2,9 @@
 layout: article
 title: SET CETKICA 1/3
 sku: 704
+image: "/assets/images/704/set-cetkica-1-3-1.jpg"
+images:
+- "/assets/images/704/set-cetkica-1-3-2.jpg"
 ---
 
 ## 🎨 Set Četkica 1/3 S-cool Akvarel

@@ -2,6 +2,9 @@
 layout: article
 title: NALEPNICE ZA SVESKE
 sku: 1091
+image: "/assets/images/1091/nalepnice-za-sveske-1.jpg"
+images:
+- "/assets/images/1091/nalepnice-za-sveske-2.jpg"
 ---
 
 📚 **Nalepnice za sveske – 6 komada**  

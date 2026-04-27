@@ -2,6 +2,9 @@
 layout: article
 title: 11*LBQ STANDARD QE
 sku: 23
+image: "/assets/images/23/11-lbq-standard-qe-1.jpg"
+images:
+- "/assets/images/23/11-lbq-standard-qe-2.jpg"
 ---
 
 🎈 **Latex balon – Jednobojna elegancija za svaku priliku!**

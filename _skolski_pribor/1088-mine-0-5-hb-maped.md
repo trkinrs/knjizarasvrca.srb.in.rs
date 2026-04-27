@@ -2,6 +2,10 @@
 layout: article
 title: MINE 0,5 HB MAPED
 sku: 1088
+image: "/assets/images/1088/mine-0-5-hb-maped-1.jpg"
+images:
+- "/assets/images/1088/mine-0-5-hb-maped-2.jpg"
+- "/assets/images/1088/mine-0-5-hb-maped-3.jpg"
 ---
 
 ### ✏️ Mine za Šestar – Preciznost u svakom potezu

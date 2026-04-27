@@ -2,6 +2,9 @@
 layout: article
 title: TERMO ROLNA 57/40MM
 sku: 524
+image: "/assets/images/524/termo-rolna-57-40mm-1.jpg"
+images:
+- "/assets/images/524/termo-rolna-57-40mm-2.jpg"
 ---
 
 🧾 **Termo rolna 57/40mm – Za fiskalne kase i POS uređaje**

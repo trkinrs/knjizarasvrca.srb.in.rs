@@ -2,6 +2,7 @@
 layout: article
 title: VU - NAJLEPSE PRICE SVIH VREMENA
 sku: 3824
+image: "/assets/images/3824/vu-najlepse-price-svih-vremena-1.jpg"
 ---
 
 Uživajte u čitanju deset najlepših priča svih vremena – Put oko sveta za osamdeset dana, Knjiga o džungli, Zvonar Bogorodičine crkve, Čarobnjak iz Oza, Aladin i čarobna lampa, 20.000 milja pod morem, Pustolovine Robina Huda, Alisa u Zemlji čuda, Mobi Dik i Don Kihot. Voljene priče prate raskošne ilustracije, kao i zanimljivosti o njihovim piscima i okolnostima pod kojima su nastale.  

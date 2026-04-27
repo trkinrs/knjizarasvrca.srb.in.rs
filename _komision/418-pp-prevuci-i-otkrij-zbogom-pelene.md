@@ -2,6 +2,7 @@
 layout: article
 title: PP - PREVUCI I OTKRIJ - ZBOGOM PELENE
 sku: 418
+image: "/assets/images/418/pp-prevuci-i-otkrij-zbogom-pelene-1.jpg"
 ---
 
 ilustrator:&nbsp;Džesika Antonini

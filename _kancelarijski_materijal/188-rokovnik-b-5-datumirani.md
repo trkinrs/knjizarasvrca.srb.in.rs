@@ -2,6 +2,9 @@
 layout: article
 title: ROKOVNIK B/5 DATUMIRANI
 sku: 188
+image: "/assets/images/188/rokovnik-b-5-datumirani-1.jpg"
+images:
+- "/assets/images/188/rokovnik-b-5-datumirani-2.jpg"
 ---
 
 📔 **Rokovnik B/5 – datumirani**

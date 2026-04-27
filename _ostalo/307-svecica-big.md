@@ -2,6 +2,9 @@
 layout: article
 title: SVECICA BIG
 sku: 307
+image: "/assets/images/307/svecica-big-1.jpg"
+images:
+- "/assets/images/307/svecica-big-2.jpg"
 ---
 
 🎉 **Rođendanska svećica – Začini svaki rođendan!** 🕯️

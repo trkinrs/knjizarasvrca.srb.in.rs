@@ -2,6 +2,9 @@
 layout: article
 title: BATERIJA AA/AAA
 sku: 4263
+image: "/assets/images/4263/baterija-aa-aaa-1.jpg"
+images:
+- "/assets/images/4263/baterija-aa-aaa-2.jpg"
 ---
 
 🔋 **Baterija AA Maxell alkalna**  

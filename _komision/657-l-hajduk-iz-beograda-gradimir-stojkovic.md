@@ -2,6 +2,7 @@
 layout: article
 title: L - HAJDUK IZ BEOGRADA - GRADIMIR STOJKOVIĆ
 sku: 657
+image: "/assets/images/657/l-hajduk-iz-beograda-gradimir-stojkovic-1.jpg"
 ---
 
 Hajduk u neobičnoj letnjoj pustolovini!  

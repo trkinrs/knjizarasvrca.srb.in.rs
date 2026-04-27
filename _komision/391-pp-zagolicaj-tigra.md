@@ -2,6 +2,7 @@
 layout: article
 title: PP - ZAGOLICAJ TIGRA!
 sku: 391
+image: "/assets/images/391/pp-zagolicaj-tigra-1.jpg"
 ---
 
 prevodilac:&nbsp;Jelena Radojičić

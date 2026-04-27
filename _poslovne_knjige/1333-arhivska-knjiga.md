@@ -2,6 +2,7 @@
 layout: article
 title: ARHIVSKA KNJIGA
 sku: 1333
+image: "/assets/images/1333/arhivska-knjiga-1.jpg"
 ---
 
 📚 **Arhivska knjiga – Sistematična evidencija arhivske građe i dokumentacije**

@@ -2,6 +2,7 @@
 layout: article
 title: L - NEKSUS - JUVAL NOA HARARI
 sku: 649
+image: "/assets/images/649/l-neksus-juval-noa-harari-1.jpg"
 ---
 
 Pisac globalnog bestselera&nbsp;_Sapijens_  

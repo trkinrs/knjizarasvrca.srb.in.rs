@@ -2,6 +2,7 @@
 layout: article
 title: POSTER
 sku: 745
+image: "/assets/images/745/poster-1.jpg"
 ---
 
 ➗ **Tablica Deljenja – Edukativni poster B2 formata**

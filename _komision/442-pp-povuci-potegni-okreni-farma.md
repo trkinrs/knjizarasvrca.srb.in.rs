@@ -2,6 +2,7 @@
 layout: article
 title: PP - POVUCI, POTEGNI, OKRENI - FARMA
 sku: 442
+image: "/assets/images/442/pp-povuci-potegni-okreni-farma-1.jpg"
 ---
 
 prevodilac:&nbsp;Jelena Radojičić

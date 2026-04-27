@@ -2,6 +2,7 @@
 layout: article
 title: PP - MOJA PRVA KNJIGA TORBICA - POD VODOM
 sku: 519
+image: "/assets/images/519/pp-moja-prva-knjiga-torbica-pod-vodom-1.jpg"
 ---
 
 prevodilac:&nbsp;Jelena Radojčić

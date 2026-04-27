@@ -2,6 +2,9 @@
 layout: article
 title: DRVENA BOJA 1/12 MAPED
 sku: 94
+image: "/assets/images/94/drvena-boja-1-12-maped-1.jpg"
+images:
+- "/assets/images/94/drvena-boja-1-12-maped-2.jpg"
 ---
 
 🖍️ **Drvene boje 1/12 Maped – Pouzdan kvalitet uz bogate boje**

@@ -2,6 +2,7 @@
 layout: article
 title: PODMETAC A/5
 sku: 1496
+image: "/assets/images/1496/podmetac-a-5-1.jpg"
 ---
 
 ### 📚 Podmetač za sveske A4 – Stabilna podloga za pisanje i crtanje

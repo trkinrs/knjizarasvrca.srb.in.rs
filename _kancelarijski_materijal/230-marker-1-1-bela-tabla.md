@@ -2,6 +2,9 @@
 layout: article
 title: MARKER 1/1 BELA TABLA
 sku: 230
+image: "/assets/images/230/marker-1-1-bela-tabla-1.jpg"
+images:
+- "/assets/images/230/marker-1-1-bela-tabla-2.jpg"
 ---
 
 🖊️ **Marker za belu tablu Pelikan – crveni, 1/1**

@@ -2,6 +2,9 @@
 layout: article
 title: LENJIR 30CM
 sku: 51
+image: "/assets/images/51/lenjir-30cm-1.jpg"
+images:
+- "/assets/images/51/lenjir-30cm-2.jpg"
 ---
 
 📏 **Lenjir 30 cm – Osnova svake pernice**

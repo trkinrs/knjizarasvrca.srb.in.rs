@@ -2,6 +2,9 @@
 layout: article
 title: KUTIJA SA TACNOM 6602
 sku: 3738
+image: "/assets/images/3738/kutija-sa-tacnom-6602-1.jpg"
+images:
+- "/assets/images/3738/kutija-sa-tacnom-6602-2.jpg"
 ---
 
 🎁 **Kutija sa tacnom – Elegantno i praktično pakovanje za vaše poslastice!**

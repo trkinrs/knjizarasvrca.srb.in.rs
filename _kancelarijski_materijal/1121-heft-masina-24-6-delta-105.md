@@ -2,6 +2,9 @@
 layout: article
 title: 'HEFT MASINA 24/6 DELTA 105 '
 sku: 1121
+image: "/assets/images/1121/heft-masina-24-6-delta-105-1.jpg"
+images:
+- "/assets/images/1121/heft-masina-24-6-delta-105-2.jpg"
 ---
 
 **📎 Heft mašina Delta 105 – Pouzdano rešenje za spajanje dokumenata**

@@ -2,6 +2,7 @@
 layout: article
 title: L - LAKU NOĆ, PUNPUNE 2 - INIO ASANO
 sku: 715
+image: "/assets/images/715/l-laku-noc-punpune-2-inio-asano-1.jpg"
 ---
 
 _Nastavak najpopularnije manga priče o odrastanju._  

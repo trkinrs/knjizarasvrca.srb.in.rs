@@ -2,6 +2,9 @@
 layout: article
 title: KOREKTOR TRAKA 12M
 sku: 669
+image: "/assets/images/669/korektor-traka-12m-1.jpg"
+images:
+- "/assets/images/669/korektor-traka-12m-2.jpg"
 ---
 
 🖌️ **Korektor četkica Edigs – Brzo, precizno i čisto ispravljanje grešaka!**

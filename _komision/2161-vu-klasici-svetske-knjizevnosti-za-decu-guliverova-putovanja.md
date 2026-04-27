@@ -2,6 +2,7 @@
 layout: article
 title: VU - KLASICI SVETSKE KNJIŽEVNOSTI ZA DECU - GULIVEROVA PUTOVANJA
 sku: 2161
+image: "/assets/images/2161/vu-klasici-svetske-knjizevnosti-za-decu-guliverova-putovanja-1.jpg"
 ---
 
 Zabavna bojanka za mališane!  

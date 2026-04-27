@@ -2,6 +2,7 @@
 layout: article
 title: L - LAKU NOĆ, PUNPUNE 1 - INIO ASANO
 sku: 712
+image: "/assets/images/712/l-laku-noc-punpune-1-inio-asano-1.jpg"
 ---
 
 _Laku noć, Punpune_&nbsp;priča o odrastanju običnog klinca u gradu kao i svakom drugom. Njegova porodica je disfunkcionalna, nije najbistriji ni najmarljiviji đak i jedino što mu ide od ruke je što može da razgovara sa Bogom kada god to poželi. Ipak, sve to će se promeniti kada u njegovo odeljenje dođe Aiko, a iz njegovog doma odu roditelji.  

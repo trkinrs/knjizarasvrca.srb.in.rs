@@ -2,6 +2,7 @@
 layout: article
 title: PP - 100 ZADATAKA 2 GODINE
 sku: 542
+image: "/assets/images/542/pp-100-zadataka-2-godine-1.jpg"
 ---
 
 prevodilac:&nbsp;Milica Gnjatović

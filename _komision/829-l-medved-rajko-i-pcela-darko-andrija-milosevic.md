@@ -2,6 +2,7 @@
 layout: article
 title: L - MEDVED RAJKO I PČELA DARKO - ANDRIJA MILOŠEVIĆ
 sku: 829
+image: "/assets/images/829/l-medved-rajko-i-pcela-darko-andrija-milosevic-1.jpg"
 ---
 
 **Slikovnica namenjena za male čitaoce.**

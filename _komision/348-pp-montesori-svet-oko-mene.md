@@ -2,6 +2,7 @@
 layout: article
 title: PP - MONTESORI - SVET OKO MENE
 sku: 348
+image: "/assets/images/348/pp-montesori-svet-oko-mene-1.jpg"
 ---
 
 prevodilac:&nbsp;Bojana Jovanović

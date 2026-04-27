@@ -2,6 +2,9 @@
 layout: article
 title: SESTAR SC
 sku: 1265
+image: "/assets/images/1265/sestar-sc-1.jpg"
+images:
+- "/assets/images/1265/sestar-sc-2.jpg"
 ---
 
 🩵 **Šestar S-cool PASTEL – Preciznost u nežnim bojama**

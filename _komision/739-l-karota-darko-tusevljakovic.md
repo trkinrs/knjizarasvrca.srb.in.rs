@@ -2,6 +2,7 @@
 layout: article
 title: L - KAROTA - DARKO TUŠEVLJAKOVIĆ
 sku: 739
+image: "/assets/images/739/l-karota-darko-tusevljakovic-1.jpg"
 ---
 
 Dobitnik Andrićeve nagrade i Nagrade Evropske unije za književnost.  

@@ -2,6 +2,7 @@
 layout: article
 title: PP - ZIVOTINJE OTKRIVALICE - DZUNGLA
 sku: 510
+image: "/assets/images/510/pp-zivotinje-otkrivalice-dzungla-1.jpg"
 ---
 
 prevodilac:&nbsp;Jelena Radijčić

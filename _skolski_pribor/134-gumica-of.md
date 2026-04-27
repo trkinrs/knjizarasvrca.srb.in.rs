@@ -2,6 +2,10 @@
 layout: article
 title: GUMICA OF
 sku: 134
+image: "/assets/images/134/gumica-of-1.jpg"
+images:
+- "/assets/images/134/gumica-of-2.jpg"
+- "/assets/images/134/gumica-of-3.jpg"
 ---
 
 **🧽 Gumica za brisanje S-cool Insert – Precizno i čisto brisanje svaki put**

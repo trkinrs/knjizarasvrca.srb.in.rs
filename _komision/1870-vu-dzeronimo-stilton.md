@@ -2,6 +2,7 @@
 layout: article
 title: VU - DZERONIMO STILTON
 sku: 1870
+image: "/assets/images/1870/vu-dzeronimo-stilton-1.jpg"
 ---
 
 NA SUPERTAJNOM OSTRVU KRIJE SE MISTERIJA… NEUNIŠTIVIH DINOSAURA!  

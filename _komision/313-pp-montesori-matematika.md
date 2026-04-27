@@ -2,6 +2,7 @@
 layout: article
 title: PP - MONTESORI MATEMATIKA
 sku: 313
+image: "/assets/images/313/pp-montesori-matematika-1.jpg"
 ---
 
 prevodilac:&nbsp;Bojana Jovanović

@@ -2,6 +2,7 @@
 layout: article
 title: VU - NEVEROVATNA STVORENJA
 sku: 3825
+image: "/assets/images/3825/vu-neverovatna-stvorenja-1.jpg"
 ---
 
 Dan kada je Kristofer spasao bebu grifona iz skrivenog jezera zauvek će promeniti njegov život. Upravo tada otkriva Arhipelag, skup od trideset četiri ostrva. To je tajno mesto na kome mitska stvorenja i dalje žive. Istog dana, Kristofer upoznaje devojčicu Mal.  

@@ -2,6 +2,9 @@
 layout: article
 title: JASTUČE ZA PEČAT 3
 sku: 110
+image: "/assets/images/110/jastuce-za-pecat-3-1.jpg"
+images:
+- "/assets/images/110/jastuce-za-pecat-3-2.jpg"
 ---
 
 🖍️ **Drvene boje 1/12 Jumbo S-cool – Veliki format, velika kreativnost!**

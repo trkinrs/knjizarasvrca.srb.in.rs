@@ -2,6 +2,7 @@
 layout: article
 title: L - DETE U TEBI MORA DA PRONAĐE SVOJ ZAVIČAJ - ŠTEFANI ŠTAL
 sku: 637
+image: "/assets/images/637/l-dete-u-tebi-mora-da-pronadje-svoj-zavicaj-stefani-stal-1.jpg"
 ---
 
 Štefani Štal je svojim bestselerom&nbsp;_Dete u tebi mora da pronađe svoj zavičaj_&nbsp;pomogla stotinama hiljada ljudi da otkriju značaj rada sa unutrašnjim detetom. Ova radna sveska sada donosi sveobuhvatan program za snažno ja.  

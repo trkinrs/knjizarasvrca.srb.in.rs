@@ -2,6 +2,7 @@
 layout: article
 title: VU - KITI I SPASAVANJE NA MESECINI
 sku: 1328
+image: "/assets/images/1328/vu-kiti-i-spasavanje-na-mesecini-1.jpg"
 ---
 
 Magična avantura na mesečini!  

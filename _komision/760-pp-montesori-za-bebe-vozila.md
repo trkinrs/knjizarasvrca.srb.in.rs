@@ -2,6 +2,7 @@
 layout: article
 title: PP - MONTESORI ZA BEBE - VOZILA
 sku: 760
+image: "/assets/images/760/pp-montesori-za-bebe-vozila-1.jpg"
 ---
 
 prevodilac:&nbsp;Milica Rakić

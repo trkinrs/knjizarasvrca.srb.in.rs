@@ -2,6 +2,7 @@
 layout: article
 title: L - ANĐEOSKO DRVO - LUSINDA RAJLI
 sku: 608
+image: "/assets/images/608/l-andjeosko-drvo-lusinda-rajli-1.jpg"
 ---
 
 Autorka bestseler serijala&nbsp;_Sedam sestara_  

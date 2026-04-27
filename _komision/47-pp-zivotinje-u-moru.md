@@ -2,6 +2,7 @@
 layout: article
 title: PP - ZIVOTINJE U MORU
 sku: 47
+image: "/assets/images/47/pp-zivotinje-u-moru-1.jpg"
 ---
 
 povez:&nbsp;tvrd

@@ -2,6 +2,7 @@
 layout: article
 title: PP - MOJ PRVI BUKVAR
 sku: 758
+image: "/assets/images/758/pp-moj-prvi-bukvar-1.jpg"
 ---
 
 povez:&nbsp;mek

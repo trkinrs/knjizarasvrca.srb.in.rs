@@ -2,6 +2,9 @@
 layout: article
 title: BATERIJE AA/AAA
 sku: 1415
+image: "/assets/images/1415/baterije-aa-aaa-1.jpg"
+images:
+- "/assets/images/1415/baterije-aa-aaa-2.jpg"
 ---
 
 🔋 **Baterija AAA Maxell alkalna**  

@@ -2,6 +2,9 @@
 layout: article
 title: TOUGAO PVC
 sku: 46
+image: "/assets/images/46/tougao-pvc-1.jpg"
+images:
+- "/assets/images/46/tougao-pvc-2.jpg"
 ---
 
 📐 **Trougao PVC – Preciznost u svakom uglu**

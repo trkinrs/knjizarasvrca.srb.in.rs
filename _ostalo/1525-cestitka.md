@@ -2,6 +2,9 @@
 layout: article
 title: ČESTITKA
 sku: 1525
+image: "/assets/images/1525/cestitka-1.jpg"
+images:
+- "/assets/images/1525/cestitka-2.jpg"
 ---
 
 💌 **Čestitka – Reči koje ostaju zauvek**

@@ -2,6 +2,7 @@
 layout: article
 title: TEMPERA 1/1 16ML
 sku: 68
+image: "/assets/images/68/tempera-1-1-16ml-1.jpg"
 ---
 
 ### 🎨 Tempere S-cool 16ml – Kreativnost bez granica!

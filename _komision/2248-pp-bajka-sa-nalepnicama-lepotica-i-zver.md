@@ -2,6 +2,7 @@
 layout: article
 title: PP - BAJKA SA NALEPNICAMA - LEPOTICA I ZVER
 sku: 2248
+image: "/assets/images/2248/pp-bajka-sa-nalepnicama-lepotica-i-zver-1.jpg"
 ---
 
 prevodilac:&nbsp;Milica Rakić

@@ -2,6 +2,9 @@
 layout: article
 title: RANAC SC
 sku: 221
+image: "/assets/images/221/ranac-sc-1.jpg"
+images:
+- "/assets/images/221/ranac-sc-2.jpg"
 ---
 
 ### 🎒 Školski ranac S-cool – Stil, udobnost i funkcionalnost za svaki školski dan!

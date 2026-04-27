@@ -2,6 +2,9 @@
 layout: article
 title: HOLOGRAPHIC 1ST B CUPCAKE BOY
 sku: 166
+image: "/assets/images/166/holographic-1st-b-cupcake-boy-1.jpg"
+images:
+- "/assets/images/166/holographic-1st-b-cupcake-boy-2.jpg"
 ---
 
 ### 🎂 Balon folija – Happy 1 Birthday

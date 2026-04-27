@@ -2,6 +2,9 @@
 layout: article
 title: PRIVEZAK KOZA
 sku: 1149
+image: "/assets/images/1149/privezak-koza-1.jpg"
+images:
+- "/assets/images/1149/privezak-koza-2.jpg"
 ---
 
 ### 🔑 Kožni privezak Falco – Elegancija u malom formatu

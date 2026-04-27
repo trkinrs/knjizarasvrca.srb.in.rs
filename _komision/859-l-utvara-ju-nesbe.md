@@ -2,6 +2,7 @@
 layout: article
 title: L - UTVARA - JU NESBE
 sku: 859
+image: "/assets/images/859/l-utvara-ju-nesbe-1.jpg"
 ---
 
 Najuži izbor za nagradu&nbsp;_Dagger_.&nbsp;  

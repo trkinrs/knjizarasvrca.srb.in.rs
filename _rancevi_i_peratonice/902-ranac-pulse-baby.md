@@ -2,6 +2,9 @@
 layout: article
 title: RANAC PULSE BABY
 sku: 902
+image: "/assets/images/902/ranac-pulse-baby-1.jpg"
+images:
+- "/assets/images/902/ranac-pulse-baby-2.jpg"
 ---
 
 ### 🐘 Ranac za vrtić Pulse – Slonče

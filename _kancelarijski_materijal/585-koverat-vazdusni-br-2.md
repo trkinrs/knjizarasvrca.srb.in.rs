@@ -2,6 +2,9 @@
 layout: article
 title: KOVERAT VAZDUSNI BR-2
 sku: 585
+image: "/assets/images/585/koverat-vazdusni-br-2-1.jpg"
+images:
+- "/assets/images/585/koverat-vazdusni-br-2-2.jpg"
 ---
 
 ✉️ **Vazdušni koverat A3 – Sigurna zaštita za tvoje pošiljke**

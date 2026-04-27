@@ -2,6 +2,9 @@
 layout: article
 title: MAKAZE EK 13,5CM
 sku: 419
+image: "/assets/images/419/makaze-ek-13-5cm-1.jpg"
+images:
+- "/assets/images/419/makaze-ek-13-5cm-2.jpg"
 ---
 
 ✂️ **Makaze ErichKrause – 13,5 cm**  

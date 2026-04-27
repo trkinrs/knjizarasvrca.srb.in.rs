@@ -2,6 +2,9 @@
 layout: article
 title: UKRASNA KESA XL
 sku: 264
+image: "/assets/images/264/ukrasna-kesa-xl-1.jpg"
+images:
+- "/assets/images/264/ukrasna-kesa-xl-2.jpg"
 ---
 
 ### 🎁 Ukrasna poklon kesa – XL veličina

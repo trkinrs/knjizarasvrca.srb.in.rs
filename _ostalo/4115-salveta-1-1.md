@@ -2,6 +2,9 @@
 layout: article
 title: SALVETA 1/1
 sku: 4115
+image: "/assets/images/4115/salveta-1-1-1.jpg"
+images:
+- "/assets/images/4115/salveta-1-1-2.jpg"
 ---
 
 **🎨 Salveta za dekupaž – Kreativni materijal za unikatne projekte**

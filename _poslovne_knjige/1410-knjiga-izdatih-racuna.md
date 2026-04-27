@@ -2,6 +2,9 @@
 layout: article
 title: KNJIGA IZDATIH RACUNA
 sku: 1410
+image: "/assets/images/1410/knjiga-izdatih-racuna-1.jpg"
+images:
+- "/assets/images/1410/knjiga-izdatih-racuna-2.jpg"
 ---
 
 📘 **Knjiga izdatih računa (KIR) – Pregled svih izlaznih prihoda na jednom mestu**

@@ -2,6 +2,9 @@
 layout: article
 title: FOLIJA BUS
 sku: 88
+image: "/assets/images/88/folija-bus-1.jpg"
+images:
+- "/assets/images/88/folija-bus-2.jpg"
 ---
 
 📁 **Folija za dokumenta**  

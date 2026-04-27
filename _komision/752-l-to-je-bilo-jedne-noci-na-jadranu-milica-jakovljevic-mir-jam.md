@@ -2,6 +2,7 @@
 layout: article
 title: L - TO JE BILO JEDNE NOĆI NA JADRANU - MILICA JAKOVLJEVIĆ MIR-JAM
 sku: 752
+image: "/assets/images/752/l-to-je-bilo-jedne-noci-na-jadranu-milica-jakovljevic-mir-jam-1.jpg"
 ---
 
 Krinka je nežna plavuša zamišljenog pogleda koja voli da čita i sanjari o egzotičnim gradovima. Njena sestra Lola je koketna crnka s kratkom dečačkom frizurom, koja želi da još jednom doživi pravu ljubav.  

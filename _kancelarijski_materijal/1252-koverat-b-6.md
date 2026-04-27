@@ -2,6 +2,7 @@
 layout: article
 title: KOVERAT B/6
 sku: 1252
+image: "/assets/images/1252/koverat-b-6-1.jpg"
 ---
 
 ## ✉️ Koverat Samolepljivi B6 Beli

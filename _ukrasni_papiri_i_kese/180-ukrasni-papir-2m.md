@@ -2,6 +2,9 @@
 layout: article
 title: UKRASNI PAPIR 2M
 sku: 180
+image: "/assets/images/180/ukrasni-papir-2m-1.jpg"
+images:
+- "/assets/images/180/ukrasni-papir-2m-2.jpg"
 ---
 
 🎁 **Ukrasni papir u rolni – Savršen za svako pakovanje!**

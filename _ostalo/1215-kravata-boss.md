@@ -2,6 +2,9 @@
 layout: article
 title: KRAVATA BOSS
 sku: 1215
+image: "/assets/images/1215/kravata-boss-1.jpg"
+images:
+- "/assets/images/1215/kravata-boss-2.jpg"
 ---
 
 👔 **Kravata BOSS – Elegancija u svakom detalju**

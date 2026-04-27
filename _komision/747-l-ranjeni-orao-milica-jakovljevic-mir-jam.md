@@ -2,6 +2,7 @@
 layout: article
 title: L - RANJENI ORAO - MILICA JAKOVLJEVIĆ MIR-JAM
 sku: 747
+image: "/assets/images/747/l-ranjeni-orao-milica-jakovljevic-mir-jam-1.jpg"
 ---
 
 Nakon što se uda za Tomu, ozbiljnog i patrijarhalnog sudiju iz Crne Gore, mlada i obrazovana Anđelka suočava se sa teškom životnom odlukom. Ispod površine njenog naizgled savršenog života krije se tajna iz prošlosti koja preti da uništi njen brak. Kada Toma otkrije istinu, dolazi do velike krize u njihovom odnosu. Anđelka se suočava sa poniženjem i gubitkom ljubavi istovremeno pokušavajući da nastavi dalje.  

@@ -2,6 +2,9 @@
 layout: article
 title: OL HB NORIS
 sku: 968
+image: "/assets/images/968/ol-hb-noris-1.jpg"
+images:
+- "/assets/images/968/ol-hb-noris-2.jpg"
 ---
 
 **✏️ Grafitna olovka HB S-cool – Pouzdano pisanje i kreativnost svakog dana**

@@ -2,6 +2,9 @@
 layout: article
 title: TEGIC 75G
 sku: 116
+image: "/assets/images/116/tegic-75g-1.jpg"
+images:
+- "/assets/images/116/tegic-75g-2.jpg"
 ---
 
 🎈 **Tegić za helijumske balone – Stabilnost sa stilom!**

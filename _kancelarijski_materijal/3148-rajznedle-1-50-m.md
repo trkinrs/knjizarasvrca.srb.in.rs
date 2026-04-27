@@ -2,6 +2,7 @@
 layout: article
 title: RAJZNEDLE 1/50 M
 sku: 3148
+image: "/assets/images/3148/rajznedle-1-50-m-1.jpg"
 ---
 
 **🔩 Rajsnadle zlatne – Elegantan i pouzdan izbor za vaše projekte**

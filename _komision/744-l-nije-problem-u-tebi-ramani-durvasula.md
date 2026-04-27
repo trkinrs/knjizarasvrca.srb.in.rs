@@ -2,6 +2,7 @@
 layout: article
 title: L - NIJE PROBLEM U TEBI - RAMANI DURVASULA
 sku: 744
+image: "/assets/images/744/l-nije-problem-u-tebi-ramani-durvasula-1.jpg"
 ---
 
 Bestseller&nbsp;_New York Timesa_  

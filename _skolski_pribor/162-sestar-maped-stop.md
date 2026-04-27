@@ -2,6 +2,9 @@
 layout: article
 title: SESTAR MAPED STOP
 sku: 162
+image: "/assets/images/162/sestar-maped-stop-1.jpg"
+images:
+- "/assets/images/162/sestar-maped-stop-2.jpg"
 ---
 
 ### 📐 Šestar Maped – Preciznost i kvalitet u blister pakovanju

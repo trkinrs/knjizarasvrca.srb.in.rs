@@ -2,6 +2,7 @@
 layout: article
 title: VU - MOJ BLOK PUN NALEPNICA
 sku: 1426
+image: "/assets/images/1426/vu-moj-blok-pun-nalepnica-1.webp"
 ---
 
 Ovaj zabavni blok sadrži više od 300 nalepnica, od kojih je preko 100 sjajnih, a neke možete koristiti iznova i iznova. Istisnite modele na istiskanje, igrajte različite igrice i rešite zadatke. Ispoljite svoju kreativnost i zabavite se!  

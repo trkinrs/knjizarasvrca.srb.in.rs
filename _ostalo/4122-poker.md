@@ -2,6 +2,9 @@
 layout: article
 title: POKER
 sku: 4122
+image: "/assets/images/4122/poker-1.jpg"
+images:
+- "/assets/images/4122/poker-2.jpg"
 ---
 
 🃏 **Društvena igra – Poker**  

@@ -2,6 +2,9 @@
 layout: article
 title: MINE 0,7 HB STABILO
 sku: 124
+image: "/assets/images/124/mine-0-7-hb-stabilo-1.jpg"
+images:
+- "/assets/images/124/mine-0-7-hb-stabilo-2.jpg"
 ---
 
 **✏️ Grafitna mina Stabilo 0.7 mm – Preciznost i pouzdanost u svakom potezu**

@@ -2,6 +2,9 @@
 layout: article
 title: VILJSUKE PVC 1/25
 sku: 1502
+image: "/assets/images/1502/viljsuke-pvc-1-25-1.jpg"
+images:
+- "/assets/images/1502/viljsuke-pvc-1-25-2.jpg"
 ---
 
 ### 🍴 Party PVC viljuške – Praktične i šarene za svaku proslavu

@@ -2,6 +2,9 @@
 layout: article
 title: TABLA PISI-BRISI
 sku: 2274
+image: "/assets/images/2274/tabla-pisi-brisi-1.jpg"
+images:
+- "/assets/images/2274/tabla-pisi-brisi-2.jpg"
 ---
 
 ### 🧽 Tabla Piši-Briši – Kreativnost i učenje bez ograničenja

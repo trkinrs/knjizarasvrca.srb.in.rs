@@ -2,6 +2,9 @@
 layout: article
 title: ČOVEČE NE LJUTI SE
 sku: 2758
+image: "/assets/images/2758/covece-ne-ljuti-se-1.jpg"
+images:
+- "/assets/images/2758/covece-ne-ljuti-se-2.jpg"
 ---
 
 🎲 **Društvena igra – Čoveče, ne ljuti se!**  

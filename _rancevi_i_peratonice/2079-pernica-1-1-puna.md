@@ -2,6 +2,9 @@
 layout: article
 title: PERNICA 1/1 PUNA
 sku: 2079
+image: "/assets/images/2079/pernica-1-1-puna-1.jpg"
+images:
+- "/assets/images/2079/pernica-1-1-puna-2.jpg"
 ---
 
 🎒 **Pernica sa 2 flipa – Organizacija na dohvat ruke!**

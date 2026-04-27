@@ -2,6 +2,7 @@
 layout: article
 title: PP - SVEMIR - KNJIGA AKTIVNOSTI
 sku: 412
+image: "/assets/images/412/pp-svemir-knjiga-aktivnosti-1.jpg"
 ---
 
 prevodilac:&nbsp;Jelena Radojičić

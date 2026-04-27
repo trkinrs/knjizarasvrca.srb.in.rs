@@ -2,6 +2,7 @@
 layout: article
 title: PP - POVUCI, POTEGNI, OKRENI - OKEAN
 sku: 449
+image: "/assets/images/449/pp-povuci-potegni-okreni-okean-1.jpg"
 ---
 
 prevodilac:&nbsp;Jelena Radojičić

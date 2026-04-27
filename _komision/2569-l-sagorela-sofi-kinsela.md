@@ -2,6 +2,9 @@
 layout: article
 title: L - SAGORELA - SOFI KINSELA
 sku: 2569
+image: "/assets/images/2569/l-sagorela-sofi-kinsela-1.jpg"
+images:
+- "/assets/images/2569/l-sagorela-sofi-kinsela-2.jpg"
 ---
 
 🎨 **Tempere 12ml 1/10 – Yollo**  

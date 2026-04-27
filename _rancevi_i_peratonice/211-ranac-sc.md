@@ -2,6 +2,9 @@
 layout: article
 title: RANAC SC
 sku: 211
+image: "/assets/images/211/ranac-sc-1.jpg"
+images:
+- "/assets/images/211/ranac-sc-2.jpg"
 ---
 
 ### 🎒 Školski ranac Upper-B – Savršen izbor za školu!

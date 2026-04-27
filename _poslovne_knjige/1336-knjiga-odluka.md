@@ -2,6 +2,9 @@
 layout: article
 title: KNJIGA ODLUKA
 sku: 1336
+image: "/assets/images/1336/knjiga-odluka-1.jpg"
+images:
+- "/assets/images/1336/knjiga-odluka-2.jpg"
 ---
 
 📘 **Knjiga odluka – Zvanična evidencija poslovnih odluka**

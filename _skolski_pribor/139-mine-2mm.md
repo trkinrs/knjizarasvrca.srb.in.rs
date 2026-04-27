@@ -2,6 +2,9 @@
 layout: article
 title: MINE 2MM
 sku: 139
+image: "/assets/images/139/mine-2mm-1.jpg"
+images:
+- "/assets/images/139/mine-2mm-2.jpg"
 ---
 
 **✏️ Mine 2mm S-cool – Savršen izbor za precizno pisanje i crtanje**

@@ -2,6 +2,7 @@
 layout: article
 title: L - SRBIN KOJEKUDE - BOJAN LJUBENOVIĆ
 sku: 834
+image: "/assets/images/834/l-srbin-kojekude-bojan-ljubenovic-1.jpg"
 ---
 
 Od autora bestselera&nbsp;_Ništa nije smešno_&nbsp;i&nbsp;_Da je bolje, ne bi valjalo._  

@@ -2,6 +2,7 @@
 layout: article
 title: 'PP - KNJIGA SA MAGNETIMA '
 sku: 401
+image: "/assets/images/401/pp-knjiga-sa-magnetima-1.jpg"
 ---
 
 prevodilac:&nbsp;Jelena Radojičić

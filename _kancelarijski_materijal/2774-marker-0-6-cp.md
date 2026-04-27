@@ -2,6 +2,9 @@
 layout: article
 title: MARKER 0,6 CP
 sku: 2774
+image: "/assets/images/2774/marker-0-6-cp-1.jpg"
+images:
+- "/assets/images/2774/marker-0-6-cp-2.jpg"
 ---
 
 🖊️ **CD Marker Centropen 0,6mm – Precizno pisanje na svim glatkim površinama**

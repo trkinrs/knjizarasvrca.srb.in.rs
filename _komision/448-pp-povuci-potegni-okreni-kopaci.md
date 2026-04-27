@@ -2,6 +2,7 @@
 layout: article
 title: PP - POVUCI, POTEGNI, OKRENI - KOPACI
 sku: 448
+image: "/assets/images/448/pp-povuci-potegni-okreni-kopaci-1.jpg"
 ---
 
 prevodilac:&nbsp;Jelena Radojičić

@@ -2,6 +2,9 @@
 layout: article
 title: MANIKIR SET DOLL
 sku: 3251
+image: "/assets/images/3251/manikir-set-doll-1.jpg"
+images:
+- "/assets/images/3251/manikir-set-doll-2.jpg"
 ---
 
 ### 💅 Manikir Set – Savršen za ulepšavanje i negu noktiju

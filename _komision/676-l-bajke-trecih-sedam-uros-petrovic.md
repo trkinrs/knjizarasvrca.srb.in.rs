@@ -2,6 +2,7 @@
 layout: article
 title: 'L - BAJKE : TREĆIH SEDAM - UROŠ PETROVIĆ'
 sku: 676
+image: "/assets/images/676/l-bajke-trecih-sedam-uros-petrovic-1.jpg"
 ---
 
 „Kroz bajke deca uče najvažnije lekcije o životu.“  

@@ -2,6 +2,9 @@
 layout: article
 title: MAGNET SENDVIC/CUP
 sku: 2050
+image: "/assets/images/2050/magnet-sendvic-cup-1.jpg"
+images:
+- "/assets/images/2050/magnet-sendvic-cup-2.jpg"
 ---
 
 🧲 **Ukrasni magnet – Mali detalj, velika poruka!**

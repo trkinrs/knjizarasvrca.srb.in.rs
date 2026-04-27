@@ -2,6 +2,9 @@
 layout: article
 title: RAČUNALJKA PVC
 sku: 2125
+image: "/assets/images/2125/racunaljka-pvc-1.jpg"
+images:
+- "/assets/images/2125/racunaljka-pvc-2.jpg"
 ---
 
 ### 🔢 Računaljka PVC – Klasična pomoć u računanju

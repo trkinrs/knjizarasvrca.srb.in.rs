@@ -2,6 +2,9 @@
 layout: article
 title: KISOBRAN
 sku: 1353
+image: "/assets/images/1353/kisobran-1.jpg"
+images:
+- "/assets/images/1353/kisobran-2.jpg"
 ---
 
 🌧️ **Dečiji Kišobran S-cool – Veseli dizajn za kišne dane!**  

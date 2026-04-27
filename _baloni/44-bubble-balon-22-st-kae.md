@@ -2,6 +2,9 @@
 layout: article
 title: BUBBLE BALON 22" ST/KAE
 sku: 44
+image: "/assets/images/44/bubble-balon-22-st-kae-1.jpg"
+images:
+- "/assets/images/44/bubble-balon-22-st-kae-2.jpg"
 ---
 
 🎈 **Qualatex balon za helijum – Profesionalni baloni za nezaboravne proslave**

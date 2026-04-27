@@ -2,6 +2,9 @@
 layout: article
 title: STALAK ZA SELOTEJP OF185
 sku: 537
+image: "/assets/images/537/stalak-za-selotejp-of185-1.jpg"
+images:
+- "/assets/images/537/stalak-za-selotejp-of185-2.jpg"
 ---
 
 📦 **Stalak za selotejp 15x33 Offishop**  

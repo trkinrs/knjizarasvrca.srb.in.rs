@@ -2,6 +2,9 @@
 layout: article
 title: DRVENA BOJA 1/12 SC
 sku: 95
+image: "/assets/images/95/drvena-boja-1-12-sc-1.jpg"
+images:
+- "/assets/images/95/drvena-boja-1-12-sc-2.jpg"
 ---
 
 🖍️ **Drvene boje 1/12 S-cool – Klasika u boji za svakodnevnu kreativnost**

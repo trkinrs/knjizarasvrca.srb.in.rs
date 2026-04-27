@@ -2,6 +2,9 @@
 layout: article
 title: KOVERAT BOJA
 sku: 1797
+image: "/assets/images/1797/koverat-boja-1.jpg"
+images:
+- "/assets/images/1797/koverat-boja-2.jpg"
 ---
 
 **✉️ Koverat B/6 Ljubičasta – Elegantna i sofisticirana opcija za vaše pošiljke**

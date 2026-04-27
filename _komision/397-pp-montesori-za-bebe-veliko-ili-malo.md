@@ -2,6 +2,7 @@
 layout: article
 title: PP - MONTESORI ZA BEBE - VELIKO ILI MALO
 sku: 397
+image: "/assets/images/397/pp-montesori-za-bebe-veliko-ili-malo-1.jpg"
 ---
 
 prevodilac:&nbsp;Jelena Radojičić

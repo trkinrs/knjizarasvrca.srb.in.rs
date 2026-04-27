@@ -2,6 +2,7 @@
 layout: article
 title: PP - UČIM DA PIŠEM PISANA LATINICA
 sku: 281
+image: "/assets/images/281/pp-ucim-da-pisem-pisana-latinica-1.jpg"
 ---
 
 povez:&nbsp;mek

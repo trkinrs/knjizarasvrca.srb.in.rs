@@ -2,6 +2,9 @@
 layout: article
 title: UKRASNA KESA
 sku: 389
+image: "/assets/images/389/ukrasna-kesa-1.jpg"
+images:
+- "/assets/images/389/ukrasna-kesa-2.jpg"
 ---
 
 ### 🛍️ Ukrasna kesa za flaše – Elegantno pakovanje za svaki poklon

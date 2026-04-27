@@ -2,6 +2,9 @@
 layout: article
 title: TORBA ZA BLOK V
 sku: 3036
+image: "/assets/images/3036/torba-za-blok-v-1.jpg"
+images:
+- "/assets/images/3036/torba-za-blok-v-2.jpg"
 ---
 
 * * *

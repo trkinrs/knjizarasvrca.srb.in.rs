@@ -2,6 +2,7 @@
 layout: article
 title: PP - PREVOZNA SREDSTVA - KARTONSKA SLIKOVNICA
 sku: 487
+image: "/assets/images/487/pp-prevozna-sredstva-kartonska-slikovnica-1.jpg"
 ---
 
 povez:&nbsp;tvrd

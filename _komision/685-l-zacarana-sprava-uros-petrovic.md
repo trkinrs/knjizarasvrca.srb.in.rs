@@ -2,6 +2,7 @@
 layout: article
 title: L - ZAČARANA SPRAVA - UROŠ PETROVIĆ
 sku: 685
+image: "/assets/images/685/l-zacarana-sprava-uros-petrovic-1.jpg"
 ---
 
 Ilustrovala Ana Grigorjev  

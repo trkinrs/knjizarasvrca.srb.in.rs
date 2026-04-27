@@ -2,6 +2,7 @@
 layout: article
 title: FLASICA ZA VODU URBAN
 sku: 1296
+image: "/assets/images/1296/flasica-za-vodu-urban-1.jpg"
 ---
 
 ### 🚰 Flašica za vodu Urban

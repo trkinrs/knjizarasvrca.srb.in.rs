@@ -2,6 +2,7 @@
 layout: article
 title: PP - UČIMO S LJUBAVLJU - BIĆU HRABRA!
 sku: 762
+image: "/assets/images/762/pp-ucimo-s-ljubavlju-bicu-hrabra-1.jpg"
 ---
 
 prevodilac:&nbsp;Jelena Radojičić

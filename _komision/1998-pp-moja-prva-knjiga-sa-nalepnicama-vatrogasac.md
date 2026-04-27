@@ -2,6 +2,7 @@
 layout: article
 title: PP - MOJA PRVA KNJIGA SA NALEPNICAMA - VATROGASAC
 sku: 1998
+image: "/assets/images/1998/pp-moja-prva-knjiga-sa-nalepnicama-vatrogasac-1.jpg"
 ---
 
 prevodilac:&nbsp;Ana Miletić

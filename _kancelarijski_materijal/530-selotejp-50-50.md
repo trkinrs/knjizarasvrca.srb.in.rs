@@ -2,6 +2,9 @@
 layout: article
 title: 'SELOTEJP 50/50 '
 sku: 530
+image: "/assets/images/530/selotejp-50-50-1.jpg"
+images:
+- "/assets/images/530/selotejp-50-50-2.jpg"
 ---
 
 ### 📦 Selotejp 50/50 Mat – Diskretno i Efikasno Lepljenje

@@ -2,6 +2,7 @@
 layout: article
 title: L - KRALJ USA - JU NESBE
 sku: 894
+image: "/assets/images/894/l-kralj-usa-ju-nesbe-1.jpg"
 ---
 
 Autor čiji su romani prodati u preko 60 miliona primeraka.  

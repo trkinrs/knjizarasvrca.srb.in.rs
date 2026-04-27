@@ -2,6 +2,7 @@
 layout: article
 title: PP - BEBINE PRVE PRICE - 0-3 MESECA
 sku: 455
+image: "/assets/images/455/pp-bebine-prve-price-0-3-meseca-1.jpg"
 ---
 
 prevodilac:&nbsp;Jelena Radojičić

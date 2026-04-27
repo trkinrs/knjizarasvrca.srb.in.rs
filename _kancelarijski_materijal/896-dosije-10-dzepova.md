@@ -2,6 +2,11 @@
 layout: article
 title: DOSIJE 10 DZEPOVA
 sku: 896
+image: "/assets/images/896/dosije-10-dzepova-1.jpg"
+images:
+- "/assets/images/896/dosije-10-dzepova-2.jpg"
+- "/assets/images/896/dosije-10-dzepova-3.jpg"
+- "/assets/images/896/dosije-10-dzepova-4.jpg"
 ---
 
 📁 **Fascikla mapa sa 10 U folija – Organizacija koja štedi vreme**

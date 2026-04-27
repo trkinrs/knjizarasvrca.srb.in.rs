@@ -2,6 +2,7 @@
 layout: article
 title: PP - PREVUCI I OTKRIJ - ZBOGOM CUCLO
 sku: 421
+image: "/assets/images/421/pp-prevuci-i-otkrij-zbogom-cuclo-1.jpg"
 ---
 
 ilustrator:&nbsp;Džesika Antonini

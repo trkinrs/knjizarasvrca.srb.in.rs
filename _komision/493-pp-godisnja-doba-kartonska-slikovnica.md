@@ -2,6 +2,7 @@
 layout: article
 title: PP - GODISNJA DOBA - KARTONSKA SLIKOVNICA
 sku: 493
+image: "/assets/images/493/pp-godisnja-doba-kartonska-slikovnica-1.jpg"
 ---
 
 povez:&nbsp;tvrd

@@ -2,6 +2,7 @@
 layout: article
 title: VU - SUMSKA SKOLA ZA VILE
 sku: 2211
+image: "/assets/images/2211/vu-sumska-skola-za-vile-1.jpg"
 ---
 
 Mala Popi je krenula u Hrastova krila, magičnu školu za vile, u kojoj uče da brinu o prirodi i stanovnicima šume. Sada je došlo vreme za Vilinski sajam, na kom vile i životinje razmenjuju hranu za predstojeću zimu.  

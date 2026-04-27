@@ -2,6 +2,7 @@
 layout: article
 title: DOZVOLJENO PUSENJE A/4
 sku: 2961
+image: "/assets/images/2961/dozvoljeno-pusenje-a-4-1.jpg"
 ---
 
 ### 🚬 Nalepnica A4 – "Dozvoljeno pušenje"

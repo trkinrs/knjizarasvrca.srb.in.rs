@@ -2,6 +2,13 @@
 layout: article
 title: CASA ZICANA
 sku: 613
+image: "/assets/images/613/casa-zicana-1.jpg"
+images:
+- "/assets/images/613/casa-zicana-2.jpg"
+- "/assets/images/613/casa-zicana-3.jpg"
+- "/assets/images/613/casa-zicana-4.jpg"
+- "/assets/images/613/casa-zicana-5.jpg"
+- "/assets/images/613/casa-zicana-6.jpg"
 ---
 
 ### 🖊️ Okrugla Žičana Čaša za Olovke – Elegantan dodatak svakom radnom stolu

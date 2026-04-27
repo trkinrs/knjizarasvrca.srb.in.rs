@@ -2,6 +2,9 @@
 layout: article
 title: RODJENDANSKA SVECICA LOVE
 sku: 1188
+image: "/assets/images/1188/rodjendanska-svecica-love-1.jpg"
+images:
+- "/assets/images/1188/rodjendanska-svecica-love-2.jpg"
 ---
 
 🎉 **Rođendanska svećica – Začini svaki rođendan!** 🕯️

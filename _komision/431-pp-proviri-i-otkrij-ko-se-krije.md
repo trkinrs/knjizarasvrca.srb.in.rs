@@ -2,6 +2,7 @@
 layout: article
 title: PP - PROVIRI I OTKRIJ KO SE KRIJE
 sku: 431
+image: "/assets/images/431/pp-proviri-i-otkrij-ko-se-krije-1.jpg"
 ---
 
 prevodilac:&nbsp;Jelena Radojičić

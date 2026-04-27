@@ -2,6 +2,9 @@
 layout: article
 title: PERNICA SC
 sku: 3314
+image: "/assets/images/3314/pernica-sc-1.jpg"
+images:
+- "/assets/images/3314/pernica-sc-2.jpg"
 ---
 
 ### 🎒 Pernica S-cool – Moderan i praktičan školski dodatak

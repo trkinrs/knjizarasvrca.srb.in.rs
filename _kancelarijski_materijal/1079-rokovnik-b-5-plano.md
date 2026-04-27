@@ -2,6 +2,9 @@
 layout: article
 title: ROKOVNIK B/5 PLANO
 sku: 1079
+image: "/assets/images/1079/rokovnik-b-5-plano-1.jpg"
+images:
+- "/assets/images/1079/rokovnik-b-5-plano-2.jpg"
 ---
 
 **📓 Rokovnik B/5 Pure – Elegantno i praktično rešenje za organizaciju**

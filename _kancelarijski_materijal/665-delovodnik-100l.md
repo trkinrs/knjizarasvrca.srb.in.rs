@@ -2,6 +2,10 @@
 layout: article
 title: DELOVODNIK 100L
 sku: 665
+image: "/assets/images/665/delovodnik-100l-1.jpg"
+images:
+- "/assets/images/665/delovodnik-100l-2.jpg"
+- "/assets/images/665/delovodnik-100l-3.jpg"
 ---
 
 💳 **Futrola za kartice – Sigurno i organizovano čuvanje najvažnijih kartica**

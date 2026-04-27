@@ -2,6 +2,9 @@
 layout: article
 title: ISTORIJSKI ATLAS
 sku: 511
+image: "/assets/images/511/istorijski-atlas-1.jpg"
+images:
+- "/assets/images/511/istorijski-atlas-2.jpg"
 ---
 
 📚 **Istorijski atlas za osnovnu školu**  

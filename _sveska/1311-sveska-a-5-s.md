@@ -2,6 +2,9 @@
 layout: article
 title: SVESKA A/5 S
 sku: 1311
+image: "/assets/images/1311/sveska-a-5-s-1.jpg"
+images:
+- "/assets/images/1311/sveska-a-5-s-2.jpg"
 ---
 
 📓 **Sveska A5 spirala – Praktična i moderna za svaki dan**

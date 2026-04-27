@@ -2,6 +2,7 @@
 layout: article
 title: L - NADA - ANTE TOMIĆ
 sku: 624
+image: "/assets/images/624/l-nada-ante-tomic-1.jpg"
 ---
 
 „Na početku bijaše brodolom iz kojeg je jedan mladić jedva izvukao živu glavu nasukavši se na obali mjestašca poznatog po zaštitnici svetoj Margareti, zaduženoj za čudotvorno povećanje nataliteta. Ali ovdje su se onda i druga čuda dogodila. Magarci su oglašavali seksualne aktivnosti, Srbi i Hrvati dijelili postelju, Aco Stanković pojavio se na smokvi umjesto na televiziji… Samo Ante Tomić može izmisliti ovako urnebesan svijet a da u njega povjerujemo kao da je prepisan iz stvarnosti. Zato je&nbsp;_Nada&nbsp;_roman koji nam vraća nadu da se neke neželjene pojave u društvu mogu preobratiti na humor, da sretni krajevi postoje i izvan fikcije.“  

@@ -2,6 +2,7 @@
 layout: article
 title: L - SRBIJO BOG TI POMOGO - BOJAN LJUBENOVIĆ
 sku: 812
+image: "/assets/images/812/l-srbijo-bog-ti-pomogo-bojan-ljubenovic-1.jpg"
 ---
 
 Dnevnik jednog seljaka  

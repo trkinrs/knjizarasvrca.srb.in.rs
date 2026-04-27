@@ -2,6 +2,9 @@
 layout: article
 title: SVESKA A/4 TP 500L
 sku: 71
+image: "/assets/images/71/sveska-a-4-tp-500l-1.jpg"
+images:
+- "/assets/images/71/sveska-a-4-tp-500l-2.jpg"
 ---
 
 📘 **Sveska A4 TP – 500 listova za velike ideje**

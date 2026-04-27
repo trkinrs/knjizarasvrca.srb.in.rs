@@ -2,6 +2,7 @@
 layout: article
 title: KREDA BELA 1/100 M/G
 sku: 2566
+image: "/assets/images/2566/kreda-bela-1-100-m-g-1.jpg"
 ---
 
 **Naziv proizvoda:** Giotto Bela Kreda – Pakovanje od 100 komada

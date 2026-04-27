@@ -2,6 +2,7 @@
 layout: article
 title: L - TOPLINA GNEZDA KOJA DAJE KRILA - ŠTEFANI ŠTAL I JULIJA TOMUŠAT
 sku: 642
+image: "/assets/images/642/l-toplina-gnezda-koja-daje-krila-stefani-stal-i-julija-tomusat-1.jpg"
 ---
 
 _Kako pružiti oslonac i dati slobodu – Kako vaspitavati bez vaspitavanja_  

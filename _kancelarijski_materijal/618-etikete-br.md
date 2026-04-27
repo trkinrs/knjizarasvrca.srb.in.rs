@@ -2,6 +2,7 @@
 layout: article
 title: ETIKETE BR
 sku: 618
+image: "/assets/images/618/etikete-br-1.jpg"
 ---
 
 **Naziv proizvoda:** Samolepljive Etikete br.84 – 21×12 mm, Pakovanje od 5 listova

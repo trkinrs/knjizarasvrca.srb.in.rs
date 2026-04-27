@@ -2,6 +2,7 @@
 layout: article
 title: L - OJAČAJ SAMOPOUZDANJE - ŠTEFANI ŠTAL
 sku: 651
+image: "/assets/images/651/l-ojacaj-samopouzdanje-stefani-stal-1.jpg"
 ---
 
 Autorka bestseler serijala&nbsp;_Sedam sestara_.  

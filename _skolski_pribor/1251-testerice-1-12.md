@@ -2,6 +2,9 @@
 layout: article
 title: TESTERICE 1/12
 sku: 1251
+image: "/assets/images/1251/testerice-1-12-1.jpg"
+images:
+- "/assets/images/1251/testerice-1-12-2.jpg"
 ---
 
 🪚 **Testerice za šperploču – Precizno sečenje uz lakoću i kontrolu**

@@ -2,6 +2,7 @@
 layout: article
 title: PP - VOZIMO SE
 sku: 235
+image: "/assets/images/235/pp-vozimo-se-1.jpg"
 ---
 
 povez:&nbsp;tvrd

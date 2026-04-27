@@ -2,6 +2,7 @@
 layout: article
 title: BLOKCIC
 sku: 1414
+image: "/assets/images/1414/blokcic-1.jpg"
 ---
 
 🧲 **Ukrasni magnet – Mali detalj, velika poruka!**

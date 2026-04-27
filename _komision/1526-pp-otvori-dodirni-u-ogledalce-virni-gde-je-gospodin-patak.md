@@ -2,6 +2,7 @@
 layout: article
 title: PP - OTVORI, DODIRNI U OGLEDALCE VIRNI! GDE JE GOSPODIN PATAK?
 sku: 1526
+image: "/assets/images/1526/pp-otvori-dodirni-u-ogledalce-virni-gde-je-gospodin-patak-1.jpg"
 ---
 
 ## Opis:

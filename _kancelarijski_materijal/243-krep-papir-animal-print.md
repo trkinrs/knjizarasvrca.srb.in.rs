@@ -2,6 +2,9 @@
 layout: article
 title: KREP PAPIR ANIMAL PRINT
 sku: 243
+image: "/assets/images/243/krep-papir-animal-print-1.jpg"
+images:
+- "/assets/images/243/krep-papir-animal-print-2.jpg"
 ---
 
 **Naziv proizvoda:** Krep Papir 200\*50 cm – Za Kreativne Projekte i Dekoracije

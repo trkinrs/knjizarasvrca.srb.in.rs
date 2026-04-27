@@ -2,6 +2,7 @@
 layout: article
 title: PP - KNJIGE ZA DEVOJCICE SA VISE OD 1000 NALEPNICA
 sku: 296
+image: "/assets/images/296/pp-knjige-za-devojcice-sa-vise-od-1000-nalepnica-1.jpg"
 ---
 
 povez:&nbsp;mek

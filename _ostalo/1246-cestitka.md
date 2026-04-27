@@ -2,6 +2,9 @@
 layout: article
 title: CESTITKA
 sku: 1246
+image: "/assets/images/1246/cestitka-1.jpg"
+images:
+- "/assets/images/1246/cestitka-2.jpg"
 ---
 
 ### 💌 Čestitka – Mali znak pažnje, velika poruka srca

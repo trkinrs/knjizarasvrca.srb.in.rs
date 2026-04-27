@@ -2,6 +2,9 @@
 layout: article
 title: CD R VERBATIM
 sku: 3787
+image: "/assets/images/3787/cd-r-verbatim-1.jpg"
+images:
+- "/assets/images/3787/cd-r-verbatim-2.jpg"
 ---
 
 **💿 CD-R Verbatim – Pouzdana i visokokvalitetna opcija za snimanje podataka**

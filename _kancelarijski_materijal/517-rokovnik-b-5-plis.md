@@ -2,6 +2,9 @@
 layout: article
 title: ROKOVNIK B/5 PLIŠ
 sku: 517
+image: "/assets/images/517/rokovnik-b-5-plis-1.jpg"
+images:
+- "/assets/images/517/rokovnik-b-5-plis-2.jpg"
 ---
 
 ## 📔 Rokovnik B5 Pliš

@@ -2,6 +2,9 @@
 layout: article
 title: MARKER CP
 sku: 267
+image: "/assets/images/267/marker-cp-1.jpg"
+images:
+- "/assets/images/267/marker-cp-2.jpg"
 ---
 
 🖊️ **Marker Centropen s oblim vrhom – plavi**

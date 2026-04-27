@@ -2,6 +2,9 @@
 layout: article
 title: STALAK ZA SELOTEJP OF186
 sku: 538
+image: "/assets/images/538/stalak-za-selotejp-of186-1.jpg"
+images:
+- "/assets/images/538/stalak-za-selotejp-of186-2.jpg"
 ---
 
 📎 **Stalak za selotejp 15×33 – DL Office**  

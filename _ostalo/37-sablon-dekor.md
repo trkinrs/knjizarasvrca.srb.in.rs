@@ -2,6 +2,9 @@
 layout: article
 title: SABLON DEKOR
 sku: 37
+image: "/assets/images/37/sablon-dekor-1.jpg"
+images:
+- "/assets/images/37/sablon-dekor-2.jpg"
 ---
 
 🎨 **Šabloni za crtanje po staklu – Kreativnost bez granica**

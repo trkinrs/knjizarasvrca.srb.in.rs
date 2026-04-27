@@ -2,6 +2,7 @@
 layout: article
 title: PP - UČIM DA PIŠEM ŠTAMPANA ĆIRILICA
 sku: 274
+image: "/assets/images/274/pp-ucim-da-pisem-stampana-cirilica-1.jpg"
 ---
 
 povez:&nbsp;mek

@@ -2,6 +2,7 @@
 layout: article
 title: VU - MOJA MALENA BOJANKA
 sku: 2150
+image: "/assets/images/2150/vu-moja-malena-bojanka-1.webp"
 ---
 
 Mališani će uživati u bojankama malog formata koje će moći da ponesu svuda sa sobom. Sate zabave pružiće im ljupki crteži životinja – od kameleona, kravice, nosoroga i ovčica, pa sve do morskih zvezda.  

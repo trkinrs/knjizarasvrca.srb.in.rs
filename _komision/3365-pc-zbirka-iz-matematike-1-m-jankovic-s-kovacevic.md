@@ -2,6 +2,9 @@
 layout: article
 title: PČ - ZBIRKA IZ MATEMATIKE 1 - M.JANKOVIĆ, S.KOVAČEVIĆ
 sku: 3365
+image: "/assets/images/3365/pc-zbirka-iz-matematike-1-m-jankovic-s-kovacevic-1.jpg"
+images:
+- "/assets/images/3365/pc-zbirka-iz-matematike-1-m-jankovic-s-kovacevic-2.jpg"
 ---
 
 🔋 **Panasonic LR3 AAA Alkalna Baterija – Pouzdana energija za svakodnevnu upotrebu**

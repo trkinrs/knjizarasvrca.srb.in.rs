@@ -2,6 +2,7 @@
 layout: article
 title: PP - MONTESORI ZA BEBE - BASTA
 sku: 398
+image: "/assets/images/398/pp-montesori-za-bebe-basta-1.jpg"
 ---
 
 prevodilac:&nbsp;Jelena Radojičić

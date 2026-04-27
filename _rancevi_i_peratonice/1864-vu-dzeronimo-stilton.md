@@ -2,6 +2,7 @@
 layout: article
 title: VU - DZERONIMO STILTON
 sku: 1864
+image: "/assets/images/1864/vu-dzeronimo-stilton-1.jpg"
 ---
 
 Dragi mišići, jeste li čuli za moje knjige?  

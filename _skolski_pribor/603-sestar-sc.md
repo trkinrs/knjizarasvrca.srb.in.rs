@@ -2,6 +2,9 @@
 layout: article
 title: SESTAR SC
 sku: 603
+image: "/assets/images/603/sestar-sc-1.jpg"
+images:
+- "/assets/images/603/sestar-sc-2.jpg"
 ---
 
 📏 **Šestar S-cool – Preciznost i stil za školske zadatke**

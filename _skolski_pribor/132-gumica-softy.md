@@ -2,6 +2,9 @@
 layout: article
 title: GUMICA SOFTY
 sku: 132
+image: "/assets/images/132/gumica-softy-1.jpg"
+images:
+- "/assets/images/132/gumica-softy-2.jpg"
 ---
 
 🧼 **Gumica Maped Softy – Nežno briše, bez tragova**

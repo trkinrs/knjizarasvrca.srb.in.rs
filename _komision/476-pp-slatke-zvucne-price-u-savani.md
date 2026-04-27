@@ -2,6 +2,7 @@
 layout: article
 title: PP - SLATKE ZVUCNE PRICE - U SAVANI
 sku: 476
+image: "/assets/images/476/pp-slatke-zvucne-price-u-savani-1.jpg"
 ---
 
 prevodilac:&nbsp;Jelena Radojičić

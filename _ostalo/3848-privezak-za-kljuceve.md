@@ -2,6 +2,9 @@
 layout: article
 title: PRIVEZAK ZA KLJUCEVE
 sku: 3848
+image: "/assets/images/3848/privezak-za-kljuceve-1.jpg"
+images:
+- "/assets/images/3848/privezak-za-kljuceve-2.jpg"
 ---
 
 ### 🔑 Metalni privezak za ključeve – Uz dozu humora, ključevi nikad nisu dosadni!

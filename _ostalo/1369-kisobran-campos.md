@@ -2,6 +2,9 @@
 layout: article
 title: KISOBRAN CAMPOS
 sku: 1369
+image: "/assets/images/1369/kisobran-campos-1.jpg"
+images:
+- "/assets/images/1369/kisobran-campos-2.jpg"
 ---
 
 🌂 **Sklopivi kišobran Campos**  

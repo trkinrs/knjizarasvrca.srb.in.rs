@@ -2,6 +2,7 @@
 layout: article
 title: PP - BAJKA SA NALEPNICAMA - MAČAK U ČIZMAMA
 sku: 2145
+image: "/assets/images/2145/pp-bajka-sa-nalepnicama-macak-u-cizmama-1.jpg"
 ---
 
 prevodilac:&nbsp;Milica Rakić

@@ -2,6 +2,9 @@
 layout: article
 title: PRVARICA
 sku: 130
+image: "/assets/images/130/prvarica-1.jpg"
+images:
+- "/assets/images/130/prvarica-2.jpg"
 ---
 
 📒 **Sveska prvarica A5**  

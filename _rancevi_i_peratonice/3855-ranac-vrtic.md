@@ -2,6 +2,9 @@
 layout: article
 title: RANAC VRTIC
 sku: 3855
+image: "/assets/images/3855/ranac-vrtic-1.jpg"
+images:
+- "/assets/images/3855/ranac-vrtic-2.jpg"
 ---
 
 ### 🎒 Ranac za vrtić – Prvi koraci uz osmeh i stil!

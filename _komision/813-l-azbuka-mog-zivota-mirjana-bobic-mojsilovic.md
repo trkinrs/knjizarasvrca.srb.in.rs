@@ -2,6 +2,7 @@
 layout: article
 title: L - AZBUKA MOG ŽIVOTA - MIRJANA BOBIĆ MOJSILOVIĆ
 sku: 813
+image: "/assets/images/813/l-azbuka-mog-zivota-mirjana-bobic-mojsilovic-1.jpg"
 ---
 
 _P, kao panika. Drhtim. Pariz. Poslednji tango u Parizu. Zamišljam da je mrtav, da leži tu, u dnevnoj sobi: Marlon Brando kleči kraj odra svoje voljene neverne žene i priča joj. P, preživeću. P, kao priča. P, kao pričest. Kao plač. S, strah. Snovi, sin. N, neizvesnost. K, košulje, njegove košulje, ispeglane. P, pakovanje. Peglanje. Z, zauvek. ’Ovaj put zauvek’, kao u onoj pesmi. Z, zbogom. Zvaću te. K, kofer, samsonajt. Kravate. O, oprosti._  

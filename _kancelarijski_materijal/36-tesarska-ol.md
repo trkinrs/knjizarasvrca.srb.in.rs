@@ -2,6 +2,9 @@
 layout: article
 title: TESARSKA OL
 sku: 36
+image: "/assets/images/36/tesarska-ol-1.jpg"
+images:
+- "/assets/images/36/tesarska-ol-2.jpg"
 ---
 
 ✏️ **Drvena tesarska olovka – Pouzdana za svaki građevinski zadatak**

@@ -2,6 +2,9 @@
 layout: article
 title: PERNICA URBAN 1 ZIP
 sku: 3975
+image: "/assets/images/3975/pernica-urban-1-zip-1.jpg"
+images:
+- "/assets/images/3975/pernica-urban-1-zip-2.jpg"
 ---
 
 ### ✏️ Pernica Urban – 1 rajsferšlus, maksimum praktičnosti

@@ -2,6 +2,9 @@
 layout: article
 title: NALOG MAGACINU DA IZDA
 sku: 847
+image: "/assets/images/847/nalog-magacinu-da-izda-1.jpg"
+images:
+- "/assets/images/847/nalog-magacinu-da-izda-2.jpg"
 ---
 
 ## Nalog Magacinu da Izda A5

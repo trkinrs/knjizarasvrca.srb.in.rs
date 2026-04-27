@@ -2,6 +2,9 @@
 layout: article
 title: UVIJAC A/5
 sku: 57
+image: "/assets/images/57/uvijac-a-5-1.jpg"
+images:
+- "/assets/images/57/uvijac-a-5-2.jpg"
 ---
 
 📚 **Uvijač za sveske A/5 – Praktična zaštita i urednost**

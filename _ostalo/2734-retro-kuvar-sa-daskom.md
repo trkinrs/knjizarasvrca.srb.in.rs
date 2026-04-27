@@ -2,6 +2,9 @@
 layout: article
 title: RETRO KUVAR SA DASKOM
 sku: 2734
+image: "/assets/images/2734/retro-kuvar-sa-daskom-1.jpg"
+images:
+- "/assets/images/2734/retro-kuvar-sa-daskom-2.jpg"
 ---
 
 🍼 Bebi Kuvar B5 – Prvi koraci u svetu zdravih obroka  

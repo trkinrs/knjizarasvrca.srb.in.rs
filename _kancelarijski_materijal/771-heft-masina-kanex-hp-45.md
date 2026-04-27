@@ -2,6 +2,9 @@
 layout: article
 title: HEFT MAŠINA KANEX HP-45
 sku: 771
+image: "/assets/images/771/heft-masina-kanex-hp-45-1.jpg"
+images:
+- "/assets/images/771/heft-masina-kanex-hp-45-2.jpg"
 ---
 
 **📎 Heft mašina Maped Green Logic – Ekološko rešenje za vašu organizaciju**

@@ -2,6 +2,9 @@
 layout: article
 title: KREDE 1/100 BOJA
 sku: 2139
+image: "/assets/images/2139/krede-1-100-boja-1.jpg"
+images:
+- "/assets/images/2139/krede-1-100-boja-2.jpg"
 ---
 
 **Naziv proizvoda:** Giotto Kreda u Boji – Pakovanje od 100 komada

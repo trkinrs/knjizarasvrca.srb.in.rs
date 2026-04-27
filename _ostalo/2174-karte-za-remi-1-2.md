@@ -2,6 +2,9 @@
 layout: article
 title: KARTE ZA REMI 1/2
 sku: 2174
+image: "/assets/images/2174/karte-za-remi-1-2-1.jpg"
+images:
+- "/assets/images/2174/karte-za-remi-1-2-2.jpg"
 ---
 
 ### 🃏 Piatnik Karte za Remi – Set od 2 špila za vrhunsko iskustvo igranja

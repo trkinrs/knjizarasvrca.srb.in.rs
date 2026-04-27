@@ -2,6 +2,9 @@
 layout: article
 title: FB103 FB RING 60*95CM
 sku: 75
+image: "/assets/images/75/fb103-fb-ring-60-95cm-1.jpg"
+images:
+- "/assets/images/75/fb103-fb-ring-60-95cm-2.jpg"
 ---
 
 **✂️ Rezač gumica S-cool – Precizno i čisto brisanje uz dodatnu kontrolu**

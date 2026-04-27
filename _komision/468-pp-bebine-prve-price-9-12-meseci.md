@@ -2,6 +2,7 @@
 layout: article
 title: PP - BEBINE PRVE PRICE - 9-12 MESECI
 sku: 468
+image: "/assets/images/468/pp-bebine-prve-price-9-12-meseci-1.jpg"
 ---
 
 prevodilac:&nbsp;Jelena Radojičić

@@ -2,6 +2,9 @@
 layout: article
 title: ROKOVNIK B/5 HELSINKI
 sku: 692
+image: "/assets/images/692/rokovnik-b-5-helsinki-1.jpg"
+images:
+- "/assets/images/692/rokovnik-b-5-helsinki-2.jpg"
 ---
 
 ## 📔 Rokovnik B5 Helsinki

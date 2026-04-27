@@ -2,6 +2,9 @@
 layout: article
 title: KISOBRAN CLASSIC
 sku: 426
+image: "/assets/images/426/kisobran-classic-1.jpg"
+images:
+- "/assets/images/426/kisobran-classic-2.jpg"
 ---
 
 ☔ **Kišobran Classic – Pouzdana zaštita sa stilom**

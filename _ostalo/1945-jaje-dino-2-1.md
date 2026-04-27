@@ -2,6 +2,9 @@
 layout: article
 title: JAJE DINO 2/1
 sku: 1945
+image: "/assets/images/1945/jaje-dino-2-1-1.jpg"
+images:
+- "/assets/images/1945/jaje-dino-2-1-2.jpg"
 ---
 
 ### 🦖 Dino jaje – Magično izleganje u čaši vode!

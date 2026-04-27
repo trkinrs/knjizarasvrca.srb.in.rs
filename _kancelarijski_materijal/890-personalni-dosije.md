@@ -2,6 +2,9 @@
 layout: article
 title: PERSONALNI DOSIJE
 sku: 890
+image: "/assets/images/890/personalni-dosije-1.jpg"
+images:
+- "/assets/images/890/personalni-dosije-2.jpg"
 ---
 
 📁 **Personalni dosije – Kompletna dokumentacija zaposlenog na jednom mestu**

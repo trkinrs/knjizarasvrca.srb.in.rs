@@ -2,6 +2,7 @@
 layout: article
 title: PP - ENGLESKI KROZ IGRU DO ZNANJA
 sku: 523
+image: "/assets/images/523/pp-engleski-kroz-igru-do-znanja-1.jpg"
 ---
 
 povez:&nbsp;mek

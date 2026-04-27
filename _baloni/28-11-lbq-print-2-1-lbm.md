@@ -2,6 +2,9 @@
 layout: article
 title: 11*LBQ PRINT 2/1 LBM
 sku: 28
+image: "/assets/images/28/11-lbq-print-2-1-lbm-1.jpg"
+images:
+- "/assets/images/28/11-lbq-print-2-1-lbm-2.jpg"
 ---
 
 🎉 **Lateks balon sa printom – Vesela dekoracija za svaku priliku!**

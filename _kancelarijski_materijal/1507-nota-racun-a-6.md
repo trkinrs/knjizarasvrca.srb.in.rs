@@ -2,6 +2,9 @@
 layout: article
 title: NOTA RACUN A/6
 sku: 1507
+image: "/assets/images/1507/nota-racun-a-6-1.jpg"
+images:
+- "/assets/images/1507/nota-racun-a-6-2.jpg"
 ---
 
 **Naziv proizvoda:** Nota račun A6 NCR, Pack of 100 Sheets

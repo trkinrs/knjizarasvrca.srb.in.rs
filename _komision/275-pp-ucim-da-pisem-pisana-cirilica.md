@@ -2,6 +2,7 @@
 layout: article
 title: PP - UČIM DA PIŠEM PISANA ĆIRILICA
 sku: 275
+image: "/assets/images/275/pp-ucim-da-pisem-pisana-cirilica-1.jpg"
 ---
 
 povez:&nbsp;mek

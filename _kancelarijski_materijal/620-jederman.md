@@ -2,6 +2,9 @@
 layout: article
 title: JEDERMAN
 sku: 620
+image: "/assets/images/620/jederman-1.jpg"
+images:
+- "/assets/images/620/jederman-2.jpg"
 ---
 
 ### 🏷️ Etikete Jederman – Žute

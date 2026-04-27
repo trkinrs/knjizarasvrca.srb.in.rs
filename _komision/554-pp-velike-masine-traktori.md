@@ -2,6 +2,7 @@
 layout: article
 title: PP - VELIKE MASINE - TRAKTORI
 sku: 554
+image: "/assets/images/554/pp-velike-masine-traktori-1.jpg"
 ---
 
 prevodilac:&nbsp;Jelena Radojčić

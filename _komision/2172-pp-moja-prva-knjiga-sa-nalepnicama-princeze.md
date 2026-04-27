@@ -2,6 +2,7 @@
 layout: article
 title: PP - MOJA PRVA KNJIGA SA NALEPNICAMA - PRINCEZE
 sku: 2172
+image: "/assets/images/2172/pp-moja-prva-knjiga-sa-nalepnicama-princeze-1.jpg"
 ---
 
 prevodilac:&nbsp;Ana Miletić

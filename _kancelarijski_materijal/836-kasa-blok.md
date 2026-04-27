@@ -2,6 +2,9 @@
 layout: article
 title: KASA BLOK
 sku: 836
+image: "/assets/images/836/kasa-blok-1.jpg"
+images:
+- "/assets/images/836/kasa-blok-2.jpg"
 ---
 
 ## 💵 Kasa Blok

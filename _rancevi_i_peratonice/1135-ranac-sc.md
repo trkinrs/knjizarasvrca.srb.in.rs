@@ -2,6 +2,9 @@
 layout: article
 title: RANAC SC
 sku: 1135
+image: "/assets/images/1135/ranac-sc-1.jpg"
+images:
+- "/assets/images/1135/ranac-sc-2.jpg"
 ---
 
 ### 🎒 Sportska torba S-cool – Tvoj verni pratilac za svaki trening!

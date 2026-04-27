@@ -2,6 +2,9 @@
 layout: article
 title: UKRASNA KESA M
 sku: 263
+image: "/assets/images/263/ukrasna-kesa-m-1.jpg"
+images:
+- "/assets/images/263/ukrasna-kesa-m-2.jpg"
 ---
 
 ### 🎁 Ukrasna poklon kesa – M veličina

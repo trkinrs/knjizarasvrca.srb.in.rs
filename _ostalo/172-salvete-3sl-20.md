@@ -2,6 +2,9 @@
 layout: article
 title: SALVETE 3SL/20
 sku: 172
+image: "/assets/images/172/salvete-3sl-20-1.jpg"
+images:
+- "/assets/images/172/salvete-3sl-20-2.jpg"
 ---
 
 🌸 **Salvete Paw – 20 kom**  

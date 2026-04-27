@@ -2,6 +2,7 @@
 layout: article
 title: VU - BOJANKA ZA NEPROSPAVANE NOĆI
 sku: 1813
+image: "/assets/images/1813/vu-bojanka-za-neprospavane-noci-1.jpg"
 ---
 
 Sanjamo zmajeve. Što lete, riču i plamte. Dok ušuškani ležimo u postelji, oni nam osvetljavaju san. Varniče, svetlucaju, sijaju.  

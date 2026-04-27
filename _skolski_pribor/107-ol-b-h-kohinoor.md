@@ -2,6 +2,9 @@
 layout: article
 title: OL B-H KOHINOOR
 sku: 107
+image: "/assets/images/107/ol-b-h-kohinoor-1.jpg"
+images:
+- "/assets/images/107/ol-b-h-kohinoor-2.jpg"
 ---
 
 ✏️ **Koh-I-Noor Olovka 3H – Preciznost i čistoća linije**

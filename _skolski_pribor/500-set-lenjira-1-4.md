@@ -2,6 +2,9 @@
 layout: article
 title: SET LENJIRA 1/4
 sku: 500
+image: "/assets/images/500/set-lenjira-1-4-1.jpg"
+images:
+- "/assets/images/500/set-lenjira-1-4-2.jpg"
 ---
 
 📐 **PVC geometrijski set – S-cool**  

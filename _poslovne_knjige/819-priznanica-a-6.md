@@ -2,6 +2,9 @@
 layout: article
 title: PRIZNANICA A/6
 sku: 819
+image: "/assets/images/819/priznanica-a-6-1.jpg"
+images:
+- "/assets/images/819/priznanica-a-6-2.jpg"
 ---
 
 **Naziv proizvoda:** Priznanica A6 NCR, Pack of 100 Sheets

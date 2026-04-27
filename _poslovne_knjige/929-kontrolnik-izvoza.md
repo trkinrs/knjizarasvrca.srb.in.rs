@@ -2,6 +2,9 @@
 layout: article
 title: KONTROLNIK IZVOZA
 sku: 929
+image: "/assets/images/929/kontrolnik-izvoza-1.jpg"
+images:
+- "/assets/images/929/kontrolnik-izvoza-2.jpg"
 ---
 
 ## 📑 Kontrolnik Izvoza Robe i Usluga

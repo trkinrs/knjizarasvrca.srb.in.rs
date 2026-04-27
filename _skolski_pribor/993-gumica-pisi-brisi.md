@@ -2,6 +2,10 @@
 layout: article
 title: GUMICA PISI-BRISI
 sku: 993
+image: "/assets/images/993/gumica-pisi-brisi-1.jpg"
+images:
+- "/assets/images/993/gumica-pisi-brisi-2.jpg"
+- "/assets/images/993/gumica-pisi-brisi-3.jpg"
 ---
 
 ## ✏️ 2 u 1 Gumica za Brisanje – Hemijska i Grafitna

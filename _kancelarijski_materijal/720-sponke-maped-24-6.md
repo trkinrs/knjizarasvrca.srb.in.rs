@@ -2,6 +2,9 @@
 layout: article
 title: SPONKE MAPED 24/6
 sku: 720
+image: "/assets/images/720/sponke-maped-24-6-1.jpg"
+images:
+- "/assets/images/720/sponke-maped-24-6-2.jpg"
 ---
 
 📎 **Klamerice Maped 24/6 – Pouzdano spajanje za svaki dokument**

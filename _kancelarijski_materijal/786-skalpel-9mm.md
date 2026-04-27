@@ -2,6 +2,9 @@
 layout: article
 title: SKALPEL 9MM
 sku: 786
+image: "/assets/images/786/skalpel-9mm-1.jpg"
+images:
+- "/assets/images/786/skalpel-9mm-2.jpg"
 ---
 
 ### 🔪 Skalpel 9mm – Preciznost i pouzdanost u vašim rukama

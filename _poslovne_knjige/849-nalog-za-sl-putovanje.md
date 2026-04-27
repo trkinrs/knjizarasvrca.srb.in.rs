@@ -2,6 +2,9 @@
 layout: article
 title: NALOG ZA SL PUTOVANJE
 sku: 849
+image: "/assets/images/849/nalog-za-sl-putovanje-1.jpg"
+images:
+- "/assets/images/849/nalog-za-sl-putovanje-2.jpg"
 ---
 
 ## ✈️ Nalog za Službeno Putovanje A5

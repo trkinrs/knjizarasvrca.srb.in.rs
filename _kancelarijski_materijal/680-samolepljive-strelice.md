@@ -2,6 +2,9 @@
 layout: article
 title: SAMOLEPLJIVE STRELICE
 sku: 680
+image: "/assets/images/680/samolepljive-strelice-1.jpg"
+images:
+- "/assets/images/680/samolepljive-strelice-2.jpg"
 ---
 
 ## ➡️ Samolepljive Strelice

@@ -2,6 +2,9 @@
 layout: article
 title: MASTILO ZA NP
 sku: 280
+image: "/assets/images/280/mastilo-za-np-1.jpg"
+images:
+- "/assets/images/280/mastilo-za-np-2.jpg"
 ---
 
 🖋️ **Mastilo za naliv pero – glatko i postojano pisanje**

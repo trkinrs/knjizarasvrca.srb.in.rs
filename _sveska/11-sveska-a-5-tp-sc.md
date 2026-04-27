@@ -2,6 +2,16 @@
 layout: article
 title: SVESKA A/5 TP SC
 sku: 11
+image: "/assets/images/11/sveska-a-5-tp-sc-1.jpg"
+images:
+- "/assets/images/11/sveska-a-5-tp-sc-2.jpg"
+- "/assets/images/11/sveska-a-5-tp-sc-3.jpg"
+- "/assets/images/11/sveska-a-5-tp-sc-4.jpg"
+- "/assets/images/11/sveska-a-5-tp-sc-5.jpg"
+- "/assets/images/11/sveska-a-5-tp-sc-6.jpg"
+- "/assets/images/11/sveska-a-5-tp-sc-7.jpg"
+- "/assets/images/11/sveska-a-5-tp-sc-8.jpg"
+- "/assets/images/11/sveska-a-5-tp-sc-9.jpg"
 ---
 
 ### 📘 **Sveska A/5 TP – praktična sveska za svaki dan**

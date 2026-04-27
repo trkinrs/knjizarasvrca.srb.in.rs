@@ -2,6 +2,9 @@
 layout: article
 title: DOSTAVNA KNJIGA ZA MESTO
 sku: 904
+image: "/assets/images/904/dostavna-knjiga-za-mesto-1.jpg"
+images:
+- "/assets/images/904/dostavna-knjiga-za-mesto-2.jpg"
 ---
 
 📘 **Dostavna knjiga za mesto – Sigurna evidencija lokalne dostave dokumenata**

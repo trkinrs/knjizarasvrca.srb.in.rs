@@ -2,6 +2,9 @@
 layout: article
 title: PLASTELIN 6 BOJA
 sku: 2215
+image: "/assets/images/2215/plastelin-6-boja-1.jpg"
+images:
+- "/assets/images/2215/plastelin-6-boja-2.jpg"
 ---
 
 **🖊️ Tehnička olovka 0.5 BlackPointer – Preciznost u elegantnom crnom dizajnu**

@@ -2,6 +2,9 @@
 layout: article
 title: KREDE ZA BETON
 sku: 2212
+image: "/assets/images/2212/krede-za-beton-1.jpg"
+images:
+- "/assets/images/2212/krede-za-beton-2.jpg"
 ---
 
 🖍️ **Krede za beton – Za igru bez granica!**

@@ -2,6 +2,9 @@
 layout: article
 title: SIGNIR OF
 sku: 502
+image: "/assets/images/502/signir-of-1.jpg"
+images:
+- "/assets/images/502/signir-of-2.jpg"
 ---
 
 🖍️ **Signir Offishop – plavi**  

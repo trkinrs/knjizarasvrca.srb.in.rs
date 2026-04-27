@@ -2,6 +2,7 @@
 layout: article
 title: VU - 50 IGARA SA ŽIVOTINJAMA
 sku: 1310
+image: "/assets/images/1310/vu-50-igara-sa-zivotinjama-1.jpg"
 ---
 
 Istražite svoju kreativnost uz 1000 nalepnica i ukrasite rakete, čudovišta i dinosaure. Pored toga, možete crtati, bojiti i sastavljati origami!  

@@ -2,6 +2,7 @@
 layout: article
 title: VU - MALI GENIJALCI - UČIMO DA BROJIMO NA ENGLESKOM JEZIKU
 sku: 2256
+image: "/assets/images/2256/vu-mali-genijalci-ucimo-da-brojimo-na-engleskom-jeziku-1.jpg"
 ---
 
 prevodilac:&nbsp;Bojana Jovanović

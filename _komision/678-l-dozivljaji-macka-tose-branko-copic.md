@@ -2,6 +2,7 @@
 layout: article
 title: L - DOŽIVLJAJI MAČKA TOŠE - BRANKO ĆOPIĆ
 sku: 678
+image: "/assets/images/678/l-dozivljaji-macka-tose-branko-copic-1.jpg"
 ---
 
 Čiča Trišo i mačak Toša živeli su mirnim i povučenim životom u Trišinoj vodenici. A onda se jednog dana Toša našao u džaku. Pitate se zašto? Mačak Toša kaže da je za sve kriva nestašna slanina koja mu je uskočila u trbuh. Ne verujete? Kako ćete onda poverovati da miš, pas i mačak mogu postati najbolji prijatelji? Ili da se mesec na nebu smeška?  

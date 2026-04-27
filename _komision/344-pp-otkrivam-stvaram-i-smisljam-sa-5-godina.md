@@ -2,6 +2,7 @@
 layout: article
 title: PP - OTKRIVAM, STVARAM I SMISLJAM SA 5 GODINA
 sku: 344
+image: "/assets/images/344/pp-otkrivam-stvaram-i-smisljam-sa-5-godina-1.jpg"
 ---
 
 prevodilac:&nbsp;Marija Spasić

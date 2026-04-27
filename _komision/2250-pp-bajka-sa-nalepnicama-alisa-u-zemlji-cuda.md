@@ -2,6 +2,7 @@
 layout: article
 title: PP - BAJKA SA NALEPNICAMA - ALISA U ZEMLJI ČUDA
 sku: 2250
+image: "/assets/images/2250/pp-bajka-sa-nalepnicama-alisa-u-zemlji-cuda-1.jpg"
 ---
 
 prevodilac:&nbsp;Milica Rakić

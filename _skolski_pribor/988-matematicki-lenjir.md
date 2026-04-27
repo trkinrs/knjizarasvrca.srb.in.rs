@@ -2,6 +2,9 @@
 layout: article
 title: MATEMATICKI LENJIR
 sku: 988
+image: "/assets/images/988/matematicki-lenjir-1.jpg"
+images:
+- "/assets/images/988/matematicki-lenjir-2.jpg"
 ---
 
 ## 📏 Matematički Lenjir – S-cool

@@ -2,6 +2,9 @@
 layout: article
 title: KESA ZA BLOK V
 sku: 63
+image: "/assets/images/63/kesa-za-blok-v-1.jpg"
+images:
+- "/assets/images/63/kesa-za-blok-v-2.jpg"
 ---
 
 **Kesa za Blok 5 S-Cool – Savršen Zaštitnik za Vaš Oklop**

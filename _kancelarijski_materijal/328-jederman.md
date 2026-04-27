@@ -2,6 +2,9 @@
 layout: article
 title: JEDERMAN
 sku: 328
+image: "/assets/images/328/jederman-1.jpg"
+images:
+- "/assets/images/328/jederman-2.jpg"
 ---
 
 ### 🏷️ Etikete Jederman – Bele

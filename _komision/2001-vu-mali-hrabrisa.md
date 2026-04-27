@@ -2,6 +2,7 @@
 layout: article
 title: VU - MALI HRABRISA
 sku: 2001
+image: "/assets/images/2001/vu-mali-hrabrisa-1.webp"
 ---
 
 Pred vama je čaroban naslov u čijoj će toploj priči i ilustracijama koje prate njen tok uživati svi mališani! Čitajte o šumskoj avanturi strašljivog zeke Uška i njegove drugarice Hrabrice i spoznajte prave vrednosti prijateljstva, kao i to da su strahovi tu da bi se savladali.  

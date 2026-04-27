@@ -2,6 +2,7 @@
 layout: article
 title: L - SVETLO U PROZORU - LUSINDA RAJLI
 sku: 609
+image: "/assets/images/609/l-svetlo-u-prozoru-lusinda-rajli-1.jpg"
 ---
 
 Od autorke bestselera&nbsp;_Kuća orhideja_.&nbsp;  

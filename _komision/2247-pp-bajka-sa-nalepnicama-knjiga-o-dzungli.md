@@ -2,6 +2,7 @@
 layout: article
 title: PP - BAJKA SA NALEPNICAMA - KNJIGA O DŽUNGLI
 sku: 2247
+image: "/assets/images/2247/pp-bajka-sa-nalepnicama-knjiga-o-dzungli-1.jpg"
 ---
 
 prevodilac:&nbsp;Milica Rakić

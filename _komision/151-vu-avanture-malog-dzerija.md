@@ -2,6 +2,7 @@
 layout: article
 title: VU - AVANTURE MALOG DZERIJA
 sku: 151
+image: "/assets/images/151/vu-avanture-malog-dzerija-1.jpg"
 ---
 
 Ne znam da li se slažete, ali u školi postoje dve vrste miševa: supersportisti i gubitnici… Zovem se Džeri, imam 12 godina, i bio sam ubeđen da ću u turniru u mišbalu biti broj 1 među gubitnicima. Ipak, otkrio sam da stvari nekada idu… drugačije nego što očekujemo!  

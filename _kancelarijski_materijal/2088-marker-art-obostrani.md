@@ -2,6 +2,9 @@
 layout: article
 title: MARKER ART OBOSTRANI
 sku: 2088
+image: "/assets/images/2088/marker-art-obostrani-1.jpg"
+images:
+- "/assets/images/2088/marker-art-obostrani-2.jpg"
 ---
 
 🖊️ **Obostrani marker ART 6mm–3mm – Dvostruka preciznost, kreativna sloboda**

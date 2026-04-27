@@ -2,6 +2,7 @@
 layout: article
 title: PP - MOJ SKOLSKI SPOMENAR - BROS
 sku: 325
+image: "/assets/images/325/pp-moj-skolski-spomenar-bros-1.jpg"
 ---
 
 povez:&nbsp;mek

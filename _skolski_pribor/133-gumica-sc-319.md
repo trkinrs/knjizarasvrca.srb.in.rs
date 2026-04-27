@@ -2,6 +2,9 @@
 layout: article
 title: GUMICA SC-319
 sku: 133
+image: "/assets/images/133/gumica-sc-319-1.jpg"
+images:
+- "/assets/images/133/gumica-sc-319-2.jpg"
 ---
 
 🧽 **Gumica Double – Dve strane, dvostruka preciznost**

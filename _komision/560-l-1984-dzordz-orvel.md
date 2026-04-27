@@ -2,6 +2,7 @@
 layout: article
 title: L - 1984 - DŽORDŽ ORVEL
 sku: 560
+image: "/assets/images/560/l-1984-dzordz-orvel-1.jpg"
 ---
 
 _Rat je mir  

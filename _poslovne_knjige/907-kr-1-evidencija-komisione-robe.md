@@ -2,6 +2,9 @@
 layout: article
 title: KR-1 EVIDENCIJA KOMISIONE ROBE
 sku: 907
+image: "/assets/images/907/kr-1-evidencija-komisione-robe-1.jpg"
+images:
+- "/assets/images/907/kr-1-evidencija-komisione-robe-2.jpg"
 ---
 
 ## 📘 Obrazac KR-1

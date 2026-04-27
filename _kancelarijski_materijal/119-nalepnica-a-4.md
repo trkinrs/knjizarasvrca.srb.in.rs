@@ -2,6 +2,7 @@
 layout: article
 title: NALEPNICA A/4
 sku: 119
+image: "/assets/images/119/nalepnica-a-4-1.jpg"
 ---
 
 ### 🚫 Nalepnica A4 – "Zabranjena prodaja cigareta maloletnim licima"

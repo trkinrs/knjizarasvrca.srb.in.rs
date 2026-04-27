@@ -2,6 +2,7 @@
 layout: article
 title: NOTATON DVOREDNI
 sku: 1285
+image: "/assets/images/1285/notaton-dvoredni-1.jpg"
 ---
 
 🎶 **Dvoredni Metalofon**  

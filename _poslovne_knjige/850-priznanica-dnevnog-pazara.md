@@ -2,6 +2,9 @@
 layout: article
 title: PRIZNANICA DNEVNOG PAZARA
 sku: 850
+image: "/assets/images/850/priznanica-dnevnog-pazara-1.jpg"
+images:
+- "/assets/images/850/priznanica-dnevnog-pazara-2.jpg"
 ---
 
 ## 💰 Dnevni Pazar A5 NCR

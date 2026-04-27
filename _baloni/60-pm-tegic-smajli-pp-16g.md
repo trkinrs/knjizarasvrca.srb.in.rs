@@ -2,6 +2,9 @@
 layout: article
 title: PM*TEGIC SMAJLI PP 16G
 sku: 60
+image: "/assets/images/60/pm-tegic-smajli-pp-16g-1.jpg"
+images:
+- "/assets/images/60/pm-tegic-smajli-pp-16g-2.jpg"
 ---
 
 😊 **Tegić Smajli 16g – Mali oslonac, velika doza zabave!**

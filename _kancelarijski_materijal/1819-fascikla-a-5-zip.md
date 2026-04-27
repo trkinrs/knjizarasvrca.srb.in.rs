@@ -2,6 +2,9 @@
 layout: article
 title: FASCIKLA A/5 ZIP
 sku: 1819
+image: "/assets/images/1819/fascikla-a-5-zip-1.jpg"
+images:
+- "/assets/images/1819/fascikla-a-5-zip-2.jpg"
 ---
 
 📁 **Koverat ZIP A5 PVC – Sigurno i organizovano, uvek pri ruci**

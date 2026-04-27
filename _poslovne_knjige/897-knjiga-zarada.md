@@ -2,6 +2,9 @@
 layout: article
 title: KNJIGA ZARADA
 sku: 897
+image: "/assets/images/897/knjiga-zarada-1.jpg"
+images:
+- "/assets/images/897/knjiga-zarada-2.jpg"
 ---
 
 ## 📒 Mesečna knjiga zarada – Karnet

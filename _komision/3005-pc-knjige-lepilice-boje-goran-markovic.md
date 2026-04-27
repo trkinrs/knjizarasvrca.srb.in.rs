@@ -2,6 +2,9 @@
 layout: article
 title: PČ - KNJIGE LEPILICE - BOJE - GORAN MARKOVIĆ
 sku: 3005
+image: "/assets/images/3005/pc-knjige-lepilice-boje-goran-markovic-1.jpg"
+images:
+- "/assets/images/3005/pc-knjige-lepilice-boje-goran-markovic-2.jpg"
 ---
 
 📁 **Koverat A5 PVC sa dugmetom – Snopake praktičnost u kompaktnom formatu**

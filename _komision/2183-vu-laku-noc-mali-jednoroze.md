@@ -2,6 +2,7 @@
 layout: article
 title: VU - LAKU NOĆ MALI JEDNOROŽE
 sku: 2183
+image: "/assets/images/2183/vu-laku-noc-mali-jednoroze-1.jpg"
 ---
 
 Omiljene aktivnosti mališana na jednom mestu!  

@@ -2,6 +2,9 @@
 layout: article
 title: OL CRVENA/PLAVA KOHINOOR
 sku: 109
+image: "/assets/images/109/ol-crvena-plava-kohinoor-1.jpg"
+images:
+- "/assets/images/109/ol-crvena-plava-kohinoor-2.jpg"
 ---
 
 **Naziv proizvoda:** Crvena bojica Koh-I-Noor

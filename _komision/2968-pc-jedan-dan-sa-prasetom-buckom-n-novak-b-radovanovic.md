@@ -2,6 +2,7 @@
 layout: article
 title: PČ - JEDAN DAN SA PRASETOM BUCKOM - N.NOVAK, B.RADOVANOVIĆ
 sku: 2968
+image: "/assets/images/2968/pc-jedan-dan-sa-prasetom-buckom-n-novak-b-radovanovic-1.jpg"
 ---
 
 🧲 **Ukrasni magnet – Mali detalj, velika poruka!**

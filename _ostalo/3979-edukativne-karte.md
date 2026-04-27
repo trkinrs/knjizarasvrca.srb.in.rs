@@ -2,6 +2,9 @@
 layout: article
 title: EDUKATIVNE KARTE
 sku: 3979
+image: "/assets/images/3979/edukativne-karte-1.jpg"
+images:
+- "/assets/images/3979/edukativne-karte-2.jpg"
 ---
 
 ## 🇬🇧 Edukativne Karte – Alfabet (A–Z)

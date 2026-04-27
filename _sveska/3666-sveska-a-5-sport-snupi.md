@@ -2,6 +2,9 @@
 layout: article
 title: SVESKA A/5 SPORT/SNUPI
 sku: 3666
+image: "/assets/images/3666/sveska-a-5-sport-snupi-1.jpg"
+images:
+- "/assets/images/3666/sveska-a-5-sport-snupi-2.jpg"
 ---
 
 📘 **Sveska A5 TP – kompaktna, a moćna**

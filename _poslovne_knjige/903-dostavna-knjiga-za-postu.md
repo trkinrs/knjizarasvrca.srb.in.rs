@@ -2,6 +2,9 @@
 layout: article
 title: DOSTAVNA KNJIGA ZA POSTU
 sku: 903
+image: "/assets/images/903/dostavna-knjiga-za-postu-1.jpg"
+images:
+- "/assets/images/903/dostavna-knjiga-za-postu-2.jpg"
 ---
 
 📗 **Knjiga primljene pošte na ličnost – Evidencija poverljive i lične pošte**

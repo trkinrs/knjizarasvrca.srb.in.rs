@@ -2,6 +2,7 @@
 layout: article
 title: L - ODAKLE SAM BILA VIŠE NISAM - DEJAN TIAGO - STANKOVIĆ
 sku: 634
+image: "/assets/images/634/l-odakle-sam-bila-vise-nisam-dejan-tiago-stankovic-1.jpg"
 ---
 
 Dobitnik Nagrade Evropske unije za književnost  

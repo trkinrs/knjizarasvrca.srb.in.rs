@@ -2,6 +2,9 @@
 layout: article
 title: FB HEART 61CM RED
 sku: 105
+image: "/assets/images/105/fb-heart-61cm-red-1.jpg"
+images:
+- "/assets/images/105/fb-heart-61cm-red-2.jpg"
 ---
 
 **Naziv proizvoda:** Segmentna olovka S-cool sa igračkom

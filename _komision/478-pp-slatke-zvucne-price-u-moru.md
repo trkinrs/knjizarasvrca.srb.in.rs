@@ -2,6 +2,7 @@
 layout: article
 title: PP - SLATKE ZVUCNE PRICE - U MORU
 sku: 478
+image: "/assets/images/478/pp-slatke-zvucne-price-u-moru-1.jpg"
 ---
 
 prevodilac:&nbsp;Jelena Radojičić

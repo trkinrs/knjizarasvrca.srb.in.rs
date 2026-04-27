@@ -2,6 +2,7 @@
 layout: article
 title: L - BAJKA O LEDEMONU - UROŠ PETROVIĆ
 sku: 682
+image: "/assets/images/682/l-bajka-o-ledemonu-uros-petrovic-1.jpg"
 ---
 
 Ilustrovala Ana Grigorjev  

@@ -2,6 +2,9 @@
 layout: article
 title: RANAC PULSE JEANS
 sku: 163
+image: "/assets/images/163/ranac-pulse-jeans-1.jpg"
+images:
+- "/assets/images/163/ranac-pulse-jeans-2.jpg"
 ---
 
 ### 🎒 Ranac Pulse – Jeans – stil i udobnost svakog dana

@@ -2,6 +2,7 @@
 layout: article
 title: PP - BEBINE PRVE PRICE - 3-6 MESECI
 sku: 464
+image: "/assets/images/464/pp-bebine-prve-price-3-6-meseci-1.jpg"
 ---
 
 prevodilac:&nbsp;Jelena Radojičić

@@ -2,6 +2,9 @@
 layout: article
 title: GUMICA B-30
 sku: 273
+image: "/assets/images/273/gumica-b-30-1.jpg"
+images:
+- "/assets/images/273/gumica-b-30-2.jpg"
 ---
 
 🧼 **Gumica Staedtler B30 – Urednost u svakom potezu**

@@ -2,6 +2,7 @@
 layout: article
 title: RAJZNEDLE 1/50 S
 sku: 3149
+image: "/assets/images/3149/rajznedle-1-50-s-1.jpg"
 ---
 
 **🔩 Rajsnadle srebrne – Pouzdano i kvalitetno rešenje za vaše projekte**

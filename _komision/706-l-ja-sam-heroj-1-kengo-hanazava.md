@@ -2,6 +2,7 @@
 layout: article
 title: L - JA SAM HEROJ 1 - KENGO HANAZAVA
 sku: 706
+image: "/assets/images/706/l-ja-sam-heroj-1-kengo-hanazava-1.jpg"
 ---
 
 Hideo Suzuki radi kao potplaćeni pomoćnik mangake, ima problema sa samopouzdanjem i halucinacijama. Oseća se kao sporedni lik u sopstvenoj životnoj priči, i da stvar bude gora, sumnja da ga devojka Teko vara sa svojim bivšim dečkom. Nakon što joj je saopštio svoje sumnje u vezi sa prevarom, Hideo odlučuje da joj se izvini. Međutim, život će mu se uskoro drastično promeniti, jer niz misterioznih incidenata i smrti širiće se celim Japanom. Svet koji poznaje potpuno će nestati.  

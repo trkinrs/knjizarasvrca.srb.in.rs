@@ -2,6 +2,7 @@
 layout: article
 title: PP - MONTESORI - OTKRIVAM MORE
 sku: 338
+image: "/assets/images/338/pp-montesori-otkrivam-more-1.jpg"
 ---
 
 prevodilac:&nbsp;Bojana Jovanović

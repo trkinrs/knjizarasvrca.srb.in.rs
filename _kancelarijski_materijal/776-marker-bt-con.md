@@ -2,6 +2,9 @@
 layout: article
 title: MARKER BT CON
 sku: 776
+image: "/assets/images/776/marker-bt-con-1.jpg"
+images:
+- "/assets/images/776/marker-bt-con-2.jpg"
 ---
 
 ## ✏️ Marker za Belu Tablu Connect

@@ -2,6 +2,9 @@
 layout: article
 title: BLOK KOCKA BOJA
 sku: 569
+image: "/assets/images/569/blok-kocka-boja-1.jpg"
+images:
+- "/assets/images/569/blok-kocka-boja-2.jpg"
 ---
 
 📒 **Blok kocka u boji – 500 listova**

@@ -2,6 +2,7 @@
 layout: article
 title: L - LAKU NOĆ, PUNPUNE 4 - INIO ASANO
 sku: 722
+image: "/assets/images/722/l-laku-noc-punpune-4-inio-asano-1.jpg"
 ---
 
 Juići i neznana devojka dolaze do prekretnice – da li će on postati heroj ili žrtva? Spasilac ili spašeni?  

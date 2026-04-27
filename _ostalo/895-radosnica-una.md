@@ -2,6 +2,9 @@
 layout: article
 title: RADOSNICA UNA
 sku: 895
+image: "/assets/images/895/radosnica-una-1.jpg"
+images:
+- "/assets/images/895/radosnica-una-2.jpg"
 ---
 
 📘 **Radosnica A4 – Knjiga najlepših uspomena iz detinjstva**

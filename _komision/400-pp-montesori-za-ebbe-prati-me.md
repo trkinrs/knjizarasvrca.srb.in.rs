@@ -2,6 +2,7 @@
 layout: article
 title: PP - MONTESORI ZA EBBE - PRATI ME !
 sku: 400
+image: "/assets/images/400/pp-montesori-za-ebbe-prati-me-1.jpg"
 ---
 
 prevodilac:&nbsp;Jelena Radojičić

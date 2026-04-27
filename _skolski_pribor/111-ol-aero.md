@@ -2,6 +2,9 @@
 layout: article
 title: OL AERO
 sku: 111
+image: "/assets/images/111/ol-aero-1.jpg"
+images:
+- "/assets/images/111/ol-aero-2.jpg"
 ---
 
 **✏️ Segmentna olovka 2mm HB S-cool – Za snažnu liniju i kreativnu slobodu**

@@ -2,6 +2,9 @@
 layout: article
 title: REVERS A/5
 sku: 858
+image: "/assets/images/858/revers-a-5-1.jpg"
+images:
+- "/assets/images/858/revers-a-5-2.jpg"
 ---
 
 ## 📄 Revers A5 (NCR)

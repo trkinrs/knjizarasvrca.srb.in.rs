@@ -2,6 +2,9 @@
 layout: article
 title: MARKER ZA CD
 sku: 553
+image: "/assets/images/553/marker-za-cd-1.jpg"
+images:
+- "/assets/images/553/marker-za-cd-2.jpg"
 ---
 
 💿 **CD Marker – Precizno označavanje bez razmazivanja**

@@ -2,6 +2,9 @@
 layout: article
 title: DRUSTVENA IGRA
 sku: 319
+image: "/assets/images/319/drustvena-igra-1.jpg"
+images:
+- "/assets/images/319/drustvena-igra-2.jpg"
 ---
 
 ♟️ **Društvena igra – Stratego**  

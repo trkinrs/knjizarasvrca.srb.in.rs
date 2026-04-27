@@ -2,6 +2,7 @@
 layout: article
 title: L - NIŠTA NIJE SMEŠNO - BOJAN LJUBENOVIĆ
 sku: 811
+image: "/assets/images/811/l-nista-nije-smesno-bojan-ljubenovic-1.jpg"
 ---
 
 Od autora bestselera&nbsp;_Da je bolje, ne bi valjalo_.  

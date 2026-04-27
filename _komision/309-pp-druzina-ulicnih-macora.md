@@ -2,6 +2,7 @@
 layout: article
 title: PP - DRUZINA ULICNIH MACORA
 sku: 309
+image: "/assets/images/309/pp-druzina-ulicnih-macora-1.jpg"
 ---
 
 prevodilac:&nbsp;Ivan Vlajić

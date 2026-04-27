@@ -2,6 +2,7 @@
 layout: article
 title: L - MAČAK I SKAKUTAVO JAJE - ANDRIJA MILOŠEVIĆ
 sku: 828
+image: "/assets/images/828/l-macak-i-skakutavo-jaje-andrija-milosevic-1.jpg"
 ---
 
 **Slikovnica namenjena za male čitaoce.**

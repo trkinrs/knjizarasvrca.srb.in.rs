@@ -2,6 +2,7 @@
 layout: article
 title: L - NIJE MI OVO TREBALO - LJILJANA ŠARAC
 sku: 808
+image: "/assets/images/808/l-nije-mi-ovo-trebalo-ljiljana-sarac-1.jpg"
 ---
 
 Društveno-koristan roman za tinejdžere  

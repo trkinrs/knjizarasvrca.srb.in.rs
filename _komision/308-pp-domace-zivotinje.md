@@ -2,6 +2,7 @@
 layout: article
 title: PP - DOMACE ZIVOTINJE
 sku: 308
+image: "/assets/images/308/pp-domace-zivotinje-1.jpg"
 ---
 
 povez:&nbsp;tvrd

@@ -2,6 +2,11 @@
 layout: article
 title: PERNICA 3D 1/3
 sku: 209
+image: "/assets/images/209/pernica-3d-1-3-1.jpg"
+images:
+- "/assets/images/209/pernica-3d-1-3-2.jpg"
+- "/assets/images/209/pernica-3d-1-3-3.jpg"
+- "/assets/images/209/pernica-3d-1-3-4.jpg"
 ---
 
 ### ✏️ Pernica 3D sa 3 flepa – Sve na svom mestu i u stilu!

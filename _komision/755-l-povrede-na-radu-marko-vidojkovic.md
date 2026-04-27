@@ -2,6 +2,7 @@
 layout: article
 title: L - POVREDE NA RADU - MARKO VIDOJKOVIĆ
 sku: 755
+image: "/assets/images/755/l-povrede-na-radu-marko-vidojkovic-1.jpg"
 ---
 
 Tekstovi zbog kojih sam proteran  

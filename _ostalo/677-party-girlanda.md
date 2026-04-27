@@ -2,6 +2,9 @@
 layout: article
 title: PARTY GIRLANDA
 sku: 677
+image: "/assets/images/677/party-girlanda-1.jpg"
+images:
+- "/assets/images/677/party-girlanda-2.jpg"
 ---
 
 ## 🎉 Party Girlanda

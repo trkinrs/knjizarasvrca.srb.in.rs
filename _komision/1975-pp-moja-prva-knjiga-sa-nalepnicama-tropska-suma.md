@@ -2,6 +2,7 @@
 layout: article
 title: PP - MOJA PRVA KNJIGA SA NALEPNICAMA - TROPSKA ŠUMA
 sku: 1975
+image: "/assets/images/1975/pp-moja-prva-knjiga-sa-nalepnicama-tropska-suma-1.jpg"
 ---
 
 prevodilac:&nbsp;Ana Miletić

@@ -2,6 +2,9 @@
 layout: article
 title: BOJANKA SA CETKICOM
 sku: 1933
+image: "/assets/images/1933/bojanka-sa-cetkicom-1.jpg"
+images:
+- "/assets/images/1933/bojanka-sa-cetkicom-2.jpg"
 ---
 
 ### 🎨 Bojanka sa Četkicom – Sve što ti treba za umetničku avanturu!

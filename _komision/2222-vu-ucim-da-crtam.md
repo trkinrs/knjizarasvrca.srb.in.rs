@@ -2,6 +2,7 @@
 layout: article
 title: VU - UCIM DA CRTAM
 sku: 2222
+image: "/assets/images/2222/vu-ucim-da-crtam-1.jpg"
 ---
 
 Ova knjiga je savršen vodič za male umetnike koji žele da nauče da crtaju!  

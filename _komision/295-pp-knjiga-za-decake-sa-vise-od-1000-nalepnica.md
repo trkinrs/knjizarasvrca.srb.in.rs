@@ -2,6 +2,7 @@
 layout: article
 title: PP - KNJIGA ZA DECAKE SA VISE OD 1000 NALEPNICA
 sku: 295
+image: "/assets/images/295/pp-knjiga-za-decake-sa-vise-od-1000-nalepnica-1.jpg"
 ---
 
 povez:&nbsp;mek

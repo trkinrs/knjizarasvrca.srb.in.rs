@@ -2,6 +2,9 @@
 layout: article
 title: DNEVNIK PRAKSE
 sku: 889
+image: "/assets/images/889/dnevnik-prakse-1.jpg"
+images:
+- "/assets/images/889/dnevnik-prakse-2.jpg"
 ---
 
 ## 📒 Dnevnik Prakse A4

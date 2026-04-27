@@ -2,6 +2,9 @@
 layout: article
 title: KUTIJA ZA HO+TO CENTRY
 sku: 3016
+image: "/assets/images/3016/kutija-za-ho-to-centry-1.jpg"
+images:
+- "/assets/images/3016/kutija-za-ho-to-centry-2.jpg"
 ---
 
 🖊️ **Kutija za Hemijske Olovke – PVC praktična organizacija**

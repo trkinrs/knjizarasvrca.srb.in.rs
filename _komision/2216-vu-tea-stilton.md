@@ -2,6 +2,7 @@
 layout: article
 title: VU - TEA STILTON
 sku: 2216
+image: "/assets/images/2216/vu-tea-stilton-1.jpg"
 ---
 
 ĆAO, MI SMO TEA SISTERKE! STUDIRAMO NA MIŠFORDU I VOLIMO AVANTURE I MISTERIJE! MI SMO NAJBOLjE DRUGARICE, ČAK I VIŠE OD TOGA… MI SMO KAO SESTRE!  

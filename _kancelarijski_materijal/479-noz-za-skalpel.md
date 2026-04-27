@@ -2,6 +2,9 @@
 layout: article
 title: NOZ ZA SKALPEL
 sku: 479
+image: "/assets/images/479/noz-za-skalpel-1.jpg"
+images:
+- "/assets/images/479/noz-za-skalpel-2.jpg"
 ---
 
 * * *

@@ -2,6 +2,9 @@
 layout: article
 title: UKRASNA KESA
 sku: 3715
+image: "/assets/images/3715/ukrasna-kesa-1.jpg"
+images:
+- "/assets/images/3715/ukrasna-kesa-2.jpg"
 ---
 
 ### 🎁 Ukrasna poklon kesa – A3 veličina

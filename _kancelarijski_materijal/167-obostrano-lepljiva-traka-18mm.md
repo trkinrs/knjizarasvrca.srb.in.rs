@@ -2,6 +2,9 @@
 layout: article
 title: OBOSTRANO LEPLJIVA TRAKA 18MM
 sku: 167
+image: "/assets/images/167/obostrano-lepljiva-traka-18mm-1.jpg"
+images:
+- "/assets/images/167/obostrano-lepljiva-traka-18mm-2.jpg"
 ---
 
 ### 🛠️ Obostrano lepljiva traka 48mm x 5m – Snažno i Čisto Lepljenje

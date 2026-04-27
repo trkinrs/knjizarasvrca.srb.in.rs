@@ -2,6 +2,9 @@
 layout: article
 title: OTPREMNICA A/4
 sku: 864
+image: "/assets/images/864/otpremnica-a-4-1.jpg"
+images:
+- "/assets/images/864/otpremnica-a-4-2.jpg"
 ---
 
 ## 📦 Otpremnica A4 NCR

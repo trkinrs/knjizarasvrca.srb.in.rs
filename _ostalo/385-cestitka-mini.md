@@ -2,6 +2,9 @@
 layout: article
 title: CESTITKA MINI
 sku: 385
+image: "/assets/images/385/cestitka-mini-1.jpg"
+images:
+- "/assets/images/385/cestitka-mini-2.jpg"
 ---
 
 ## 🎁 Mini Čestitka sa Plišem

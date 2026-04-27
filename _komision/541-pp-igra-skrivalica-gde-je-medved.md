@@ -2,6 +2,7 @@
 layout: article
 title: PP - IGRA SKRIVALICA - GDE JE MEDVED ?
 sku: 541
+image: "/assets/images/541/pp-igra-skrivalica-gde-je-medved-1.jpg"
 ---
 
 prevodilac:&nbsp;Jelena Radojičić

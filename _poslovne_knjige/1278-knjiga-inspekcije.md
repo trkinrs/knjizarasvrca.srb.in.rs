@@ -2,6 +2,7 @@
 layout: article
 title: KNJIGA INSPEKCIJE
 sku: 1278
+image: "/assets/images/1278/knjiga-inspekcije-1.jpg"
 ---
 
 📒 **Knjiga inspekcije A4**  

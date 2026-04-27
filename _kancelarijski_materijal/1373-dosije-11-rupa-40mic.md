@@ -2,6 +2,9 @@
 layout: article
 title: DOSIJE 11 RUPA 40MIC
 sku: 1373
+image: "/assets/images/1373/dosije-11-rupa-40mic-1.jpg"
+images:
+- "/assets/images/1373/dosije-11-rupa-40mic-2.jpg"
 ---
 
 📂 **Fascikla 11 rupa – 30 mikrona**

@@ -2,6 +2,9 @@
 layout: article
 title: FUTROLA ZA KLJUCEVE
 sku: 270
+image: "/assets/images/270/futrola-za-kljuceve-1.jpg"
+images:
+- "/assets/images/270/futrola-za-kljuceve-2.jpg"
 ---
 
 🔑 **Futrola za ključeve Triballi – Praktičan stil u malom formatu**

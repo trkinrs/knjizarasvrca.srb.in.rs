@@ -2,6 +2,7 @@
 layout: article
 title: VU - MALI UMETNICI
 sku: 2103
+image: "/assets/images/2103/vu-mali-umetnici-1.webp"
 ---
 
 Zabavite se bojeći stranice bojama označenim brojevima!  

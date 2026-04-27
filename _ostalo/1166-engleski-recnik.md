@@ -2,6 +2,9 @@
 layout: article
 title: ENGLESKI RECNIK
 sku: 1166
+image: "/assets/images/1166/engleski-recnik-1.jpg"
+images:
+- "/assets/images/1166/engleski-recnik-2.jpg"
 ---
 
 ## 📘 Englesko–srpski rečnik

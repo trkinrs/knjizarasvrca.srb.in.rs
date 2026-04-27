@@ -2,6 +2,7 @@
 layout: article
 title: L - MEDA ČEDA - U PARKIĆU
 sku: 702
+image: "/assets/images/702/l-meda-ceda-u-parkicu-1.jpg"
 ---
 
 Meda Čeda je otišao u parkić da se igra!  

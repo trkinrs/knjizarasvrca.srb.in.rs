@@ -2,6 +2,10 @@
 layout: article
 title: HO SC
 sku: 463
+image: "/assets/images/463/ho-sc-1.jpg"
+images:
+- "/assets/images/463/ho-sc-2.jpg"
+- "/assets/images/463/ho-sc-3.jpg"
 ---
 
 **Hemijska olovka Smooth Colors** je vrhunska olovka koja se odlikuje glatkim pisanjem i atraktivnim dizajnom. Često dolazi u različitim bojama i popularna je kako u kancelarijama, tako i za svakodnevnu upotrebu.

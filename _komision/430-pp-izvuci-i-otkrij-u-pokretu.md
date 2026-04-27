@@ -2,6 +2,7 @@
 layout: article
 title: PP - IZVUCI I OTKRIJ - U POKRETU
 sku: 430
+image: "/assets/images/430/pp-izvuci-i-otkrij-u-pokretu-1.jpg"
 ---
 
 prevodilac:&nbsp;Jelena Radojičić

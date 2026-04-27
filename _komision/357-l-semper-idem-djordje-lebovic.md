@@ -2,6 +2,7 @@
 layout: article
 title: L - SEMPER IDEM - ĐORĐE LEBOVIC
 sku: 357
+image: "/assets/images/357/l-semper-idem-djordje-lebovic-1.jpg"
 ---
 
 Najpreporučivanija knjiga po izboru knjižara Delfi lanca.

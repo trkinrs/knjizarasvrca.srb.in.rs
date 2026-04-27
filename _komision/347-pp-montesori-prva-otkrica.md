@@ -2,6 +2,7 @@
 layout: article
 title: PP - MONTESORI - PRVA OTKRICA
 sku: 347
+image: "/assets/images/347/pp-montesori-prva-otkrica-1.jpg"
 ---
 
 prevodilac:&nbsp;Bojana Jovanović

@@ -2,6 +2,9 @@
 layout: article
 title: KNJIGA REKLAMACIJA
 sku: 2155
+image: "/assets/images/2155/knjiga-reklamacija-1.jpg"
+images:
+- "/assets/images/2155/knjiga-reklamacija-2.jpg"
 ---
 
 📘 **Knjiga reklamacija – Zakonita evidencija prigovora i sugestija kupaca**

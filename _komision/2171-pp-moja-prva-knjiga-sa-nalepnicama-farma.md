@@ -2,6 +2,7 @@
 layout: article
 title: PP - MOJA PRVA KNJIGA SA NALEPNICAMA - FARMA
 sku: 2171
+image: "/assets/images/2171/pp-moja-prva-knjiga-sa-nalepnicama-farma-1.jpg"
 ---
 
 prevodilac:&nbsp;Ana Miletić

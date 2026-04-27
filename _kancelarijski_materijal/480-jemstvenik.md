@@ -2,6 +2,9 @@
 layout: article
 title: JEMSTVENIK
 sku: 480
+image: "/assets/images/480/jemstvenik-1.jpg"
+images:
+- "/assets/images/480/jemstvenik-2.jpg"
 ---
 
 ### 🧵 Jemstvenik 50m – Pouzdan sigurnosni konac za sve vrste vezivanja

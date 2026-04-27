@@ -2,6 +2,9 @@
 layout: article
 title: SET MALA DOKTORKA 8 DELOVA
 sku: 2177
+image: "/assets/images/2177/set-mala-doktorka-8-delova-1.jpg"
+images:
+- "/assets/images/2177/set-mala-doktorka-8-delova-2.jpg"
 ---
 
 📂 **Fascikla 11 rupa – 50 mikrona**

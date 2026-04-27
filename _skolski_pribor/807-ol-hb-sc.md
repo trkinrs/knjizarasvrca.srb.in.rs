@@ -2,6 +2,9 @@
 layout: article
 title: OL HB SC
 sku: 807
+image: "/assets/images/807/ol-hb-sc-1.jpg"
+images:
+- "/assets/images/807/ol-hb-sc-2.jpg"
 ---
 
 **✏️ Grafitna olovka HB Minerva Staedtler – Klasika u vrhunskom kvalitetu**

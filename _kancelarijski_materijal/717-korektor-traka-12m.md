@@ -2,6 +2,9 @@
 layout: article
 title: KOREKTOR TRAKA 12M
 sku: 717
+image: "/assets/images/717/korektor-traka-12m-1.jpg"
+images:
+- "/assets/images/717/korektor-traka-12m-2.jpg"
 ---
 
 **✍️ Korektor traka 6m – Precizno i brzo ispravljanje grešaka**

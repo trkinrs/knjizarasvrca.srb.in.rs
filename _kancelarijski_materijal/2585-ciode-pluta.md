@@ -2,6 +2,9 @@
 layout: article
 title: CIODE PLUTA
 sku: 2585
+image: "/assets/images/2585/ciode-pluta-1.jpg"
+images:
+- "/assets/images/2585/ciode-pluta-2.jpg"
 ---
 
 📌 **Čiode za plutanu tablu – Praktično rešenje za organizaciju i obaveštenja**

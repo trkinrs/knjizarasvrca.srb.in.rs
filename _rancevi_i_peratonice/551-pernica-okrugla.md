@@ -2,6 +2,9 @@
 layout: article
 title: PERNICA OKRUGLA
 sku: 551
+image: "/assets/images/551/pernica-okrugla-1.jpg"
+images:
+- "/assets/images/551/pernica-okrugla-2.jpg"
 ---
 
 ### 💖 Okrugla pernica S-cool Love – Slatka, praktična i uvek sa stilom!

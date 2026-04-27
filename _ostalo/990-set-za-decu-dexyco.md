@@ -2,6 +2,9 @@
 layout: article
 title: SET ZA DECU DEXYCO
 sku: 990
+image: "/assets/images/990/set-za-decu-dexyco-1.jpg"
+images:
+- "/assets/images/990/set-za-decu-dexyco-2.jpg"
 ---
 
 ### 🎨 Set za crtanje za decu DexyCo – Mašta počinje ovde!

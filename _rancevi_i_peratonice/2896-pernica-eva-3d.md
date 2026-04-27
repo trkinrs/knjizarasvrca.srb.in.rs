@@ -2,6 +2,9 @@
 layout: article
 title: PERNICA EVA 3D
 sku: 2896
+image: "/assets/images/2896/pernica-eva-3d-1.jpg"
+images:
+- "/assets/images/2896/pernica-eva-3d-2.jpg"
 ---
 
 ### ✏️ Pernica S-cool okrugla – Jednostavno praktična i uvek moderna!

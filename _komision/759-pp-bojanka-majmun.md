@@ -2,6 +2,7 @@
 layout: article
 title: PP - BOJANKA - MAJMUN
 sku: 759
+image: "/assets/images/759/pp-bojanka-majmun-1.jpg"
 ---
 
 povez:&nbsp;mek

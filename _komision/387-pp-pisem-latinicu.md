@@ -2,6 +2,7 @@
 layout: article
 title: PP - PIŠEM LATINICU
 sku: 387
+image: "/assets/images/387/pp-pisem-latinicu-1.jpg"
 ---
 
 povez:&nbsp;mek

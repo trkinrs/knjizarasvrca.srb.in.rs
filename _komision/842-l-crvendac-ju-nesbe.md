@@ -2,6 +2,7 @@
 layout: article
 title: L - CRVENDAĆ - JU NESBE
 sku: 842
+image: "/assets/images/842/l-crvendac-ju-nesbe-1.jpg"
 ---
 
 1944: U rovovima kraj Lenjingrada gine norveški dobrovoljac Danijel. U jednoj bečkoj bolnici se ranjeni vojnik predstavlja kao Danijel. Između njega i bolničarke Helene rađa se ljubav.  

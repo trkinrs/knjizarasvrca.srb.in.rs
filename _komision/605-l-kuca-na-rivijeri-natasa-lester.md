@@ -2,6 +2,7 @@
 layout: article
 title: L - KUĆA NA RIVIJERI - NATAŠA LESTER
 sku: 605
+image: "/assets/images/605/l-kuca-na-rivijeri-natasa-lester-1.jpg"
 ---
 
 Raskošan i očaravajući roman o borbi jedne žene da spreči nacističku krađu neprocenjivih umetničkih dela. Savršena knjiga za ljubitelje romana&nbsp;_Diskretna špijunka_.  

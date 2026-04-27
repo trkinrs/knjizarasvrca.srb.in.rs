@@ -2,6 +2,9 @@
 layout: article
 title: HO POM POM
 sku: 472
+image: "/assets/images/472/ho-pom-pom-1.jpg"
+images:
+- "/assets/images/472/ho-pom-pom-2.jpg"
 ---
 
 🖊️ **Hemijska olovka POM-POM – Piši sa stilom i osmehom!**

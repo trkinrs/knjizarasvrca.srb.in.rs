@@ -2,6 +2,7 @@
 layout: article
 title: PP - BAJKA SA NALEPNICAMA - MALA SIRENA
 sku: 2162
+image: "/assets/images/2162/pp-bajka-sa-nalepnicama-mala-sirena-1.jpg"
 ---
 
 prevodilac: Milica Rakić  

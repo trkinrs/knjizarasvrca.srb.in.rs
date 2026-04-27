@@ -2,6 +2,9 @@
 layout: article
 title: OBRAZAC 3 1+1
 sku: 750
+image: "/assets/images/750/obrazac-3-1-1-1.jpg"
+images:
+- "/assets/images/750/obrazac-3-1-1-2.jpg"
 ---
 
 Naziv proizvoda: Nalog za prenos - Obrazac br.3 (1+1)

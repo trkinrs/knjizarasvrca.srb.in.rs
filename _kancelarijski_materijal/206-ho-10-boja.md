@@ -2,6 +2,9 @@
 layout: article
 title: HO 10 BOJA
 sku: 206
+image: "/assets/images/206/ho-10-boja-1.jpg"
+images:
+- "/assets/images/206/ho-10-boja-2.jpg"
 ---
 
 ### 🖊️ Hemijska olovka 10 boja – Sve boje u jednoj olovci!

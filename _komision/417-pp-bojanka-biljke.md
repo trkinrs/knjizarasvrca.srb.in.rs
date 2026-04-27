@@ -2,6 +2,7 @@
 layout: article
 title: PP - BOJANKA - BILJKE
 sku: 417
+image: "/assets/images/417/pp-bojanka-biljke-1.jpg"
 ---
 
 povez:&nbsp;mek

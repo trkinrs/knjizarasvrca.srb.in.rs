@@ -2,6 +2,9 @@
 layout: article
 title: TORBA SC
 sku: 3852
+image: "/assets/images/3852/torba-sc-1.jpg"
+images:
+- "/assets/images/3852/torba-sc-2.jpg"
 ---
 
 ### 👜 Torba Upper-B – Moderno i praktično rešenje

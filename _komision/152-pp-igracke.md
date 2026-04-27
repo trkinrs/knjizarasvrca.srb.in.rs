@@ -2,6 +2,7 @@
 layout: article
 title: PP - IGRACKE
 sku: 152
+image: "/assets/images/152/pp-igracke-1.jpg"
 ---
 
 povez:&nbsp;tvrd

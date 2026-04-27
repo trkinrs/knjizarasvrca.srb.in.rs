@@ -2,6 +2,7 @@
 layout: article
 title: PP - BAJKA SA NALEPNICAMA - RUŽNO PAČE
 sku: 2002
+image: "/assets/images/2002/pp-bajka-sa-nalepnicama-ruzno-pace-1.jpg"
 ---
 
 prevodilac:&nbsp;Milica Rakić

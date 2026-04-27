@@ -2,6 +2,7 @@
 layout: article
 title: L - ŽEĐ - JU NESBE
 sku: 891
+image: "/assets/images/891/l-zedj-ju-nesbe-1.jpg"
 ---
 
 Jedanaesti roman o Hariju Huleu.  

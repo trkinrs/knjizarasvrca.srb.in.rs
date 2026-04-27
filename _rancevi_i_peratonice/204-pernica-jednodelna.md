@@ -2,6 +2,9 @@
 layout: article
 title: PERNICA JEDNODELNA
 sku: 204
+image: "/assets/images/204/pernica-jednodelna-1.jpg"
+images:
+- "/assets/images/204/pernica-jednodelna-2.jpg"
 ---
 
 ### ✏️ Pernica jednodelna puna sa 2 flepa – Sve na jednom mestu!

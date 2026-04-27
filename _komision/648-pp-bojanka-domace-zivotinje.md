@@ -2,6 +2,7 @@
 layout: article
 title: PP - BOJANKA - DOMAĆE ŽIVOTINJE
 sku: 648
+image: "/assets/images/648/pp-bojanka-domace-zivotinje-1.jpg"
 ---
 
 povez:&nbsp;mek

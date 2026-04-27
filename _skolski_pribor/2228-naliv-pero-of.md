@@ -2,6 +2,9 @@
 layout: article
 title: NALIV PERO OF
 sku: 2228
+image: "/assets/images/2228/naliv-pero-of-1.jpg"
+images:
+- "/assets/images/2228/naliv-pero-of-2.jpg"
 ---
 
 ### ✒️ Naliv Pero – Blister Pakovanje

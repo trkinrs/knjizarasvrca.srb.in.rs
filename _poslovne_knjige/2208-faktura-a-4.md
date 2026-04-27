@@ -2,6 +2,7 @@
 layout: article
 title: FAKTURA A/4
 sku: 2208
+image: "/assets/images/2208/faktura-a-4-1.jpg"
 ---
 
 📄 **Faktura A4 NCR – Profesionalna isporuka i naplata robe i usluga**

@@ -2,6 +2,7 @@
 layout: article
 title: PP - LEGENDARNE ZENE KOJE SU PROMENILE SVET
 sku: 425
+image: "/assets/images/425/pp-legendarne-zene-koje-su-promenile-svet-1.jpg"
 ---
 
 prevodilac:&nbsp;Ana Miletić

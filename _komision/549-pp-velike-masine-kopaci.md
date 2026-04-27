@@ -2,6 +2,7 @@
 layout: article
 title: PP - VELIKE MASINE - KOPACI
 sku: 549
+image: "/assets/images/549/pp-velike-masine-kopaci-1.jpg"
 ---
 
 prevodilac:&nbsp;Jelena Radojčić

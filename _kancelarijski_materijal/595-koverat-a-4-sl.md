@@ -2,6 +2,7 @@
 layout: article
 title: KOVERAT A/4 SL
 sku: 595
+image: "/assets/images/595/koverat-a-4-sl-1.jpg"
 ---
 
 ## ✉️ Koverat A4 Samolepljivi Beli

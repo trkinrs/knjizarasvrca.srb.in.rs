@@ -2,6 +2,10 @@
 layout: article
 title: OHO LEPAK 40G
 sku: 43
+image: "/assets/images/43/oho-lepak-40g-1.jpg"
+images:
+- "/assets/images/43/oho-lepak-40g-2.jpg"
+- "/assets/images/43/oho-lepak-40g-3.jpg"
 ---
 
 ### 🟢 OHO Lepak 40g

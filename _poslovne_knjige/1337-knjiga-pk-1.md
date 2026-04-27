@@ -2,6 +2,9 @@
 layout: article
 title: KNJIGA PK-1
 sku: 1337
+image: "/assets/images/1337/knjiga-pk-1-1.jpg"
+images:
+- "/assets/images/1337/knjiga-pk-1-2.jpg"
 ---
 
 📘 **Knjiga prihoda i rashoda (PK1) – Osnovna evidencija za paušalce i preduzetnike**

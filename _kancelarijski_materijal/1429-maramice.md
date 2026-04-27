@@ -2,6 +2,9 @@
 layout: article
 title: MARAMICE
 sku: 1429
+image: "/assets/images/1429/maramice-1.jpg"
+images:
+- "/assets/images/1429/maramice-2.jpg"
 ---
 
 ### 🧻 Papirne Maramice – Higijena na dohvat ruke

@@ -2,6 +2,7 @@
 layout: article
 title: MAGNET FLAMINGO
 sku: 1117
+image: "/assets/images/1117/magnet-flamingo-1.jpg"
 ---
 
 🧲 **Ukrasni magnet – Mali detalj, velika poruka!**

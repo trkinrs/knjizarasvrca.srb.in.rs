@@ -2,6 +2,7 @@
 layout: article
 title: PP - TRAZI I PRONADJI - ZEMLJA USKRSNJEG ZEKE
 sku: 388
+image: "/assets/images/388/pp-trazi-i-pronadji-zemlja-uskrsnjeg-zeke-1.jpg"
 ---
 
 prevodilac:&nbsp;Ana Miletić

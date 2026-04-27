@@ -2,6 +2,9 @@
 layout: article
 title: PLANER OBROKA
 sku: 1016
+image: "/assets/images/1016/planer-obroka-1.jpg"
+images:
+- "/assets/images/1016/planer-obroka-2.jpg"
 ---
 
 ### 🍽️ Planer Obroka A5 – Organizujte svoje obroke sa lakoćom

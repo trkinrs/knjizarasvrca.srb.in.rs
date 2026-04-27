@@ -2,6 +2,9 @@
 layout: article
 title: PARTY TANJIRICI
 sku: 290
+image: "/assets/images/290/party-tanjirici-1.jpg"
+images:
+- "/assets/images/290/party-tanjirici-2.jpg"
 ---
 
 **Naziv proizvoda:** Okrugli Party Tanjirići – Pakovanje od 6 komada

@@ -2,6 +2,7 @@
 layout: article
 title: PP - VESELI MLADUNCI
 sku: 298
+image: "/assets/images/298/pp-veseli-mladunci-1.jpg"
 ---
 
 prevodilac:&nbsp;Maja Radivojević

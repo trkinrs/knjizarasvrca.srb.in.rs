@@ -2,6 +2,9 @@
 layout: article
 title: SVESKA A/4 300L TP
 sku: 996
+image: "/assets/images/996/sveska-a-4-300l-tp-1.jpg"
+images:
+- "/assets/images/996/sveska-a-4-300l-tp-2.jpg"
 ---
 
 📘 **Sveska A4 TP sitan karo– 300 listova za ozbiljne beleške**

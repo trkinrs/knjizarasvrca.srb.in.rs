@@ -2,6 +2,7 @@
 layout: article
 title: PP - KOLIKO JE SATI ?
 sku: 352
+image: "/assets/images/352/pp-koliko-je-sati-1.jpg"
 ---
 
 povez:&nbsp;tvrd

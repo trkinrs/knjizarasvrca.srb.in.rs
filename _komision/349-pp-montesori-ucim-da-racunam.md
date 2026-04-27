@@ -2,6 +2,7 @@
 layout: article
 title: PP - MONTESORI - UCIM DA RACUNAM
 sku: 349
+image: "/assets/images/349/pp-montesori-ucim-da-racunam-1.jpg"
 ---
 
 prevodilac:&nbsp;Milica Gnjatović

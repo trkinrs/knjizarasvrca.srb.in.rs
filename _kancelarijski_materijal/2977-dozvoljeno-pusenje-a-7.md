@@ -2,6 +2,7 @@
 layout: article
 title: DOZVOLJENO PUSENJE A/7
 sku: 2977
+image: "/assets/images/2977/dozvoljeno-pusenje-a-7-1.jpg"
 ---
 
 ### 🚬 Nalepnica A7 – "Dozvoljeno pušenje"

@@ -2,6 +2,9 @@
 layout: article
 title: PLANER VENCANJA
 sku: 131
+image: "/assets/images/131/planer-vencanja-1.jpg"
+images:
+- "/assets/images/131/planer-vencanja-2.jpg"
 ---
 
 ### 💍 Planer Venčanja A5 – Organizujte svoj najlepši dan

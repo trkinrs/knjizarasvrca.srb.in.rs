@@ -2,6 +2,7 @@
 layout: article
 title: L - HARIZMA CARA DUŠANA - KOSTA NIKOLIĆ
 sku: 652
+image: "/assets/images/652/l-harizma-cara-dusana-kosta-nikolic-1.jpg"
 ---
 
 _Istorija i pamćenje_  

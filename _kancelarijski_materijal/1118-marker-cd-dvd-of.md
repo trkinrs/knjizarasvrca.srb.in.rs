@@ -2,6 +2,9 @@
 layout: article
 title: MARKER CD/DVD OF
 sku: 1118
+image: "/assets/images/1118/marker-cd-dvd-of-1.jpg"
+images:
+- "/assets/images/1118/marker-cd-dvd-of-2.jpg"
 ---
 
 🖊️ **Obostrani CD marker Offishop – Crveni marker za precizno i trajno označavanje**

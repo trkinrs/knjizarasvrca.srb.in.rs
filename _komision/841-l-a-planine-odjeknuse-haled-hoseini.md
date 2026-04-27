@@ -2,6 +2,7 @@
 layout: article
 title: L - A PLANINE ODJEKNUŠE - HALED HOSEINI
 sku: 841
+image: "/assets/images/841/l-a-planine-odjeknuse-haled-hoseini-1.jpg"
 ---
 
 Novi roman autora svetskih bestselera&nbsp;_Lovac na zmajeve_&nbsp;i&nbsp;_Hiljadu čudesnih sunaca_.  

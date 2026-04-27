@@ -2,6 +2,7 @@
 layout: article
 title: VU - SAMO BUDI OVDE V
 sku: 2568
+image: "/assets/images/2568/vu-samo-budi-ovde-v-1.jpg"
 ---
 
 U ovoj knjizi čudesnih ilustracija i divnih opisa upoznaćete različite vrste biljaka i njihove iznenađujuće rođake (ukusni paradajz je rođak smrtonosnog velebilja!), kao i njihovu zanimljivu istoriju (zelena salata je bila prvo povrće koje se uzgajalo u svemiru!).  

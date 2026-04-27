@@ -2,6 +2,9 @@
 layout: article
 title: SVECICA BROJ
 sku: 3814
+image: "/assets/images/3814/svecica-broj-1.jpg"
+images:
+- "/assets/images/3814/svecica-broj-2.jpg"
 ---
 
 🎉 **Rođendanska svećica – Začini svaki rođendan!** 🕯️

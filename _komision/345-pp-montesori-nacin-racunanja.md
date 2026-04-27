@@ -2,6 +2,7 @@
 layout: article
 title: PP - MONTESORI - NACIN RACUNANJA
 sku: 345
+image: "/assets/images/345/pp-montesori-nacin-racunanja-1.jpg"
 ---
 
 prevodilac:&nbsp;Bojana Jovanović

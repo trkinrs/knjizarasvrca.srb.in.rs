@@ -2,6 +2,9 @@
 layout: article
 title: LENJIR 15/17CM
 sku: 50
+image: "/assets/images/50/lenjir-15-17cm-1.jpg"
+images:
+- "/assets/images/50/lenjir-15-17cm-2.jpg"
 ---
 
 📏 **Lenjir PVC 15 cm – Precizan i praktičan za svakodnevnu upotrebu**

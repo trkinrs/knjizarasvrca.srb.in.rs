@@ -2,6 +2,7 @@
 layout: article
 title: PP - DINOSAURUSI, PANDE I DRUGARI - KNJIGA AKTIVNOSTI
 sku: 415
+image: "/assets/images/415/pp-dinosaurusi-pande-i-drugari-knjiga-aktivnosti-1.jpg"
 ---
 
 prevodilac:&nbsp;Jelena Radojičić

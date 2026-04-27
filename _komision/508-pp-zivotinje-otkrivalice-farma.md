@@ -2,6 +2,7 @@
 layout: article
 title: PP - ZIVOTINJE OTKRIVALICE - FARMA
 sku: 508
+image: "/assets/images/508/pp-zivotinje-otkrivalice-farma-1.jpg"
 ---
 
 prevodilac:&nbsp;Jelena Radojčić

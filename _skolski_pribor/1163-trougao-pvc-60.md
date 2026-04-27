@@ -2,6 +2,7 @@
 layout: article
 title: TROUGAO PVC 60
 sku: 1163
+image: "/assets/images/1163/trougao-pvc-60-1.jpg"
 ---
 
 ## 📐 Trougao PVC 60°

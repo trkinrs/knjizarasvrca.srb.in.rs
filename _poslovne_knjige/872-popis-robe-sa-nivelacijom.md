@@ -2,6 +2,9 @@
 layout: article
 title: POPIS ROBE SA NIVELACIJOM
 sku: 872
+image: "/assets/images/872/popis-robe-sa-nivelacijom-1.jpg"
+images:
+- "/assets/images/872/popis-robe-sa-nivelacijom-2.jpg"
 ---
 
 ## 📋 Popis Robe sa Nivelacijom A4

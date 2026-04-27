@@ -2,6 +2,7 @@
 layout: article
 title: PP - UČIMO S LJUBAVLJU - BIĆU UPORNA!
 sku: 765
+image: "/assets/images/765/pp-ucimo-s-ljubavlju-bicu-uporna-1.jpg"
 ---
 
 prevodilac:&nbsp;Jelena Radojičić

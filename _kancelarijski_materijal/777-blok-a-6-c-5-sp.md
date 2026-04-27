@@ -2,6 +2,10 @@
 layout: article
 title: BLOK A/6 C/5 SP
 sku: 777
+image: "/assets/images/777/blok-a-6-c-5-sp-1.jpg"
+images:
+- "/assets/images/777/blok-a-6-c-5-sp-2.jpg"
+- "/assets/images/777/blok-a-6-c-5-sp-3.jpg"
 ---
 
 ### 🗒️ Blokčić A7 sa Spiralom – Mali, ali uvek pri ruci!

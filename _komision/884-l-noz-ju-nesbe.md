@@ -2,6 +2,7 @@
 layout: article
 title: L - NOŽ - JU NESBE
 sku: 884
+image: "/assets/images/884/l-noz-ju-nesbe-1.jpg"
 ---
 
 Dvanaesti roman u serijalu o Hariju Huleu.  

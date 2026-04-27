@@ -2,6 +2,7 @@
 layout: article
 title: PP - CRTAJ I BOJI - JA VOLIM KUCE
 sku: 358
+image: "/assets/images/358/pp-crtaj-i-boji-ja-volim-kuce-1.jpg"
 ---
 
 prevodilac:&nbsp;Ana Miletić

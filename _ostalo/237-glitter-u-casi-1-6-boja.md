@@ -2,6 +2,9 @@
 layout: article
 title: GLITTER U CASI 1/6 BOJA
 sku: 237
+image: "/assets/images/237/glitter-u-casi-1-6-boja-1.jpg"
+images:
+- "/assets/images/237/glitter-u-casi-1-6-boja-2.jpg"
 ---
 
 🌟 **Glitter u čaši – 6 neon boja: Sjaj koji ne može da prođe neprimećeno!**

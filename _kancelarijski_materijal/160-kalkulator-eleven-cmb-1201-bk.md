@@ -2,6 +2,9 @@
 layout: article
 title: KALKULATOR ELEVEN CMB-1201-BK
 sku: 160
+image: "/assets/images/160/kalkulator-eleven-cmb-1201-bk-1.jpg"
+images:
+- "/assets/images/160/kalkulator-eleven-cmb-1201-bk-2.jpg"
 ---
 
 Kalkulator **Tip Top Office DG-900A** je pouzdan i praktičan uređaj, idealan za svakodnevnu upotrebu u kancelariji, školi ili kod kuće.

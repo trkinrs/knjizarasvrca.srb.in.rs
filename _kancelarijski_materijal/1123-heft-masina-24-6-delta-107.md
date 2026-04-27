@@ -2,6 +2,9 @@
 layout: article
 title: HEFT MASINA 24/6 DELTA 107
 sku: 1123
+image: "/assets/images/1123/heft-masina-24-6-delta-107-1.jpg"
+images:
+- "/assets/images/1123/heft-masina-24-6-delta-107-2.jpg"
 ---
 
 ### 📎 Heft Mašina Delta 107 – Pouzdano spajanje bez muke!

@@ -2,6 +2,9 @@
 layout: article
 title: SALVETE 1/20
 sku: 241
+image: "/assets/images/241/salvete-1-20-1.jpg"
+images:
+- "/assets/images/241/salvete-1-20-2.jpg"
 ---
 
 🍽️ **Salvete Le Nappage – 20 kom**  

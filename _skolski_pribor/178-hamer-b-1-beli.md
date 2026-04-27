@@ -2,6 +2,7 @@
 layout: article
 title: HAMER B/1 BELI
 sku: 178
+image: "/assets/images/178/hamer-b-1-beli-1.jpg"
 ---
 
 ### 🤎 Hamer Papir B1 220g Fabriano – Bež

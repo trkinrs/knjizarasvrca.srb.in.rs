@@ -2,6 +2,7 @@
 layout: article
 title: PP - ZAGOLICAJ JEDNOROGA !
 sku: 392
+image: "/assets/images/392/pp-zagolicaj-jednoroga-1.jpg"
 ---
 
 prevodilac:&nbsp;Jelena Radojičić

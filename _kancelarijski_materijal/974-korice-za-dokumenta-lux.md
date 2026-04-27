@@ -2,6 +2,9 @@
 layout: article
 title: KORICE ZA DOKUMENTA LUX
 sku: 974
+image: "/assets/images/974/korice-za-dokumenta-lux-1.jpg"
+images:
+- "/assets/images/974/korice-za-dokumenta-lux-2.jpg"
 ---
 
 ## 📁 Korice za dokumenta – Teo

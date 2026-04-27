@@ -2,6 +2,9 @@
 layout: article
 title: PAPIRNA TACNA
 sku: 1257
+image: "/assets/images/1257/papirna-tacna-1.jpg"
+images:
+- "/assets/images/1257/papirna-tacna-2.jpg"
 ---
 
 🍰 **Kartonska tacna fi 28cm – Savršena baza za torte i poslastice!**

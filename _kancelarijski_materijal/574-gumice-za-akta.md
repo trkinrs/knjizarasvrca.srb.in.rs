@@ -2,6 +2,9 @@
 layout: article
 title: GUMICE ZA AKTA
 sku: 574
+image: "/assets/images/574/gumice-za-akta-1.jpg"
+images:
+- "/assets/images/574/gumice-za-akta-2.jpg"
 ---
 
 📎 **Gumice za akta – Jednostavno rešenje za urednu dokumentaciju**

@@ -2,6 +2,9 @@
 layout: article
 title: PUZZLE 35
 sku: 343
+image: "/assets/images/343/puzzle-35-1.jpg"
+images:
+- "/assets/images/343/puzzle-35-2.jpg"
 ---
 
 ### 🧩 Puzzle MaxiFloor 35 – Velika slagalica za male genijalce + bojanka sa druge strane

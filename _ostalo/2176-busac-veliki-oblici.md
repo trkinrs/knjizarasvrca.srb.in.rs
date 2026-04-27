@@ -2,6 +2,9 @@
 layout: article
 title: BUSAC VELIKI OBLICI
 sku: 2176
+image: "/assets/images/2176/busac-veliki-oblici-1.jpg"
+images:
+- "/assets/images/2176/busac-veliki-oblici-2.jpg"
 ---
 
 🖌️ **Craft bušač – Oblici**  

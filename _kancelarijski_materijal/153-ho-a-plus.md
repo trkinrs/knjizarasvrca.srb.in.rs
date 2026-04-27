@@ -2,6 +2,9 @@
 layout: article
 title: 'HO A PLUS '
 sku: 153
+image: "/assets/images/153/ho-a-plus-1.jpg"
+images:
+- "/assets/images/153/ho-a-plus-2.jpg"
 ---
 
 **Naziv proizvoda:** Hemijska olovka A Plus 0,6mm

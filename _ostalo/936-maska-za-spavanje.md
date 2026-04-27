@@ -2,6 +2,9 @@
 layout: article
 title: MASKA ZA SPAVANJE
 sku: 936
+image: "/assets/images/936/maska-za-spavanje-1.jpg"
+images:
+- "/assets/images/936/maska-za-spavanje-2.jpg"
 ---
 
 ## 💤 Dečija plišana maska za spavanje

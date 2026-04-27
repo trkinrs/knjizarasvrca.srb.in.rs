@@ -2,6 +2,7 @@
 layout: article
 title: VU - MOJA BOJANKA PUNA...
 sku: 2146
+image: "/assets/images/2146/vu-moja-bojanka-puna-1.webp"
 ---
 
 Zabavite se dok bojite brojne scene sa čarobnim jednorozima! Na stranama ove bojanke pronaći ćete ponuđene primere prema kojima možete da obojite scenu na sledećoj strani. Iskoristite maštu i ulepšajte jednoroge svojim omiljenim bojama.  

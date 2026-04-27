@@ -2,6 +2,9 @@
 layout: article
 title: ROLER PILOT PISI/BRISI
 sku: 447
+image: "/assets/images/447/roler-pilot-pisi-brisi-1.jpg"
+images:
+- "/assets/images/447/roler-pilot-pisi-brisi-2.jpg"
 ---
 
 ### ✒️ Roler Pilot BL-FRP5 0,7mm Piši-Briši – Plavi

@@ -2,6 +2,9 @@
 layout: article
 title: DOSIJE MEHANIKA
 sku: 662
+image: "/assets/images/662/dosije-mehanika-1.jpg"
+images:
+- "/assets/images/662/dosije-mehanika-2.jpg"
 ---
 
 📁 **Fascikla sa mehanizmom – Organizacija na dohvat ruke**

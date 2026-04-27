@@ -2,6 +2,9 @@
 layout: article
 title: PERNICA PLIS
 sku: 3150
+image: "/assets/images/3150/pernica-plis-1.jpg"
+images:
+- "/assets/images/3150/pernica-plis-2.jpg"
 ---
 
 🎒 **Pernica pliš S-cool – Meko, slatko i praktično!**

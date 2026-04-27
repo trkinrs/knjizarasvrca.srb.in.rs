@@ -2,6 +2,9 @@
 layout: article
 title: VOSTANE BOJE 1/12 SC
 sku: 2017
+image: "/assets/images/2017/vostane-boje-1-12-sc-1.jpg"
+images:
+- "/assets/images/2017/vostane-boje-1-12-sc-2.jpg"
 ---
 
 🖍️ **Voštane boje 1/12 S-cool – Klasičan izbor za šareni svet dečje mašte**

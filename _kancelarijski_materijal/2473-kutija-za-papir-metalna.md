@@ -2,6 +2,9 @@
 layout: article
 title: KUTIJA ZA PAPIR METALNA
 sku: 2473
+image: "/assets/images/2473/kutija-za-papir-metalna-1.jpg"
+images:
+- "/assets/images/2473/kutija-za-papir-metalna-2.jpg"
 ---
 
 ### 🗒️ Metalna Kutija za Blokčić – Stilska organizacija sitnog papira

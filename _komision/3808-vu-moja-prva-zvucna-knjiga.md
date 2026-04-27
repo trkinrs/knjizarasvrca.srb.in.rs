@@ -2,6 +2,7 @@
 layout: article
 title: VU - MOJA PRVA ZVUCNA KNJIGA
 sku: 3808
+image: "/assets/images/3808/vu-moja-prva-zvucna-knjiga-1.jpg"
 ---
 
 Pritisnite dugmiće i oživite jednu od najlepših bajki svih vremena!  

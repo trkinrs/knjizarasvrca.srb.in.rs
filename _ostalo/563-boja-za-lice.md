@@ -2,6 +2,9 @@
 layout: article
 title: BOJA ZA LICE
 sku: 563
+image: "/assets/images/563/boja-za-lice-1.jpg"
+images:
+- "/assets/images/563/boja-za-lice-2.jpg"
 ---
 
 ### 🎨 Boje za Lice – Zabava i kreativnost na licu!

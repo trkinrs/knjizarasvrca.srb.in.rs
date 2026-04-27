@@ -2,6 +2,9 @@
 layout: article
 title: 'PČ - VEKOVI SRPSKE PISMENOSTI '
 sku: 3343
+image: "/assets/images/3343/pc-vekovi-srpske-pismenosti-1.jpg"
+images:
+- "/assets/images/3343/pc-vekovi-srpske-pismenosti-2.jpg"
 ---
 
 ### ✏️ Pernica Urban Dizajn – Stil i funkcionalnost u jednom

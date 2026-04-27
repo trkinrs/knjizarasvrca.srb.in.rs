@@ -2,6 +2,9 @@
 layout: article
 title: KALKULACIJA A/4
 sku: 300
+image: "/assets/images/300/kalkulacija-a-4-1.jpg"
+images:
+- "/assets/images/300/kalkulacija-a-4-2.jpg"
 ---
 
 📊 **Kalkulacija cena A4 NCR – Precizno formiranje prodajnih cena**

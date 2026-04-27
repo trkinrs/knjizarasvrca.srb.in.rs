@@ -2,6 +2,7 @@
 layout: article
 title: L - JA SAM HEROJ 4 - KENGO HANAZAVA
 sku: 710
+image: "/assets/images/710/l-ja-sam-heroj-4-kengo-hanazava-1.jpg"
 ---
 
 Hiromi je na školskom izletu. Budući da je izgubila u igri, primorana je na test hrabrosti. Lutajući šumom, zatiče Suzukija koji izgleda kao da će počiniti samoubistvo. Njihov prvi susret zasnovan je na nesporazumu, njegova priča o zombijima i smaku civilizacije podseća na buncanja ludaka, ali nemili događaji koji će se odigrati duboko u šumi nateraće je da se pridruži Suzukiju u potrazi za sigurnim mestom.  

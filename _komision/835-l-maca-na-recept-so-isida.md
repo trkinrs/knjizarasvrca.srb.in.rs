@@ -2,6 +2,7 @@
 layout: article
 title: L - MACA NA RECEPT - SO IŠIDA
 sku: 835
+image: "/assets/images/835/l-maca-na-recept-so-isida-1.jpg"
 ---
 
 Duša se leči jednostavnom i iskrenom ljubavlju.  

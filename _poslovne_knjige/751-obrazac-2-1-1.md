@@ -2,6 +2,9 @@
 layout: article
 title: 'OBRAZAC 2 1+1 '
 sku: 751
+image: "/assets/images/751/obrazac-2-1-1-1.jpg"
+images:
+- "/assets/images/751/obrazac-2-1-1-2.jpg"
 ---
 
 **Naziv proizvoda:** Nalog za isplatu - Obrazac br.2 (1+1)

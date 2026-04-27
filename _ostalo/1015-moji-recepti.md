@@ -2,6 +2,7 @@
 layout: article
 title: MOJI RECEPTI
 sku: 1015
+image: "/assets/images/1015/moji-recepti-1.jpg"
 ---
 
 ### 📖 Moja Knjiga Recepta B5 – Čuvajte svoje kulinarske tajne

@@ -2,6 +2,9 @@
 layout: article
 title: DRVENA BOJA 1/24 SC
 sku: 893
+image: "/assets/images/893/drvena-boja-1-24-sc-1.jpg"
+images:
+- "/assets/images/893/drvena-boja-1-24-sc-2.jpg"
 ---
 
 ### 🎨 Drvene Boje S-cool 1/24 – Kreativnost u 24 nijanse

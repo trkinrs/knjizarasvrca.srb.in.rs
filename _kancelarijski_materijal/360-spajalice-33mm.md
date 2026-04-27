@@ -2,6 +2,9 @@
 layout: article
 title: SPAJALICE 33MM
 sku: 360
+image: "/assets/images/360/spajalice-33mm-1.jpg"
+images:
+- "/assets/images/360/spajalice-33mm-2.jpg"
 ---
 
 📎 **Spajalice 50 mm – Veliko rešenje za uredne dokumente**

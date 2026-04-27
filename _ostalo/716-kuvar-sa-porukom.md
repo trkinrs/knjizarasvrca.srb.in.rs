@@ -2,6 +2,9 @@
 layout: article
 title: KUVAR SA PORUKOM
 sku: 716
+image: "/assets/images/716/kuvar-sa-porukom-1.jpg"
+images:
+- "/assets/images/716/kuvar-sa-porukom-2.jpg"
 ---
 
 🍽️ **Kuvar sa porukom**  

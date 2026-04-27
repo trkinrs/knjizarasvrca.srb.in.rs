@@ -2,6 +2,9 @@
 layout: article
 title: SELOTEJP 15/60
 sku: 531
+image: "/assets/images/531/selotejp-15-60-1.jpg"
+images:
+- "/assets/images/531/selotejp-15-60-2.jpg"
 ---
 
 ### 📎 Selotejp 15/50 Transparent – Tanka Linija, Snažno Držanje

@@ -2,6 +2,9 @@
 layout: article
 title: TREBOVANJE A/5
 sku: 852
+image: "/assets/images/852/trebovanje-a-5-1.jpg"
+images:
+- "/assets/images/852/trebovanje-a-5-2.jpg"
 ---
 
 📄 **Trebovanje A5 ncr – Brza i pregledna narudžbenica materijala ili robe**

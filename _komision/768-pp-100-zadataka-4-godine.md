@@ -2,6 +2,7 @@
 layout: article
 title: PP - 100 ZADATAKA - 4 GODINE
 sku: 768
+image: "/assets/images/768/pp-100-zadataka-4-godine-1.jpg"
 ---
 
 prevodilac:&nbsp;Milica Gnjatović

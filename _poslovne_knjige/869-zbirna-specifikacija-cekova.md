@@ -2,6 +2,9 @@
 layout: article
 title: ZBIRNA SPECIFIKACIJA CEKOVA
 sku: 869
+image: "/assets/images/869/zbirna-specifikacija-cekova-1.jpg"
+images:
+- "/assets/images/869/zbirna-specifikacija-cekova-2.jpg"
 ---
 
 ## 📑 Zbirna Specifikacija Čekova A5

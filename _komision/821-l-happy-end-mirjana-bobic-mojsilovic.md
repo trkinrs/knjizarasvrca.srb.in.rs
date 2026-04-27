@@ -2,6 +2,7 @@
 layout: article
 title: L - HAPPY END - MIRJANA BOBIĆ MOJSILOVIĆ
 sku: 821
+image: "/assets/images/821/l-happy-end-mirjana-bobic-mojsilovic-1.jpg"
 ---
 
 Svima je potreban srećan kraj.  

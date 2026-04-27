@@ -2,6 +2,9 @@
 layout: article
 title: ROLER PILOT G2 0,5
 sku: 445
+image: "/assets/images/445/roler-pilot-g2-0-5-1.jpg"
+images:
+- "/assets/images/445/roler-pilot-g2-0-5-2.jpg"
 ---
 
 ### ✒️ Roler Pilot BL-G2 0,5mm – Roza

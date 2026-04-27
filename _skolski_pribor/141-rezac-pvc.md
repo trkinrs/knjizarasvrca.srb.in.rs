@@ -2,6 +2,9 @@
 layout: article
 title: REZAČ PVC
 sku: 141
+image: "/assets/images/141/rezac-pvc-1.jpg"
+images:
+- "/assets/images/141/rezac-pvc-2.jpg"
 ---
 
 **✏️ Rezač PVC JAR S-cool – Praktičnost u veselom dizajnu**

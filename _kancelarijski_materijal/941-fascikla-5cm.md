@@ -2,6 +2,9 @@
 layout: article
 title: FASCIKLA 5CM
 sku: 941
+image: "/assets/images/941/fascikla-5cm-1.jpg"
+images:
+- "/assets/images/941/fascikla-5cm-2.jpg"
 ---
 
 🟩 **Fascikla sa gumom&nbsp;**

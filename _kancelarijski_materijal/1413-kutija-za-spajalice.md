@@ -2,6 +2,9 @@
 layout: article
 title: KUTIJA ZA SPAJALICE
 sku: 1413
+image: "/assets/images/1413/kutija-za-spajalice-1.jpg"
+images:
+- "/assets/images/1413/kutija-za-spajalice-2.jpg"
 ---
 
 🧲 **Magnetna kutija za spajalice – Organizacija na dohvat ruke**

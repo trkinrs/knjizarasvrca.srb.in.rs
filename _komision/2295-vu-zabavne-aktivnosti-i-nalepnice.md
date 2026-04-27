@@ -2,6 +2,7 @@
 layout: article
 title: VU - ZABAVNE AKTIVNOSTI I NALEPNICE
 sku: 2295
+image: "/assets/images/2295/vu-zabavne-aktivnosti-i-nalepnice-1.jpg"
 ---
 
 Spremite se za SVEMIRSKU AVANTURU!  

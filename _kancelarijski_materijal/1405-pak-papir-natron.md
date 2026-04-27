@@ -2,6 +2,7 @@
 layout: article
 title: PAK PAPIR NATRON
 sku: 1405
+image: "/assets/images/1405/pak-papir-natron-1.jpg"
 ---
 
 ## 📦 Pak Papir – Natron 90×120 cm

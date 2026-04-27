@@ -2,6 +2,9 @@
 layout: article
 title: NOVCANIK ZA KK
 sku: 271
+image: "/assets/images/271/novcanik-za-kk-1.jpg"
+images:
+- "/assets/images/271/novcanik-za-kk-2.jpg"
 ---
 
 💳 **Novčanik za kartice Triballi – Kompaktan stil za savršenu organizaciju**

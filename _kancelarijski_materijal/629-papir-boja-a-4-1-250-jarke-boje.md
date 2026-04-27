@@ -2,6 +2,9 @@
 layout: article
 title: PAPIR BOJA A/4 1/250 JARKE BOJE
 sku: 629
+image: "/assets/images/629/papir-boja-a-4-1-250-jarke-boje-1.jpg"
+images:
+- "/assets/images/629/papir-boja-a-4-1-250-jarke-boje-2.jpg"
 ---
 
 🖨️ **Papir A/4 boja 1/250**  

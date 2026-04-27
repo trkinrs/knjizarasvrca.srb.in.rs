@@ -2,6 +2,9 @@
 layout: article
 title: TS*Q TEG KOCKA-SRCE
 sku: 144
+image: "/assets/images/144/ts-q-teg-kocka-srce-1.jpg"
+images:
+- "/assets/images/144/ts-q-teg-kocka-srce-2.jpg"
 ---
 
 ### ⬛ Teg za balone – Kocka

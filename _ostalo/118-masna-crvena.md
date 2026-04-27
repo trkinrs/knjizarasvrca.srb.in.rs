@@ -2,6 +2,9 @@
 layout: article
 title: MASNA CRVENA
 sku: 118
+image: "/assets/images/118/masna-crvena-1.jpg"
+images:
+- "/assets/images/118/masna-crvena-2.jpg"
 ---
 
 🎀 **Mašna na potez** – Efektna dekoracija u sekundi!

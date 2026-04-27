@@ -2,6 +2,10 @@
 layout: article
 title: LEPAK OF
 sku: 581
+image: "/assets/images/581/lepak-of-1.jpg"
+images:
+- "/assets/images/581/lepak-of-2.jpg"
+- "/assets/images/581/lepak-of-3.jpg"
 ---
 
 ### 🟡 Univerzalni Lepak Offishop – Pouzdano lepljenje za sve potrebe

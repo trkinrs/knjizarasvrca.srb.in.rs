@@ -2,6 +2,7 @@
 layout: article
 title: L - DNEVNIK JEDNOG ČAROBNJAKA - PAULO KOELJO
 sku: 577
+image: "/assets/images/577/l-dnevnik-jednog-carobnjaka-paulo-koeljo-1.jpg"
 ---
 
 Mi neprestano težimo da izmišljamo stvari koje ne postoje, a odbijamo da vidimo velike pouke koje nam stoje pred očima.

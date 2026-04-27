@@ -2,6 +2,10 @@
 layout: article
 title: PČ - SLAVUJ SLAVKO 4 - G.MARKOVIĆ, G.MILISAVLJEVIĆ
 sku: 3269
+image: "/assets/images/3269/pc-slavuj-slavko-4-g-markovic-g-milisavljevic-1.jpg"
+images:
+- "/assets/images/3269/pc-slavuj-slavko-4-g-markovic-g-milisavljevic-2.jpg"
+- "/assets/images/3269/pc-slavuj-slavko-4-g-markovic-g-milisavljevic-3.jpg"
 ---
 
 Kalkulator **TTO DG-1010** je kompaktan i funkcionalan uređaj, idealan za učenike, studente i svakodnevnu kancelarijsku upotrebu.

@@ -2,6 +2,9 @@
 layout: article
 title: GUMICA SC
 sku: 1196
+image: "/assets/images/1196/gumica-sc-1.jpg"
+images:
+- "/assets/images/1196/gumica-sc-2.jpg"
 ---
 
 **🧼 Segmentna gumica za brisanje S-cool – Precizno brisanje za savršen izgled**

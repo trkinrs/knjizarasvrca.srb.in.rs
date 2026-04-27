@@ -2,6 +2,7 @@
 layout: article
 title: L - ODMAZDA - JU NESBE
 sku: 854
+image: "/assets/images/854/l-odmazda-ju-nesbe-1.jpg"
 ---
 
 U pljački banke u centru Osla ubijena je službenica, a pljačkašev motiv da joj oduzme život je potpuno bizaran – upravnik filijale je ispraznio bankomat šest sekundi sporije od zadatog roka.  

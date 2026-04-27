@@ -2,6 +2,9 @@
 layout: article
 title: 'KRAVATA FERE '
 sku: 1182
+image: "/assets/images/1182/kravata-fere-1.jpg"
+images:
+- "/assets/images/1182/kravata-fere-2.jpg"
 ---
 
 👔 **Kravata FERE – Stil koji ističe karakter**

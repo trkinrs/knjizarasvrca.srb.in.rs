@@ -2,6 +2,9 @@
 layout: article
 title: OTO PLOCA
 sku: 1927
+image: "/assets/images/1927/oto-ploca-1.jpg"
+images:
+- "/assets/images/1927/oto-ploca-2.jpg"
 ---
 
 🪵 **Šperploča – Višenamenski materijal za gradnju, dekoraciju i kreativne projekte**

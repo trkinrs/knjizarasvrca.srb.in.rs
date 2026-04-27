@@ -2,6 +2,7 @@
 layout: article
 title: 'BOJA ZA PECAT '
 sku: 4260
+image: "/assets/images/4260/boja-za-pecat-1.jpg"
 ---
 
 **💙 Boja za žig - Plava – Pouzdano i profesionalno pečatiranje**

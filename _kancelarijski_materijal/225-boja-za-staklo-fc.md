@@ -2,6 +2,9 @@
 layout: article
 title: BOJA ZA STAKLO FC
 sku: 225
+image: "/assets/images/225/boja-za-staklo-fc-1.jpg"
+images:
+- "/assets/images/225/boja-za-staklo-fc-2.jpg"
 ---
 
 ### 🎨 Eberhard-Faber Boje za staklo – Kreativnost koja svetluca!

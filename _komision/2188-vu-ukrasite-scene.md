@@ -2,6 +2,7 @@
 layout: article
 title: VU - UKRASITE SCENE
 sku: 2188
+image: "/assets/images/2188/vu-ukrasite-scene-1.jpg"
 ---
 
 Ukrasite neverovatne scene iz praistorijskog doba nalepnicama pterodaktila, dinosaura i drugih praistorijskih stvorenja!  

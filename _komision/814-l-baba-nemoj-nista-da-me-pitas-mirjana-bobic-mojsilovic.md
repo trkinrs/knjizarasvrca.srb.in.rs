@@ -2,6 +2,7 @@
 layout: article
 title: L - BABA NEMOJ NIŠTA DA ME PITAŠ - MIRJANA BOBIĆ MOJSILOVIĆ
 sku: 814
+image: "/assets/images/814/l-baba-nemoj-nista-da-me-pitas-mirjana-bobic-mojsilovic-1.jpg"
 ---
 
 Ovako je sve počelo...  

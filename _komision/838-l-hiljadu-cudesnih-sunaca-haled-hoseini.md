@@ -2,6 +2,7 @@
 layout: article
 title: L - HILJADU ČUDESNIH SUNACA - HALED HOSEINI
 sku: 838
+image: "/assets/images/838/l-hiljadu-cudesnih-sunaca-haled-hoseini-1.jpg"
 ---
 
 „Neodoljiv ep.“  

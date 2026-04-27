@@ -2,6 +2,7 @@
 layout: article
 title: L - SKRIVENA DEVOJKA - LUSINDA RAJLI
 sku: 435
+image: "/assets/images/435/l-skrivena-devojka-lusinda-rajli-1.jpg"
 ---
 
 Autorka bestseler serijala&nbsp;_Sedam sestara_  

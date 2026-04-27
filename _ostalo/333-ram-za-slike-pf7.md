@@ -2,6 +2,9 @@
 layout: article
 title: RAM ZA SLIKE PF7
 sku: 333
+image: "/assets/images/333/ram-za-slike-pf7-1.jpg"
+images:
+- "/assets/images/333/ram-za-slike-pf7-2.jpg"
 ---
 
 ### 🖼️ Ram za slike PF7 sa LED diodama – Vaše uspomene u pravom svetlu!

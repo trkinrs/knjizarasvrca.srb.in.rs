@@ -2,6 +2,9 @@
 layout: article
 title: GEOGRAFSKI ATLAS
 sku: 2557
+image: "/assets/images/2557/geografski-atlas-1.jpg"
+images:
+- "/assets/images/2557/geografski-atlas-2.jpg"
 ---
 
 🌍 **Školski geografski atlas**  

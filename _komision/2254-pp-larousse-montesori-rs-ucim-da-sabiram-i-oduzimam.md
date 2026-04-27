@@ -2,6 +2,7 @@
 layout: article
 title: PP - LAROUSSE MONTESORI RS - UČIM DA SABIRAM I ODUZIMAM
 sku: 2254
+image: "/assets/images/2254/pp-larousse-montesori-rs-ucim-da-sabiram-i-oduzimam-1.jpg"
 ---
 
 prevodilac:&nbsp;Milica Gnjatović

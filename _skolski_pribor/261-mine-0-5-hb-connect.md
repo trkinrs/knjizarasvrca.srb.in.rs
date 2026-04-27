@@ -2,6 +2,9 @@
 layout: article
 title: MINE 0,5 HB CONNECT
 sku: 261
+image: "/assets/images/261/mine-0-5-hb-connect-1.jpg"
+images:
+- "/assets/images/261/mine-0-5-hb-connect-2.jpg"
 ---
 
 ### 🎲 Igra domine – Klasična zabava za sve generacije!

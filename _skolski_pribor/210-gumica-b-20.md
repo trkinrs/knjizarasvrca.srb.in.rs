@@ -2,6 +2,7 @@
 layout: article
 title: GUMICA B-20
 sku: 210
+image: "/assets/images/210/gumica-b-20-1.jpg"
 ---
 
 🧼 **Gumica Staedtler B20 – Klasična pouzdanost iz nemačke radionice**

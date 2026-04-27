@@ -2,6 +2,9 @@
 layout: article
 title: OGRLICA PFC
 sku: 3234
+image: "/assets/images/3234/ogrlica-pfc-1.jpg"
+images:
+- "/assets/images/3234/ogrlica-pfc-2.jpg"
 ---
 
 **Naziv proizvoda:** Ogrlica 61300924 Swarovski

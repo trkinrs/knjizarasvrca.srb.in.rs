@@ -2,6 +2,9 @@
 layout: article
 title: ČESTITKA ROĐENDAN
 sku: 198
+image: "/assets/images/198/cestitka-rodjendan-1.jpg"
+images:
+- "/assets/images/198/cestitka-rodjendan-2.jpg"
 ---
 
 ## 💌 Mini Čestitka

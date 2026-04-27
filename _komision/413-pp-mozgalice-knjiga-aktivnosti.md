@@ -2,6 +2,7 @@
 layout: article
 title: PP - MOZGALICE - KNJIGA AKTIVNOSTI
 sku: 413
+image: "/assets/images/413/pp-mozgalice-knjiga-aktivnosti-1.jpg"
 ---
 
 prevodilac:&nbsp;Jelena Radojičić

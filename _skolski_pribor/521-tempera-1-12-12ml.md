@@ -2,6 +2,9 @@
 layout: article
 title: TEMPERA 1/12 12ML
 sku: 521
+image: "/assets/images/521/tempera-1-12-12ml-1.jpg"
+images:
+- "/assets/images/521/tempera-1-12-12ml-2.jpg"
 ---
 
 ### mpere S-cool 1/12 – 12ml – Savršen set za male umetnike

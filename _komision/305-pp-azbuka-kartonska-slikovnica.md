@@ -2,6 +2,7 @@
 layout: article
 title: PP - AZBUKA - KARTONSKA SLIKOVNICA
 sku: 305
+image: "/assets/images/305/pp-azbuka-kartonska-slikovnica-1.jpg"
 ---
 
 povez:&nbsp;tvrd

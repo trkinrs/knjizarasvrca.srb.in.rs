@@ -2,6 +2,9 @@
 layout: article
 title: KOLAŽ B/5 SL
 sku: 32
+image: "/assets/images/32/kolaz-b-5-sl-1.jpg"
+images:
+- "/assets/images/32/kolaz-b-5-sl-2.jpg"
 ---
 
 🎨 **Kolaž papir B5 samolepljivi – Kreativnost bez lepka!**

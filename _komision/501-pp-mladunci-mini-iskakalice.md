@@ -2,6 +2,7 @@
 layout: article
 title: PP - MLADUNCI - MINI ISKAKALICE
 sku: 501
+image: "/assets/images/501/pp-mladunci-mini-iskakalice-1.jpg"
 ---
 
 prevodilac:&nbsp;Jelena Radojčić

@@ -2,6 +2,9 @@
 layout: article
 title: TEMPERA 42ML
 sku: 143
+image: "/assets/images/143/tempera-42ml-1.jpg"
+images:
+- "/assets/images/143/tempera-42ml-2.jpg"
 ---
 
 ### 🎨 Tempera Bela Aero 42ml – Kvalitetna boja za kreativne projekte

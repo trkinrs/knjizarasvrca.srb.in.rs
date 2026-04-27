@@ -2,6 +2,9 @@
 layout: article
 title: FINELINER 1/12
 sku: 86
+image: "/assets/images/86/fineliner-1-12-1.jpg"
+images:
+- "/assets/images/86/fineliner-1-12-2.jpg"
 ---
 
 **🖊️ Finelineri 1/12 S-cool – Set vibrantnih fineliner markera za precizno pisanje i kreativnost**

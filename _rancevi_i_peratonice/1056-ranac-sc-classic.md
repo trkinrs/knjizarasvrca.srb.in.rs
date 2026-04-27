@@ -2,6 +2,9 @@
 layout: article
 title: RANAC SC CLASSIC
 sku: 1056
+image: "/assets/images/1056/ranac-sc-classic-1.jpg"
+images:
+- "/assets/images/1056/ranac-sc-classic-2.jpg"
 ---
 
 ### 🎒 Ranac za svaki dan S-cool – Tvoj pouzdan saputnik u svakoj prilici!

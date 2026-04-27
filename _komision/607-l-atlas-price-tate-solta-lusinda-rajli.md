@@ -2,6 +2,7 @@
 layout: article
 title: 'L - ATLAS - PRIČE TATE SOLTA - LUSINDA RAJLI '
 sku: 607
+image: "/assets/images/607/l-atlas-price-tate-solta-lusinda-rajli-1.jpg"
 ---
 
 Završnica serijala&nbsp;_Sedam sestara_&nbsp;koji je širom sveta prodat u preko 50.000.000 primeraka  

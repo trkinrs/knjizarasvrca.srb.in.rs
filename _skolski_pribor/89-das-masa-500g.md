@@ -2,6 +2,9 @@
 layout: article
 title: DAS MASA 500G
 sku: 89
+image: "/assets/images/89/das-masa-500g-1.jpg"
+images:
+- "/assets/images/89/das-masa-500g-2.jpg"
 ---
 
 🎨 **DAS masa za modelovanje 500g – Tvoja mašta u 3D obliku**

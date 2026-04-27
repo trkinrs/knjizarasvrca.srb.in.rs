@@ -2,6 +2,7 @@
 layout: article
 title: PP - SLATKE ZVUCNE PRICE - U SUMI
 sku: 483
+image: "/assets/images/483/pp-slatke-zvucne-price-u-sumi-1.jpg"
 ---
 
 prevodilac:&nbsp;Jelena Radojičić

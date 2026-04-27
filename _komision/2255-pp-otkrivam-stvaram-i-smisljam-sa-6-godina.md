@@ -2,6 +2,7 @@
 layout: article
 title: PP - OTKRIVAM, STVARAM I SMIŠLJAM SA 6 GODINA
 sku: 2255
+image: "/assets/images/2255/pp-otkrivam-stvaram-i-smisljam-sa-6-godina-1.jpg"
 ---
 
 prevodilac:&nbsp;Marija Spasić

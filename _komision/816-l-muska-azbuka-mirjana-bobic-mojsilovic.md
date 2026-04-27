@@ -2,6 +2,7 @@
 layout: article
 title: L - MUŠKA AZBUKA - MIRJANA BOBIĆ MOJSILOVIĆ
 sku: 816
+image: "/assets/images/816/l-muska-azbuka-mirjana-bobic-mojsilovic-1.jpg"
 ---
 
 Druga strana priče.  

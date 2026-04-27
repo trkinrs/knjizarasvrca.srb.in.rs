@@ -2,6 +2,9 @@
 layout: article
 title: UVIJAC A/4 SAMOLEPLJIV
 sku: 24
+image: "/assets/images/24/uvijac-a-4-samolepljiv-1.jpg"
+images:
+- "/assets/images/24/uvijac-a-4-samolepljiv-2.jpg"
 ---
 
 📚 **Uvijač za sveske samolepljivi A/4 – Zaštita i stil u jednom**

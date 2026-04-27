@@ -2,6 +2,9 @@
 layout: article
 title: PARTI DUVALJKE
 sku: 251
+image: "/assets/images/251/parti-duvaljke-1.jpg"
+images:
+- "/assets/images/251/parti-duvaljke-2.jpg"
 ---
 
 🎉 **Party duvaljke 1/6 – Partizan**

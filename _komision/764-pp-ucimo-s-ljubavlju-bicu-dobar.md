@@ -2,6 +2,7 @@
 layout: article
 title: PP - UČIMO S LJUBAVLJU - BIĆU DOBAR!
 sku: 764
+image: "/assets/images/764/pp-ucimo-s-ljubavlju-bicu-dobar-1.jpg"
 ---
 
 prevodilac:&nbsp;Jelena Radojičić

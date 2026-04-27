@@ -2,6 +2,9 @@
 layout: article
 title: SPECIFIKACIJA CEKOVA
 sku: 867
+image: "/assets/images/867/specifikacija-cekova-1.jpg"
+images:
+- "/assets/images/867/specifikacija-cekova-2.jpg"
 ---
 
 ## 📑 Specifikacija Čekova A5

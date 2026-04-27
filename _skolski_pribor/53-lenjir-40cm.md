@@ -2,6 +2,9 @@
 layout: article
 title: LENJIR 40CM
 sku: 53
+image: "/assets/images/53/lenjir-40cm-1.jpg"
+images:
+- "/assets/images/53/lenjir-40cm-2.jpg"
 ---
 
 📏 **Maped PVC Lenjir 40 cm – Preciznost na duge staze**

@@ -2,6 +2,9 @@
 layout: article
 title: SPAJALICE BOJA
 sku: 3836
+image: "/assets/images/3836/spajalice-boja-1.jpg"
+images:
+- "/assets/images/3836/spajalice-boja-2.jpg"
 ---
 
 **📎 Spajalice u boji – Praktične i šarene za organizaciju vaših dokumenata**

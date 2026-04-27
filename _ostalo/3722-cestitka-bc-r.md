@@ -2,6 +2,9 @@
 layout: article
 title: CESTITKA BC/R
 sku: 3722
+image: "/assets/images/3722/cestitka-bc-r-1.jpg"
+images:
+- "/assets/images/3722/cestitka-bc-r-2.jpg"
 ---
 
 💌 **Čestitka – Reči koje ostaju zauvek**

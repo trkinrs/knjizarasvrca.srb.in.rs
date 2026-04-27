@@ -2,6 +2,9 @@
 layout: article
 title: STONI PLANER NAPURA
 sku: 169
+image: "/assets/images/169/stoni-planer-napura-1.jpg"
+images:
+- "/assets/images/169/stoni-planer-napura-2.jpg"
 ---
 
 ## 📅 Stoni planer – Napura

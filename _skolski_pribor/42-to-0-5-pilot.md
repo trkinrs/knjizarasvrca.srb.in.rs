@@ -2,6 +2,9 @@
 layout: article
 title: TO 0,5 PILOT
 sku: 42
+image: "/assets/images/42/to-0-5-pilot-1.jpg"
+images:
+- "/assets/images/42/to-0-5-pilot-2.jpg"
 ---
 
 🎈 **Qualatex balon za helijum – Profesionalni baloni za nezaboravne proslave**

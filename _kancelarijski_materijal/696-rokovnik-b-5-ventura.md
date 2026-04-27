@@ -2,6 +2,9 @@
 layout: article
 title: ROKOVNIK B/5 VENTURA
 sku: 696
+image: "/assets/images/696/rokovnik-b-5-ventura-1.jpg"
+images:
+- "/assets/images/696/rokovnik-b-5-ventura-2.jpg"
 ---
 
 ### 📒 Rokovnik Agenda – Organizacija na dohvat ruke

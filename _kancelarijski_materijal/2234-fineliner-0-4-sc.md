@@ -2,6 +2,9 @@
 layout: article
 title: FINELINER 0,4 SC
 sku: 2234
+image: "/assets/images/2234/fineliner-0-4-sc-1.jpg"
+images:
+- "/assets/images/2234/fineliner-0-4-sc-2.jpg"
 ---
 
 🖊️ **Fineliner 0.4 S-cool – Narandžasti**  

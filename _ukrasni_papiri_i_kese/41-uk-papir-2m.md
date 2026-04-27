@@ -2,6 +2,9 @@
 layout: article
 title: UK PAPIR 2M
 sku: 41
+image: "/assets/images/41/uk-papir-2m-1.jpg"
+images:
+- "/assets/images/41/uk-papir-2m-2.jpg"
 ---
 
 🎁 **Ukrasni papir u rolni – Savršen za svako pakovanje!**

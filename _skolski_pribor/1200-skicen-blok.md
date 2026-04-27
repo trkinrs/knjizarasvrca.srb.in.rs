@@ -2,6 +2,9 @@
 layout: article
 title: SKICEN BLOK
 sku: 1200
+image: "/assets/images/1200/skicen-blok-1.jpg"
+images:
+- "/assets/images/1200/skicen-blok-2.jpg"
 ---
 
 🖼️ **Skicen blok broj 2 – Kvalitetna osnova za vaše crtačke ideje**

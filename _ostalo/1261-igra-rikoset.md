@@ -2,6 +2,9 @@
 layout: article
 title: IGRA RIKOSET
 sku: 1261
+image: "/assets/images/1261/igra-rikoset-1.jpg"
+images:
+- "/assets/images/1261/igra-rikoset-2.jpg"
 ---
 
 🎯 **Društvena igra – Rikošet**  

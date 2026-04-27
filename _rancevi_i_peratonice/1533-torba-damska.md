@@ -2,6 +2,9 @@
 layout: article
 title: TORBA DAMSKA
 sku: 1533
+image: "/assets/images/1533/torba-damska-1.jpg"
+images:
+- "/assets/images/1533/torba-damska-2.jpg"
 ---
 
 ### 👜 Jutana torba sa priveskom – Prirodna elegancija za svaki dan

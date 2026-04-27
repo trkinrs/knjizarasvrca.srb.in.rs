@@ -2,6 +2,9 @@
 layout: article
 title: NALOG MAGACINU DA PRIMI
 sku: 848
+image: "/assets/images/848/nalog-magacinu-da-primi-1.jpg"
+images:
+- "/assets/images/848/nalog-magacinu-da-primi-2.jpg"
 ---
 
 ## 📥 Nalog Magacinu da Primi A5

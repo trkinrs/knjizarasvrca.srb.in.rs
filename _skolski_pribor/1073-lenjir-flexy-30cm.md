@@ -2,6 +2,9 @@
 layout: article
 title: LENJIR FLEXY 30CM
 sku: 1073
+image: "/assets/images/1073/lenjir-flexy-30cm-1.jpg"
+images:
+- "/assets/images/1073/lenjir-flexy-30cm-2.jpg"
 ---
 
 ## 📏 Lenjir Flexy 30cm

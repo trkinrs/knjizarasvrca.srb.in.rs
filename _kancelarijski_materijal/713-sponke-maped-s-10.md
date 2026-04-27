@@ -2,6 +2,9 @@
 layout: article
 title: SPONKE MAPED S-10
 sku: 713
+image: "/assets/images/713/sponke-maped-s-10-1.jpg"
+images:
+- "/assets/images/713/sponke-maped-s-10-2.jpg"
 ---
 
 📎 **Klamerice Maped S-10 – Pouzdano spajanje dokumenata**

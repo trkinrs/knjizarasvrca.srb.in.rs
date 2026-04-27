@@ -2,6 +2,9 @@
 layout: article
 title: UKRASNA KESA S
 sku: 424
+image: "/assets/images/424/ukrasna-kesa-s-1.jpg"
+images:
+- "/assets/images/424/ukrasna-kesa-s-2.jpg"
 ---
 
 ### 🎁 Ukrasna poklon kesa – Veličina S

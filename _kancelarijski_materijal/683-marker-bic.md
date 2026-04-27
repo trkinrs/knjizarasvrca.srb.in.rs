@@ -2,6 +2,10 @@
 layout: article
 title: MARKER BIC
 sku: 683
+image: "/assets/images/683/marker-bic-1.jpg"
+images:
+- "/assets/images/683/marker-bic-2.jpg"
+- "/assets/images/683/marker-bic-3.jpg"
 ---
 
 ### ✒️ BIC Marker – Pouzdanost koju prepoznajete

@@ -2,6 +2,7 @@
 layout: article
 title: L - ZANIMLJIVI BUKVAR - BOJAN LJUBENOVIĆ
 sku: 832
+image: "/assets/images/832/l-zanimljivi-bukvar-bojan-ljubenovic-1.jpg"
 ---
 
 Ilustrovao Tošo Borković  

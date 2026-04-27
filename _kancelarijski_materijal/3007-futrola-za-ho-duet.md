@@ -2,6 +2,10 @@
 layout: article
 title: FUTROLA ZA HO DUET
 sku: 3007
+image: "/assets/images/3007/futrola-za-ho-duet-1.jpg"
+images:
+- "/assets/images/3007/futrola-za-ho-duet-2.jpg"
+- "/assets/images/3007/futrola-za-ho-duet-3.jpg"
 ---
 
 ### 🖋️ Futrola za hemijske olovke Duet – Elegancija u dva poteza

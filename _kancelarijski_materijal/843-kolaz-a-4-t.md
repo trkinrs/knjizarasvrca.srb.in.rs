@@ -2,6 +2,9 @@
 layout: article
 title: KOLAŽ A/4 T
 sku: 843
+image: "/assets/images/843/kolaz-a-4-t-1.jpg"
+images:
+- "/assets/images/843/kolaz-a-4-t-2.jpg"
 ---
 
 ## 🎨 Kolaž Papir A4

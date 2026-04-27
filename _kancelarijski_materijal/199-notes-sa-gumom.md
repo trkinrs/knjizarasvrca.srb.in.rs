@@ -2,6 +2,9 @@
 layout: article
 title: NOTES SA GUMOM
 sku: 199
+image: "/assets/images/199/notes-sa-gumom-1.jpg"
+images:
+- "/assets/images/199/notes-sa-gumom-2.jpg"
 ---
 
 ### 📝 Notes sa gumom A6 – Zabeleži Svaku Ideju!

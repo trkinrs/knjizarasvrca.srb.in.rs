@@ -2,6 +2,9 @@
 layout: article
 title: OTKUPNI LIST A/5
 sku: 866
+image: "/assets/images/866/otkupni-list-a-5-1.jpg"
+images:
+- "/assets/images/866/otkupni-list-a-5-2.jpg"
 ---
 
 📄 **Otkupni list A5 – Precizna evidencija svake otkupne transakcije**

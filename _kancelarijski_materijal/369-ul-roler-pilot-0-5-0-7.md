@@ -2,6 +2,9 @@
 layout: article
 title: UL ROLER PILOT 0,5/0,7
 sku: 369
+image: "/assets/images/369/ul-roler-pilot-0-5-0-7-1.jpg"
+images:
+- "/assets/images/369/ul-roler-pilot-0-5-0-7-2.jpg"
 ---
 
 ✒️ **Uložak Pilor Piši-Briši plavi 0.5 – Tanka linija, čisto pisanje, lako brisanje!**

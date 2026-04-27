@@ -2,6 +2,7 @@
 layout: article
 title: L - DA SI DOBRA, I BOG BI TE IMAO - BRANKO ANĐIĆ
 sku: 754
+image: "/assets/images/754/l-da-si-dobra-i-bog-bi-te-imao-branko-andjic-1.jpg"
 ---
 
 Od dobitnika nagrada&nbsp;_Ljubomir P. Nenadović_&nbsp;i&nbsp;_Despot Stefan Lazarević_  

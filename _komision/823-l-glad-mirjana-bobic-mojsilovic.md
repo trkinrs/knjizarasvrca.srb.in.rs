@@ -2,6 +2,7 @@
 layout: article
 title: L - GLAD - MIRJANA BOBIĆ MOJSILOVIĆ
 sku: 823
+image: "/assets/images/823/l-glad-mirjana-bobic-mojsilovic-1.jpg"
 ---
 
 Priča o povratku sebi  

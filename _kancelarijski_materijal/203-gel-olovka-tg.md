@@ -2,6 +2,9 @@
 layout: article
 title: GEL OLOVKA TG
 sku: 203
+image: "/assets/images/203/gel-olovka-tg-1.jpg"
+images:
+- "/assets/images/203/gel-olovka-tg-2.jpg"
 ---
 
 🖊️ **Gel olovka TG sa igračkom – Piši, briši, zabavi se!**

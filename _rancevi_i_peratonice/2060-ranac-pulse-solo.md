@@ -2,6 +2,9 @@
 layout: article
 title: RANAC PULSE SOLO
 sku: 2060
+image: "/assets/images/2060/ranac-pulse-solo-1.jpg"
+images:
+- "/assets/images/2060/ranac-pulse-solo-2.jpg"
 ---
 
 ### 🎒 Ranac Pulse Solo – stil i udobnost za svaki dan

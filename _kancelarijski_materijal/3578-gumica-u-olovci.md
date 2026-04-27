@@ -2,6 +2,9 @@
 layout: article
 title: GUMICA U OLOVCI
 sku: 3578
+image: "/assets/images/3578/gumica-u-olovci-1.jpg"
+images:
+- "/assets/images/3578/gumica-u-olovci-2.jpg"
 ---
 
 ### ✏️ Gumica u olovci Koh-I-Noor – Precizno brisanje uz visoki kvalitet

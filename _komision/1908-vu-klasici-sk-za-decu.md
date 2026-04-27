@@ -2,6 +2,7 @@
 layout: article
 title: VU - KLASICI SK ZA DECU
 sku: 1908
+image: "/assets/images/1908/vu-klasici-sk-za-decu-1.jpg"
 ---
 
 Roman Alisa u Zemlji čuda je najpoznatije delo čuvenog engleskog pisca Luisa Kerola. Poigravajući se logikom, autor je uspeo da napiše roman koji okupira dečju pažnju i maštu, otkrivajući potpuno novi svet fantastičnih likova.  

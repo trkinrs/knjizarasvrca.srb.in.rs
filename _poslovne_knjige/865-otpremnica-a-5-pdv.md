@@ -2,6 +2,9 @@
 layout: article
 title: OTPREMNICA A/5 PDV
 sku: 865
+image: "/assets/images/865/otpremnica-a-5-pdv-1.jpg"
+images:
+- "/assets/images/865/otpremnica-a-5-pdv-2.jpg"
 ---
 
 ## 📦 Otpremnica A5 NCR

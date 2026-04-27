@@ -2,6 +2,7 @@
 layout: article
 title: L - ZAŠTO TAKO OZBILJNO ? - MAJK SINGER
 sku: 653
+image: "/assets/images/653/l-zasto-tako-ozbiljno-majk-singer-1.jpg"
 ---
 
 _Neispričana priča o šampionu NBA Nikoli Jokiću._  

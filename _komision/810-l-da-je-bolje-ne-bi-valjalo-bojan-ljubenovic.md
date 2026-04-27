@@ -2,6 +2,7 @@
 layout: article
 title: L - DA JE BOLJE, NE BI VALJALO - BOJAN LJUBENOVIĆ
 sku: 810
+image: "/assets/images/810/l-da-je-bolje-ne-bi-valjalo-bojan-ljubenovic-1.jpg"
 ---
 
 _Početkom aprila sam hteo da se ubijem.  

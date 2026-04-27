@@ -2,6 +2,9 @@
 layout: article
 title: PERNICA SA USIMA
 sku: 927
+image: "/assets/images/927/pernica-sa-usima-1.jpg"
+images:
+- "/assets/images/927/pernica-sa-usima-2.jpg"
 ---
 
 ### 🐭 Pernica 1 Zip – Dizajn "Miš"

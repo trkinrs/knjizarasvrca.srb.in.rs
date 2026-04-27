@@ -2,6 +2,9 @@
 layout: article
 title: 'MASNA '
 sku: 2049
+image: "/assets/images/2049/masna-1.jpg"
+images:
+- "/assets/images/2049/masna-2.jpg"
 ---
 
 🎀 **Ukrasna mašna – Savršen završni detalj!**

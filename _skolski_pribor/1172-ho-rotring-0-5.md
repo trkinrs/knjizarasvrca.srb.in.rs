@@ -2,6 +2,9 @@
 layout: article
 title: HO ROTRING 0,5
 sku: 1172
+image: "/assets/images/1172/ho-rotring-0-5-1.jpg"
+images:
+- "/assets/images/1172/ho-rotring-0-5-2.jpg"
 ---
 
 **✏️ Tehnička olovka Rotring 0,5 mm – Vrhunska preciznost za profesionalce**

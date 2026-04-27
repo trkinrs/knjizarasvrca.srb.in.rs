@@ -2,6 +2,9 @@
 layout: article
 title: RANAC ANATOMSKI
 sku: 1948
+image: "/assets/images/1948/ranac-anatomski-1.jpg"
+images:
+- "/assets/images/1948/ranac-anatomski-2.jpg"
 ---
 
 ### 🎒 Anatomski ranac S-cool – Udobnost i stil u školskim danima!

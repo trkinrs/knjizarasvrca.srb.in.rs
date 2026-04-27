@@ -2,6 +2,9 @@
 layout: article
 title: TUS U BOJI 1/6
 sku: 277
+image: "/assets/images/277/tus-u-boji-1-6-1.jpg"
+images:
+- "/assets/images/277/tus-u-boji-1-6-2.jpg"
 ---
 
 🖋️ **Tuš u boji 1/6**  

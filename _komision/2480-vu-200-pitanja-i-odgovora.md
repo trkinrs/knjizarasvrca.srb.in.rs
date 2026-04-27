@@ -2,6 +2,7 @@
 layout: article
 title: VU - 200 PITANJA I ODGOVORA
 sku: 2480
+image: "/assets/images/2480/vu-200-pitanja-i-odgovora-1.jpg"
 ---
 
 Zašto je tiranosaur imao kratke ruke?  

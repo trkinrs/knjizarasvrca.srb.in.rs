@@ -2,6 +2,9 @@
 layout: article
 title: DOSIJE SA GUMOM
 sku: 598
+image: "/assets/images/598/dosije-sa-gumom-1.jpg"
+images:
+- "/assets/images/598/dosije-sa-gumom-2.jpg"
 ---
 
 📁 **Fascikla sa lastišem 400g – Sigurna i uredna organizacija**

@@ -2,6 +2,7 @@
 layout: article
 title: L - DEVOJKA POD DRVETOM - SARA BLEDEL
 sku: 571
+image: "/assets/images/571/l-devojka-pod-drvetom-sara-bledel-1.jpg"
 ---
 
 Autorka bestselera&nbsp;_Zaboravljene devojčice_&nbsp;i&nbsp;_Staza smrti_  

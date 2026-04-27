@@ -2,6 +2,7 @@
 layout: article
 title: PP - BAS, BAAAS STRASNA NOC
 sku: 310
+image: "/assets/images/310/pp-bas-baaas-strasna-noc-1.jpg"
 ---
 
 prevodilac:&nbsp;Ivan Vlajić

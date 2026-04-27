@@ -2,6 +2,7 @@
 layout: article
 title: 'VU - BEBINA KNJIGA SA PROZORČIĆIMA : FARMA'
 sku: 1788
+image: "/assets/images/1788/vu-bebina-knjiga-sa-prozorcicima-farma-1.jpg"
 ---
 
 Spakujte kofere i krenite u uzbudljivu avanturu na put oko sveta zajedno sa Barbi i njenim prijateljicama!  

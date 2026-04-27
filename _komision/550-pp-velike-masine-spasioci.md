@@ -2,6 +2,7 @@
 layout: article
 title: PP - VELIKE MASINE - SPASIOCI
 sku: 550
+image: "/assets/images/550/pp-velike-masine-spasioci-1.jpg"
 ---
 
 prevodilac:&nbsp;Jelena Radojčić

@@ -2,6 +2,9 @@
 layout: article
 title: RAM ZA SLIKE
 sku: 2508
+image: "/assets/images/2508/ram-za-slike-1.jpg"
+images:
+- "/assets/images/2508/ram-za-slike-2.jpg"
 ---
 
 ### 🧸 Dečiji ram za slike Vini Pu – Slatke uspomene u još slađem ramu!

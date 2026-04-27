@@ -2,6 +2,7 @@
 layout: article
 title: L - MALI PRINC - ANTOAN DE SENT EGZIPERI
 sku: 667
+image: "/assets/images/667/l-mali-princ-antoan-de-sent-egziperi-1.jpg"
 ---
 
 _Mali princ_&nbsp;je čudesna poetska priča koja se decenijama iznova čita. Ovaj nadaleko poznati i voljeni dečak povešće vas daleko, do nebeskog tela jedva malo većeg od obične kuće, odakle se pruža pogled na čitavu planetu i sve ljude.  

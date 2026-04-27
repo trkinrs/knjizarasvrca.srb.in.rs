@@ -2,6 +2,7 @@
 layout: article
 title: PP - PRINCEZIN ZAMAK - KNJIGA I 3D ZAMAK
 sku: 485
+image: "/assets/images/485/pp-princezin-zamak-knjiga-i-3d-zamak-1.jpg"
 ---
 
 prevodilac:&nbsp;Jelena Radojčić

@@ -2,6 +2,9 @@
 layout: article
 title: KOVERAT VAZDUSNI BR-9
 sku: 594
+image: "/assets/images/594/koverat-vazdusni-br-9-1.jpg"
+images:
+- "/assets/images/594/koverat-vazdusni-br-9-2.jpg"
 ---
 
 📦 **Vazdušni koverat br. 9 – Pouzdana zaštita za krupnije pošiljke**

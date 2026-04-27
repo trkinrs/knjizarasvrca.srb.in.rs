@@ -2,6 +2,7 @@
 layout: article
 title: PP - ŽIVOTINJE - PRITISNI I SLUŠAJ
 sku: 761
+image: "/assets/images/761/pp-zivotinje-pritisni-i-slusaj-1.jpg"
 ---
 
 prevodilac:&nbsp;Jelena Radojčić

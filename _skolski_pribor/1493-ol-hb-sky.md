@@ -2,6 +2,10 @@
 layout: article
 title: OL HB SKY
 sku: 1493
+image: "/assets/images/1493/ol-hb-sky-1.jpg"
+images:
+- "/assets/images/1493/ol-hb-sky-2.jpg"
+- "/assets/images/1493/ol-hb-sky-3.jpg"
 ---
 
 **✏️ Grafitna olovka HB SKY – Pouzdan partner za svaki zadatak**

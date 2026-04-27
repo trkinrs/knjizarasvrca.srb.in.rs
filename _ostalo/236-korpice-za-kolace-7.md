@@ -2,6 +2,9 @@
 layout: article
 title: KORPICE ZA KOLACE - 7
 sku: 236
+image: "/assets/images/236/korpice-za-kolace-7-1.jpg"
+images:
+- "/assets/images/236/korpice-za-kolace-7-2.jpg"
 ---
 
 🧁 **Korpice za kolače - Avis**  

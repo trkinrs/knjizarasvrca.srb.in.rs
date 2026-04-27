@@ -2,6 +2,9 @@
 layout: article
 title: OBRAZAC 1 1+1
 sku: 746
+image: "/assets/images/746/obrazac-1-1-1-1.jpg"
+images:
+- "/assets/images/746/obrazac-1-1-1-2.jpg"
 ---
 
 **Naziv proizvoda:** Nalog za uplatu - Obrazac br.1 (1+1)

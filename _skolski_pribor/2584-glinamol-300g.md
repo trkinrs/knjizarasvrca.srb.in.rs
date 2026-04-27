@@ -2,6 +2,9 @@
 layout: article
 title: GLINAMOL 300G
 sku: 2584
+image: "/assets/images/2584/glinamol-300g-1.jpg"
+images:
+- "/assets/images/2584/glinamol-300g-2.jpg"
 ---
 
 🧱 **Glinamol 300g – Terakota boja**  

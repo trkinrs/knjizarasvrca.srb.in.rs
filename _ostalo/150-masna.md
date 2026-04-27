@@ -2,6 +2,9 @@
 layout: article
 title: MASNA
 sku: 150
+image: "/assets/images/150/masna-1.jpg"
+images:
+- "/assets/images/150/masna-2.jpg"
 ---
 
 🎀 **Ukrasna mašna – Savršen završni detalj!**

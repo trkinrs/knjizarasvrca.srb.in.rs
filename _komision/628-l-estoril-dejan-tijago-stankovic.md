@@ -2,6 +2,7 @@
 layout: article
 title: L - ESTORIL - DEJAN TIJAGO - STANKOVIĆ
 sku: 628
+image: "/assets/images/628/l-estoril-dejan-tijago-stankovic-1.jpg"
 ---
 
 Dobitnik Nagrade Evropske unije za književnost.  

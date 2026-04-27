@@ -2,6 +2,7 @@
 layout: article
 title: L - MEDA ČEDA - MALI BAŠTOVAN
 sku: 701
+image: "/assets/images/701/l-meda-ceda-mali-bastovan-1.jpg"
 ---
 
 Meda Čeda jedva čeka da posadi lepo cveće!  

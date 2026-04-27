@@ -2,6 +2,7 @@
 layout: article
 title: 'PP - MONTESORI - OTKRIVANJE SVETA '
 sku: 312
+image: "/assets/images/312/pp-montesori-otkrivanje-sveta-1.jpg"
 ---
 
 prevodilac:&nbsp;Bojana Jovanović

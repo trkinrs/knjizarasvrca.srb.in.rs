@@ -2,6 +2,7 @@
 layout: article
 title: PP - MOJ PRVI LEKSIKON - BROS
 sku: 327
+image: "/assets/images/327/pp-moj-prvi-leksikon-bros-1.jpg"
 ---
 
 povez:&nbsp;mek

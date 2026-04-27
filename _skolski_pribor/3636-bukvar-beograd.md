@@ -2,6 +2,9 @@
 layout: article
 title: BUKVAR BEOGRAD
 sku: 3636
+image: "/assets/images/3636/bukvar-beograd-1.jpg"
+images:
+- "/assets/images/3636/bukvar-beograd-2.jpg"
 ---
 
 📚 **Beogradski bukvar – Tradicija učenja za najmlađe**

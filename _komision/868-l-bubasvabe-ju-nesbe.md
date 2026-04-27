@@ -2,6 +2,7 @@
 layout: article
 title: L - BUBAŠVABE - JU NESBE
 sku: 868
+image: "/assets/images/868/l-bubasvabe-ju-nesbe-1.jpg"
 ---
 
 U drugom romanu o Hariju Huleu Nesbe prati svaki otkucaj Harijevog srca, koje u potrazi za iskupljenjem na ulicama mračnog i dekadentnog Bangkoka lupa sve brže.  

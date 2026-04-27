@@ -2,6 +2,7 @@
 layout: article
 title: L - JA SAM HEROJ 3 - KENGO HANAZAVA
 sku: 709
+image: "/assets/images/709/l-ja-sam-heroj-3-kengo-hanazava-1.jpg"
 ---
 
 Prilikom bekstva Hideo će spas potražiti u metrou i taksiju, prisustvovaće kolapsu američke baze, smelo će odolevati napadima zombija pokazujući snagu i snalažljivost. U gustoj i negostoljubivoj šumi u blizini planine Fuđi, opsednut uverljivim halucinacijama i sputan neprozirnim mrakom, nije ni svestan da će uskoro doživeti sudbonosan susret sa i te kako neobičnom devojkom Hiromi Hajakiri.  

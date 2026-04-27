@@ -2,6 +2,7 @@
 layout: article
 title: HAMER A/4 ZAGLAVLJE
 sku: 316
+image: "/assets/images/316/hamer-a-4-zaglavlje-1.jpg"
 ---
 
 ### 📄 Hamer papir A4 beli sa zaglavljem – Profesionalan izgled za svaki dokument

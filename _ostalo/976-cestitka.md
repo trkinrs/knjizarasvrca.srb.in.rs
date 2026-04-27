@@ -2,6 +2,9 @@
 layout: article
 title: CESTITKA
 sku: 976
+image: "/assets/images/976/cestitka-1.jpg"
+images:
+- "/assets/images/976/cestitka-2.jpg"
 ---
 
 💌 **Čestitka – Reči koje ostaju zauvek**

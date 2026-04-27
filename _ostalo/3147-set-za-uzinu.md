@@ -2,6 +2,9 @@
 layout: article
 title: SET ZA UZINU
 sku: 3147
+image: "/assets/images/3147/set-za-uzinu-1.jpg"
+images:
+- "/assets/images/3147/set-za-uzinu-2.jpg"
 ---
 
 🍱 **S-Cool Set za užinu – Praktično, šareno i uvek spremno za pauzu!**

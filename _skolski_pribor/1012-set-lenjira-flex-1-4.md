@@ -2,6 +2,9 @@
 layout: article
 title: SET LENJIRA FLEX 1/4
 sku: 1012
+image: "/assets/images/1012/set-lenjira-flex-1-4-1.jpg"
+images:
+- "/assets/images/1012/set-lenjira-flex-1-4-2.jpg"
 ---
 
 ## 📏 Set Lenjira S-cool Flexy

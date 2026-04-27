@@ -2,6 +2,9 @@
 layout: article
 title: REZAC MAPED METALNI
 sku: 892
+image: "/assets/images/892/rezac-maped-metalni-1.jpg"
+images:
+- "/assets/images/892/rezac-maped-metalni-2.jpg"
 ---
 
 **✏️ Rezač PVC dupli sa rezervoarom – Dvostruka preciznost, čisto i praktično**

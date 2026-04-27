@@ -2,6 +2,7 @@
 layout: article
 title: TERMO ROLNA 57/28MM
 sku: 1521
+image: "/assets/images/1521/termo-rolna-57-28mm-1.jpg"
 ---
 
 ## 🧾 Termo Rolna 57/28 mm

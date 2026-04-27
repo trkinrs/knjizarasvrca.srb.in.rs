@@ -2,6 +2,9 @@
 layout: article
 title: TACNA T-2
 sku: 1424
+image: "/assets/images/1424/tacna-t-2-1.jpg"
+images:
+- "/assets/images/1424/tacna-t-2-2.jpg"
 ---
 
 ### 🍽️ Tacna 2A Bela – Elegancija u jednostavnosti

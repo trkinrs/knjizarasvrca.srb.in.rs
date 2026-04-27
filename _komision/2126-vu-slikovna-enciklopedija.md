@@ -2,6 +2,7 @@
 layout: article
 title: VU - SLIKOVNA ENCIKLOPEDIJA
 sku: 2126
+image: "/assets/images/2126/vu-slikovna-enciklopedija-1.jpg"
 ---
 
 Da li ste znali da veveričji zubi stalno rastu jer ih troše grickanjem hrane, a da detlićima stalno raste kljun jer toliko kuckaju njime da se on na kraju istupi? Ili da krila vilinog konjica moraju dobro da se osuše pre nego što prvi put poleti?  

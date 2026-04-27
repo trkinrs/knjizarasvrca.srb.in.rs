@@ -2,6 +2,7 @@
 layout: article
 title: PP - PIŠEM ĆIRILICU
 sku: 403
+image: "/assets/images/403/pp-pisem-cirilicu-1.jpg"
 ---
 
 povez:&nbsp;mek

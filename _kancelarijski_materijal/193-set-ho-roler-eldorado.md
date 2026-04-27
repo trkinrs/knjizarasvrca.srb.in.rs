@@ -2,6 +2,9 @@
 layout: article
 title: SET HO+ROLER ELDORADO
 sku: 193
+image: "/assets/images/193/set-ho-roler-eldorado-1.jpg"
+images:
+- "/assets/images/193/set-ho-roler-eldorado-2.jpg"
 ---
 
 ### 🎁 Poklon set **Eldorado** – Hemijska olovka + Roler u elegantnom pakovanju

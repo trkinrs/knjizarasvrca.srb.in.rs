@@ -2,6 +2,7 @@
 layout: article
 title: L - MAČAK KOJI JE SPASAO BIBLIOTEKU - SOSUKE NACUKAVA
 sku: 570
+image: "/assets/images/570/l-macak-koji-je-spasao-biblioteku-sosuke-nacukava-1.jpg"
 ---
 
 Od autora bestselera&nbsp;_Mačak koji je spasao knjige_  

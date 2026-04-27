@@ -2,6 +2,7 @@
 layout: article
 title: PP - BAJKA SA NALEPNICAMA - PETAR PAN
 sku: 2160
+image: "/assets/images/2160/pp-bajka-sa-nalepnicama-petar-pan-1.jpg"
 ---
 
 prevodilac:&nbsp;Milica Rakić

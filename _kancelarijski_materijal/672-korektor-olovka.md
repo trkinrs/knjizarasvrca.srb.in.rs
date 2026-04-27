@@ -2,6 +2,9 @@
 layout: article
 title: KOREKTOR OLOVKA
 sku: 672
+image: "/assets/images/672/korektor-olovka-1.jpg"
+images:
+- "/assets/images/672/korektor-olovka-2.jpg"
 ---
 
 ### ✏️ Korektor u olovci – Precizno ispravljanje grešaka

@@ -2,6 +2,7 @@
 layout: article
 title: PP - MOJA PRVA SLOVARICA
 sku: 297
+image: "/assets/images/297/pp-moja-prva-slovarica-1.jpg"
 ---
 
 prevodilac:&nbsp;Zorana Račić

@@ -2,6 +2,9 @@
 layout: article
 title: DRVENA BOJA PASTEL 1/12
 sku: 76
+image: "/assets/images/76/drvena-boja-pastel-1-12-1.jpg"
+images:
+- "/assets/images/76/drvena-boja-pastel-1-12-2.jpg"
 ---
 
 🌸 **Drvene boje Pastel 1/12 S-cool – Mekane nijanse za nežne umetničke izraze**

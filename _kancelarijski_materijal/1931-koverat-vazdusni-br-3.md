@@ -2,6 +2,9 @@
 layout: article
 title: KOVERAT VAZDUSNI BR-3
 sku: 1931
+image: "/assets/images/1931/koverat-vazdusni-br-3-1.jpg"
+images:
+- "/assets/images/1931/koverat-vazdusni-br-3-2.jpg"
 ---
 
 📦 **Vazdušni koverat 200×275 mm – Sigurna zaštita za važne pošiljke**

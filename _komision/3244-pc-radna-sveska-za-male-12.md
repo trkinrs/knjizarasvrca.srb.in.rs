@@ -2,6 +2,9 @@
 layout: article
 title: PČ - RADNA SVESKA ZA MALE - 12
 sku: 3244
+image: "/assets/images/3244/pc-radna-sveska-za-male-12-1.jpg"
+images:
+- "/assets/images/3244/pc-radna-sveska-za-male-12-2.jpg"
 ---
 
 ### 🎒 Belmil anatomski ranac 338-72 – udobnost i bezbednost za školarce

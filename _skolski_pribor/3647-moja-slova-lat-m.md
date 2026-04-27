@@ -2,6 +2,9 @@
 layout: article
 title: MOJA SLOVA LAT/M
 sku: 3647
+image: "/assets/images/3647/moja-slova-lat-m-1.jpg"
+images:
+- "/assets/images/3647/moja-slova-lat-m-2.jpg"
 ---
 
 ## 📖 Slovsarica na mađarskom jeziku

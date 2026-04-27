@@ -2,6 +2,9 @@
 layout: article
 title: OTKUPNI LIST A/6
 sku: 920
+image: "/assets/images/920/otkupni-list-a-6-1.jpg"
+images:
+- "/assets/images/920/otkupni-list-a-6-2.jpg"
 ---
 
 ## Otkupni List A6 (NCR)

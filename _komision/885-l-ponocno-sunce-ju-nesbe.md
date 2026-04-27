@@ -2,6 +2,7 @@
 layout: article
 title: L - PONOĆNO SUNCE - JU NESBE
 sku: 885
+image: "/assets/images/885/l-ponocno-sunce-ju-nesbe-1.jpg"
 ---
 
 „Novi roman kralja skandinavskog noara ima samo jednu manu – prebrzo se pročita.“&nbsp;_South China Morning Post_  

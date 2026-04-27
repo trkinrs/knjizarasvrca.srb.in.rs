@@ -2,6 +2,7 @@
 layout: article
 title: L - SVE ŠTO ZNAM O LJUBAVI - DOLI OLDERTON
 sku: 640
+image: "/assets/images/640/l-sve-sto-znam-o-ljubavi-doli-olderton-1.jpg"
 ---
 
 Dobitnik nagrade&nbsp;_The National Book Award_  

@@ -2,6 +2,9 @@
 layout: article
 title: KOREKTOR ČETKICA
 sku: 934
+image: "/assets/images/934/korektor-cetkica-1.jpg"
+images:
+- "/assets/images/934/korektor-cetkica-2.jpg"
 ---
 
 ### ✨ Korektor sa četkicom Snopake – Brzo, precizno i uredno!

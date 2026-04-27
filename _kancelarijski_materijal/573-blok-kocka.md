@@ -2,6 +2,9 @@
 layout: article
 title: BLOK KOCKA
 sku: 573
+image: "/assets/images/573/blok-kocka-1.jpg"
+images:
+- "/assets/images/573/blok-kocka-2.jpg"
 ---
 
 📝 **Blok kocka bela – 500 listova za sve tvoje ideje!**  

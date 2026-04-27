@@ -2,6 +2,7 @@
 layout: article
 title: 'VU - NAJLEPSE PRICE '
 sku: 2166
+image: "/assets/images/2166/vu-najlepse-price-1.jpg"
 ---
 
 Pred vama je sedam nežnih i slatkih priča koje možete čitati u krugu porodice.  

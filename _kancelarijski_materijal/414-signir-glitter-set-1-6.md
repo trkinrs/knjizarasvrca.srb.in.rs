@@ -2,6 +2,9 @@
 layout: article
 title: SIGNIR GLITTER SET 1/6
 sku: 414
+image: "/assets/images/414/signir-glitter-set-1-6-1.jpg"
+images:
+- "/assets/images/414/signir-glitter-set-1-6-2.jpg"
 ---
 
 🖍️ **Signir Glitter set 1/6 S-cool – Sjajna kreativnost u svakom potezu**

@@ -2,6 +2,9 @@
 layout: article
 title: NAKVASAC GUMENI
 sku: 679
+image: "/assets/images/679/nakvasac-gumeni-1.jpg"
+images:
+- "/assets/images/679/nakvasac-gumeni-2.jpg"
 ---
 
 ## 🖋️ Gumeni Nakvasač

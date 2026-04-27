@@ -2,6 +2,7 @@
 layout: article
 title: PP - KOJE JE BOJE
 sku: 164
+image: "/assets/images/164/pp-koje-je-boje-1.jpg"
 ---
 
 povez:&nbsp;tvrd

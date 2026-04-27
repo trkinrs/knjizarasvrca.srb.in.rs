@@ -2,6 +2,9 @@
 layout: article
 title: PERNICA BOMBONE
 sku: 4095
+image: "/assets/images/4095/pernica-bombone-1.jpg"
+images:
+- "/assets/images/4095/pernica-bombone-2.jpg"
 ---
 
 ### 🎒 Pernica S-cool – Moderan i praktičan školski dodatak

@@ -2,6 +2,7 @@
 layout: article
 title: PP - ZANIMANJA - KARTONSKA SLIKOVNICA
 sku: 489
+image: "/assets/images/489/pp-zanimanja-kartonska-slikovnica-1.jpg"
 ---
 
 povez:&nbsp;tvrd

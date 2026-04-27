@@ -2,6 +2,7 @@
 layout: article
 title: L - GOSPODIN POGREŠNI - MIRJANA BOBIĆ MOJSILOVIĆ
 sku: 815
+image: "/assets/images/815/l-gospodin-pogresni-mirjana-bobic-mojsilovic-1.jpg"
 ---
 
 _Kad već nisam umetnik, bar da budem umetnost._  

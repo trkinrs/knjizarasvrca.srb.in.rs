@@ -2,6 +2,9 @@
 layout: article
 title: PERNICA TG
 sku: 1346
+image: "/assets/images/1346/pernica-tg-1.jpg"
+images:
+- "/assets/images/1346/pernica-tg-2.jpg"
 ---
 
 ### ✏️ Pernica TG – 1 Zip

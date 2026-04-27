@@ -2,6 +2,9 @@
 layout: article
 title: OTPREMNICA A/5
 sku: 861
+image: "/assets/images/861/otpremnica-a-5-1.jpg"
+images:
+- "/assets/images/861/otpremnica-a-5-2.jpg"
 ---
 
 ## 📦 Otpremnica A5 NCR

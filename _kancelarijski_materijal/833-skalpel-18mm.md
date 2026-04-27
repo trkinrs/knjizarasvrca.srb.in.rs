@@ -2,6 +2,9 @@
 layout: article
 title: SKALPEL 18MM
 sku: 833
+image: "/assets/images/833/skalpel-18mm-1.jpg"
+images:
+- "/assets/images/833/skalpel-18mm-2.jpg"
 ---
 
 * * *

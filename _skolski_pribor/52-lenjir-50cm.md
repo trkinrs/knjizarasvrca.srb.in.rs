@@ -2,6 +2,9 @@
 layout: article
 title: LENJIR 50CM
 sku: 52
+image: "/assets/images/52/lenjir-50cm-1.jpg"
+images:
+- "/assets/images/52/lenjir-50cm-2.jpg"
 ---
 
 📏 **Lenjir 50 cm – Produžena preciznost**

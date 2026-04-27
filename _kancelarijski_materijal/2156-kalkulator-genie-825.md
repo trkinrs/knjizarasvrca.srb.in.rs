@@ -2,6 +2,9 @@
 layout: article
 title: KALKULATOR GENIE-825
 sku: 2156
+image: "/assets/images/2156/kalkulator-genie-825-1.jpg"
+images:
+- "/assets/images/2156/kalkulator-genie-825-2.jpg"
 ---
 
 ### 🧮 Džepni digitron Genie – Kompaktan i efikasan

@@ -2,6 +2,7 @@
 layout: article
 title: DOSIJE KROMO
 sku: 597
+image: "/assets/images/597/dosije-kromo-1.jpg"
 ---
 
 📄 **Fascikla hromoklapna – Jednostavno rešenje za urednu arhivu**

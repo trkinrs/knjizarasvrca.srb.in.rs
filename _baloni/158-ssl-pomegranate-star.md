@@ -2,6 +2,9 @@
 layout: article
 title: SSL POMEGRANATE STAR
 sku: 158
+image: "/assets/images/158/ssl-pomegranate-star-1.jpg"
+images:
+- "/assets/images/158/ssl-pomegranate-star-2.jpg"
 ---
 
 ### 🌟 Balon folija – Ciklama zvezda

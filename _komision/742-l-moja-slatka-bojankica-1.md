@@ -2,6 +2,7 @@
 layout: article
 title: L - MOJA SLATKA BOJANKICA 1
 sku: 742
+image: "/assets/images/742/l-moja-slatka-bojankica-1-1.jpg"
 ---
 
 Više od 60 crteža za bojenje!  

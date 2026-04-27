@@ -2,6 +2,7 @@
 layout: article
 title: TROUGAO PVC 45
 sku: 1162
+image: "/assets/images/1162/trougao-pvc-45-1.jpg"
 ---
 
 ## 📐 Trougao PVC 45°

@@ -2,6 +2,9 @@
 layout: article
 title: 'MUŠKI KOŽNI NOVČANIK '
 sku: 714
+image: "/assets/images/714/muski-kozni-novcanik-1.jpg"
+images:
+- "/assets/images/714/muski-kozni-novcanik-2.jpg"
 ---
 
 ### 👛 Muški kožni novčanik – elegancija i funkcionalnost u jednom

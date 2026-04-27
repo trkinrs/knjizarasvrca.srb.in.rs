@@ -2,6 +2,9 @@
 layout: article
 title: HEFT MAŠINA MOD-45
 sku: 466
+image: "/assets/images/466/heft-masina-mod-45-1.jpg"
+images:
+- "/assets/images/466/heft-masina-mod-45-2.jpg"
 ---
 
 ### 📎 Heft Mašina OffiShop – Praktičan alat za svakodnevno korišćenje

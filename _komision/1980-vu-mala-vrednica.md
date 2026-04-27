@@ -2,6 +2,7 @@
 layout: article
 title: VU - MALA VREDNICA
 sku: 1980
+image: "/assets/images/1980/vu-mala-vrednica-1.webp"
 ---
 
 Verica je jedna vredna mala veverica.  

@@ -2,6 +2,9 @@
 layout: article
 title: DOSIJE 11 RUPA 90MIC
 sku: 2616
+image: "/assets/images/2616/dosije-11-rupa-90mic-1.jpg"
+images:
+- "/assets/images/2616/dosije-11-rupa-90mic-2.jpg"
 ---
 
 📂 **Fascikla 11 rupa – 90 mikrona**

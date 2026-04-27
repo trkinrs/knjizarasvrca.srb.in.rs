@@ -2,6 +2,9 @@
 layout: article
 title: HEFT MASINA SAX S-10
 sku: 1124
+image: "/assets/images/1124/heft-masina-sax-s-10-1.jpg"
+images:
+- "/assets/images/1124/heft-masina-sax-s-10-2.jpg"
 ---
 
 ### 📎 Heft Mašina SAX – Kvalitet na koji možete da računate!

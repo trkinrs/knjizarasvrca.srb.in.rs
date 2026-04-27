@@ -2,6 +2,9 @@
 layout: article
 title: LEPAK STICK 10G
 sku: 148
+image: "/assets/images/148/lepak-stick-10g-1.jpg"
+images:
+- "/assets/images/148/lepak-stick-10g-2.jpg"
 ---
 
 🖇️ **Lepak u stiku 9g Snopake**  

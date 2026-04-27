@@ -2,6 +2,9 @@
 layout: article
 title: TACNA KARTON FI/21CM
 sku: 2985
+image: "/assets/images/2985/tacna-karton-fi-21cm-1.jpg"
+images:
+- "/assets/images/2985/tacna-karton-fi-21cm-2.jpg"
 ---
 
 ### 🍽️ Okrugla tacna fi-21 – Praktična i elegantna za svaku priliku

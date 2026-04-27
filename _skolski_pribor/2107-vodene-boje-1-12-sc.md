@@ -2,6 +2,9 @@
 layout: article
 title: VODENE BOJE 1/12 SC
 sku: 2107
+image: "/assets/images/2107/vodene-boje-1-12-sc-1.jpg"
+images:
+- "/assets/images/2107/vodene-boje-1-12-sc-2.jpg"
 ---
 
 🎨 **Vodene boje S-cool – Razigraj maštu svakim potezom!**

@@ -2,6 +2,7 @@
 layout: article
 title: PP - MONTESORI - SVET NAUKE
 sku: 351
+image: "/assets/images/351/pp-montesori-svet-nauke-1.jpg"
 ---
 
 prevodilac:&nbsp;Milica Gnjatović

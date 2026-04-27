@@ -2,6 +2,9 @@
 layout: article
 title: RULET
 sku: 1886
+image: "/assets/images/1886/rulet-1.jpg"
+images:
+- "/assets/images/1886/rulet-2.jpg"
 ---
 
 🎲 **Društvena igra – Roulette 🎯**  

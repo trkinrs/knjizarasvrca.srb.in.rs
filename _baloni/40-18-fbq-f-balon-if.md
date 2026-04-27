@@ -2,6 +2,9 @@
 layout: article
 title: 18*FBQ F/BALON/IF
 sku: 40
+image: "/assets/images/40/18-fbq-f-balon-if-1.jpg"
+images:
+- "/assets/images/40/18-fbq-f-balon-if-2.jpg"
 ---
 
 🎈 **Qualatex balon za helijum – Profesionalni baloni za nezaboravne proslave**

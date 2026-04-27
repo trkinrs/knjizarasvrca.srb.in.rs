@@ -2,6 +2,9 @@
 layout: article
 title: FLOMASTERI OBOSTRANI SC
 sku: 917
+image: "/assets/images/917/flomasteri-obostrani-sc-1.jpg"
+images:
+- "/assets/images/917/flomasteri-obostrani-sc-2.webp"
 ---
 
 ### 🎨 Obostrani Flomasteri – Dvostruka Zabava u Jednom!

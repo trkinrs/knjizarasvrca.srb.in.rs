@@ -2,6 +2,9 @@
 layout: article
 title: INDEX A/5
 sku: 21
+image: "/assets/images/21/index-a-5-1.jpg"
+images:
+- "/assets/images/21/index-a-5-2.jpg"
 ---
 
 📒 **Index sveska A/5 – azbuka**

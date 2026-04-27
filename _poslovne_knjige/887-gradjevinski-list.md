@@ -2,6 +2,9 @@
 layout: article
 title: GRADJEVINSKI LIST
 sku: 887
+image: "/assets/images/887/gradjevinski-list-1.jpg"
+images:
+- "/assets/images/887/gradjevinski-list-2.jpg"
 ---
 
 ## 📄 Obračunski list građevinske knjige

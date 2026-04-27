@@ -2,6 +2,9 @@
 layout: article
 title: STIPALICA 25MM
 sku: 3982
+image: "/assets/images/3982/stipalica-25mm-1.jpg"
+images:
+- "/assets/images/3982/stipalica-25mm-2.jpg"
 ---
 
 ### 📎 Štipaljka za papir 25mm – Praktično rešenje za svakodnevnu organizaciju

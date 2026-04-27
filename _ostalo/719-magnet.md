@@ -2,6 +2,7 @@
 layout: article
 title: MAGNET
 sku: 719
+image: "/assets/images/719/magnet-1.jpg"
 ---
 
 🧲 **Ukrasni magnet – Mali detalj, velika poruka!**

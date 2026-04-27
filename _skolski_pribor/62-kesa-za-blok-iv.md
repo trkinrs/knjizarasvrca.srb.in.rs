@@ -2,6 +2,9 @@
 layout: article
 title: KESA ZA BLOK IV
 sku: 62
+image: "/assets/images/62/kesa-za-blok-iv-1.jpg"
+images:
+- "/assets/images/62/kesa-za-blok-iv-2.jpg"
 ---
 
 **Kesa za Blok IV – Sigurnost i Praktičnost u Jednom**

@@ -2,6 +2,7 @@
 layout: article
 title: UVIJAC B5+
 sku: 1348
+image: "/assets/images/1348/uvijac-b5-1.jpg"
 ---
 
 📚 **Uvijač B5+ – Praktična zaštita školskih svezaka i knjiga**

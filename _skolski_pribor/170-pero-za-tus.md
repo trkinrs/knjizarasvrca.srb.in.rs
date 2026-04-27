@@ -2,6 +2,9 @@
 layout: article
 title: PERO ZA TUS
 sku: 170
+image: "/assets/images/170/pero-za-tus-1.jpg"
+images:
+- "/assets/images/170/pero-za-tus-2.jpg"
 ---
 
 🖋️ **Pero za tuš**  

@@ -2,6 +2,9 @@
 layout: article
 title: ČESTITKA CVETNA
 sku: 371
+image: "/assets/images/371/cestitka-cvetna-1.jpg"
+images:
+- "/assets/images/371/cestitka-cvetna-2.jpg"
 ---
 
 💌 **Čestitka – Reči koje ostaju zauvek**

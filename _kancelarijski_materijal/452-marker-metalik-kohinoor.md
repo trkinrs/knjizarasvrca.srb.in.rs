@@ -2,6 +2,9 @@
 layout: article
 title: MARKER METALIK KOHINOOR
 sku: 452
+image: "/assets/images/452/marker-metalik-kohinoor-1.jpg"
+images:
+- "/assets/images/452/marker-metalik-kohinoor-2.jpg"
 ---
 
 🖊️ **Srebrni marker – Koh-i-Noor**  

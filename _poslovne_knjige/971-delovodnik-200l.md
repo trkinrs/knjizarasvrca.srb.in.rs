@@ -2,6 +2,9 @@
 layout: article
 title: DELOVODNIK 200L
 sku: 971
+image: "/assets/images/971/delovodnik-200l-1.jpg"
+images:
+- "/assets/images/971/delovodnik-200l-2.jpg"
 ---
 
 📘 **Delovodnik 200l – Efikasna evidencija poslovne dokumentacije**

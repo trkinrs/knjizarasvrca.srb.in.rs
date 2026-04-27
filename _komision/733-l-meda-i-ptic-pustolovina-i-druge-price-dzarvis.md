@@ -2,6 +2,7 @@
 layout: article
 title: L - MEDA I PTIĆ - PUSTOLOVINA I DRUGE PRIČE - DŽARVIS
 sku: 733
+image: "/assets/images/733/l-meda-i-ptic-pustolovina-i-druge-price-dzarvis-1.jpg"
 ---
 
 _Četiri kratke priče o dva velika prijatelja!_  

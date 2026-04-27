@@ -2,6 +2,7 @@
 layout: article
 title: PP - MUZICKI INSTRUMENTI
 sku: 128
+image: "/assets/images/128/pp-muzicki-instrumenti-1.jpg"
 ---
 
 povez:&nbsp;tvrd

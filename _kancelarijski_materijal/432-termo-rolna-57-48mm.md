@@ -2,6 +2,9 @@
 layout: article
 title: TERMO ROLNA 57/48MM
 sku: 432
+image: "/assets/images/432/termo-rolna-57-48mm-1.jpg"
+images:
+- "/assets/images/432/termo-rolna-57-48mm-2.jpg"
 ---
 
 🧾 **Termo rolna 57/50mm – Pouzdan ispis za POS i fiskalne uređaje**

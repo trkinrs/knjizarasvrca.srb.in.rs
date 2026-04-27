@@ -2,6 +2,7 @@
 layout: article
 title: L - OBIČNO PETKOM - MIROSLAV ANTIĆ
 sku: 736
+image: "/assets/images/736/l-obicno-petkom-miroslav-antic-1.jpg"
 ---
 
 _Nema plemenitije stvari nego kad čoveku omogućiš da zabeleži sebe._  

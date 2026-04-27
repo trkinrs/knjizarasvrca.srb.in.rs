@@ -2,6 +2,9 @@
 layout: article
 title: STIPALJKA 41MM
 sku: 409
+image: "/assets/images/409/stipaljka-41mm-1.jpg"
+images:
+- "/assets/images/409/stipaljka-41mm-2.jpg"
 ---
 
 ### 📎 Štipaljka za papir 41mm – Za uredne i organizovane dokumente

@@ -2,6 +2,9 @@
 layout: article
 title: STIPALICA 51MM
 sku: 3981
+image: "/assets/images/3981/stipalica-51mm-1.jpg"
+images:
+- "/assets/images/3981/stipalica-51mm-2.jpg"
 ---
 
 ### 📎 Štipaljka za papir 51mm – Za maksimalnu snagu i urednost

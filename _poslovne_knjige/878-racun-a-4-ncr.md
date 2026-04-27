@@ -2,6 +2,9 @@
 layout: article
 title: RACUN A/4 NCR
 sku: 878
+image: "/assets/images/878/racun-a-4-ncr-1.jpg"
+images:
+- "/assets/images/878/racun-a-4-ncr-2.jpg"
 ---
 
 ## 🧾 Račun A4 (NCR)

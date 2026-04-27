@@ -2,6 +2,9 @@
 layout: article
 title: RACUN A/5 PDV
 sku: 860
+image: "/assets/images/860/racun-a-5-pdv-1.jpg"
+images:
+- "/assets/images/860/racun-a-5-pdv-2.jpg"
 ---
 
 ## 🧾 Račun A5 NCR

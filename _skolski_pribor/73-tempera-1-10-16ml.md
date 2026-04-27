@@ -2,6 +2,9 @@
 layout: article
 title: TEMPERA 1/10 16ML
 sku: 73
+image: "/assets/images/73/tempera-1-10-16ml-1.png"
+images:
+- "/assets/images/73/tempera-1-10-16ml-2.jpg"
 ---
 
 ### 🎨 Tempere S-cool 1/10 – 16ml – Kreativnost bez granica!

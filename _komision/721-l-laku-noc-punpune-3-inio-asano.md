@@ -2,6 +2,7 @@
 layout: article
 title: L - LAKU NOĆ, PUNPUNE 3 - INIO ASANO
 sku: 721
+image: "/assets/images/721/l-laku-noc-punpune-3-inio-asano-1.jpg"
 ---
 
 Srednja škola je komplikovano doba za sve mladiće, i Punpun, nažalost, nije izuzetak.  

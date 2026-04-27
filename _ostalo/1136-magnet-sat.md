@@ -2,6 +2,7 @@
 layout: article
 title: MAGNET SAT
 sku: 1136
+image: "/assets/images/1136/magnet-sat-1.jpg"
 ---
 
 🧲 **Ukrasni magnet – Mali detalj, velika poruka!**

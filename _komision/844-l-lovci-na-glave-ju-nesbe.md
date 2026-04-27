@@ -2,6 +2,7 @@
 layout: article
 title: L - LOVCI NA GLAVE - JU NESBE
 sku: 844
+image: "/assets/images/844/l-lovci-na-glave-ju-nesbe-1.jpg"
 ---
 
 Najpopularniji evropski krimi pisac danas!  

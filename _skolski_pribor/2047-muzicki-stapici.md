@@ -2,6 +2,9 @@
 layout: article
 title: MUZICKI STAPICI
 sku: 2047
+image: "/assets/images/2047/muzicki-stapici-1.jpg"
+images:
+- "/assets/images/2047/muzicki-stapici-2.jpg"
 ---
 
 🥁 **Muzički štapići – Drveni ritam za male muzičare!**

@@ -2,6 +2,11 @@
 layout: article
 title: DOSIJE 20/30 DZEPOVA
 sku: 1370
+image: "/assets/images/1370/dosije-20-30-dzepova-1.jpg"
+images:
+- "/assets/images/1370/dosije-20-30-dzepova-2.jpg"
+- "/assets/images/1370/dosije-20-30-dzepova-3.jpg"
+- "/assets/images/1370/dosije-20-30-dzepova-4.jpg"
 ---
 
 📁 **Fascikla mapa sa 20 U folija – Pregledno, praktično i uredno**

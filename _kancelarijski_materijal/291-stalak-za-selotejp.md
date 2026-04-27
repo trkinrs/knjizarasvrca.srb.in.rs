@@ -2,6 +2,9 @@
 layout: article
 title: STALAK ZA SELOTEJP
 sku: 291
+image: "/assets/images/291/stalak-za-selotejp-1.jpg"
+images:
+- "/assets/images/291/stalak-za-selotejp-2.jpg"
 ---
 
 🖇️ **Stalak za selotejp 15x33 DLOffice**  

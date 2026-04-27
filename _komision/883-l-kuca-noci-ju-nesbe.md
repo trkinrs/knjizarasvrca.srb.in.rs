@@ -2,6 +2,7 @@
 layout: article
 title: L - KUĆA NOĆI - JU NESBE
 sku: 883
+image: "/assets/images/883/l-kuca-noci-ju-nesbe-1.jpg"
 ---
 
 „Nesbe je ozbiljno zagazio na teritoriju H. F. Lavkrafta.“  

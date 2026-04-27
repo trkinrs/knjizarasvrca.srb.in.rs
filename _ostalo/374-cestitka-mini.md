@@ -2,6 +2,9 @@
 layout: article
 title: CESTITKA MINI
 sku: 374
+image: "/assets/images/374/cestitka-mini-1.jpg"
+images:
+- "/assets/images/374/cestitka-mini-2.jpg"
 ---
 
 💌 **Čestitka – Reči koje ostaju zauvek**

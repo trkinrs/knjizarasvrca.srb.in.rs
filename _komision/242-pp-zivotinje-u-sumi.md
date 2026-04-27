@@ -2,6 +2,7 @@
 layout: article
 title: PP - ZIVOTINJE U SUMI
 sku: 242
+image: "/assets/images/242/pp-zivotinje-u-sumi-1.jpg"
 ---
 
 povez:&nbsp;tvrd

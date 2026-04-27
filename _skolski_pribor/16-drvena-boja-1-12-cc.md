@@ -2,6 +2,9 @@
 layout: article
 title: DRVENA BOJA 1/12 CC
 sku: 16
+image: "/assets/images/16/drvena-boja-1-12-cc-1.jpg"
+images:
+- "/assets/images/16/drvena-boja-1-12-cc-2.jpg"
 ---
 
 🍬 **Drvene boje SUPER SOFT Crystal Candy 1/12 – Boje koje pišu kao san!**

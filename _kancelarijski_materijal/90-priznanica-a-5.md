@@ -2,6 +2,7 @@
 layout: article
 title: PRIZNANICA A/5
 sku: 90
+image: "/assets/images/90/priznanica-a-5-1.jpg"
 ---
 
 **Naziv proizvoda:** Priznanica A5 NCR, Pack of 100 Sheets

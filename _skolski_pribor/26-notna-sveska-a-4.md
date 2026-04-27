@@ -2,6 +2,9 @@
 layout: article
 title: NOTNA SVESKA A/4
 sku: 26
+image: "/assets/images/26/notna-sveska-a-4-1.jpg"
+images:
+- "/assets/images/26/notna-sveska-a-4-2.jpg"
 ---
 
 🎼 **Notna sveska za muzičku kulturu A/4 – Prvi koraci ka muzičkom izrazu**

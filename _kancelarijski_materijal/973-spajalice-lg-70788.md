@@ -2,6 +2,9 @@
 layout: article
 title: SPAJALICE LG-70788
 sku: 973
+image: "/assets/images/973/spajalice-lg-70788-1.jpg"
+images:
+- "/assets/images/973/spajalice-lg-70788-2.jpg"
 ---
 
 ## 📎 Spajalice – Sladoled dizajn

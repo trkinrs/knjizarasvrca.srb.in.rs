@@ -2,6 +2,9 @@
 layout: article
 title: TEMPERA 1/1 45ML
 sku: 67
+image: "/assets/images/67/tempera-1-1-45ml-1.jpg"
+images:
+- "/assets/images/67/tempera-1-1-45ml-2.jpg"
 ---
 
 🎨 **Tempera 45 ml Art – Intenzivna boja za velike ideje**

@@ -2,6 +2,9 @@
 layout: article
 title: RANAC PULSE BICOLOR
 sku: 212
+image: "/assets/images/212/ranac-pulse-bicolor-1.jpg"
+images:
+- "/assets/images/212/ranac-pulse-bicolor-2.jpg"
 ---
 
 ### 🎒 Ranac Pulse – Bicolor – stil i funkcionalnost u dva tona

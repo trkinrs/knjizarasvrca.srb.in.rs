@@ -2,6 +2,7 @@
 layout: article
 title: L - TUPAK ŠAKUR - AUTORIZOVANA BIOGRAFIJA - STEJSI ROBINSON
 sku: 638
+image: "/assets/images/638/l-tupak-sakur-autorizovana-biografija-stejsi-robinson-1.jpg"
 ---
 
 Tupak Šakur je jedan od kontroverznijih modernih umetnika. Više od četvrt veka nakon smrti on ostaje neshvaćena, kompleksna i uticajna figura u svetu savremene američke umetnosti. Nudeći ekskluzivan pristup Tupakovim beležnicama, pismima i necenzurisanim razgovorima sa onima koji su ga najviše voleli i najbolje poznavali, ova biografija koju je autorizovala njegova zadužbina daje nam do sada najsveobuhvatniju i najintimniju sliku mladog čoveka koji je postao legenda na koju se već ugledaju novi naraštaji.  

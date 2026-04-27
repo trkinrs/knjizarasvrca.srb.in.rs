@@ -2,6 +2,7 @@
 layout: article
 title: L - HAJDUK NA DUNAVU - GRADIMIR STOJKOVIĆ
 sku: 659
+image: "/assets/images/659/l-hajduk-na-dunavu-gradimir-stojkovic-1.jpg"
 ---
 
 Drugi deo legendarnog serijala.  

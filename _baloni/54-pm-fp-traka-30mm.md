@@ -2,6 +2,9 @@
 layout: article
 title: PM*FP TRAKA 30MM
 sku: 54
+image: "/assets/images/54/pm-fp-traka-30mm-1.jpg"
+images:
+- "/assets/images/54/pm-fp-traka-30mm-2.jpg"
 ---
 
 🎀 **Ukrasna traka – 3 cm x 100 m: Elegancija u svakom detalju**

@@ -2,6 +2,7 @@
 layout: article
 title: MAGNET
 sku: 3270
+image: "/assets/images/3270/magnet-1.jpg"
 ---
 
 🧲 **Ukrasni magnet – Mali detalj, velika poruka!**

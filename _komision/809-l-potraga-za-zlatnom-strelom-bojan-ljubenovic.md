@@ -2,6 +2,7 @@
 layout: article
 title: L - POTRAGA ZA ZLATNOM STRELOM - BOJAN LJUBENOVIĆ
 sku: 809
+image: "/assets/images/809/l-potraga-za-zlatnom-strelom-bojan-ljubenovic-1.jpg"
 ---
 
 Nastavak romana&nbsp;_Tajne dedinog kofera_  

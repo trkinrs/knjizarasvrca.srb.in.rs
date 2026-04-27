@@ -2,6 +2,9 @@
 layout: article
 title: RUBIKOVA KOCKA
 sku: 4074
+image: "/assets/images/4074/rubikova-kocka-1.jpg"
+images:
+- "/assets/images/4074/rubikova-kocka-2.jpg"
 ---
 
 ### 🧩 Rubikova Kocka – Klasična mozgalica koja nikad ne izlazi iz mode

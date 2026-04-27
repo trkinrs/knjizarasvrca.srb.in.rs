@@ -2,6 +2,9 @@
 layout: article
 title: PARTY PISTALJKA 1/6
 sku: 2474
+image: "/assets/images/2474/party-pistaljka-1-6-1.jpg"
+images:
+- "/assets/images/2474/party-pistaljka-1-6-2.jpg"
 ---
 
 🎉 **Party trube 1/6 – Partizan**  

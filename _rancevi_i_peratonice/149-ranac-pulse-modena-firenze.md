@@ -2,6 +2,9 @@
 layout: article
 title: RANAC PULSE MODENA/FIRENZE
 sku: 149
+image: "/assets/images/149/ranac-pulse-modena-firenze-1.jpg"
+images:
+- "/assets/images/149/ranac-pulse-modena-firenze-2.jpg"
 ---
 
 ### 🎒 Ranac Pulse Modena – spoj stila, udobnosti i funkcionalnosti

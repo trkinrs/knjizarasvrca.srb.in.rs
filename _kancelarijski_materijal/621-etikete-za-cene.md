@@ -2,6 +2,9 @@
 layout: article
 title: ETIKETE ZA CENE
 sku: 621
+image: "/assets/images/621/etikete-za-cene-1.jpg"
+images:
+- "/assets/images/621/etikete-za-cene-2.jpg"
 ---
 
 **Naziv proizvoda:** Kartonske Oznake za Cene – Zelene, Pakovanje od 200 komada

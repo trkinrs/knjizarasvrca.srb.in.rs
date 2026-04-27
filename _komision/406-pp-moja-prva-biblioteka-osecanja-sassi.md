@@ -2,6 +2,7 @@
 layout: article
 title: PP - MOJA PRVA BIBLIOTEKA - OSECANJA SASSI
 sku: 406
+image: "/assets/images/406/pp-moja-prva-biblioteka-osecanja-sassi-1.jpg"
 ---
 
 prevodilac:&nbsp;Jelena Radojičić

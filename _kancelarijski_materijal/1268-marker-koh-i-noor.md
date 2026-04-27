@@ -2,6 +2,9 @@
 layout: article
 title: MARKER KOH-I-NOOR
 sku: 1268
+image: "/assets/images/1268/marker-koh-i-noor-1.jpg"
+images:
+- "/assets/images/1268/marker-koh-i-noor-2.jpg"
 ---
 
 🖊️ **Marker Koh-i-Noor – Okrugli vrh, plava boja**

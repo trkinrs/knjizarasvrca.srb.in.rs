@@ -2,6 +2,7 @@
 layout: article
 title: VU - SANATORIJUM
 sku: 2571
+image: "/assets/images/2571/vu-sanatorijum-1.jpg"
 ---
 
 U ovoj knjizi čudesnih ilustracija i divnih opisa otkrićete 15 različitih zvezda, planeta i drugih nebeskih tela i naučićete kako da posmatrate noćno nebo kroz prozor svog doma, a sve to pomoću ovog fantastičnog vodiča kroz svemir!  

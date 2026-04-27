@@ -2,6 +2,9 @@
 layout: article
 title: BOJANKA A/4
 sku: 340
+image: "/assets/images/340/bojanka-a-4-1.jpg"
+images:
+- "/assets/images/340/bojanka-a-4-2.jpg"
 ---
 
 &nbsp;

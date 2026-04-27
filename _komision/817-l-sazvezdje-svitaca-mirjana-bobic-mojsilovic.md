@@ -2,6 +2,7 @@
 layout: article
 title: L - SAZVEŽĐE SVITACA - MIRJANA BOBIĆ MOJSILOVIĆ
 sku: 817
+image: "/assets/images/817/l-sazvezdje-svitaca-mirjana-bobic-mojsilovic-1.jpg"
 ---
 
 Priča o iskupljenju i ljudima koje može spasti jedino ljubav.  

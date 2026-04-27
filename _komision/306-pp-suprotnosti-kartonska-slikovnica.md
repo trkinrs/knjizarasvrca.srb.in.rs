@@ -2,6 +2,7 @@
 layout: article
 title: PP - SUPROTNOSTI - KARTONSKA SLIKOVNICA
 sku: 306
+image: "/assets/images/306/pp-suprotnosti-kartonska-slikovnica-1.jpg"
 ---
 
 povez:&nbsp;tvrd

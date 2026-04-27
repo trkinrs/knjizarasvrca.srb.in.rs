@@ -2,6 +2,9 @@
 layout: article
 title: MATICNA KNJIGA RADNIKA
 sku: 918
+image: "/assets/images/918/maticna-knjiga-radnika-1.jpg"
+images:
+- "/assets/images/918/maticna-knjiga-radnika-2.jpg"
 ---
 
 📘 **Matična knjiga radnika – Centralna evidencija zaposlenih**

@@ -2,6 +2,9 @@
 layout: article
 title: FLOMASTERI 1/12 SC
 sku: 955
+image: "/assets/images/955/flomasteri-1-12-sc-1.png"
+images:
+- "/assets/images/955/flomasteri-1-12-sc-2.jpg"
 ---
 
 ### ✏️ S'cool Triangular Flomasteri – Prava boja u pravoj ruci!

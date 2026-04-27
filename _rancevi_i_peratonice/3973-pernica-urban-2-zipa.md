@@ -2,6 +2,9 @@
 layout: article
 title: PERNICA URBAN 2 ZIPA
 sku: 3973
+image: "/assets/images/3973/pernica-urban-2-zipa-1.jpg"
+images:
+- "/assets/images/3973/pernica-urban-2-zipa-2.jpg"
 ---
 
 ### ✏️ Pernica Urban Dizajn – Stil i funkcionalnost u jednom

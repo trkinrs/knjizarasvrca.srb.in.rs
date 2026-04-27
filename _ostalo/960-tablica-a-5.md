@@ -2,6 +2,9 @@
 layout: article
 title: TABLICA A/5
 sku: 960
+image: "/assets/images/960/tablica-a-5-1.jpg"
+images:
+- "/assets/images/960/tablica-a-5-2.jpg"
 ---
 
 ## 🔠 Abeceda A5

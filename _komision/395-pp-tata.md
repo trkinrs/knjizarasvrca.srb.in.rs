@@ -2,6 +2,7 @@
 layout: article
 title: PP - TATA
 sku: 395
+image: "/assets/images/395/pp-tata-1.jpg"
 ---
 
 prevodilac:&nbsp;Vladimir D. Janković

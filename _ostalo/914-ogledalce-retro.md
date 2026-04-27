@@ -2,6 +2,9 @@
 layout: article
 title: OGLEDALCE RETRO
 sku: 914
+image: "/assets/images/914/ogledalce-retro-1.jpg"
+images:
+- "/assets/images/914/ogledalce-retro-2.jpg"
 ---
 
 **🪞 Ogledalce – Praktično i elegantno ogledalo za svaki dan**

@@ -2,6 +2,7 @@
 layout: article
 title: L - PISMA MILENI - FRANC KAFKA
 sku: 562
+image: "/assets/images/562/l-pisma-mileni-franc-kafka-1.jpg"
 ---
 
 _A možda i nije prava ljubav kada kažem da si moje najmilije; ljubav je to što si moj nož kojim kopam po sopstvenoj duši._  

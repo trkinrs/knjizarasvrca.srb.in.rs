@@ -2,6 +2,7 @@
 layout: article
 title: PP - JA SAM DINOSAURUS
 sku: 507
+image: "/assets/images/507/pp-ja-sam-dinosaurus-1.png"
 ---
 
 prevodilac:&nbsp;Jelena Radojčić

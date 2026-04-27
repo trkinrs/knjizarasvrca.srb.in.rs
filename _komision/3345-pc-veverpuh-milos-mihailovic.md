@@ -2,6 +2,9 @@
 layout: article
 title: PČ - VEVERPUH - MILOŠ MIHAILOVIĆ
 sku: 3345
+image: "/assets/images/3345/pc-veverpuh-milos-mihailovic-1.jpg"
+images:
+- "/assets/images/3345/pc-veverpuh-milos-mihailovic-2.jpg"
 ---
 
 📘 **Knjiga izlaznih faktura – Evidencija koja drži poslovanje pod kontrolom**

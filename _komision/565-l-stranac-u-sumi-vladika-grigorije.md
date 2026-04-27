@@ -2,6 +2,7 @@
 layout: article
 title: L - STRANAC U ŠUMI - VLADIKA GRIGORIJE
 sku: 565
+image: "/assets/images/565/l-stranac-u-sumi-vladika-grigorije-1.jpg"
 ---
 
 Pisan kao lična ispovest, ovaj dragoceni uvid u svoje sopstveno iskustvo vladika Grigorije uobličio je u venac priča, promišljajući ona večna pitanja koja se postavljaju pred svakog čoveka, ne samo pred monahe i duhovnike, ali u koja se većina nerado upušta – pitanja vere, ljubavi, rata, mira, svetosti i slave, nade, bola, prijateljstva, pokajanja... Do kakvih sve otkrića i istina, samospoznaja i priznanja dolazi pisac ovih redova, saznaće i čitalac kroz njegove uzbudljive i zatajne susrete sa svojim sagovornikom, pustinjakom i duhovnim srodnikom, stanovnikom skrivene kolibe u šumi, svojevrsne šumske kelije, kroz njihove razgovore i suočavanja, neočekivana pitanja i još manje očekivane odgovore koji nalikuju na prave, bolne ali u svom metaforičnom značenju otrežnjujuće bokserske udarce.  

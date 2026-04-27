@@ -2,6 +2,9 @@
 layout: article
 title: 'MASNA '
 sku: 268
+image: "/assets/images/268/masna-1.jpg"
+images:
+- "/assets/images/268/masna-2.jpg"
 ---
 
 🎀 **Mašna na potez** – Efektna dekoracija u sekundi!

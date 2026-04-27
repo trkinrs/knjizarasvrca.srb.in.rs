@@ -2,6 +2,7 @@
 layout: article
 title: PP - MOGU DA BRINEM O SVOJOJ FARMI
 sku: 304
+image: "/assets/images/304/pp-mogu-da-brinem-o-svojoj-farmi-1.jpg"
 ---
 
 prevodilac:&nbsp;Milica Rakić

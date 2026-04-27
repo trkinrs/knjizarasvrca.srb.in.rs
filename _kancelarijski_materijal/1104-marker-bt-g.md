@@ -2,6 +2,9 @@
 layout: article
 title: MARKER BT G
 sku: 1104
+image: "/assets/images/1104/marker-bt-g-1.jpg"
+images:
+- "/assets/images/1104/marker-bt-g-2.jpg"
 ---
 
 ✍️ **Marker za belu tablu – Free Ink**  

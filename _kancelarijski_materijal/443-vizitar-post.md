@@ -2,6 +2,9 @@
 layout: article
 title: VIZITAR POST
 sku: 443
+image: "/assets/images/443/vizitar-post-1.jpg"
+images:
+- "/assets/images/443/vizitar-post-2.jpg"
 ---
 
 ### 📬 Držač kartica "Post" – Organizujte svoje kartice sa stilom

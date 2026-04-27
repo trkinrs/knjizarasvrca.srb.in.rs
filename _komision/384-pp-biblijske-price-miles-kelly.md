@@ -2,6 +2,7 @@
 layout: article
 title: PP - BIBLIJSKE PRICE - MILES KELLY
 sku: 384
+image: "/assets/images/384/pp-biblijske-price-miles-kelly-1.jpg"
 ---
 
 prevodilac:&nbsp;Jelena Radojičić

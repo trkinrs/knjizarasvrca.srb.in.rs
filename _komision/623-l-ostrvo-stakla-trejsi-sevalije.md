@@ -2,6 +2,7 @@
 layout: article
 title: L - OSTRVO STAKLA - TREJSI ŠEVALIJE
 sku: 623
+image: "/assets/images/623/l-ostrvo-stakla-trejsi-sevalije-1.jpg"
 ---
 
 Autorka istorijskih romana i bestselera&nbsp;_Devojka sa bisernom minđušom_,&nbsp;_Izuzetna stvorenja_&nbsp;i&nbsp;_Jedna nit._  

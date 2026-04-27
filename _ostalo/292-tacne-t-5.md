@@ -2,6 +2,9 @@
 layout: article
 title: TACNE T-5
 sku: 292
+image: "/assets/images/292/tacne-t-5-1.jpg"
+images:
+- "/assets/images/292/tacne-t-5-2.jpg"
 ---
 
 **Naziv proizvoda:** Tacna 5A Bela – Elegantna i Praktična za Svaku Priliku

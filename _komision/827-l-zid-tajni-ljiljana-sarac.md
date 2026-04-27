@@ -2,6 +2,7 @@
 layout: article
 title: L - ZID TAJNI - LJILJANA ŠARAC
 sku: 827
+image: "/assets/images/827/l-zid-tajni-ljiljana-sarac-1.jpg"
 ---
 
 Autorka romana&nbsp;_Đurđevim stopama_&nbsp;i&nbsp;_Dok svetac bdi_.  

@@ -2,6 +2,9 @@
 layout: article
 title: KNJIGA KPO
 sku: 899
+image: "/assets/images/899/knjiga-kpo-1.jpg"
+images:
+- "/assets/images/899/knjiga-kpo-2.jpg"
 ---
 
 📘 **Knjiga o prometu (KPO) – Jednostavna evidencija za paušalce**

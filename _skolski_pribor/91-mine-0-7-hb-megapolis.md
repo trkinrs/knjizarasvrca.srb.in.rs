@@ -2,6 +2,9 @@
 layout: article
 title: MINE 0,7 HB MEGAPOLIS
 sku: 91
+image: "/assets/images/91/mine-0-7-hb-megapolis-1.jpg"
+images:
+- "/assets/images/91/mine-0-7-hb-megapolis-2.jpg"
 ---
 
 **✏️ Grafitne mine ErichKrause 0.7 mm – Pouzdano pisanje sa jačim, glatkim tragom**

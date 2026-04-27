@@ -2,6 +2,9 @@
 layout: article
 title: MARKER AG/AU
 sku: 1092
+image: "/assets/images/1092/marker-ag-au-1.jpg"
+images:
+- "/assets/images/1092/marker-ag-au-2.jpg"
 ---
 
 ✍️ **Marker Gold Offishop**  

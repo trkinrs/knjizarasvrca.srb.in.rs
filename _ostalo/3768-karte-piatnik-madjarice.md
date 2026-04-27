@@ -2,6 +2,9 @@
 layout: article
 title: KARTE PIATNIK MAĐARICE
 sku: 3768
+image: "/assets/images/3768/karte-piatnik-madjarice-1.jpg"
+images:
+- "/assets/images/3768/karte-piatnik-madjarice-2.jpg"
 ---
 
 🃏 **Karte Piatnik 1/52 – Klasika koja traje**  

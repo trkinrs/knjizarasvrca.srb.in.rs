@@ -2,6 +2,9 @@
 layout: article
 title: TORBA ZA BLOK IV
 sku: 1947
+image: "/assets/images/1947/torba-za-blok-iv-1.jpg"
+images:
+- "/assets/images/1947/torba-za-blok-iv-2.jpg"
 ---
 
 ### 🎨 Torba za blok 4 S-cool – Organizacija sa stilom!

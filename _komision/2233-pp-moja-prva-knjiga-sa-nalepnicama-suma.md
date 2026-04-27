@@ -2,6 +2,7 @@
 layout: article
 title: PP - MOJA PRVA KNJIGA SA NALEPNICAMA - ŠUMA
 sku: 2233
+image: "/assets/images/2233/pp-moja-prva-knjiga-sa-nalepnicama-suma-1.jpg"
 ---
 
 prevodilac:&nbsp;Ana Miletić

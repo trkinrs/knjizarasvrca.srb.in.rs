@@ -2,6 +2,7 @@
 layout: article
 title: KOVERAT A/3
 sku: 840
+image: "/assets/images/840/koverat-a-3-1.jpg"
 ---
 
 ## ✉️ Koverat A3

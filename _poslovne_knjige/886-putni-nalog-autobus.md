@@ -2,6 +2,9 @@
 layout: article
 title: PUTNI NALOG AUTOBUS
 sku: 886
+image: "/assets/images/886/putni-nalog-autobus-1.jpg"
+images:
+- "/assets/images/886/putni-nalog-autobus-2.jpg"
 ---
 
 ## 🚌 Putni Nalog za Autobus A4 (NCR)

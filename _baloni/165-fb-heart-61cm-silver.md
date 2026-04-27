@@ -2,6 +2,9 @@
 layout: article
 title: FB HEART 61CM SILVER
 sku: 165
+image: "/assets/images/165/fb-heart-61cm-silver-1.jpg"
+images:
+- "/assets/images/165/fb-heart-61cm-silver-2.jpg"
 ---
 
 ### 🔧 Pištolj za Silikon – Precizno i lako nanošenje

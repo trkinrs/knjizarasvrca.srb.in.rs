@@ -2,6 +2,7 @@
 layout: article
 title: PP - KNJIGA ZA SVAKOG PREDŠKOLCA
 sku: 2257
+image: "/assets/images/2257/pp-knjiga-za-svakog-predskolca-1.jpg"
 ---
 
 povez:&nbsp;mek

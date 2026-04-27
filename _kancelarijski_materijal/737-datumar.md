@@ -2,6 +2,9 @@
 layout: article
 title: DATUMAR
 sku: 737
+image: "/assets/images/737/datumar-1.jpg"
+images:
+- "/assets/images/737/datumar-2.jpg"
 ---
 
 **Datumar pečat – Brzo i efikasno označite datum na dokumentima**

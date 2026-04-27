@@ -2,6 +2,7 @@
 layout: article
 title: PP - UČIMO S LJUBAVLJU - NAUČIĆU DA DELIM!
 sku: 763
+image: "/assets/images/763/pp-ucimo-s-ljubavlju-naucicu-da-delim-1.jpg"
 ---
 
 prevodilac:&nbsp;Jelena Radojičić

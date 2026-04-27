@@ -2,6 +2,7 @@
 layout: article
 title: PP - IGRAJ SE I UCI - VATROGASCI SASSI
 sku: 469
+image: "/assets/images/469/pp-igraj-se-i-uci-vatrogasci-sassi-1.jpg"
 ---
 
 prevodilac:&nbsp;Jelena Radojčić

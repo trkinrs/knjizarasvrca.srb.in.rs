@@ -2,6 +2,9 @@
 layout: article
 title: MASNA NA POTEZ
 sku: 948
+image: "/assets/images/948/masna-na-potez-1.jpg"
+images:
+- "/assets/images/948/masna-na-potez-2.jpg"
 ---
 
 🎀 **Mašna na potez** – Efektna dekoracija u sekundi!

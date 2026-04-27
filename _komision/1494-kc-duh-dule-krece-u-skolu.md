@@ -2,6 +2,9 @@
 layout: article
 title: KC - DUH DULE KREĆE U ŠKOLU
 sku: 1494
+image: "/assets/images/1494/kc-duh-dule-krece-u-skolu-1.jpg"
+images:
+- "/assets/images/1494/kc-duh-dule-krece-u-skolu-2.jpg"
 ---
 
 🖊️ **Gel olovka Piši–Briši Octopus – Piši bez greške, briši bez traga!**

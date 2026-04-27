@@ -2,6 +2,9 @@
 layout: article
 title: HRV DOBRO DOŠAO
 sku: 82
+image: "/assets/images/82/hrv-dobro-dosao-1.jpg"
+images:
+- "/assets/images/82/hrv-dobro-dosao-2.jpg"
 ---
 
 ### 🎉 Balon folija – Dobro došao

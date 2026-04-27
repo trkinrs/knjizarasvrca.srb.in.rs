@@ -2,6 +2,9 @@
 layout: article
 title: TO 0,7 MAPED
 sku: 1242
+image: "/assets/images/1242/to-0-7-maped-1.jpg"
+images:
+- "/assets/images/1242/to-0-7-maped-2.jpg"
 ---
 
 **✏️ Tehnička olovka 0.5 Pentel AX-125 – Pouzdanost koju osećate pri svakom potezu**

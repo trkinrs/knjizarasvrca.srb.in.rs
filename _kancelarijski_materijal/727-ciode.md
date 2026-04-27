@@ -2,6 +2,9 @@
 layout: article
 title: CIODE
 sku: 727
+image: "/assets/images/727/ciode-1.jpg"
+images:
+- "/assets/images/727/ciode-2.jpg"
 ---
 
 📍 **Čiode – Neophodan dodatak za svaku kancelariju ili radionicu**

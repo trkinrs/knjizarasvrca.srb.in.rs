@@ -2,6 +2,9 @@
 layout: article
 title: PAPIRNI STOLNJAK BOJA 7M
 sku: 2510
+image: "/assets/images/2510/papirni-stolnjak-boja-7m-1.jpg"
+images:
+- "/assets/images/2510/papirni-stolnjak-boja-7m-2.jpg"
 ---
 
 🪄 **Papirni stolnjak 1.2m x 7m – Praktičnost i elegancija u jednom!** 🍽️

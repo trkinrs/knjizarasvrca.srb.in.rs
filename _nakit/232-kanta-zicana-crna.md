@@ -2,6 +2,9 @@
 layout: article
 title: KANTA ŽIČANA CRNA
 sku: 232
+image: "/assets/images/232/kanta-zicana-crna-1.jpg"
+images:
+- "/assets/images/232/kanta-zicana-crna-2.jpg"
 ---
 
 **Naziv proizvoda:** Minđuše 44112239 Swarovski

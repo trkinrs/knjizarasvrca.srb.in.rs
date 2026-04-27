@@ -2,6 +2,9 @@
 layout: article
 title: HO 6 BOJA
 sku: 205
+image: "/assets/images/205/ho-6-boja-1.jpg"
+images:
+- "/assets/images/205/ho-6-boja-2.jpg"
 ---
 
 🖊️ **Hemijska olovka sa 6 boja**  

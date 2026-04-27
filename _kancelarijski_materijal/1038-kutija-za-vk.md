@@ -2,6 +2,9 @@
 layout: article
 title: KUTIJA ZA VK
 sku: 1038
+image: "/assets/images/1038/kutija-za-vk-1.jpg"
+images:
+- "/assets/images/1038/kutija-za-vk-2.jpg"
 ---
 
 ### 💳 Držač za kartice – Organizujte svoje kartice sa stilom

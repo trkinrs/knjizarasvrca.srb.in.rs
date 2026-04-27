@@ -2,6 +2,9 @@
 layout: article
 title: MARKER CP 1MM
 sku: 3230
+image: "/assets/images/3230/marker-cp-1mm-1.jpg"
+images:
+- "/assets/images/3230/marker-cp-1mm-2.jpg"
 ---
 
 🖊️ **CD Marker Centropen 1mm – Precizno pisanje na svim glatkim površinama**

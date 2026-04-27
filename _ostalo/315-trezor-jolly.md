@@ -2,6 +2,9 @@
 layout: article
 title: TREZOR JOLLY
 sku: 315
+image: "/assets/images/315/trezor-jolly-1.jpg"
+images:
+- "/assets/images/315/trezor-jolly-2.jpg"
 ---
 
 ### 🔐 Trezor Jolly – Tajne i dragocenosti na sigurnom mestu!

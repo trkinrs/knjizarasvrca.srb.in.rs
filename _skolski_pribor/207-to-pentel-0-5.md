@@ -2,6 +2,9 @@
 layout: article
 title: TO PENTEL 0,5
 sku: 207
+image: "/assets/images/207/to-pentel-0-5-1.jpg"
+images:
+- "/assets/images/207/to-pentel-0-5-2.jpg"
 ---
 
 **✏️ Tehnička olovka 0.5 Pentel AX-125 – Pouzdanost koju osećate pri svakom potezu**

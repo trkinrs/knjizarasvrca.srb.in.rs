@@ -2,6 +2,7 @@
 layout: article
 title: MUSEMA ZA LIKOVNO
 sku: 2043
+image: "/assets/images/2043/musema-za-likovno-1.jpg"
 ---
 
 ### 🎨 Mušema za likovno – Za kreativno stvaranje bez brige!

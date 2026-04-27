@@ -2,6 +2,10 @@
 layout: article
 title: SESTAR BLUE/PINK
 sku: 85
+image: "/assets/images/85/sestar-blue-pink-1.jpg"
+images:
+- "/assets/images/85/sestar-blue-pink-2.jpg"
+- "/assets/images/85/sestar-blue-pink-3.jpg"
 ---
 
 📐 **Šestar S-cool Blue & Pink – Preciznost u modernim bojama**

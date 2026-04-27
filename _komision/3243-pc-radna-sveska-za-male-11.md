@@ -2,6 +2,7 @@
 layout: article
 title: PČ RADNA SVESKA ZA MALE - 11
 sku: 3243
+image: "/assets/images/3243/pc-radna-sveska-za-male-11-1.jpg"
 ---
 
 „Bakine i dekine priče“ predstavlja pažljivo odabran izbor priča koje su obimom i sadržinom prilagođene mlađim čitaocima.  

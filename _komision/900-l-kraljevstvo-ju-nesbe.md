@@ -2,6 +2,7 @@
 layout: article
 title: L - KRALJEVSTVO - JU NESBE
 sku: 900
+image: "/assets/images/900/l-kraljevstvo-ju-nesbe-1.jpg"
 ---
 
 Autor bestseler serijala o detektivu Hariju Huleu  

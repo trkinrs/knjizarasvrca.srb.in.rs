@@ -2,6 +2,9 @@
 layout: article
 title: GRABO SREDNJI BROJEVI
 sku: 45
+image: "/assets/images/45/grabo-srednji-brojevi-1.jpg"
+images:
+- "/assets/images/45/grabo-srednji-brojevi-2.jpg"
 ---
 
 🎈 **Grabo folija balon – Za zabave koje ostavljaju utisak!**

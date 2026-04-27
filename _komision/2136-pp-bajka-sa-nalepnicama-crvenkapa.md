@@ -2,6 +2,7 @@
 layout: article
 title: PP - BAJKA SA NALEPNICAMA - CRVENKAPA
 sku: 2136
+image: "/assets/images/2136/pp-bajka-sa-nalepnicama-crvenkapa-1.jpg"
 ---
 
 prevodilac:&nbsp;Milica Rakić

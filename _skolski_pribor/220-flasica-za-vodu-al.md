@@ -2,6 +2,9 @@
 layout: article
 title: FLASICA ZA VODU AL
 sku: 220
+image: "/assets/images/220/flasica-za-vodu-al-1.jpg"
+images:
+- "/assets/images/220/flasica-za-vodu-al-2.jpg"
 ---
 
 ### 💦 Flašica za vodu S-cool – Moderna, praktična i uvek uz tebe!

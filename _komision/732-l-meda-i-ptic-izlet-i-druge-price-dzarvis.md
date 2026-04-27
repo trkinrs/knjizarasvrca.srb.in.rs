@@ -2,6 +2,7 @@
 layout: article
 title: L - MEDA I PTIĆ - IZLET I DRUGE PRIČE - DŽARVIS
 sku: 732
+image: "/assets/images/732/l-meda-i-ptic-izlet-i-druge-price-dzarvis-1.jpg"
 ---
 
 _Četiri kratke priče o dva velika prijatelja!_  

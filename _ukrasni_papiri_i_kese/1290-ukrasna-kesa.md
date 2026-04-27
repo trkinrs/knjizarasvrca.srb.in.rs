@@ -2,6 +2,9 @@
 layout: article
 title: UKRASNA KESA
 sku: 1290
+image: "/assets/images/1290/ukrasna-kesa-1.jpg"
+images:
+- "/assets/images/1290/ukrasna-kesa-2.jpg"
 ---
 
 ### 🎁 Ukrasna poklon kesa – A5 veličina

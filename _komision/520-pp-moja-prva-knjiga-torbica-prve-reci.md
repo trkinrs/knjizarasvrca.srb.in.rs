@@ -2,6 +2,7 @@
 layout: article
 title: PP - MOJA PRVA KNJIGA TORBICA - PRVE RECI
 sku: 520
+image: "/assets/images/520/pp-moja-prva-knjiga-torbica-prve-reci-1.jpg"
 ---
 
 prevodilac:&nbsp;Jelena Radojčić

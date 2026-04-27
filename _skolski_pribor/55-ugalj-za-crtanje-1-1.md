@@ -2,6 +2,9 @@
 layout: article
 title: UGALJ ZA CRTANJE 1/1
 sku: 55
+image: "/assets/images/55/ugalj-za-crtanje-1-1-1.jpg"
+images:
+- "/assets/images/55/ugalj-za-crtanje-1-1-2.jpg"
 ---
 
 🎨 **Ugalj za crtanje Koh-i-Noor – savršen alat za umetnike**

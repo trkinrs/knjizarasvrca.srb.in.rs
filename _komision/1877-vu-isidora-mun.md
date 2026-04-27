@@ -2,6 +2,7 @@
 layout: article
 title: VU - ISIDORA MUN
 sku: 1877
+image: "/assets/images/1877/vu-isidora-mun-1.jpg"
 ---
 
 Isidora Mun je posebna jer je drugačija.  

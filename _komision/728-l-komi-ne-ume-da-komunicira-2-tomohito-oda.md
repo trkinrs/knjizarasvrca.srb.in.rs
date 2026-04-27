@@ -2,6 +2,7 @@
 layout: article
 title: L - KOMI NE UME DA KOMUNICIRA 2 - TOMOHITO ODA
 sku: 728
+image: "/assets/images/728/l-komi-ne-ume-da-komunicira-2-tomohito-oda-1.jpg"
 ---
 
 Srednjoškolka Šoko Komi ima poteškoće u komunikaciji, što joj prilično otežava da ostvari najvažniji san – da ima mnogo prijatelja. Njen problem sa komunikacijom mnogi u školi doživljavaju kao nadmenost i rezervisanost, ali ne i Tadano, koji rešava da se oslobodi sopstvenih strahova i pomogne Komi da stekne 100 prijatelja.  

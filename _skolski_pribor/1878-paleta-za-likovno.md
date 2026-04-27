@@ -2,6 +2,9 @@
 layout: article
 title: PALETA ZA LIKOVNO
 sku: 1878
+image: "/assets/images/1878/paleta-za-likovno-1.jpg"
+images:
+- "/assets/images/1878/paleta-za-likovno-2.jpg"
 ---
 
 🎨 **Velika Paleta za Temperu**  

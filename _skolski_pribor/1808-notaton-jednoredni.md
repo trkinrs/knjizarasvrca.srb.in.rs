@@ -2,6 +2,7 @@
 layout: article
 title: NOTATON JEDNOREDNI
 sku: 1808
+image: "/assets/images/1808/notaton-jednoredni-1.jpg"
 ---
 
 🎶 **Jednoredni Metalofon**  

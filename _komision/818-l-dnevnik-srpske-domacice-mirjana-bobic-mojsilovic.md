@@ -2,6 +2,7 @@
 layout: article
 title: L - DNEVNIK SRPSKE DOMAĆICE - MIRJANA BOBIĆ MOJSILOVIĆ
 sku: 818
+image: "/assets/images/818/l-dnevnik-srpske-domacice-mirjana-bobic-mojsilovic-1.jpg"
 ---
 
 Jedan od najvećih srpskih bestselera u poslednjih pedeset godina.  

@@ -2,6 +2,9 @@
 layout: article
 title: BLOK III
 sku: 991
+image: "/assets/images/991/blok-iii-1.jpg"
+images:
+- "/assets/images/991/blok-iii-2.jpg"
 ---
 
 ## 📄 Blok III

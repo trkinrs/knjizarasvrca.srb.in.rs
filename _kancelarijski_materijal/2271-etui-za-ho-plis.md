@@ -2,6 +2,9 @@
 layout: article
 title: ETUI ZA HO PLIS
 sku: 2271
+image: "/assets/images/2271/etui-za-ho-plis-1.jpg"
+images:
+- "/assets/images/2271/etui-za-ho-plis-2.jpg"
 ---
 
 🖊️ **Futrola za olovke – pliš**  

@@ -2,6 +2,7 @@
 layout: article
 title: HAMER B/1 BOJA
 sku: 3835
+image: "/assets/images/3835/hamer-b-1-boja-1.jpg"
 ---
 
 ### 💛 Hamer Papir B1 220g – Svetlo Žuti

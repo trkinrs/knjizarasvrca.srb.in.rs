@@ -2,6 +2,10 @@
 layout: article
 title: REZAČ MAPED MINI BOOGY
 sku: 142
+image: "/assets/images/142/rezac-maped-mini-boogy-1.jpg"
+images:
+- "/assets/images/142/rezac-maped-mini-boogy-2.jpg"
+- "/assets/images/142/rezac-maped-mini-boogy-3.jpg"
 ---
 
 **✏️ Rezač PVC dupli sa rezervoarom – Dvostruka preciznost, čisto i praktično**

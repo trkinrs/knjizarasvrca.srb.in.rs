@@ -2,6 +2,7 @@
 layout: article
 title: PP - KNJIGA ZA PREDSKOLCE PO NOVIM OSNOVAMA
 sku: 390
+image: "/assets/images/390/pp-knjiga-za-predskolce-po-novim-osnovama-1.jpg"
 ---
 
 povez:&nbsp;mek

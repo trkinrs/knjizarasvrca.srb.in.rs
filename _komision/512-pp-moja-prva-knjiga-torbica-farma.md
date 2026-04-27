@@ -2,6 +2,7 @@
 layout: article
 title: PP - MOJA PRVA KNJIGA TORBICA - FARMA
 sku: 512
+image: "/assets/images/512/pp-moja-prva-knjiga-torbica-farma-1.jpg"
 ---
 
 prevodilac:&nbsp;Jelena Radočić

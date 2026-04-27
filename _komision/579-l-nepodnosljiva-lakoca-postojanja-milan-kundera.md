@@ -2,6 +2,7 @@
 layout: article
 title: L - NEPODNOŠLJIVA LAKOĆA POSTOJANJA - MILAN KUNDERA
 sku: 579
+image: "/assets/images/579/l-nepodnosljiva-lakoca-postojanja-milan-kundera-1.jpg"
 ---
 
 „Besramno pronicljivo. Razgaljujuće subverzivno i duhovito.“  

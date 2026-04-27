@@ -2,6 +2,7 @@
 layout: article
 title: VU - HAJDE DA ZAVIRIMO U...
 sku: 1327
+image: "/assets/images/1327/vu-hajde-da-zavirimo-u-1.jpg"
 ---
 
 ISTRAŽITE NAJPOZNATIJEG DINOSAURA NA PLANETI!  

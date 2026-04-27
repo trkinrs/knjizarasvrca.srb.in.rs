@@ -2,6 +2,7 @@
 layout: article
 title: PP - POVUCI, POTEGNI, OKRENI - SPASIOCI
 sku: 454
+image: "/assets/images/454/pp-povuci-potegni-okreni-spasioci-1.jpg"
 ---
 
 prevodilac:&nbsp;Jelena Radojičić

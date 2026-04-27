@@ -2,6 +2,9 @@
 layout: article
 title: SET ZA BELESKE CODEX
 sku: 989
+image: "/assets/images/989/set-za-beleske-codex-1.jpg"
+images:
+- "/assets/images/989/set-za-beleske-codex-2.jpg"
 ---
 
 Set za beleške **Codex** &nbsp;je elegantan i praktičan kancelarijski dodatak, idealan za poklone, promotivne aktivnosti ili svakodnevnu upotrebu.

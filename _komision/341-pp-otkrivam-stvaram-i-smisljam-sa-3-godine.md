@@ -2,6 +2,7 @@
 layout: article
 title: PP - OTKRIVAM, STVARAM I SMISLJAM SA 3 GODINE
 sku: 341
+image: "/assets/images/341/pp-otkrivam-stvaram-i-smisljam-sa-3-godine-1.jpg"
 ---
 
 prevodilac:&nbsp;Marija Spasić

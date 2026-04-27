@@ -2,6 +2,7 @@
 layout: article
 title: PP - ZIVOTINJE U BASTI
 sku: 78
+image: "/assets/images/78/pp-zivotinje-u-basti-1.jpg"
 ---
 
 povez:&nbsp;tvrd

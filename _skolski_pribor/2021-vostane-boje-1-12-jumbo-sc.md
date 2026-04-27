@@ -2,6 +2,9 @@
 layout: article
 title: VOSTANE BOJE 1/12 JUMBO SC
 sku: 2021
+image: "/assets/images/2021/vostane-boje-1-12-jumbo-sc-1.jpg"
+images:
+- "/assets/images/2021/vostane-boje-1-12-jumbo-sc-2.jpg"
 ---
 
 🖍️ **Voštane boje 1/12 JUMBO S-cool – Velike boje za male ruke!**

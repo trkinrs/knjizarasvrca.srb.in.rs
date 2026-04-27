@@ -2,6 +2,9 @@
 layout: article
 title: VU - KETKID - KLUB STRIPOLJUBACA
 sku: 3483
+image: "/assets/images/3483/vu-ketkid-klub-stripoljubaca-1.jpg"
+images:
+- "/assets/images/3483/vu-ketkid-klub-stripoljubaca-2.jpg"
 ---
 
 **Naziv proizvoda:** Eva Pena Glitter Samolepljiva – Za Kreativne Projekte i Dekoraciju

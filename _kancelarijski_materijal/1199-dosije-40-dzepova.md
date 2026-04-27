@@ -2,6 +2,11 @@
 layout: article
 title: DOSIJE 40 DZEPOVA
 sku: 1199
+image: "/assets/images/1199/dosije-40-dzepova-1.jpg"
+images:
+- "/assets/images/1199/dosije-40-dzepova-2.jpg"
+- "/assets/images/1199/dosije-40-dzepova-3.jpg"
+- "/assets/images/1199/dosije-40-dzepova-4.jpg"
 ---
 
 📁 **Fascikla mapa sa 40 U folija – Maksimalna preglednost, minimalan napor**

@@ -2,6 +2,7 @@
 layout: article
 title: 'L - BAJKE : PRVIH SEDAM - UROŠ PETROVIĆ'
 sku: 671
+image: "/assets/images/671/l-bajke-prvih-sedam-uros-petrovic-1.jpg"
 ---
 
 Nagrada „Laza Kostić“.  

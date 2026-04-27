@@ -2,6 +2,9 @@
 layout: article
 title: KUVAR SA DASKOM
 sku: 2504
+image: "/assets/images/2504/kuvar-sa-daskom-1.jpg"
+images:
+- "/assets/images/2504/kuvar-sa-daskom-2.jpg"
 ---
 
 ### 🍳 Kuvar B5 – Vaš vodič kroz kulinarski svet

@@ -2,6 +2,7 @@
 layout: article
 title: VU - KLASICI SK ZA DECU
 sku: 1962
+image: "/assets/images/1962/vu-klasici-sk-za-decu-1.jpg"
 ---
 
 Roman En sa Ostrva je treći nastavak serijala o riđokosoj devojčici En Širli, koja je iz sirotišta stigla na farmu Grin gejbls, u porodicu Katbert. Sada En prvi put napušta Ostrvo Princa Edvarda kako bi pohađala koledž u Kingsportu, u Novoj Škotskoj.  

@@ -2,6 +2,9 @@
 layout: article
 title: YAMB LIMENKA
 sku: 2517
+image: "/assets/images/2517/yamb-limenka-1.jpg"
+images:
+- "/assets/images/2517/yamb-limenka-2.jpg"
 ---
 
 🎲 **Set za Yamb u limenoj kutiji**  

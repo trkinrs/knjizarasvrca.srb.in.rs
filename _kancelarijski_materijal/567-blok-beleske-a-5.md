@@ -2,6 +2,9 @@
 layout: article
 title: BLOK BELESKE A/5
 sku: 567
+image: "/assets/images/567/blok-beleske-a-5-1.jpg"
+images:
+- "/assets/images/567/blok-beleske-a-5-2.jpg"
 ---
 
 🗒️ **Blok beleške A5 sa spiralom – Praktičnost u pokretu**

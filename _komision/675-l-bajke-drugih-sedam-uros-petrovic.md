@@ -2,6 +2,7 @@
 layout: article
 title: 'L - BAJKE : DRUGIH SEDAM - UROŠ PETROVIĆ'
 sku: 675
+image: "/assets/images/675/l-bajke-drugih-sedam-uros-petrovic-1.jpg"
 ---
 
 Ilustrovao Aleksandar Zolotić  

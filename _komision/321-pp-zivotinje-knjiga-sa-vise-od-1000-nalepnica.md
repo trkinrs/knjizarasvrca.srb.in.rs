@@ -2,6 +2,7 @@
 layout: article
 title: PP - ZIVOTINJE KNJIGA SA VISE OD 1000 NALEPNICA
 sku: 321
+image: "/assets/images/321/pp-zivotinje-knjiga-sa-vise-od-1000-nalepnica-1.jpg"
 ---
 
 povez:&nbsp;mek

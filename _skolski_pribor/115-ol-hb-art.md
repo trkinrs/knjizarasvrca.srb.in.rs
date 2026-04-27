@@ -2,6 +2,9 @@
 layout: article
 title: OL HB ART
 sku: 115
+image: "/assets/images/115/ol-hb-art-1.jpg"
+images:
+- "/assets/images/115/ol-hb-art-2.jpg"
 ---
 
 ✏️ **Grafitna olovka Art - 12B**  

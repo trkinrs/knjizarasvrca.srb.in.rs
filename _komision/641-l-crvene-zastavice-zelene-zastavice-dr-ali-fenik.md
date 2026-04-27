@@ -2,6 +2,7 @@
 layout: article
 title: L - CRVENE ZASTAVICE, ZELENE ZASTAVICE - DR ALI FENIK
 sku: 641
+image: "/assets/images/641/l-crvene-zastavice-zelene-zastavice-dr-ali-fenik-1.jpg"
 ---
 
 _Moderna psihologija za svakodnevnu životnu dramu_  

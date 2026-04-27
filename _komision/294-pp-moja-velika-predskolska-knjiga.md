@@ -2,6 +2,7 @@
 layout: article
 title: PP - MOJA VELIKA PREDSKOLSKA KNJIGA
 sku: 294
+image: "/assets/images/294/pp-moja-velika-predskolska-knjiga-1.jpg"
 ---
 
 povez:&nbsp;mek

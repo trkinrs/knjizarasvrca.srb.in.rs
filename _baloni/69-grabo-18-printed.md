@@ -2,6 +2,9 @@
 layout: article
 title: GRABO 18" PRINTED
 sku: 69
+image: "/assets/images/69/grabo-18-printed-1.jpg"
+images:
+- "/assets/images/69/grabo-18-printed-2.jpg"
 ---
 
 🌈 **Drvene bojice 1/12 S-cool**  

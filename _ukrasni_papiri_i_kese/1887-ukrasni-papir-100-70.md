@@ -2,6 +2,9 @@
 layout: article
 title: UKRASNI PAPIR 100*70
 sku: 1887
+image: "/assets/images/1887/ukrasni-papir-100-70-1.jpg"
+images:
+- "/assets/images/1887/ukrasni-papir-100-70-2.jpg"
 ---
 
 **Obostrani Ukrasni Papir 100x70 cm – Elegancija u Svakom Pakovanju**

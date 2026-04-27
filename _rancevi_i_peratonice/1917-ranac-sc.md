@@ -2,6 +2,9 @@
 layout: article
 title: RANAC SC
 sku: 1917
+image: "/assets/images/1917/ranac-sc-1.jpg"
+images:
+- "/assets/images/1917/ranac-sc-2.jpg"
 ---
 
 ### 🦄 Anatomski ranac S-cool 3D – Udobnost sa wow efektom!

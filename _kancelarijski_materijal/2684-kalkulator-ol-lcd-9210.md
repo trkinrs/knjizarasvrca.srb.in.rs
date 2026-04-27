@@ -2,6 +2,9 @@
 layout: article
 title: KALKULATOR OL LCD-9210
 sku: 2684
+image: "/assets/images/2684/kalkulator-ol-lcd-9210-1.jpg"
+images:
+- "/assets/images/2684/kalkulator-ol-lcd-9210-2.jpg"
 ---
 
 Digitron **Olympia LCD 9210** je naučni kalkulator visokih performansi, idealan za učenike, studente i profesionalce koji se bave matematikom, inženjeringom ili statistikom.

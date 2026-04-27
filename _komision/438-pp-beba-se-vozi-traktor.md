@@ -2,6 +2,7 @@
 layout: article
 title: PP - BEBA SE VOZI - TRAKTOR
 sku: 438
+image: "/assets/images/438/pp-beba-se-vozi-traktor-1.jpg"
 ---
 
 prevodilac:&nbsp;Jelena Radojičić

@@ -2,6 +2,9 @@
 layout: article
 title: TEMPERA 1/12 6ML
 sku: 65
+image: "/assets/images/65/tempera-1-12-6ml-1.jpg"
+images:
+- "/assets/images/65/tempera-1-12-6ml-2.jpg"
 ---
 
 ### empere S-cool 1/12 – 6ml – Savršen set za male umetnike

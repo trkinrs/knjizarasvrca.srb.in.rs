@@ -2,6 +2,7 @@
 layout: article
 title: PP - KNJIGE U OBLICIMA - VOLI TE DEKA
 sku: 473
+image: "/assets/images/473/pp-knjige-u-oblicima-voli-te-deka-1.jpg"
 ---
 
 prevodilac:&nbsp;Jelena Radojičić

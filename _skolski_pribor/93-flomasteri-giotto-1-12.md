@@ -2,6 +2,9 @@
 layout: article
 title: FLOMASTERI GIOTTO 1/12
 sku: 93
+image: "/assets/images/93/flomasteri-giotto-1-12-1.jpg"
+images:
+- "/assets/images/93/flomasteri-giotto-1-12-2.webp"
 ---
 
 ### 🖍️ **Giotto Flomasteri – Kvalitet koji inspiriše kreativnost!**

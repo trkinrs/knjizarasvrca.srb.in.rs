@@ -2,6 +2,9 @@
 layout: article
 title: SESTAR SC
 sku: 145
+image: "/assets/images/145/sestar-sc-1.jpg"
+images:
+- "/assets/images/145/sestar-sc-2.jpg"
 ---
 
 📐 **Šestar S-cool u PVC kutiji – rozi**  

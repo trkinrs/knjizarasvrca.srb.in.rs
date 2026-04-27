@@ -2,6 +2,9 @@
 layout: article
 title: PERNICA SLJOKICE
 sku: 3308
+image: "/assets/images/3308/pernica-sljokice-1.jpg"
+images:
+- "/assets/images/3308/pernica-sljokice-2.jpg"
 ---
 
 ### ✨ Pernica S-cool Glitter – Sjajna i praktična!

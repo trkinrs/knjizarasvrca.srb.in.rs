@@ -2,6 +2,9 @@
 layout: article
 title: KECELJA ZA LIKOVNO
 sku: 925
+image: "/assets/images/925/kecelja-za-likovno-1.jpg"
+images:
+- "/assets/images/925/kecelja-za-likovno-2.jpg"
 ---
 
 ### 🎨 Kecelja za likovno – Zaštitite se u kreativnim trenucima!

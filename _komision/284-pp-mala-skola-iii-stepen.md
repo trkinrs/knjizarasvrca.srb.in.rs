@@ -2,6 +2,7 @@
 layout: article
 title: PP - MALA SKOLA III STEPEN
 sku: 284
+image: "/assets/images/284/pp-mala-skola-iii-stepen-1.jpg"
 ---
 
 povez:&nbsp;mek

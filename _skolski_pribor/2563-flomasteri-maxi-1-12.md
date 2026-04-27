@@ -2,6 +2,9 @@
 layout: article
 title: FLOMASTERI MAXI 1/12
 sku: 2563
+image: "/assets/images/2563/flomasteri-maxi-1-12-1.webp"
+images:
+- "/assets/images/2563/flomasteri-maxi-1-12-2.jpg"
 ---
 
 ### 🎨 Giotto Maxi Flomasteri – Set od 12 Boja (1/12)

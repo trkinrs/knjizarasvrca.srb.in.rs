@@ -2,6 +2,7 @@
 layout: article
 title: L - ANĐEO S JEDNIM KRILOM - LJILJANA ŠARAC
 sku: 806
+image: "/assets/images/806/l-andjeo-s-jednim-krilom-ljiljana-sarac-1.jpg"
 ---
 
 _Priča o sazrevanju tinejdžerke i iskupljenju_  

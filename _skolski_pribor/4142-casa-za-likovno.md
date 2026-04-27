@@ -2,6 +2,9 @@
 layout: article
 title: CASA ZA LIKOVNO
 sku: 4142
+image: "/assets/images/4142/casa-za-likovno-1.jpg"
+images:
+- "/assets/images/4142/casa-za-likovno-2.jpg"
 ---
 
 🎨 **Čaša za likovno – Praktičan dodatak za male umetnike**

@@ -2,6 +2,9 @@
 layout: article
 title: GUMICA SOFTY MINI
 sku: 138
+image: "/assets/images/138/gumica-softy-mini-1.jpg"
+images:
+- "/assets/images/138/gumica-softy-mini-2.jpg"
 ---
 
 🧼 **Gumica Maped Mini Softy – Mala, ali moćna!**

@@ -2,6 +2,9 @@
 layout: article
 title: DNEVNIK BLAGAJNE
 sku: 879
+image: "/assets/images/879/dnevnik-blagajne-1.jpg"
+images:
+- "/assets/images/879/dnevnik-blagajne-2.jpg"
 ---
 
 ## 📚 Dnevnik Blagajne A4

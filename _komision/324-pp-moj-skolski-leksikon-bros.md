@@ -2,6 +2,7 @@
 layout: article
 title: PP - MOJ SKOLSKI LEKSIKON - BROS
 sku: 324
+image: "/assets/images/324/pp-moj-skolski-leksikon-bros-1.jpg"
 ---
 
 povez:&nbsp;mek

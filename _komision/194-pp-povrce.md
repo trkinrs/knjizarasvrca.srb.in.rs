@@ -2,6 +2,7 @@
 layout: article
 title: PP - POVRCE
 sku: 194
+image: "/assets/images/194/pp-povrce-1.jpg"
 ---
 
 povez:&nbsp;tvrd

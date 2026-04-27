@@ -2,6 +2,7 @@
 layout: article
 title: PP - MOJA PRVA KNJIGA TORBICA - ZIVOTINJE
 sku: 513
+image: "/assets/images/513/pp-moja-prva-knjiga-torbica-zivotinje-1.jpg"
 ---
 
 prevodilac:&nbsp;Jelena Radojčić

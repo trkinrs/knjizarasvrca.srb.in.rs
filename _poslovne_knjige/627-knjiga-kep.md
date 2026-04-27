@@ -2,6 +2,9 @@
 layout: article
 title: KNJIGA KEP
 sku: 627
+image: "/assets/images/627/knjiga-kep-1.jpg"
+images:
+- "/assets/images/627/knjiga-kep-2.jpg"
 ---
 
 📘 **Knjiga evidencije prometa (KEP) – Zakonita i pregledna evidencija gotovinskog prometa**

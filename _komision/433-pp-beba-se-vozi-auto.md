@@ -2,6 +2,7 @@
 layout: article
 title: PP - BEBA SE VOZI - AUTO
 sku: 433
+image: "/assets/images/433/pp-beba-se-vozi-auto-1.jpg"
 ---
 
 prevodilac:&nbsp;Jelena Radojičić

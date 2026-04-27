@@ -2,6 +2,9 @@
 layout: article
 title: CESTITKA
 sku: 379
+image: "/assets/images/379/cestitka-1.jpg"
+images:
+- "/assets/images/379/cestitka-2.jpg"
 ---
 
 **💌 Čestitka na mađarskom jeziku – Lep gest za posebne trenutke**

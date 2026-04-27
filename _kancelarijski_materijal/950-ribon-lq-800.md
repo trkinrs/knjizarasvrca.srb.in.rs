@@ -2,6 +2,7 @@
 layout: article
 title: RIBON LQ-800
 sku: 950
+image: "/assets/images/950/ribon-lq-800-1.jpg"
 ---
 
 ### 🖨️ **Specifikacije proizvoda:**

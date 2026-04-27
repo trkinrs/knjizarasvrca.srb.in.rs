@@ -2,6 +2,9 @@
 layout: article
 title: KOVERAT DUGME AMERIKEN
 sku: 1361
+image: "/assets/images/1361/koverat-dugme-ameriken-1.jpg"
+images:
+- "/assets/images/1361/koverat-dugme-ameriken-2.jpg"
 ---
 
 📁 **Koverat Ameriken PVC sa dugmetom – Klasična zaštita za tvoje dokumente**

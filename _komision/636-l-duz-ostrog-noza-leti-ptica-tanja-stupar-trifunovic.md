@@ -2,6 +2,7 @@
 layout: article
 title: L - DUŽ OŠTROG NOŽA LETI PTICA - TANJA STUPAR TRIFUNOVIĆ
 sku: 636
+image: "/assets/images/636/l-duz-ostrog-noza-leti-ptica-tanja-stupar-trifunovic-1.jpg"
 ---
 
 Dobitnica Vitalove nagrade i Evropske nagrade za književnost  

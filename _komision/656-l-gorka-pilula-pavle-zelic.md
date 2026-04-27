@@ -2,6 +2,7 @@
 layout: article
 title: L - GORKA PILULA - PAVLE ZELIĆ
 sku: 656
+image: "/assets/images/656/l-gorka-pilula-pavle-zelic-1.jpg"
 ---
 
 _Mračno naličje farmacije_  

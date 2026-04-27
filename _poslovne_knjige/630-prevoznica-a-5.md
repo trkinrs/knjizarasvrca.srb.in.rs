@@ -2,6 +2,9 @@
 layout: article
 title: PREVOZNICA A/5
 sku: 630
+image: "/assets/images/630/prevoznica-a-5-1.jpg"
+images:
+- "/assets/images/630/prevoznica-a-5-2.jpg"
 ---
 
 📄 **Prevoznica A/5 – Jednostavno i efikasno evidentiranje isporuka**

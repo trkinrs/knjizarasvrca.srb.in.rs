@@ -2,6 +2,7 @@
 layout: article
 title: PP - 100 ZADATAKA 5 GODINA
 sku: 535
+image: "/assets/images/535/pp-100-zadataka-5-godina-1.jpg"
 ---
 
 prevodilac:&nbsp;Milica Gnjatović

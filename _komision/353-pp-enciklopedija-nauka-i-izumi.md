@@ -2,6 +2,7 @@
 layout: article
 title: PP - ENCIKLOPEDIJA - NAUKA I IZUMI
 sku: 353
+image: "/assets/images/353/pp-enciklopedija-nauka-i-izumi-1.jpg"
 ---
 
 prevodilac:&nbsp;Marija Spasić

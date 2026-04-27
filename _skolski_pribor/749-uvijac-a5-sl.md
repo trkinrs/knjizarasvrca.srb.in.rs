@@ -2,6 +2,7 @@
 layout: article
 title: UVIJAC A5 SL
 sku: 749
+image: "/assets/images/749/uvijac-a5-sl-1.jpg"
 ---
 
 ## 🔄 Uvijač A5 Samolepljivi

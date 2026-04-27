@@ -2,6 +2,7 @@
 layout: article
 title: PP - BAJKA SA NALEPNICAMA - ALADIN I ČAROBNA LAMPA
 sku: 2253
+image: "/assets/images/2253/pp-bajka-sa-nalepnicama-aladin-i-carobna-lampa-1.jpg"
 ---
 
 prevodilac:&nbsp;Milica Rakić

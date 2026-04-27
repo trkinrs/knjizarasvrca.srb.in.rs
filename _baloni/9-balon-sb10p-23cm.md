@@ -2,6 +2,9 @@
 layout: article
 title: BALON SB10P 23CM
 sku: 9
+image: "/assets/images/9/balon-sb10p-23cm-1.jpg"
+images:
+- "/assets/images/9/balon-sb10p-23cm-2.jpg"
 ---
 
 🎈 **Latex balon – Jednobojna elegancija za svaku priliku!**

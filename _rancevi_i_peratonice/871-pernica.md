@@ -2,6 +2,9 @@
 layout: article
 title: PERNICA
 sku: 871
+image: "/assets/images/871/pernica-1.jpg"
+images:
+- "/assets/images/871/pernica-2.jpg"
 ---
 
 ### ✨ Pernica S-cool Glitter – Sjajna i praktična!

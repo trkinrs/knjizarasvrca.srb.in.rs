@@ -2,6 +2,9 @@
 layout: article
 title: SABLON PVC
 sku: 2151
+image: "/assets/images/2151/sablon-pvc-1.jpg"
+images:
+- "/assets/images/2151/sablon-pvc-2.jpg"
 ---
 
 ### 📐 Lenjir Šablon Koh-I-Noor – Preciznost za kreativne i tehničke zadatke

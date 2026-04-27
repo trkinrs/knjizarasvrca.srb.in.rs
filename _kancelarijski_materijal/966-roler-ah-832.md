@@ -2,6 +2,9 @@
 layout: article
 title: ROLER AH-832
 sku: 966
+image: "/assets/images/966/roler-ah-832-1.jpg"
+images:
+- "/assets/images/966/roler-ah-832-2.jpg"
 ---
 
 **Naziv proizvoda:** Roler Aihao 832 Crveni

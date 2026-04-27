@@ -2,6 +2,7 @@
 layout: article
 title: ZABRANJENO PUSENJE A/4
 sku: 1912
+image: "/assets/images/1912/zabranjeno-pusenje-a-4-1.jpg"
 ---
 
 ### 🚭 Nalepnica "Zabranjeno pušenje" – Format A4

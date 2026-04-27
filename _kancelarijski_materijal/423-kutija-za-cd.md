@@ -2,6 +2,9 @@
 layout: article
 title: KUTIJA ZA CD
 sku: 423
+image: "/assets/images/423/kutija-za-cd-1.jpg"
+images:
+- "/assets/images/423/kutija-za-cd-2.jpg"
 ---
 
 💿 **PVC kutija za CD**  

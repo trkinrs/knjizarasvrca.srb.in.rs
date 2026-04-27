@@ -2,6 +2,9 @@
 layout: article
 title: FB HEART 45CM
 sku: 136
+image: "/assets/images/136/fb-heart-45cm-1.jpg"
+images:
+- "/assets/images/136/fb-heart-45cm-2.jpg"
 ---
 
 🧼 **Gumica Staedtler B40 – Maksimalna veličina, maksimalna preciznost**

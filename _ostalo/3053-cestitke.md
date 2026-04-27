@@ -2,6 +2,9 @@
 layout: article
 title: CESTITKE
 sku: 3053
+image: "/assets/images/3053/cestitke-1.jpg"
+images:
+- "/assets/images/3053/cestitke-2.jpg"
 ---
 
 💌 **Čestitka od pliša – Mekani dodir emocija**

@@ -2,6 +2,9 @@
 layout: article
 title: DECIJI KISOBRAN
 sku: 4073
+image: "/assets/images/4073/deciji-kisobran-1.jpg"
+images:
+- "/assets/images/4073/deciji-kisobran-2.jpg"
 ---
 
 🌧️ **Dečiji Kišobran S-cool – Veseli dizajn za kišne dane!**  

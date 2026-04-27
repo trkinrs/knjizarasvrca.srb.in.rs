@@ -2,6 +2,9 @@
 layout: article
 title: UP HAVANA
 sku: 2281
+image: "/assets/images/2281/up-havana-1.jpg"
+images:
+- "/assets/images/2281/up-havana-2.jpg"
 ---
 
 ### 🔥 Muški metalni upaljač HAVANA – Stil i pouzdanost u jednom

@@ -2,6 +2,9 @@
 layout: article
 title: 'TO BLACK POINTER 0,5 '
 sku: 561
+image: "/assets/images/561/to-black-pointer-0-5-1.jpg"
+images:
+- "/assets/images/561/to-black-pointer-0-5-2.jpg"
 ---
 
 **✏️ Tehnička olovka 0.5 Megapolis – Preciznost i stil u jednom potezu**

@@ -2,6 +2,9 @@
 layout: article
 title: CASA ZA LIKOVNO
 sku: 1517
+image: "/assets/images/1517/casa-za-likovno-1.jpg"
+images:
+- "/assets/images/1517/casa-za-likovno-2.jpg"
 ---
 
 🎨 **Čaša za likovno – Praktičan dodatak za male umetnike**

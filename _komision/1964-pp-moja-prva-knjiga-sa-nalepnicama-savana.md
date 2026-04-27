@@ -2,6 +2,7 @@
 layout: article
 title: PP - MOJA PRVA KNJIGA SA NALEPNICAMA - SAVANA
 sku: 1964
+image: "/assets/images/1964/pp-moja-prva-knjiga-sa-nalepnicama-savana-1.jpg"
 ---
 
 prevodilac:&nbsp;Ana Miletić

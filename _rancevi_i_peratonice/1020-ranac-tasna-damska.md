@@ -2,6 +2,9 @@
 layout: article
 title: RANAC/TASNA DAMSKA
 sku: 1020
+image: "/assets/images/1020/ranac-tasna-damska-1.jpg"
+images:
+- "/assets/images/1020/ranac-tasna-damska-2.jpg"
 ---
 
 ### 👜 Damska tašna Little Marcel – Stil i funkcionalnost u jednom

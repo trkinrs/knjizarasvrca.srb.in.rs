@@ -2,6 +2,9 @@
 layout: article
 title: REGISTRATOR A/4 U
 sku: 689
+image: "/assets/images/689/registrator-a-4-u-1.jpg"
+images:
+- "/assets/images/689/registrator-a-4-u-2.jpg"
 ---
 
 📁 **Registrator Eko Line A4 – Uzani, Sivi sa Metalnim Obručem i Ojačanim Ivicama**  

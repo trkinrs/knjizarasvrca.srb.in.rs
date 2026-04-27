@@ -2,6 +2,9 @@
 layout: article
 title: PČ - DVA SUNCA I SUNČICA - LIDIJA MARINKOVIĆ
 sku: 2912
+image: "/assets/images/2912/pc-dva-sunca-i-suncica-lidija-marinkovic-1.jpg"
+images:
+- "/assets/images/2912/pc-dva-sunca-i-suncica-lidija-marinkovic-2.jpg"
 ---
 
 ### ✏️ Pernica Urban – 1 rajsferšlus, maksimum praktičnosti

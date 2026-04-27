@@ -2,6 +2,7 @@
 layout: article
 title: NEMA KARTA V-VIII
 sku: 3320
+image: "/assets/images/3320/nema-karta-v-viii-1.jpg"
 ---
 
 ### 🌐 Nema Karta Vanevropskih Zemalja – Otkrij svet van Evrope!

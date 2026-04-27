@@ -2,6 +2,9 @@
 layout: article
 title: PAPIRNI STOLNJAK 25M
 sku: 705
+image: "/assets/images/705/papirni-stolnjak-25m-1.jpg"
+images:
+- "/assets/images/705/papirni-stolnjak-25m-2.jpg"
 ---
 
 🪄 **Papirni stolnjak 1.2m x 7m – Praktičnost i elegancija u jednom!** 🍽️

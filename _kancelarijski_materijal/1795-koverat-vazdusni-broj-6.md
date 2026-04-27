@@ -2,6 +2,9 @@
 layout: article
 title: KOVERAT VAZDUSNI BROJ-6
 sku: 1795
+image: "/assets/images/1795/koverat-vazdusni-broj-6-1.jpg"
+images:
+- "/assets/images/1795/koverat-vazdusni-broj-6-2.jpg"
 ---
 
 📦 **Vazdušni koverat br. 6 – Zaštićeno, sigurno, profesionalno**

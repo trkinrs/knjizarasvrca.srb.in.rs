@@ -2,6 +2,7 @@
 layout: article
 title: UDARALJKE ZA METALOFON
 sku: 408
+image: "/assets/images/408/udaraljke-za-metalofon-1.jpg"
 ---
 
 🥁 **Udaraljke za Metalofon**  

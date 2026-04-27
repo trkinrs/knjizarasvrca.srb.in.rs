@@ -2,6 +2,10 @@
 layout: article
 title: PATRONA 1/1
 sku: 97
+image: "/assets/images/97/patrona-1-1-1.jpg"
+images:
+- "/assets/images/97/patrona-1-1-2.jpg"
+- "/assets/images/97/patrona-1-1-3.jpg"
 ---
 
 ### 🖋️ Patrone za Naliv Pero – Komadna Prodaja

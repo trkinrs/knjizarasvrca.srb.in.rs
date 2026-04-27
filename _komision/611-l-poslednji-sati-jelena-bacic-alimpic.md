@@ -2,6 +2,7 @@
 layout: article
 title: L - POSLEDNJI SATI - JELENA BAČIĆ ALIMPIĆ
 sku: 611
+image: "/assets/images/611/l-poslednji-sati-jelena-bacic-alimpic-1.jpg"
 ---
 
 _Ponekad, kćeri moja, najviše lažemo baš one koje najviše volimo._  

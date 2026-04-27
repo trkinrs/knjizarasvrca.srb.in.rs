@@ -2,6 +2,7 @@
 layout: article
 title: VU - ZMAJKO BUDI SVOJ
 sku: 2442
+image: "/assets/images/2442/vu-zmajko-budi-svoj-1.jpg"
 ---
 
 Knjiga „Zmajko, budi svoj!" upoznaće mališane sa preslatkim novim drugarom, zmajem koji u životu želi samo jednu stvar – prijatelje. Ipak, i pored želje da se sa nekim zbliži, izgleda da njegova strašna pojava uvek uplaši sve oko njega. Hoće li uspeti da uveri druge životinje da nemaju čega da se boje?  

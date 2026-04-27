@@ -2,6 +2,9 @@
 layout: article
 title: MINE 0,5 STAEDTLER
 sku: 121
+image: "/assets/images/121/mine-0-5-staedtler-1.jpg"
+images:
+- "/assets/images/121/mine-0-5-staedtler-2.jpg"
 ---
 
 **✏️ Grafitne mine Staedtler 0.5 mm – Profesionalni kvalitet za maksimalnu preciznost**

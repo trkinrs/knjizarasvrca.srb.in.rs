@@ -2,6 +2,7 @@
 layout: article
 title: VU - MOJ NEVEROVATNI DNEVNIK
 sku: 3798
+image: "/assets/images/3798/vu-moj-neverovatni-dnevnik-1.webp"
 ---
 
 Tajni dnevnik pun uspomena, želja i snova!  

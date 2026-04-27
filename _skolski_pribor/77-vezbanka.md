@@ -2,6 +2,9 @@
 layout: article
 title: VEZBANKA
 sku: 77
+image: "/assets/images/77/vezbanka-1.jpg"
+images:
+- "/assets/images/77/vezbanka-2.jpg"
 ---
 
 📗 **Vežbanka – Sitan karo za precizne zadatke i vežbe**

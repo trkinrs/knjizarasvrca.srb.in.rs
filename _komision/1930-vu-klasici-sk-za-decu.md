@@ -2,6 +2,7 @@
 layout: article
 title: VU - KLASICI SK ZA DECU
 sku: 1930
+image: "/assets/images/1930/vu-klasici-sk-za-decu-1.jpg"
 ---
 
 Život desetogodišnje Meri Lenoks promeniće se iz korena kada ostane bez roditelja i iz Indije dođe da živi sa ujakom u Engleskoj.  

@@ -2,6 +2,7 @@
 layout: article
 title: VU - SVETLUCAVI SVET
 sku: 2581
+image: "/assets/images/2581/vu-svetlucavi-svet-1.jpg"
 ---
 
 Da li ste spremni za pregršt praistorijskih aktivnosti?  
