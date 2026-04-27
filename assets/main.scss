@@ -1,0 +1,22 @@
+---
+# Only the main Sass file needs front matter (the dashes are enough)
+---
+
+$background-color: #fcda46;
+
+@import "minima";
+
+body {
+  background-color: #fcda46;
+}
+
+.site-header {
+  background-color: #e8c420;
+  border-top: none;
+  border-bottom: 1px solid #d4b010;
+}
+
+.site-footer {
+  background-color: #e8c420;
+  border-top: 1px solid #d4b010;
+}

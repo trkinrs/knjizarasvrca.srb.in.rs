@@ -7,12 +7,169 @@ _schema:
   price: number_field
   srbobran: number_field
   futog: number_field
+  image: text_field
 ---
 
-<dl>
-  <dt>SKU</dt><dd>{{ page.sku }}</dd>
-  <dt>Price</dt><dd>{% if page.price %}{{ page.price }}{% endif %}</dd>
-  <dt>Srbobran</dt><dd>{% if page.srbobran %}{{ page.srbobran }}{% endif %}</dd>
-  <dt>Futog</dt><dd>{% if page.futog %}{{ page.futog }}{% endif %}</dd>
+<style>
+  .product-card {
+    display: flex;
+    gap: 2rem;
+    align-items: flex-start;
+    margin: 1.5rem 0;
+  }
+  .product-image {
+    flex-shrink: 0;
+  }
+  .product-image img {
+    width: 200px;
+    height: 280px;
+    object-fit: cover;
+    border-radius: 4px;
+    box-shadow: 4px 4px 16px rgba(0,0,0,0.25);
+    display: block;
+  }
+  .product-info {
+    flex: 1;
+  }
+  .product-sku {
+    font-size: 0.8rem;
+    color: #888;
+    margin-bottom: 0.5rem;
+  }
+  .product-price {
+    font-size: 2rem;
+    font-weight: bold;
+    color: #c0392b;
+    margin: 0.75rem 0 1.25rem;
+  }
+  .product-price-label {
+    font-size: 0.85rem;
+    color: #555;
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+    margin-bottom: 0.2rem;
+  }
+  .product-stock {
+    margin: 1rem 0 1.5rem;
+    background: #f7f7f7;
+    border-radius: 6px;
+    padding: 0.75rem 1rem;
+    display: inline-block;
+    min-width: 220px;
+  }
+  .product-stock-title {
+    font-size: 0.8rem;
+    text-transform: uppercase;
+    letter-spacing: 0.06em;
+    color: #777;
+    margin-bottom: 0.4rem;
+  }
+  .stock-row {
+    display: flex;
+    justify-content: space-between;
+    gap: 1.5rem;
+    font-size: 0.95rem;
+  }
+  .stock-item {
+    display: flex;
+    align-items: center;
+    gap: 0.4rem;
+  }
+  .stock-dot {
+    width: 10px;
+    height: 10px;
+    border-radius: 50%;
+    display: inline-block;
+  }
+  .stock-dot.in-stock  { background: #27ae60; }
+  .stock-dot.low-stock { background: #f39c12; }
+  .stock-dot.no-stock  { background: #ccc; }
+  .btn-order {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.5rem;
+    background: #27ae60;
+    color: #fff !important;
+    font-size: 1.1rem;
+    font-weight: bold;
+    padding: 0.75rem 1.75rem;
+    border-radius: 6px;
+    text-decoration: none;
+    box-shadow: 0 3px 8px rgba(39,174,96,0.35);
+    transition: background 0.2s;
+  }
+  .btn-order:hover {
+    background: #219a52;
+    text-decoration: none;
+  }
+  .btn-order svg {
+    width: 22px;
+    height: 22px;
+    fill: currentColor;
+  }
+  @media (max-width: 600px) {
+    .product-card {
+      flex-direction: column;
+      align-items: center;
+    }
+    .product-info {
+      width: 100%;
+    }
+  }
+</style>
 
-</dl>
+<div class="product-card">
+  <div class="product-image">
+    {% if page.image %}
+      <img src="{{ page.image | relative_url }}" alt="{{ page.title }}">
+    {% else %}
+      <img src="{{ '/assets/book-placeholder.svg' | relative_url }}" alt="Bez slike">
+    {% endif %}
+  </div>
+
+  <div class="product-info">
+    <div class="product-sku">Šifra: {{ page.sku }}</div>
+
+    {% if page.price %}
+    <div class="product-price-label">Cena</div>
+    <div class="product-price">{{ page.price | round }} din.</div>
+    {% endif %}
+
+    <div class="product-stock">
+      <div class="product-stock-title">Dostupnost</div>
+      <div class="stock-row">
+        <div class="stock-item">
+          {% assign srb = page.srbobran | plus: 0 %}
+          {% if srb > 1 %}
+            <span class="stock-dot in-stock"></span>
+          {% elsif srb == 1 %}
+            <span class="stock-dot low-stock"></span>
+          {% else %}
+            <span class="stock-dot no-stock"></span>
+          {% endif %}
+          Srbobran{% if srb > 0 %} ({{ srb }}){% endif %}
+        </div>
+        <div class="stock-item">
+          {% assign fut = page.futog | plus: 0 %}
+          {% if fut > 1 %}
+            <span class="stock-dot in-stock"></span>
+          {% elsif fut == 1 %}
+            <span class="stock-dot low-stock"></span>
+          {% else %}
+            <span class="stock-dot no-stock"></span>
+          {% endif %}
+          Futog{% if fut > 0 %} ({{ fut }}){% endif %}
+        </div>
+      </div>
+    </div>
+
+    <a href="tel:{{ site.phone | remove: ' ' }}" class="btn-order">
+      <svg viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+        <path d="M6.62 10.79a15.053 15.053 0 006.59 6.59l2.2-2.2a1 1 0 011.01-.24c1.12.37 2.33.57 3.58.57a1 1 0 011 1V20a1 1 0 01-1 1C10.01 21 3 13.99 3 5a1 1 0 011-1h3.5a1 1 0 011 1c0 1.25.2 2.46.57 3.58a1 1 0 01-.25 1.01l-2.2 2.2z"/>
+      </svg>
+      Naruči telefonom
+    </a>
+  </div>
+</div>
+
+{{ content }}
