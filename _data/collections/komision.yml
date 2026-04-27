@@ -85,7 +85,7 @@
 286:
   title: PP - MALA SKOLA V STEPEN
   price: 699.0
-  srbobran: 1
+  srbobran: 0
   futog: 0
 294:
   title: PP - MOJA VELIKA PREDSKOLSKA KNJIGA
@@ -969,7 +969,7 @@
 753:
   title: 'L - ALIJA : ULEMA ILI BALIJA ? - NENAD KECMANOVIĆ I DARKO TANASKOVIĆ'
   price: 999.0
-  srbobran: 2
+  srbobran: 1
 754:
   title: L - DA SI DOBRA, I BOG BI TE IMAO - BRANKO ANĐIĆ
   price: 999.0
@@ -991,7 +991,7 @@
   title: PP - MOJ PRVI BUKVAR
   price: 620.0
   srbobran: 1
-  futog: 2
+  futog: 1
 759:
   title: PP - BOJANKA - MAJMUN
   price: 119.0
@@ -1067,7 +1067,7 @@
 781:
   title: 'VU - BOOKMAKRKERI '
   price: 110.0
-  srbobran: 52
+  srbobran: 50
 783:
   title: VU - MINUT PRIČA ZA LAKU NOĆ
   price: 999.0
@@ -1786,7 +1786,7 @@
 1576:
   title: PP - DRUGARI ŽIVOTINJE - PILE I DRUGARI
   price: 399.01
-  srbobran: 2
+  srbobran: 1
   futog: 2
 1577:
   title: PP - DRUGARI ŽIVOTINJE - PRASE I DRUGARI
@@ -1841,7 +1841,7 @@
 1587:
   title: PP - MALI DRUGARI - KUCE
   price: 299.0
-  srbobran: 2
+  srbobran: 1
   futog: 1
 1588:
   title: PP - MALI DRUGARI - SLON
@@ -2140,7 +2140,7 @@
 1759:
   title: KC - MATEMATIKA ZA PREDŠKOLCE
   price: 1100.01
-  futog: 1
+  futog: 0
 1770:
   title: KC - MIŠKO I PUNDRAVCI
   price: 330.0
@@ -2180,7 +2180,7 @@
 1788:
   title: 'VU - BEBINA KNJIGA SA PROZORČIĆIMA : FARMA'
   price: 899.0
-  srbobran: 1
+  srbobran: 0
 1789:
   title: VU - JA VOLIM CIRKONE - BEBE ŽIVOTINJA
   price: 799.0
@@ -3173,7 +3173,7 @@
 2296:
   title: VU - ZEMLJA BAJKI - AKCIJA
   price: 1999.0
-  futog: 1
+  futog: 0
 2297:
   title: VU - ZOV ANĐELA - AKCIJA
   price: 499.0
@@ -3240,7 +3240,7 @@
   title: VU - UČENJE KROZ IGRU - KNJIGA SA AKTIVNOSTIMA - AKCIJA
   price: 299.0
   srbobran: 0
-  futog: 4
+  futog: 3
 2315:
   title: VU - NA SREĆNOM MESTU - AKCIJA
   price: 299.0
@@ -4723,7 +4723,7 @@
 2720:
   title: L - ZABORAVLJENI VRT - KEJT MORTON
   price: 1099.03
-  futog: 2
+  futog: 1
 2721:
   title: L - ZAHIR - PAULO KOELJO
   price: 999.02
@@ -5161,7 +5161,7 @@
 2861:
   title: PČ - BOJANKA NOVO U MORU - MLADEN ANĐELKOVIĆ
   price: 220.0
-  futog: 1
+  futog: 0
 2862:
   title: PČ - BOJANKA NOVO U SELU - MLADEN ANĐELKOVIĆ
   price: 220.0
@@ -6438,7 +6438,7 @@
 3211:
   title: PČ - PČELICA U VRTIĆU SRPSKI - D.VASOVIĆ, M.KORAKSIĆ
   price: 650.01
-  futog: 2
+  futog: 1
 3212:
   title: PČ - PČELICA U VRTIĆU SVET OKO NAS - D.VASOVIĆ, M.KORAKSIĆ
   price: 650.01
@@ -6659,7 +6659,7 @@
 3278:
   title: PČ - SRPSKE NARODNE BAJKE
   price: 2250.03
-  futog: 1
+  futog: 0
 3279:
   title: 'PČ - SRPSKE NARODNE BAJKE I PRIČE '
   price: 780.01
@@ -7541,7 +7541,7 @@
 3525:
   title: VU - MOJA PRVA ŠUŠKAVA KNJIŽICA - FARMA
   price: 1299.03
-  futog: 1
+  futog: 0
 3526:
   title: VU - MOJA RAZIGRANA TORBICA - JEDNOROZI
   price: 399.01
@@ -7936,7 +7936,7 @@
 3806:
   title: VU - MOJA PRVA SLIKOVNA ENCIKLOPEDIJA
   price: 699.0
-  srbobran: 4
+  srbobran: 3
 3807:
   title: MOJA PRVA SUSKAVA KNJIZICA
   price: 1199.0
@@ -8112,7 +8112,7 @@
 4476:
   title: PP - OBOJ PO SLICI - DOMAĆE ŽIVOTINJE
   price: 149.0
-  futog: 2
+  futog: 1
 4477:
   title: PP - OBOJ PO SLICI - MORSKE ŽIVOTINJE
   price: 149.0
@@ -8254,7 +8254,7 @@
 4508:
   title: PP - NEZABORAVNE PRIČE - MAMINE PRIČE
   price: 1780.04
-  futog: 1
+  futog: 0
 4509:
   title: PP - DRUGARI SE SAKRIVAJU - FARMA
   price: 299.0

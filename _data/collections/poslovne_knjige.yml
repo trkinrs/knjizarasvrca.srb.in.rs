@@ -24,7 +24,7 @@
 746:
   title: OBRAZAC 1 1+1
   price: 130.0
-  srbobran: 15
+  srbobran: 9
   futog: 6
 748:
   title: OBRAZAC 1 1+2
@@ -43,13 +43,13 @@
 819:
   title: PRIZNANICA A/6
   price: 100.0
-  srbobran: 9
+  srbobran: 21
   futog: 0
 820:
   title: SANITARNA KNJIZICA
   price: 120.0
-  srbobran: 28
-  futog: 11
+  srbobran: 27
+  futog: 10
 845:
   title: NALOG-NAPLATI
   price: 180.0
@@ -106,8 +106,8 @@
 861:
   title: OTPREMNICA A/5
   price: 180.0
-  srbobran: 9
-  futog: 15
+  srbobran: 14
+  futog: 5
 862:
   title: OTPREMNICA-PRIJEMNICA A/4
   price: 240.0
@@ -124,8 +124,8 @@
 865:
   title: OTPREMNICA A/5 PDV
   price: 180.0
-  srbobran: 4
-  futog: 10
+  srbobran: 10
+  futog: 3
 866:
   title: OTKUPNI LIST A/5
   price: 210.0
@@ -154,7 +154,7 @@
 875:
   title: KNJIGA SANKA T
   price: 335.0
-  srbobran: 6
+  srbobran: 4
   futog: 0
 876:
   title: KNJIGA SANKA NCR

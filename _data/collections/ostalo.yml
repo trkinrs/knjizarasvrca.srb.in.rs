@@ -34,12 +34,12 @@
 198:
   title: ČESTITKA ROĐENDAN
   price: 120.0
-  srbobran: 83
+  srbobran: 80
   futog: 52
 201:
   title: SALVETE 38*38/40
   price: 330.0
-  srbobran: 3
+  srbobran: 2
   futog: 4
 215:
   title: RAM ZA SLIKE A/4
@@ -57,7 +57,7 @@
 239:
   title: NOVČANIK 19,5*10,4/6*60
   price: 1225.0
-  srbobran: 3
+  srbobran: 2
   futog: 3
 240:
   title: IGRA OSVAJAČ
@@ -231,17 +231,17 @@
   title: ČESTITKA ŠTAMPANA
   price: 220.0
   srbobran: 18
-  futog: 23
+  futog: 22
 371:
   title: ČESTITKA CVETNA
   price: 120.0
-  srbobran: 27
+  srbobran: 26
   futog: 14
 373:
   title: CESTITKA MINI
   price: 90.0
-  srbobran: 13
-  futog: 16
+  srbobran: 12
+  futog: 15
 374:
   title: CESTITKA MINI
   price: 250.0
@@ -270,7 +270,7 @@
 385:
   title: CESTITKA MINI
   price: 160.0
-  srbobran: 18
+  srbobran: 17
   futog: 10
 386:
   title: CESTITKA
@@ -359,7 +359,7 @@
 714:
   title: 'MUŠKI KOŽNI NOVČANIK '
   price: 3350.0
-  srbobran: 2
+  srbobran: 1
 716:
   title: KUVAR SA PORUKOM
   price: 530.0
@@ -538,7 +538,7 @@
 1192:
   title: ČESTITKA BEBI
   price: 120.0
-  srbobran: 8
+  srbobran: 5
   futog: 8
 1215:
   title: KRAVATA BOSS
@@ -705,7 +705,7 @@
 2170:
   title: 'PRSTEN '
   price: 70.0
-  srbobran: 21
+  srbobran: 17
   futog: 27
 2173:
   title: SET MALA DOKTORKA 5 DELOVA
@@ -787,7 +787,7 @@
 2206:
   title: PEČATI ZOO
   price: 60.0
-  srbobran: 14
+  srbobran: 11
   futog: 0
 2207:
   title: MINI HIGHLIGHTER
@@ -824,7 +824,7 @@
   title: ŽIVOTINJE 1/1
   price: 220.0
   srbobran: 34
-  futog: 72
+  futog: 71
 2223:
   title: SPIRALNA OPRUGA DUGINIH BOJA
   price: 220.0
@@ -1104,7 +1104,7 @@
 3708:
   title: LOPTICA SKOCICA
   price: 80.0
-  srbobran: 24
+  srbobran: 23
   futog: 25
 3722:
   title: CESTITKA BC/R
@@ -1202,7 +1202,7 @@
 4156:
   title: 'CESTITKA '
   price: 140.0
-  srbobran: 7
+  srbobran: 6
   futog: 6
 4265:
   title: SELOTEJP UKRASNI
