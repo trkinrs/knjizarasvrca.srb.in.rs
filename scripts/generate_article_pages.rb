@@ -25,9 +25,6 @@ def page_content(sku, item)
     "title"  => item["title"].to_s,
     "sku"    => sku,
   }
-  front_matter["price"]    = item["price"]    if item.key?("price")
-  front_matter["srbobran"] = item["srbobran"] if item.key?("srbobran")
-  front_matter["futog"]    = item["futog"]    if item.key?("futog")
 
   "#{front_matter.to_yaml}---\n"
 end

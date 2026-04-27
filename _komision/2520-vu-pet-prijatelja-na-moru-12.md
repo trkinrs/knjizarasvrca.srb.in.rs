@@ -2,6 +2,4 @@
 layout: article
 title: VU - PET PRIJATELJA NA MORU 12
 sku: 2520
-price: 799.0
-srbobran: 1
 ---

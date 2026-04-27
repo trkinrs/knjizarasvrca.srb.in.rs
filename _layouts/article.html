@@ -4,9 +4,6 @@ _schema:
   layout: static_field
   title: static_field
   sku: number_field
-  price: number_field
-  srbobran: number_field
-  futog: number_field
   image: text_field
 ---
 
@@ -130,16 +127,17 @@ _schema:
   <div class="product-info">
     <div class="product-sku">Šifra: {{ page.sku }}</div>
 
-    {% if page.price %}
+    {% assign item_data = site.data.collections[page.collection][page.sku] %}
+    {% if item_data.price %}
     <div class="product-price-label">Cena</div>
-    <div class="product-price">{{ page.price | round }} din.</div>
+    <div class="product-price">{{ item_data.price | round }} din.</div>
     {% endif %}
 
     <div class="product-stock">
       <div class="product-stock-title">Dostupnost</div>
       <div class="stock-row">
         <div class="stock-item">
-          {% assign srb = page.srbobran | plus: 0 %}
+          {% assign srb = item_data.srbobran | plus: 0 %}
           {% if srb > 1 %}
             <span class="stock-dot in-stock"></span>
           {% elsif srb == 1 %}
@@ -150,7 +148,7 @@ _schema:
           Srbobran{% if srb > 0 %} ({{ srb }}){% endif %}
         </div>
         <div class="stock-item">
-          {% assign fut = page.futog | plus: 0 %}
+          {% assign fut = item_data.futog | plus: 0 %}
           {% if fut > 1 %}
             <span class="stock-dot in-stock"></span>
           {% elsif fut == 1 %}

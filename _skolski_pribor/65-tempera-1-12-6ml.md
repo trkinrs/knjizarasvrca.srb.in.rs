@@ -2,7 +2,4 @@
 layout: article
 title: TEMPERA 1/12 6ML
 sku: 65
-price: 260.0
-srbobran: 10
-futog: 6
 ---

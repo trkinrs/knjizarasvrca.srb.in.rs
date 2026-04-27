@@ -2,6 +2,4 @@
 layout: article
 title: PČ - PČELICA MATEMATIČARENJE 2 - M.JANKOVIĆ, S.KOVAČEVIĆ
 sku: 3207
-price: 650.02
-futog: 1
 ---

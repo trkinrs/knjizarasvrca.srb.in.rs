@@ -2,6 +2,4 @@
 layout: article
 title: PP - ISECI, OBOJ I ZALEPI - FARMA
 sku: 2768
-price: 599.01
-srbobran: 2
 ---

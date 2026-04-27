@@ -17,12 +17,13 @@ layout: page
   <tbody>
     {% assign articles = site[page.collection_name] %}
     {% for article in articles %}
+    {% assign item_data = site.data.collections[page.collection_name][article.sku] %}
     <tr>
       <td>{{ article.sku }}</td>
       <td><a href="{{ article.url | relative_url }}">{{ article.title }}</a></td>
-      <td>{% if article.price %}{{ article.price }}{% endif %}</td>
-      <td>{% if article.srbobran %}{{ article.srbobran }}{% endif %}</td>
-      <td>{% if article.futog %}{{ article.futog }}{% endif %}</td>
+      <td>{% if item_data.price %}{{ item_data.price }}{% endif %}</td>
+      <td>{% if item_data.srbobran %}{{ item_data.srbobran }}{% endif %}</td>
+      <td>{% if item_data.futog %}{{ item_data.futog }}{% endif %}</td>
     </tr>
     {% endfor %}
   </tbody>
