@@ -3,3 +3,7 @@ layout: article
 title: VU - MOJA PRVA ZVUCNA KNJIGA
 sku: 3808
 ---
+
+Pritisnite dugmiće i oživite jednu od najlepših bajki svih vremena!  
+  
+Uživajte čitajući ovu čarobnu priču i slušajući čak 6 magičnih zvukova i melodija iz bajkovitog sveta Snežane i sedam patuljaka.

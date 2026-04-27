@@ -4,19 +4,25 @@
 
 require "csv"
 require "reverse_markdown"
+require "byebug"
 
 REPO_DIR        = File.expand_path("..", __dir__)
 COLLECTIONS_DIR = File.join(REPO_DIR, "_data/collections")
 CSV_PATH        = File.join(REPO_DIR, "tmp/export.csv")
 
-# Build a SKU -> file path index across all collection dirs
+require "yaml"
+
+# Build a SKU -> file path index by reading front matter of each post
 sku_to_path = {}
 Dir.glob(File.join(COLLECTIONS_DIR, "*.yml")).each do |yml_path|
   collection_name = File.basename(yml_path, ".yml")
   Dir.glob(File.join(REPO_DIR, "_#{collection_name}", "*.md")).each do |md_path|
-    filename = File.basename(md_path, ".md")
-    sku = filename.split("-").first.to_i
-    sku_to_path[sku] = md_path
+    raw = File.read(md_path)
+    if raw =~ /\A---\n(.*?\n)---\n/m
+      fm = YAML.safe_load($1)
+      sku = fm["sku"].to_i
+      sku_to_path[sku] = md_path if sku > 0
+    end
   end
 end
 
