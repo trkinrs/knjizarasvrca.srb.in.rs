@@ -2,6 +2,9 @@
 layout: article
 title: PRIVEZAK ZIVOTINJICA
 sku: 269
+image: "/assets/images/269/1.jpg"
+images:
+- "/assets/images/269/2.jpg"
 ---
 
 **🧸 Privezak Životinjica Triballi Leather – Slatki detalj u obliku omiljene životinjice**
