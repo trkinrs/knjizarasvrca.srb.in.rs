@@ -311,7 +311,7 @@
   title: UL ZA HO PVC
   price: 5.0
   srbobran: 191
-  futog: 62
+  futog: 60
 459:
   title: UL ZA HO PARKER METALNI
   price: 30.0
@@ -591,7 +591,7 @@
 597:
   title: DOSIJE KROMO
   price: 40.0
-  srbobran: 26
+  srbobran: 25
   futog: 20
 598:
   title: DOSIJE SA GUMOM
@@ -1180,7 +1180,7 @@
   title: ULOZAK PISI-BRISI
   price: 85.0
   srbobran: 10
-  futog: 8
+  futog: 6
 1314:
   title: PAK PAPIR BELI
   price: 40.0
@@ -1541,7 +1541,7 @@
   title: 'KREDE BELE 1/12 '
   price: 40.0
   srbobran: 0
-  futog: 8
+  futog: 6
 2143:
   title: KOVERAT AMERIKEN LP
 2144:
@@ -1677,7 +1677,7 @@
   title: PAPIR A/4 80G BOJA
   price: 10.0
   srbobran: 545
-  futog: 501
+  futog: 499
 2961:
   title: DOZVOLJENO PUSENJE A/4
   price: 55.0

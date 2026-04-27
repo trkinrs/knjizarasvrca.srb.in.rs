@@ -146,7 +146,7 @@
   title: DRVENA BOJA PASTEL 1/12
   price: 180.0
   srbobran: 7
-  futog: 15
+  futog: 14
 77:
   title: VEZBANKA
   price: 40.0
@@ -296,7 +296,7 @@
   title: GUMICA SOFTY MINI
   price: 45.0
   srbobran: 17
-  futog: 16
+  futog: 14
 139:
   title: MINE 2MM
   price: 80.0
@@ -324,12 +324,12 @@
   title: REZAČ YL 231687
   price: 30.0
   srbobran: 22
-  futog: 20
+  futog: 19
 148:
   title: LEPAK STICK 10G
   price: 120.0
   srbobran: 0
-  futog: 49
+  futog: 48
 157:
   title: NP
   price: 90.0
@@ -406,7 +406,7 @@
   title: GUMICA B-20
   price: 140.0
   srbobran: 0
-  futog: 28
+  futog: 25
 220:
   title: FLASICA ZA VODU AL
   price: 499.0
@@ -533,7 +533,7 @@
   title: TEMPERA 1/12 12ML
   price: 365.0
   srbobran: 18
-  futog: 9
+  futog: 8
 527:
   title: UVIJAC A/4
 546:
@@ -610,7 +610,7 @@
 889:
   title: DNEVNIK PRAKSE
   price: 220.0
-  srbobran: 7
+  srbobran: 6
   futog: 12
 892:
   title: REZAC MAPED METALNI
