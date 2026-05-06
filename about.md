@@ -1,18 +1,13 @@
 ---
 layout: page
-title: About
+title: O nama
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+Knjižara „Švrća" osnovana je 1990. godine u Srbobrani, gde i danas posluje na istoj adresi — Trg Republike 1.
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+Više od 30 godina bavimo se prometom školskog pribora, kancelarijskog materijala, udžbenika za osnovne i srednje škole, reklamnog materijala, kao i poklon i party programom. Uz maloprodaju, nudimo i usluge veleprodaje za firme, škole i ustanove.
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+Ponosni smo na dugogodišnje poverenje naših kupaca i trudimo se da uvek imamo širok asortiman i ljubaznu uslugu.
 
-
-[jekyll-organization]: https://github.com/jekyll
+Pronađite nas i na [Facebooku](https://www.facebook.com/knjizara.svrca.16) i [Instagramu](https://instagram.com/knjizarasvrca).

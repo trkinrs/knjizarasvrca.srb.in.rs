@@ -22,11 +22,15 @@
 title: Knjižara Švrća
 email: knjizarasvrca@gmail.com
 phone: "+38163603018"
-description: Knjige, baloni, pokloni...
+description: >-
+  Knjižara "Švrća" osnovana je 1990. godine. I više od 30 godina se bavimo
+  trgovinom na veliko i malo školskim priborom, kancelarijskim materijalom,
+  udžbenicima za osnovne i srednje škole, reklamnim materijalom, poklon i
+  party programom.
 baseurl: ''
 url: ''
-twitter_username: jekyllrb
-github_username: jekyll
+facebook_username: knjizara.svrca.16
+instagram_username: knjizarasvrca
 # Build settings
 collections:
   baloni:
@@ -67,7 +71,7 @@ collections:
     permalink: "/:collection/:name/"
 header_pages:
   - search.md
-  - about.md
+  - kontakt.md
 
 theme: minima
 plugins:
