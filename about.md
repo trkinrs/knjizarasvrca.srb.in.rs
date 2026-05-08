@@ -1,10 +1,9 @@
 ---
 layout: page
 title: O nama
-permalink: /about/
 ---
 
-Knjižara „Švrća" osnovana je 1990. godine u Srbobrani, gde i danas posluje na istoj adresi — Trg Republike 1.
+Knjižara „Švrća" osnovana je 1990. godine u Srbobranu, gde i danas posluje na istoj adresi — Trg Republike 1.
 
 Više od 30 godina bavimo se prometom školskog pribora, kancelarijskog materijala, udžbenika za osnovne i srednje škole, reklamnog materijala, kao i poklon i party programom. Uz maloprodaju, nudimo i usluge veleprodaje za firme, škole i ustanove.
 
