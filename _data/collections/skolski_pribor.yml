@@ -808,7 +808,7 @@
 1285:
   title: NOTATON DVOREDNI
   price: 5340.0
-  srbobran: 1
+  srbobran: 0
   futog: 0
 1296:
   title: FLASICA ZA VODU URBAN
@@ -1149,7 +1149,7 @@
 3624:
   title: 'HAMER A/4 '
   price: 20.0
-  srbobran: 39
+  srbobran: 34
   futog: 0
 3636:
   title: BUKVAR BEOGRAD
