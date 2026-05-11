@@ -7,7 +7,7 @@
 15:
   title: SIGNIR PELIKAN
   price: 150.0
-  srbobran: 25
+  srbobran: 15
   futog: 0
 16:
   title: DRVENA BOJA 1/12 CC
@@ -263,7 +263,7 @@
 127:
   title: MINE 0,5 HB/B/2B SC
   price: 30.0
-  srbobran: 14
+  srbobran: 4
   futog: 0
 130:
   title: PRVARICA
@@ -357,7 +357,7 @@
 177:
   title: HAMER B/1 BOJA
   price: 170.0
-  srbobran: 20
+  srbobran: 19
   futog: 0
 178:
   title: HAMER B/1 BELI
@@ -711,7 +711,7 @@
 1035:
   title: TO 0,5 EK-45023
   price: 50.0
-  srbobran: 10
+  srbobran: 0
   futog: -10
 1073:
   title: LENJIR FLEXY 30CM
@@ -1038,7 +1038,7 @@
 2440:
   title: OL HB CENTROPEN SA GUMICOM
   price: 30.0
-  srbobran: 10
+  srbobran: 0
   futog: -10
 2518:
   title: CETKICA PL-10
