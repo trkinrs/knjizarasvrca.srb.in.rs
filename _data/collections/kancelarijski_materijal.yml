@@ -159,7 +159,7 @@
 267:
   title: MARKER CP
   price: 90.0
-  srbobran: 26
+  srbobran: 25
   futog: -7
 280:
   title: MASTILO ZA NP
@@ -194,7 +194,7 @@
 330:
   title: SUPER LEPAK BOND 3G
   price: 220.0
-  srbobran: 3
+  srbobran: 1
   futog: 0
 336:
   title: MAKAZE KOHINOOR
@@ -1171,7 +1171,7 @@
 1268:
   title: MARKER KOH-I-NOOR
   price: 130.0
-  srbobran: 64
+  srbobran: 63
   futog: 0
 1270:
   title: KREDE BOJA 1/12
