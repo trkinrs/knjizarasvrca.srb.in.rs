@@ -458,7 +458,7 @@
 547:
   title: DOSIJE POLUMEHANIKA
   price: 60.0
-  srbobran: 41
+  srbobran: 31
   futog: 0
 548:
   title: RASHTEFTIVAC
@@ -584,7 +584,7 @@
 595:
   title: KOVERAT A/4 SL
   price: 30.0
-  srbobran: 72
+  srbobran: 62
   futog: 0
 596:
   title: DOSIJE KROMO 280G
@@ -596,12 +596,12 @@
 598:
   title: DOSIJE SA GUMOM
   price: 120.0
-  srbobran: 61
+  srbobran: 56
   futog: 0
 599:
   title: DOSIJE BOJA
   price: 60.0
-  srbobran: 114
+  srbobran: 39
   futog: 0
 602:
   title: DOSIJE L
@@ -666,7 +666,7 @@
 632:
   title: PAPIR A/4 80G
   price: 3750.0
-  srbobran: 6
+  srbobran: 4
   futog: 0
 633:
   title: PAPIR A/4 80G
@@ -967,7 +967,7 @@
 953:
   title: GEL OLOVKA 0,5
   price: 30.0
-  srbobran: 27
+  srbobran: 22
   futog: 0
 957:
   title: SPONKE 23/10
@@ -1162,7 +1162,7 @@
 1252:
   title: KOVERAT B/6
   price: 7.0
-  srbobran: 194
+  srbobran: 174
   futog: 0
 1263:
   title: MARKER KOSI OF
@@ -1289,7 +1289,7 @@
 1415:
   title: BATERIJE AA/AAA
   price: 300.0
-  srbobran: 4
+  srbobran: 2
 1416:
   title: DOSIJE 40 DZEPOVA
   price: 360.0
@@ -1305,7 +1305,7 @@
 1445:
   title: DOSIJE 11 RUPA 60MIC
   price: 12.0
-  srbobran: 380
+  srbobran: 180
   futog: 0
 1452:
   title: POHVALNICA ZA POSTIGNUTE IR
@@ -1345,7 +1345,7 @@
 1535:
   title: MEHANIKA
   price: 30.0
-  srbobran: 37
+  srbobran: 27
   futog: 0
 1538:
   title: FASCIKLA 8 PREGRADA A/4
@@ -1414,7 +1414,7 @@
 1866:
   title: PAPIR VK A/3 1/10
   price: 55.0
-  srbobran: 33
+  srbobran: 23
 1873:
   title: PAPIR A/3 80G
   price: 1575.0
@@ -1520,7 +1520,7 @@
 2088:
   title: MARKER ART OBOSTRANI
   price: 99.0
-  srbobran: 56
+  srbobran: 54
   futog: 0
 2089:
   title: ALAT ZA LINOREZ
@@ -1730,7 +1730,7 @@
 3467:
   title: MARKER BT OF
   price: 50.0
-  srbobran: 68
+  srbobran: 28
 3500:
   title: DOSIJE 11 RUPA 120MIC
   price: 15.0

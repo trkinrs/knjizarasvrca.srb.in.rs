@@ -32,7 +32,7 @@
 30:
   title: BLOK V
   price: 150.0
-  srbobran: 26
+  srbobran: 24
   futog: 0
 32:
   title: KOLAŽ B/5 SL
@@ -362,7 +362,7 @@
 178:
   title: HAMER B/1 BELI
   price: 80.0
-  srbobran: 11
+  srbobran: 8
   futog: 0
 179:
   title: TO AH 0,5
@@ -468,7 +468,7 @@
 331:
   title: TO 0,5 SC
   price: 45.0
-  srbobran: 8
+  srbobran: 6
   futog: 0
 335:
   title: SET CETKICE 1/3
@@ -566,7 +566,7 @@
 670:
   title: OHO LEPAK 20G
   price: 160.0
-  srbobran: 17
+  srbobran: 15
   futog: 0
 697:
   title: OL HB MAPED
@@ -1170,7 +1170,7 @@
 3835:
   title: HAMER B/1 BOJA
   price: 170.0
-  srbobran: 13
+  srbobran: 11
   futog: 0
 3970:
   title: HO SC
