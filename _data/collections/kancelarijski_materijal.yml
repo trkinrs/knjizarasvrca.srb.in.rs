@@ -159,7 +159,7 @@
 267:
   title: MARKER CP
   price: 90.0
-  srbobran: 23
+  srbobran: 22
   futog: -7
 280:
   title: MASTILO ZA NP
@@ -478,7 +478,7 @@
 556:
   title: MARKER CN KOSI VRH
   price: 80.0
-  srbobran: 21
+  srbobran: 20
   futog: -5
 558:
   title: INDIGO
@@ -618,7 +618,7 @@
 612:
   title: CASA 0,2
   price: 5.0
-  srbobran: 200
+  srbobran: 100
   futog: 0
 613:
   title: CASA ZICANA
@@ -666,7 +666,7 @@
 632:
   title: PAPIR A/4 80G
   price: 3750.0
-  srbobran: 3
+  srbobran: 1
   futog: 0
 633:
   title: PAPIR A/4 80G
@@ -772,7 +772,7 @@
 687:
   title: REGISTRATOR A/5 N
   price: 395.0
-  srbobran: 6
+  srbobran: 3
   futog: 0
 689:
   title: REGISTRATOR A/4 U
@@ -827,7 +827,7 @@
 720:
   title: SPONKE MAPED 24/6
   price: 70.0
-  srbobran: 15
+  srbobran: 14
   futog: 0
 723:
   title: SPAJALICE 50MM
@@ -856,7 +856,7 @@
 771:
   title: HEFT MAŠINA KANEX HP-45
   price: 1015.0
-  srbobran: 1
+  srbobran: 0
   futog: 0
 776:
   title: MARKER BT CON
@@ -967,7 +967,7 @@
 953:
   title: GEL OLOVKA 0,5
   price: 30.0
-  srbobran: 22
+  srbobran: 20
   futog: 0
 957:
   title: SPONKE 23/10
@@ -1314,7 +1314,7 @@
 1461:
   title: GEL OL VETRENJAČA
   price: 180.0
-  srbobran: 5
+  srbobran: 4
   futog: 0
 1499:
   title: HO SC
@@ -1507,7 +1507,7 @@
 2006:
   title: PAPIR A/4 80G
   price: 5.0
-  srbobran: 73
+  srbobran: 69
 2025:
   title: KREDE BELE 1/100 M/G
   price: 680.0
