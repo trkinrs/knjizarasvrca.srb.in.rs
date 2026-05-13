@@ -688,7 +688,7 @@
 2025:
   title: KREDA U KUTIJI 15KOM
   price: 450.0
-  srbobran: 4
+  srbobran: 0
 2049:
   title: 'MASNA '
   price: 40.0
@@ -772,7 +772,7 @@
 2192:
   title: 'SET STIKERA '
   price: 289.0
-  srbobran: 3
+  srbobran: 0
   futog: 0
 2196:
   title: STIKERI DINO
@@ -819,7 +819,7 @@
 2215:
   title: PLASTELIN 6 BOJA
   price: 690.0
-  srbobran: 3
+  srbobran: 0
   futog: 0
 2217:
   title: AKRILNA BOJA
@@ -838,7 +838,7 @@
 2223:
   title: SPIRALNA OPRUGA DUGINIH BOJA
   price: 250.0
-  srbobran: 3
+  srbobran: 1
   futog: 0
 2224:
   title: CRVIĆI NA NAVIJANJE
@@ -857,7 +857,7 @@
 2230:
   title: IQ PUZZLER PRO - SG 455
   price: 1999.0
-  srbobran: 1
+  srbobran: 0
   futog: 0
 2231:
   title: IQ SIX PRO - SG 479
@@ -1116,35 +1116,35 @@
 3618:
   title: 'PERLA SIKERI '
   price: 199.0
-  srbobran: 4
+  srbobran: 2
 3619:
   title: STIKERI
   price: 255.0
-  srbobran: 13
+  srbobran: 6
 3620:
   title: PERLE 10 BOJA
   price: 525.0
-  srbobran: 1
+  srbobran: 0
 3621:
   title: MIKNI KRAFT KUTIJICE
   price: 470.0
-  srbobran: 2
+  srbobran: 0
 3622:
   title: SET ZA PRAVLJENJE NARUKVICA
   price: 490.0
-  srbobran: 2
+  srbobran: 0
 3623:
   title: KRAFT
   price: 275.0
-  srbobran: 5
+  srbobran: 2
 3625:
   title: PONPON MIX
   price: 275.0
-  srbobran: 1
+  srbobran: 0
 3626:
   title: RASTEGLJIVA BANANA
   price: 420.0
-  srbobran: 12
+  srbobran: 2
 3708:
   title: LOPTICA SKOCICA
   price: 80.0
@@ -1206,7 +1206,7 @@
 3950:
   title: KREDA ZA TROTOAR
   price: 250.0
-  srbobran: 5
+  srbobran: 2
 3954:
   title: BOJANKA A/4 SAVPO
 3979:
