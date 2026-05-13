@@ -140,7 +140,7 @@
 73:
   title: TEMPERA 1/10 16ML
   price: 455.0
-  srbobran: 24
+  srbobran: 23
   futog: 0
 76:
   title: DRVENA BOJA PASTEL 1/12
@@ -155,7 +155,7 @@
 84:
   title: DRVENA BOJA 1/12 STAEDTLER
   price: 465.0
-  srbobran: 2
+  srbobran: 0
   futog: 0
 85:
   title: SESTAR BLUE/PINK
@@ -182,7 +182,7 @@
 93:
   title: FLOMASTERI GIOTTO 1/12
   price: 360.0
-  srbobran: 3
+  srbobran: 1
   futog: 0
 94:
   title: DRVENA BOJA 1/12 MAPED
@@ -396,7 +396,7 @@
 196:
   title: SET CETKICA 1/6
   price: 320.0
-  srbobran: 6
+  srbobran: 5
   futog: 0
 207:
   title: TO PENTEL 0,5
@@ -615,7 +615,7 @@
 892:
   title: REZAC MAPED METALNI
   price: 120.0
-  srbobran: 8
+  srbobran: 6
   futog: 0
 893:
   title: DRVENA BOJA 1/24 SC
@@ -668,7 +668,7 @@
 968:
   title: OL HB NORIS
   price: 90.0
-  srbobran: 29
+  srbobran: 26
   futog: -1
 988:
   title: MATEMATICKI LENJIR
@@ -697,7 +697,7 @@
 1003:
   title: OL HB PEPS GUMICA
   price: 50.0
-  srbobran: 15
+  srbobran: 14
   futog: -1
 1012:
   title: SET LENJIRA FLEX 1/4
