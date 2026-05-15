@@ -19,6 +19,12 @@ _schema:
       {%- endif -%}</p>
   </header>
 
+  {%- if page.image -%}
+    <p>
+      <img class="post-image" src="{{ page.image | relative_url }}" alt="{{ page.title | escape }}" itemprop="image" onclick="openLightbox(this.src)" style="cursor: zoom-in;">
+    </p>
+  {%- endif -%}
+
   <div class="post-content e-content" itemprop="articleBody">
     {{ content }}
   </div>
@@ -29,3 +35,53 @@ _schema:
 
   <a class="u-url" href="{{ page.url | relative_url }}" hidden></a>
 </article>
+
+{%- if page.image -%}
+<style>
+  #lightbox {
+    display: none;
+    position: fixed;
+    inset: 0;
+    background: rgba(0,0,0,0.85);
+    z-index: 1000;
+    cursor: zoom-out;
+    align-items: center;
+    justify-content: center;
+  }
+  #lightbox.open { display: flex; }
+  #lightbox img {
+    max-width: 90vw;
+    max-height: 90vh;
+    object-fit: contain;
+    border-radius: 4px;
+    box-shadow: 0 8px 40px rgba(0,0,0,0.6);
+  }
+</style>
+
+<div id="lightbox" role="dialog" aria-modal="true">
+  <img id="lightbox-img" src="" alt="">
+</div>
+
+<script>
+  var lightbox = document.getElementById('lightbox');
+  var lightboxImg = document.getElementById('lightbox-img');
+
+  function openLightbox(src) {
+    lightboxImg.src = src;
+    lightbox.classList.add('open');
+    document.addEventListener('keydown', onKey);
+  }
+
+  function closeLightbox() {
+    lightbox.classList.remove('open');
+    lightboxImg.src = '';
+    document.removeEventListener('keydown', onKey);
+  }
+
+  function onKey(e) {
+    if (e.key === 'Escape') closeLightbox();
+  }
+
+  lightbox.addEventListener('click', closeLightbox);
+</script>
+{%- endif -%}

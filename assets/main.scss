@@ -24,3 +24,41 @@ body {
 .page-content {
   background-color: #ede8dc;
 }
+
+.post-image {
+  max-width: 200px;
+  max-height: 280px;
+  height: auto;
+  display: block;
+  cursor: zoom-in;
+  border-radius: 4px;
+  box-shadow: 4px 4px 16px rgba(0,0,0,0.25);
+}
+
+.post-list-image {
+  max-width: 100%;
+  height: auto;
+  display: block;
+}
+
+.post-list-item {
+  display: flex;
+  gap: 16px;
+  align-items: flex-start;
+  margin-bottom: 16px;
+}
+
+.post-list-thumb {
+  flex: 0 0 auto;
+}
+
+.post-list-image {
+  max-height: 150px;
+  width: auto;
+  margin: 0;
+}
+
+.post-list-body {
+  flex: 1 1 auto;
+  min-width: 0;
+}
