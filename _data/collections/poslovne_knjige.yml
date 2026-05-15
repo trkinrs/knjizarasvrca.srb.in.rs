@@ -33,7 +33,7 @@
 750:
   title: OBRAZAC 3 1+1
   price: 130.0
-  srbobran: 0
+  srbobran: 3
   futog: 0
 751:
   title: 'OBRAZAC 2 1+1 '
@@ -159,7 +159,7 @@
 876:
   title: KNJIGA SANKA NCR
   price: 340.0
-  srbobran: 3
+  srbobran: 6
   futog: 0
 878:
   title: RACUN A/4 NCR

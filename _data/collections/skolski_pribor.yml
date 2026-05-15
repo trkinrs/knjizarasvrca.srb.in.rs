@@ -808,7 +808,7 @@
 1285:
   title: NOTATON DVOREDNI
   price: 5340.0
-  srbobran: 0
+  srbobran: 1
   futog: 0
 1296:
   title: FLASICA ZA VODU URBAN
@@ -998,7 +998,7 @@
 2200:
   title: OL HB FC
   price: 120.0
-  srbobran: 0
+  srbobran: 11
   futog: 0
 2201:
   title: FLOMASTER CP AG/AU
@@ -1047,7 +1047,7 @@
 2557:
   title: GEOGRAFSKI ATLAS
   price: 1550.0
-  srbobran: 1
+  srbobran: 2
   futog: 0
 2558:
   title: GEOGRAFSKI ATLAS M

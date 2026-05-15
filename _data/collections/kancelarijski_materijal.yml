@@ -2,7 +2,7 @@
 33:
   title: SUNDJER ZA BELU TABLU
   price: 90.0
-  srbobran: 3
+  srbobran: 5
   futog: 0
 36:
   title: TESARSKA OL
@@ -225,7 +225,7 @@
 405:
   title: MAKAZE 22CM
   price: 200.0
-  srbobran: 0
+  srbobran: 1
   futog: 0
 409:
   title: STIPALJKA 41MM
@@ -360,7 +360,7 @@
 482:
   title: HO AH 567
   price: 40.0
-  srbobran: 84
+  srbobran: 89
   futog: 0
 484:
   title: UL HO OF441
@@ -591,7 +591,7 @@
 597:
   title: DOSIJE KROMO
   price: 40.0
-  srbobran: 5
+  srbobran: 15
   futog: 0
 598:
   title: DOSIJE SA GUMOM
@@ -856,7 +856,7 @@
 771:
   title: HEFT MAŠINA KANEX HP-45
   price: 1015.0
-  srbobran: 0
+  srbobran: 1
   futog: 0
 776:
   title: MARKER BT CON
@@ -977,7 +977,7 @@
 961:
   title: MAKAZE 20CM
   price: 180.0
-  srbobran: 2
+  srbobran: 3
   futog: 0
 962:
   title: HO WINNING 2002
