@@ -35,7 +35,11 @@ permalink: /kontakt/
     font-size: 0.78rem;
     cursor: pointer;
     color: #444;
-    transition: background 0.15s, color 0.15s;
+    transition: background 0.15s, color 0.15s, opacity 0.15s;
+    opacity: 0;
+  }
+  tr:hover .btn-copy {
+    opacity: 1;
   }
   .btn-copy:hover {
     background: #e0e0e0;
@@ -44,6 +48,7 @@ permalink: /kontakt/
     background: #27ae60;
     color: #fff;
     border-color: #27ae60;
+    opacity: 1;
   }
 </style>
 
@@ -117,10 +122,31 @@ permalink: /kontakt/
 
 ## Prodavnica Futog
 
-| | |
-|---|---|
-| Adresa: | Cara Lazara 20, Futog |
-| Mobilni: | <a href="tel:+381606259699">060/625-9699</a> |
+<table class="kontakt-table">
+  <tbody>
+    <tr>
+      <td>Adresa:</td>
+      <td><div class="cell-value">
+        <span class="copy-source">Cara Lazara 18, Futog</span>
+        <button class="btn-copy" type="button">Copy</button>
+      </div></td>
+    </tr>
+    <tr>
+      <td>Mobilni:</td>
+      <td><div class="cell-value">
+        <a href="tel:+381606259699"><span class="copy-source">060/625-9699</span></a>
+        <button class="btn-copy" type="button">Copy</button>
+      </div></td>
+    </tr>
+    <tr>
+      <td>Imejl (email):</td>
+      <td><div class="cell-value">
+        <span class="copy-source">knjizarasvrcafutog@gmail.com</span>
+        <button class="btn-copy" type="button">Copy</button>
+      </div></td>
+    </tr>
+  </tbody>
+</table>
 
 [O nama](/about/)
 
