@@ -13,3 +13,5 @@ U ovoj knjizi ćete takođe pronaći mnogo intriga puno tajni iz prošlosti koje
 
 Pišite nam u komentarima koje je vaše mišljenje o ovoj knjizi.
 
+<video controls="" src="{{ site.baseurl }}/assets/videos/Poslednja ljubavna pesma - Lusinda Rajli.mp4"></video>
+
