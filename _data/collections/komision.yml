@@ -140,7 +140,7 @@
 312:
   title: 'PP - MONTESORI - OTKRIVANJE SVETA '
   price: 880.0
-  srbobran: 1
+  srbobran: 0
 313:
   title: PP - MONTESORI MATEMATIKA
   price: 880.0
@@ -1091,7 +1091,7 @@
 789:
   title: VU - MOJE NAJDRAŽE BAJKE
   price: 249.0
-  srbobran: 3
+  srbobran: 2
 790:
   title: VU - ČOVEK IZ OGLEDALA
   price: 499.0
@@ -2375,7 +2375,7 @@
 1894:
   title: VU - KARTE
   price: 499.0
-  srbobran: 11
+  srbobran: 9
 1896:
   title: VU - KETKID
   price: 1099.0
@@ -2903,7 +2903,7 @@
 2160:
   title: PP - BAJKA SA NALEPNICAMA - PETAR PAN
   price: 299.0
-  srbobran: 2
+  srbobran: 1
   futog: 0
 2161:
   title: VU - KLASICI SVETSKE KNJIŽEVNOSTI ZA DECU - GULIVEROVA PUTOVANJA
@@ -4342,6 +4342,7 @@
 2623:
   title: L - TETOVAŽER IZ AUŠVICA - HEDER MORIS
   price: 799.0
+  srbobran: 1
   futog: 0
 2624:
   title: L - THE MEMORIS OF JESUS - VUK DRAŠKOVIĆ
