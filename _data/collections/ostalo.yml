@@ -39,7 +39,7 @@
 201:
   title: SALVETE 38*38/40
   price: 330.0
-  srbobran: 2
+  srbobran: 6
   futog: 0
 215:
   title: RAM ZA SLIKE A/4
@@ -152,8 +152,8 @@
   srbobran: 0
 315:
   title: TREZOR JOLLY
-  price: 1685.0
-  srbobran: 0
+  price: 1599.0
+  srbobran: 2
 317:
   title: PUZZLE 3000
   price: 2750.0
@@ -218,8 +218,8 @@
   srbobran: 1
 361:
   title: FOTO ALBUM 10*15/80
-  price: 1330.0
-  srbobran: 0
+  price: 620.0
+  srbobran: 2
 366:
   title: FOTO ALBUM 13/18 200F
 368:
@@ -240,7 +240,7 @@
 373:
   title: CESTITKA MINI
   price: 90.0
-  srbobran: 9
+  srbobran: 39
   futog: 0
 374:
   title: CESTITKA MINI
@@ -560,7 +560,7 @@
 1231:
   title: 'CESTITKA '
   price: 160.0
-  srbobran: 1
+  srbobran: 21
   futog: 0
 1232:
   title: BUSAC BORDURA
@@ -814,7 +814,8 @@
   futog: 0
 2214:
   title: PLASTELIN 4 BOJE
-  price: 390.0
+  price: 430.0
+  srbobran: 2
   futog: 0
 2215:
   title: PLASTELIN 6 BOJA
@@ -1147,6 +1148,8 @@
   srbobran: 2
 3627:
   title: PODMETAČ 1/6
+  price: 40.0
+  srbobran: 12
 3708:
   title: LOPTICA SKOCICA
   price: 80.0
@@ -1181,8 +1184,8 @@
   title: DRVENA KLIPSA+REZAC
 3768:
   title: KARTE PIATNIK MAĐARICE
-  price: 310.0
-  srbobran: 0
+  price: 480.0
+  srbobran: 2
   futog: 0
 3771:
   title: NOVOGODISNJA SVECA

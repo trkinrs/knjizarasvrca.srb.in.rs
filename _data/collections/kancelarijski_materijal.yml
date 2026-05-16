@@ -43,7 +43,7 @@
 153:
   title: 'HO A PLUS '
   price: 60.0
-  srbobran: 18
+  srbobran: 42
   futog: 0
 155:
   title: NALEPNICE
@@ -208,7 +208,7 @@
 359:
   title: TO 0,5 ROTRING
   price: 650.0
-  srbobran: 4
+  srbobran: 8
   futog: 0
 360:
   title: SPAJALICE 33MM
@@ -360,7 +360,7 @@
 482:
   title: HO AH 567
   price: 40.0
-  srbobran: 89
+  srbobran: 105
   futog: 0
 484:
   title: UL HO OF441
@@ -373,12 +373,12 @@
 499:
   title: SIGNIR CONNECT
   price: 85.0
-  srbobran: 6
+  srbobran: 15
   futog: 0
 502:
   title: SIGNIR OF
   price: 55.0
-  srbobran: 5
+  srbobran: 15
   futog: 0
 503:
   title: SIGNIR MAPED
@@ -1476,7 +1476,7 @@
 1988:
   title: FASCIKLA 3CM
   price: 435.0
-  srbobran: 2
+  srbobran: 4
   futog: 0
 1990:
   title: FASCIKLA DUGME AMERIKEN

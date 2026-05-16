@@ -15,8 +15,8 @@
   futog: 0
 202:
   title: 'PERNICA '
-  price: 955.0
-  srbobran: 0
+  price: 345.0
+  srbobran: 4
 204:
   title: PERNICA JEDNODELNA
   price: 875.0
@@ -24,6 +24,8 @@
   futog: 0
 208:
   title: PERNICA TTS
+  price: 345.0
+  srbobran: 3
 209:
   title: PERNICA 3D 1/3
   price: 1135.0
