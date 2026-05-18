@@ -48,7 +48,7 @@
 820:
   title: SANITARNA KNJIŽICA
   price: 120.0
-  srbobran: 21
+  srbobran: 20
   futog: 0
 845:
   title: NALOG-NAPLATI
@@ -262,12 +262,12 @@
   price: 290.0
   srbobran: 6
 1410:
-  title: KNJIGA IZDATIH RACUNA
+  title: KNJIGA IZDATIH RAČUNA
   price: 415.0
   srbobran: 1
   futog: 0
 1411:
-  title: KNJIGA PRIMLJENIH RACUNA
+  title: KNJIGA PRIMLJENIH RAČUNA
   price: 395.0
   srbobran: 0
   futog: 0

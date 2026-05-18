@@ -458,7 +458,7 @@
 547:
   title: DOSIJE POLUMEHANIKA
   price: 60.0
-  srbobran: 79
+  srbobran: 69
   futog: 0
 548:
   title: RASHEFTIVAČ
@@ -1040,7 +1040,7 @@
 1021:
   title: KALKULATOR 82MS-D
   price: 425.0
-  srbobran: 2
+  srbobran: 1
   futog: 0
 1022:
   title: KALKULATOR OF-232
@@ -1178,7 +1178,7 @@
   price: 50.0
   srbobran: 11
 1288:
-  title: ULOZAK PISI-BRISI
+  title: ULOŽAK PIŠI-BRIŠI
   price: 85.0
   srbobran: 10
   futog: 0
@@ -1187,7 +1187,7 @@
   price: 40.0
   srbobran: 0
 1325:
-  title: SKOLSKI SUNDJER
+  title: ŠKOLSKI SUNĐER
   price: 50.0
   srbobran: 3
 1335:
@@ -1203,7 +1203,7 @@
   price: 470.0
   srbobran: 0
 1355:
-  title: SVEDOCANSTVO 16A 5-8
+  title: SVEDOČANSTVO 16A 5-8
   price: 50.0
   srbobran: 0
 1360:
@@ -1216,17 +1216,17 @@
   srbobran: 4
   futog: 0
 1365:
-  title: DOSIJE 20 DZEPOVA
+  title: DOSIJE 20 DŽEPOVA
   price: 250.0
   srbobran: 4
   futog: 0
 1368:
-  title: HEFT MASINA KANEX HD-10ED
+  title: HEFT MAŠINA KANEX HD-10ED
   price: 350.0
   srbobran: 0
   futog: 0
 1370:
-  title: DOSIJE 20/30 DZEPOVA
+  title: DOSIJE 20/30 DŽEPOVA
   price: 235.0
   srbobran: 0
 1371:
@@ -1276,7 +1276,7 @@
   srbobran: 42
   futog: 0
 1406:
-  title: KOVERAT VAZDUSNI BR-10
+  title: KOVERAT VAZDUŠNI BR-10
   price: 95.0
   srbobran: 3
 1407:
@@ -1291,7 +1291,7 @@
   price: 300.0
   srbobran: 2
 1416:
-  title: DOSIJE 40 DZEPOVA
+  title: DOSIJE 40 DŽEPOVA
   price: 360.0
   srbobran: 0
 1420:
@@ -1321,12 +1321,12 @@
   price: 50.0
   srbobran: 1
 1507:
-  title: NOTA RACUN A/6
+  title: NOTA RAČUN A/6
   price: 110.0
   srbobran: 5
   futog: 0
 1519:
-  title: BUSAC 20L
+  title: BUŠAČ 20L
   price: 410.0
   srbobran: 2
   futog: 0
@@ -1339,20 +1339,20 @@
   price: 1850.0
   srbobran: 1
 1530:
-  title: IZVESTAJ O POVREDI
+  title: IZVEŠTAJ O POVREDI
   price: 15.0
   srbobran: 26
 1535:
   title: MEHANIKA
   price: 30.0
-  srbobran: 125
+  srbobran: 115
   futog: 0
 1538:
   title: FASCIKLA 8 PREGRADA A/4
   price: 365.0
   srbobran: 0
 1539:
-  title: SVEDOCANSTVO OOVR 17A/17B
+  title: SVEDOČANSTVO OOVR 17A/17B
   price: 50.0
   srbobran: 0
 1780:
@@ -1366,17 +1366,17 @@
   price: 249.0
   srbobran: 0
 1794:
-  title: KOVERAT VAZDUSNI BROJ-8
+  title: KOVERAT VAZDUŠNI BROJ-8
   price: 70.0
   srbobran: 0
   futog: 0
 1795:
-  title: KOVERAT VAZDUSNI BROJ-6
+  title: KOVERAT VAZDUŠNI BROJ-6
   price: 55.0
   srbobran: 2
   futog: 0
 1796:
-  title: KOVERAT VAZDUSNI BROJ-4
+  title: KOVERAT VAZDUŠNI BROJ-4
   price: 40.0
   srbobran: 2
   futog: 0
@@ -1722,7 +1722,7 @@
 3364:
   title: BATERIJE MAXELL AAA/AA
   price: 70.0
-  srbobran: 4
+  srbobran: 2
 3467:
   title: MARKER BT OF
   price: 50.0

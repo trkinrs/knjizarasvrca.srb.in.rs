@@ -699,7 +699,7 @@
 1003:
   title: OL HB PEPS GUMICA
   price: 50.0
-  srbobran: 86
+  srbobran: 81
   futog: -1
 1012:
   title: SET LENJIRA FLEX 1/4
@@ -798,12 +798,12 @@
   srbobran: 11
   futog: 0
 1264:
-  title: SESTAR SC PROFI
+  title: ŠESTAR SC PROFI
   price: 510.0
   srbobran: 0
   futog: 0
 1265:
-  title: SESTAR SC
+  title: ŠESTAR SC
   price: 85.0
   srbobran: 4
   futog: 0
@@ -813,12 +813,12 @@
   srbobran: 1
   futog: 0
 1296:
-  title: FLASICA ZA VODU URBAN
+  title: FLAŠICA ZA VODU URBAN
   price: 895.0
   srbobran: 1
   futog: 0
 1307:
-  title: SESTAR MAPED
+  title: ŠESTAR MAPED
   price: 390.0
   srbobran: 4
 1318:
@@ -832,39 +832,39 @@
   srbobran: 6
   futog: 0
 1348:
-  title: UVIJAC B5+
+  title: UVIJAČ B5+
   price: 50.0
   srbobran: 50
   futog: 0
 1385:
-  title: CETKICA PL-8
+  title: ČETKICA PL-8
 1390:
   title: ČETKICA PL-14
   price: 80.0
   srbobran: 24
   futog: 0
 1403:
-  title: RASPORED CASOVA
+  title: RASPORED ČASOVA
   price: 30.0
   srbobran: 8
 1414:
-  title: BLOKCIC
+  title: BLOKČIĆ
   price: 135.0
   srbobran: 2
 1435:
-  title: REZAC MAPED VIVO
+  title: REZAČ MAPED VIVO
   price: 60.0
   srbobran: 7
 1466:
   title: SEGMENTNA OLOVKA
 1486:
-  title: SESTAR SC
+  title: ŠESTAR SC
 1493:
   title: OL HB SKY
   price: 30.0
   srbobran: 30
 1496:
-  title: PODMETAC A/5
+  title: PODMETAČ A/5
   price: 20.0
   srbobran: 75
   futog: 0
@@ -874,12 +874,12 @@
   srbobran: 6
   futog: 0
 1517:
-  title: CASA ZA LIKOVNO
+  title: ČAŠA ZA LIKOVNO
   price: 140.0
   srbobran: 4
   futog: 0
 1527:
-  title: RECNIK A/6 2/3 KOLONE
+  title: REČNIK A/6 2/3 KOLONE
   price: 35.0
   srbobran: 0
 1808:
@@ -888,7 +888,7 @@
   srbobran: 0
   futog: 0
 1809:
-  title: VEZBANKA
+  title: VEŽBANKA
   price: 40.0
   srbobran: 0
 1878:
