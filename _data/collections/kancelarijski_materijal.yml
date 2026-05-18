@@ -360,7 +360,7 @@
 482:
   title: HO AH 567
   price: 40.0
-  srbobran: 105
+  srbobran: 104
   futog: 0
 484:
   title: UL HO OF441
@@ -652,7 +652,7 @@
   srbobran: 1
   futog: 0
 626:
-  title: MAKAZE 24CM
+  title: MAKAZE 21CM
 629:
   title: PAPIR BOJA A/4 1/250 JARKE BOJE
   price: 780.0
@@ -961,7 +961,7 @@
   price: 490.0
   srbobran: 1
 952:
-  title: HEFT MASINA MAPED MINI GREEN S-10
+  title: HEFT MAŠINA DELTA 102
   price: 365.0
   srbobran: 0
 953:
@@ -1747,6 +1747,8 @@
   title: GUMICA U OLOVCI
   price: 140.0
   srbobran: 2
+3629:
+  title: SELOTEJP 50/5 DUPLEKS
 3699:
   title: ODLUKA O REKLAMACIJI A/5
   price: 120.0
@@ -1772,7 +1774,7 @@
   price: 20.0
   srbobran: 20
 3777:
-  title: HEFT MASINA DINGLI DL507
+  title: HEFT MASINA DINGLI DL502
   price: 520.0
   srbobran: 0
 3787:
