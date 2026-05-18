@@ -77,7 +77,7 @@
   price: 145.0
   srbobran: 3
 254:
-  title: UKRASNI TANJIRICI
+  title: UKRASNI TANJIRIĆI
   price: 140.0
   srbobran: 10
 258:
@@ -90,11 +90,11 @@
   price: 750.0
   srbobran: 0
 268:
-  title: 'MASNA '
+  title: 'MAŠNA '
   price: 30.0
   srbobran: 5
 269:
-  title: PRIVEZAK ZIVOTINJICA
+  title: PRIVEZAK ŽIVOTINJICA
   price: 450.0
   srbobran: 60
   futog: 0
@@ -104,12 +104,12 @@
   srbobran: 0
   futog: 0
 271:
-  title: NOVCANIK ZA KK
+  title: NOVČANIK ZA KK
   price: 925.0
   srbobran: 0
   futog: 0
 272:
-  title: FUTROLA ZA NAOCARI
+  title: FUTROLA ZA NAOČARI
   price: 1250.0
   srbobran: 0
 276:
@@ -117,12 +117,12 @@
   price: 87.0
   srbobran: 0
 288:
-  title: KAIS KOZA
+  title: KAIŠ KOŽA
   price: 1915.0
   srbobran: 0
   futog: 0
 290:
-  title: PARTY TANJIRICI
+  title: PARTY TANJIRIĆI
   price: 87.0
   srbobran: 0
 292:
@@ -139,7 +139,7 @@
   srbobran: 5
   futog: 0
 307:
-  title: SVECICA BIG
+  title: SVEĆICA BIG
   price: 125.0
   srbobran: 0
 311:
@@ -147,7 +147,7 @@
   price: 160.0
   srbobran: 2
 314:
-  title: POZIVNICE ZA RODJENDAN
+  title: POZIVNICE ZA ROĐENDAN
   price: 10.0
   srbobran: 0
 315:
@@ -164,7 +164,7 @@
   srbobran: 2
   futog: 0
 319:
-  title: DRUSTVENA IGRA
+  title: DRUŠTVENA IGRA
   price: 1150.0
   srbobran: 1
 320:
@@ -178,7 +178,7 @@
   srbobran: 1
   futog: 0
 325:
-  title: PP - MOJ SKOLSKI SPOMENAR - BROS
+  title: PP - MOJ ŠKOLSKI SPOMENAR - BROŠ
   price: 400.0
   srbobran: 0
   futog: 0
@@ -223,7 +223,7 @@
 366:
   title: FOTO ALBUM 13/18 200F
 368:
-  title: CESTITKA
+  title: ČESTITKA
   price: 60.0
   srbobran: 8
   futog: -1
@@ -238,25 +238,25 @@
   srbobran: 26
   futog: 0
 373:
-  title: CESTITKA MINI
+  title: ČESTITKA MINI
   price: 90.0
   srbobran: 39
   futog: 0
 374:
-  title: CESTITKA MINI
+  title: ČESTITKA MINI
   price: 250.0
   srbobran: 0
 375:
-  title: PP - MONTESORI U VRTICU 3-4
+  title: PP - MONTESORI U VRTIĆU 3-4
   price: 880.0
   srbobran: 0
 376:
-  title: CESTITKA
+  title: ČESTITKA
   price: 190.0
   srbobran: 4
   futog: 0
 379:
-  title: CESTITKA
+  title: ČESTITKA
   price: 85.0
   srbobran: 2
 381:
@@ -264,38 +264,38 @@
   price: 75.0
   srbobran: 3
 382:
-  title: CESTITKA
+  title: ČESTITKA
   price: 80.0
   srbobran: 2
 385:
-  title: CESTITKA MINI
+  title: ČESTITKA MINI
   price: 160.0
   srbobran: 17
   futog: 0
 386:
-  title: CESTITKA
+  title: ČESTITKA
   price: 95.0
   srbobran: 3
 396:
-  title: NOVCANIK SC
+  title: NOVČANIK SC
   price: 595.0
   srbobran: 3
   futog: 0
 399:
-  title: NOVOGODISNJA KUGLA
+  title: NOVOGODIŠNJA KUGLA
   price: 75.0
   srbobran: 0
 426:
-  title: KISOBRAN CLASSIC
+  title: KIŠOBRAN CLASSIC
   price: 895.0
   srbobran: 9
   futog: 0
 427:
-  title: DZEPNI RECNIK
+  title: DŽEPNI REČNIK
   price: 170.0
   srbobran: 3
 429:
-  title: VITRAZ
+  title: VITRAŽ
   price: 265.0
   srbobran: 5
 446:
@@ -329,7 +329,7 @@
   price: 685.0
   srbobran: 0
 591:
-  title: 'KRAFT OCI MIX '
+  title: 'KRAFT OČI MIX '
   price: 70.0
   srbobran: 0
 639:
@@ -369,7 +369,7 @@
   price: 110.0
   srbobran: 5
 769:
-  title: NOVOGODISNJI STAPIC
+  title: NOVOGODIŠNJI ŠTAPIĆ
   price: 200.0
   srbobran: 8
 797:
@@ -381,7 +381,7 @@
   price: 120.0
   srbobran: 2
 839:
-  title: DECIJI KISOBRAN
+  title: DEČIJI KIŠOBRAN
   price: 765.0
   srbobran: 1
 877:
@@ -413,7 +413,7 @@
   srbobran: 0
   futog: 0
 948:
-  title: MASNA NA POTEZ
+  title: MAŠNA NA POTEZ
   price: 80.0
   srbobran: 0
   futog: 0
@@ -431,7 +431,7 @@
   srbobran: 5
   futog: 0
 976:
-  title: CESTITKA
+  title: ČESTITKA
   price: 99.0
   srbobran: 12
   futog: 0
@@ -443,7 +443,7 @@
 1004:
   title: KRAFT GLITTER 60G
 1006:
-  title: PRIRUCNIK STRANI JEZICI
+  title: PRIRUČNIK STRANI JEZICI
   price: 305.0
   srbobran: 2
 1007:
@@ -459,7 +459,7 @@
   price: 755.0
   srbobran: 1
 1019:
-  title: KRAFT STIPALJKA UNICORN
+  title: KRAFT ŠTIPALJKA UNICORN
   price: 30.0
   srbobran: 2
 1024:
@@ -482,11 +482,11 @@
   srbobran: 3
   futog: 0
 1070:
-  title: NOVCANIK SC/YL
+  title: NOVČANIK SC/YL
   price: 550.0
   srbobran: 3
 1076:
-  title: DECIJI PECAT
+  title: DEČIJI PEČAT
 1087:
   title: PUZZLE 1/100
   price: 1545.0
@@ -505,12 +505,12 @@
   price: 115.0
   srbobran: 0
 1149:
-  title: PRIVEZAK KOZA
+  title: PRIVEZAK KOŽA
   price: 535.0
   srbobran: 0
   futog: 0
 1166:
-  title: ENGLESKI RECNIK
+  title: ENGLESKI REČNIK
   price: 895.0
   srbobran: 3
 1171:
@@ -532,7 +532,7 @@
   price: 1915.0
   srbobran: 1
 1188:
-  title: RODJENDANSKA SVECICA LOVE
+  title: ROĐENDANSKA SVEĆICA LOVE
   price: 80.0
   srbobran: 0
 1192:
@@ -553,21 +553,21 @@
   price: 1200.0
   srbobran: 1
 1230:
-  title: CESTITKA MINI
+  title: ČESTITKA MINI
   price: 80.0
   srbobran: 0
   futog: 0
 1231:
-  title: 'CESTITKA '
+  title: 'ČESTITKA '
   price: 160.0
   srbobran: 21
   futog: 0
 1232:
-  title: BUSAC BORDURA
+  title: BUŠAČ BORDURA
   price: 325.0
   srbobran: 1
 1246:
-  title: CESTITKA
+  title: ČESTITKA
   price: 85.0
   srbobran: 0
 1257:
@@ -576,7 +576,7 @@
   srbobran: 0
   futog: 0
 1261:
-  title: IGRA RIKOSET
+  title: IGRA RIKOŠET
   price: 925.0
   srbobran: 0
 1289:

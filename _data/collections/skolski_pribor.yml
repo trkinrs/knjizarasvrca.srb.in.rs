@@ -448,12 +448,12 @@
   srbobran: 30
   futog: 0
 277:
-  title: TUS U BOJI 1/6
+  title: TUŠ U BOJI 1/6
   price: 695.0
   srbobran: 1
   futog: 0
 278:
-  title: REZAC IGLOO 2
+  title: REZAČ IGLOO 2
   price: 210.0
   srbobran: 30
 279:
@@ -471,7 +471,7 @@
   srbobran: 6
   futog: 0
 335:
-  title: SET CETKICE 1/3
+  title: SET ČETKICE 1/3
   price: 150.0
   srbobran: 1
   futog: 0
@@ -490,12 +490,12 @@
   price: 40.0
   srbobran: 3
 367:
-  title: LEPAK TECNI NORA 50ML
+  title: LEPAK TEČNI NORA 50ML
   price: 75.0
   srbobran: 6
   futog: 0
 393:
-  title: BRISAC MASTILA
+  title: BRISAČ MASTILA
 404:
   title: GLINA 250G
   price: 120.0
@@ -507,7 +507,7 @@
   srbobran: 3
   futog: -2
 420:
-  title: PLOCA ZA LINOREZ
+  title: PLOČA ZA LINOREZ
   price: 155.0
   srbobran: 11
 472:
@@ -515,7 +515,7 @@
   price: 130.0
   srbobran: 1
 497:
-  title: STILO ZA PERO
+  title: ŠTILO ZA PERO
   price: 80.0
   srbobran: 30
   futog: 0
@@ -535,7 +535,7 @@
   srbobran: 18
   futog: 0
 527:
-  title: UVIJAC A/4
+  title: UVIJAČ A/4
 546:
   title: HAMER A/3 BOJA
   price: 25.0
@@ -550,7 +550,7 @@
   price: 50.0
   srbobran: 0
 603:
-  title: SESTAR SC
+  title: ŠESTAR SC
   price: 450.0
   srbobran: 3
   futog: 0
@@ -560,7 +560,7 @@
   srbobran: 4
   futog: 0
 622:
-  title: LEPAK SLJOKICE
+  title: LEPAK ŠLJOKICE
   price: 35.0
   srbobran: 0
 670:
@@ -574,19 +574,19 @@
   srbobran: 28
   futog: 0
 704:
-  title: SET CETKICA 1/3
+  title: SET ČETKICA 1/3
   price: 95.0
   srbobran: 3
   futog: 0
 726:
-  title: CETKICA PL-6
+  title: ČETKICA PL-6
 745:
   title: POSTER
   price: 99.0
   srbobran: 20
   futog: 0
 749:
-  title: UVIJAC A5 SL
+  title: UVIJAČ A5 SL
   price: 20.0
   srbobran: 21
 798:
@@ -604,7 +604,7 @@
   srbobran: 10
   futog: 0
 880:
-  title: REZAC SC
+  title: REZAČ SC
   price: 75.0
   srbobran: 0
 889:
@@ -613,7 +613,7 @@
   srbobran: 5
   futog: 0
 892:
-  title: REZAC MAPED METALNI
+  title: REZAČ MAPED METALNI
   price: 120.0
   srbobran: 6
   futog: 0
@@ -637,7 +637,7 @@
   price: 305.0
   srbobran: 1
 924:
-  title: FLASICA ZA VODU PVC
+  title: FLAŠICA ZA VODU PVC
   price: 425.0
   srbobran: 1
 925:
@@ -646,11 +646,11 @@
   srbobran: 0
   futog: 0
 946:
-  title: REZAC METALNI MAPED SATELIT
+  title: REZAČ METALNI MAPED SATELIT
   price: 130.0
   srbobran: 16
 949:
-  title: REZAC IGLOO 1
+  title: REZAČ IGLOO 1
   price: 130.0
   srbobran: 30
   futog: 0
@@ -660,11 +660,11 @@
   srbobran: 3
   futog: 0
 958:
-  title: CETKICA PL-0/2
+  title: ČETKICA PL-0/2
   price: 35.0
   srbobran: 5
 967:
-  title: SET CETKICA 1/4
+  title: SET ČETKICA 1/4
   price: 210.0
   srbobran: 0
 968:
@@ -673,7 +673,7 @@
   srbobran: 25
   futog: -1
 988:
-  title: MATEMATICKI LENJIR
+  title: MATEMATIČKI LENJIR
   price: 70.0
   srbobran: 18
   futog: 0
@@ -683,7 +683,7 @@
   srbobran: 21
   futog: 0
 993:
-  title: GUMICA PISI-BRISI
+  title: GUMICA PIŠI-BRIŠI
   price: 55.0
   srbobran: 7
 997:
@@ -721,7 +721,7 @@
   srbobran: 16
   futog: 0
 1083:
-  title: MINE ZA SESTAR 2MM
+  title: MINE ZA ŠESTAR 2MM
   price: 90.0
   futog: 0
 1088:
@@ -739,7 +739,7 @@
   price: 45.0
   srbobran: 53
 1095:
-  title: CETKICA AK-2
+  title: ČETKICA AK-2
   price: 30.0
   srbobran: 10
 1162:
@@ -756,7 +756,7 @@
   srbobran: 0
   futog: 0
 1176:
-  title: LEPAK TECNI OF
+  title: LEPAK TEČNI OF
   price: 80.0
   srbobran: 12
   futog: 0

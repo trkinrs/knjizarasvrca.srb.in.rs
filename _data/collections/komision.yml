@@ -63,40 +63,40 @@
   srbobran: 2
   futog: 0
 282:
-  title: PP - MALA SKOLA I STEPEN
+  title: PP - MALA ŠKOLA I STEPEN
   price: 699.0
   srbobran: 1
   futog: 0
 283:
-  title: PP - MALA SKOLA II STEPEN
+  title: PP - MALA ŠKOLA II STEPEN
   price: 699.0
   srbobran: 0
   futog: 0
 284:
-  title: PP - MALA SKOLA III STEPEN
+  title: PP - MALA ŠKOLA III STEPEN
   price: 699.0
   srbobran: 0
   futog: 0
 285:
-  title: PP - MALA SKOLA IV STEPEN
+  title: PP - MALA ŠKOLA IV STEPEN
   price: 699.0
   srbobran: 0
   futog: 0
 286:
-  title: PP - MALA SKOLA V STEPEN
+  title: PP - MALA ŠKOLA V STEPEN
   price: 699.0
   srbobran: 0
   futog: 0
 294:
-  title: PP - MOJA VELIKA PREDSKOLSKA KNJIGA
+  title: PP - MOJA VELIKA PREDŠKOLSKA KNJIGA
   price: 780.0
   srbobran: 2
 295:
-  title: PP - KNJIGA ZA DECAKE SA VISE OD 1000 NALEPNICA
+  title: PP - KNJIGA ZA DEČAKE SA VISE OD 1000 NALEPNICA
   price: 680.0
   srbobran: 2
 296:
-  title: PP - KNJIGE ZA DEVOJCICE SA VISE OD 1000 NALEPNICA
+  title: PP - KNJIGE ZA DEVOJČICE SA VISE OD 1000 NALEPNICA
   price: 680.0
   srbobran: 0
 297:
@@ -126,15 +126,15 @@
   srbobran: 2
   futog: 0
 308:
-  title: PP - DOMACE ZIVOTINJE
+  title: PP - DOMAĆE ŽIVOTINJE
   price: 300.0
   srbobran: 0
 309:
-  title: PP - DRUZINA ULICNIH MACORA
+  title: PP - DRUŽINA ULIČNIH MAČORA
   price: 740.0
   srbobran: 1
 310:
-  title: PP - BAS, BAAAS STRASNA NOC
+  title: PP - BAŠ, BAAAŠ STRAŠNA NOĆ
   price: 740.0
   srbobran: 1
 312:
@@ -146,22 +146,22 @@
   price: 880.0
   srbobran: 1
 321:
-  title: PP - ZIVOTINJE KNJIGA SA VISE OD 1000 NALEPNICA
+  title: PP - ŽIVOTINJE KNJIGA SA VISE OD 1000 NALEPNICA
   price: 680.0
   srbobran: 1
   futog: 0
 323:
-  title: PP - DOMACE ZIVOTINJE KNJIGA SA VISE OD 1000 NALEPNICA
+  title: PP - DOMAĆE ŽIVOTINJE KNJIGA SA VISE OD 1000 NALEPNICA
   price: 680.0
   srbobran: 2
   futog: 0
 324:
-  title: PP - MOJ SKOLSKI LEKSIKON - BROS
+  title: PP - MOJ ŠKOLSKI LEKSIKON - BROŠ
   price: 400.0
   srbobran: 0
   futog: 0
 327:
-  title: PP - MOJ PRVI LEKSIKON - BROS
+  title: PP - MOJ PRVI LEKSIKON - BROŠ
   price: 400.0
   srbobran: 0
   futog: 0
@@ -170,7 +170,7 @@
   price: 3490.0
   srbobran: 1
 332:
-  title: L - NEBESKE REKE - ELIF SAFAK
+  title: L - NEBESKE REKE - ELIF ŠAFAK
   price: 1399.0
   srbobran: 2
   futog: 0
@@ -183,26 +183,26 @@
   price: 580.0
   srbobran: 1
 341:
-  title: PP - OTKRIVAM, STVARAM I SMISLJAM SA 3 GODINE
+  title: PP - OTKRIVAM, STVARAM I SMIŠLJAM SA 3 GODINE
   price: 740.0
   srbobran: 0
   futog: 0
 342:
-  title: PP - OTKRIVAM, STVARAM I SMISLJAM SA 4 GODINE
+  title: PP - OTKRIVAM, STVARAM I SMIŠLJAM SA 4 GODINE
   price: 740.0
   srbobran: 1
   futog: 0
 344:
-  title: PP - OTKRIVAM, STVARAM I SMISLJAM SA 5 GODINA
+  title: PP - OTKRIVAM, STVARAM I SMIŠLJAM SA 5 GODINA
   price: 740.0
   srbobran: 1
   futog: 0
 345:
-  title: PP - MONTESORI - NACIN RACUNANJA
+  title: PP - MONTESORI - NAČIN RAČUNANJA
   price: 980.0
   srbobran: 0
 347:
-  title: PP - MONTESORI - PRVA OTKRICA
+  title: PP - MONTESORI - PRVA OTKRIĆA
   price: 580.0
   srbobran: 0
 348:
@@ -211,7 +211,7 @@
   srbobran: 0
   futog: 0
 349:
-  title: PP - MONTESORI - UCIM DA RACUNAM
+  title: PP - MONTESORI - UČIM DA RAČUNAM
   price: 580.0
   srbobran: 0
 351:
@@ -227,7 +227,7 @@
   price: 820.0
   srbobran: 2
 357:
-  title: L - SEMPER IDEM - ĐORĐE LEBOVIC
+  title: L - SEMPER IDEM - ĐORĐE LEBOVIĆ
   price: 1399.0
   srbobran: 1
   futog: 0
@@ -240,17 +240,17 @@
   price: 599.0
   srbobran: 2
 372:
-  title: PP - MONTESORI U VRTICU 2-3
+  title: PP - MONTESORI U VRTIĆU 2-3
   price: 880.0
   srbobran: 0
   futog: 0
 377:
-  title: PP - MONTESORI U VRTICU 4-5
+  title: PP - MONTESORI U VRTIĆU 4-5
   price: 880.0
   srbobran: 0
   futog: 0
 378:
-  title: PP - MONTESORI U VRTICU 5-6
+  title: PP - MONTESORI U VRTIĆU 5-6
   price: 880.0
   srbobran: 0
   futog: 0
@@ -263,7 +263,7 @@
   price: 2190.0
   srbobran: 1
 384:
-  title: PP - BIBLIJSKE PRICE - MILES KELLY
+  title: PP - BIBLIJSKE PRIČE - MILES KELLY
   price: 2190.0
   srbobran: 1
 387:
@@ -272,12 +272,12 @@
   srbobran: 1
   futog: 0
 388:
-  title: PP - TRAZI I PRONADJI - ZEMLJA USKRSNJEG ZEKE
+  title: PP - TRAZI I PRONAĐI - ZEMLJA USKRŠNJEG ZEKE
   price: 499.0
   srbobran: 0
   futog: 0
 390:
-  title: PP - KNJIGA ZA PREDSKOLCE PO NOVIM OSNOVAMA
+  title: PP - KNJIGA ZA PREDŠKOLCE PO NOVIM OSNOVAMA
   price: 1180.0
   srbobran: 1
   futog: 0
@@ -302,11 +302,11 @@
   price: 699.0
   srbobran: 1
 398:
-  title: PP - MONTESORI ZA BEBE - BASTA
+  title: PP - MONTESORI ZA BEBE - BAŠTA
   price: 699.0
   srbobran: 1
 400:
-  title: PP - MONTESORI ZA EBBE - PRATI ME !
+  title: PP - MONTESORI ZA BEBE - PRATI ME !
   price: 699.0
   srbobran: 0
 401:
@@ -314,7 +314,7 @@
   price: 1080.0
   srbobran: 0
 402:
-  title: PP - ZIVOTINJE SVETA - DODIRNI, OSETI, SLUSAJ
+  title: PP - ŽIVOTINJE SVETA - DODIRNI, OSETI, SLUŠAJ
   price: 2490.0
   srbobran: 0
 403:
@@ -323,7 +323,7 @@
   srbobran: 0
   futog: 0
 406:
-  title: PP - MOJA PRVA BIBLIOTEKA - OSECANJA SASSI
+  title: PP - MOJA PRVA BIBLIOTEKA - OSEĆANJA SASSI
   price: 1980.0
   srbobran: 0
 407:
@@ -331,7 +331,7 @@
   price: 119.0
   srbobran: 1
 411:
-  title: PP - FANTASTICNO PUTOVANJE - KNJIGA AKTIVNOSTI
+  title: PP - FANTASTIČNO PUTOVANJE - KNJIGA AKTIVNOSTI
   price: 399.0
   srbobran: 2
 412:
@@ -369,7 +369,7 @@
   price: 999.0
   srbobran: 1
 425:
-  title: PP - LEGENDARNE ZENE KOJE SU PROMENILE SVET
+  title: PP - LEGENDARNE ŽENE KOJE SU PROMENILE SVET
   price: 1590.0
   srbobran: 1
 430:
@@ -407,7 +407,7 @@
   srbobran: 0
   futog: 0
 448:
-  title: PP - POVUCI, POTEGNI, OKRENI - KOPACI
+  title: PP - POVUCI, POTEGNI, OKRENI - KOPAČI
   price: 1190.0
   srbobran: 0
   futog: 0
@@ -420,27 +420,27 @@
   price: 1190.0
   srbobran: 1
 455:
-  title: PP - BEBINE PRVE PRICE - 0-3 MESECA
+  title: PP - BEBINE PRVE PRIČE - 0-3 MESECA
   price: 1290.0
   srbobran: 0
 464:
-  title: PP - BEBINE PRVE PRICE - 3-6 MESECI
+  title: PP - BEBINE PRVE PRIČE - 3-6 MESECI
   price: 1290.0
   srbobran: 1
 465:
-  title: PP - BEBINE PRVE PRICE - 6-9 MESECI
+  title: PP - BEBINE PRVE PRIČE - 6-9 MESECI
   price: 1290.0
   srbobran: 1
 468:
-  title: PP - BEBINE PRVE PRICE - 9-12 MESECI
+  title: PP - BEBINE PRVE PRIČE - 9-12 MESECI
   price: 1290.0
   srbobran: 1
 469:
-  title: PP - IGRAJ SE I UCI - VATROGASCI SASSI
+  title: PP - IGRAJ SE I UČI - VATROGASCI SASSI
   price: 1799.0
   srbobran: 0
 470:
-  title: PP - IGRAJ SE I UCI - VOZOVI SASSI
+  title: PP - IGRAJ SE I UČI - VOZOVI SASSI
   price: 1799.0
   srbobran: 1
 471:
@@ -452,23 +452,23 @@
   price: 1190.0
   srbobran: 0
 474:
-  title: PP - 50 ZVUKOVA - TRAZI I PRONADJI - U POKRETU
+  title: PP - 50 ZVUKOVA - TRAZI I PRONAĐI - U POKRETU
   price: 2390.05
   srbobran: 1
 475:
-  title: PP - SLATKE ZVUCNE PRICE - NA FARMI
+  title: PP - SLATKE ZVUČNE PRIČE - NA FARMI
   price: 1490.0
   srbobran: 0
 476:
-  title: PP - SLATKE ZVUCNE PRICE - U SAVANI
+  title: PP - SLATKE ZVUČNE PRIČE - U SAVANI
   price: 1490.0
   srbobran: 2
 478:
-  title: PP - SLATKE ZVUCNE PRICE - U MORU
+  title: PP - SLATKE ZVUČNE PRIČE - U MORU
   price: 1490.0
   srbobran: 2
 483:
-  title: PP - SLATKE ZVUCNE PRICE - U SUMI
+  title: PP - SLATKE ZVUČNE PRIČE - U SUMI
   price: 1490.0
   srbobran: 0
 485:
@@ -486,12 +486,12 @@
   srbobran: 1
   futog: 0
 493:
-  title: PP - GODISNJA DOBA - KARTONSKA SLIKOVNICA
+  title: PP - GODIŠNJA DOBA - KARTONSKA SLIKOVNICA
   price: 299.0
   srbobran: 2
   futog: 0
 495:
-  title: PP - ZIVOTINJE SA FARME - MINI ISKAKALICE
+  title: PP - ŽIVOTINJE SA FARME - MINI ISKAKALICE
   price: 1080.0
   srbobran: 0
 501:
@@ -499,7 +499,7 @@
   price: 1080.0
   srbobran: 0
 505:
-  title: PP - KNJIGA SA MAGNETIMA - ZIVOTINJE
+  title: PP - KNJIGA SA MAGNETIMA - ŽIVOTINJE
   price: 1080.0
   srbobran: 1
 506:
@@ -513,12 +513,12 @@
   srbobran: 2
   futog: 0
 508:
-  title: PP - ZIVOTINJE OTKRIVALICE - FARMA
+  title: PP - ŽIVOTINJE OTKRIVALICE - FARMA
   price: 980.0
   srbobran: 0
   futog: 0
 510:
-  title: PP - ZIVOTINJE OTKRIVALICE - DZUNGLA
+  title: PP - ŽIVOTINJE OTKRIVALICE - DŽUNGLA
   price: 980.0
   srbobran: 2
   futog: 0
@@ -528,7 +528,7 @@
   srbobran: 0
   futog: 0
 513:
-  title: PP - MOJA PRVA KNJIGA TORBICA - ZIVOTINJE
+  title: PP - MOJA PRVA KNJIGA TORBICA - ŽIVOTINJE
   price: 399.0
   srbobran: 0
   futog: 0
@@ -538,7 +538,7 @@
   srbobran: 2
   futog: 0
 520:
-  title: PP - MOJA PRVA KNJIGA TORBICA - PRVE RECI
+  title: PP - MOJA PRVA KNJIGA TORBICA - PRVE REČI
   price: 399.0
   srbobran: 0
 523:
@@ -579,22 +579,22 @@
   srbobran: 0
   futog: 0
 549:
-  title: PP - VELIKE MASINE - KOPACI
+  title: PP - VELIKE MAŠINE - KOPAČI
   price: 399.0
   srbobran: 1
   futog: 0
 550:
-  title: PP - VELIKE MASINE - SPASIOCI
+  title: PP - VELIKE MAŠINE - SPASIOCI
   price: 399.0
   srbobran: 2
   futog: 0
 552:
-  title: PP - VELIKE MASINE - KAMIONI
+  title: PP - VELIKE MAŠINE - KAMIONI
   price: 399.0
   srbobran: 2
   futog: 0
 554:
-  title: PP - VELIKE MASINE - TRAKTORI
+  title: PP - VELIKE MAŠINE - TRAKTORI
   price: 399.0
   srbobran: 2
   futog: 0

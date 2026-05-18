@@ -46,7 +46,7 @@
   srbobran: 21
   futog: 0
 820:
-  title: SANITARNA KNJIZICA
+  title: SANITARNA KNJIŽICA
   price: 120.0
   srbobran: 21
   futog: 0
@@ -88,11 +88,11 @@
   price: 310.0
   srbobran: 3
 855:
-  title: NALOG ZA KNJIZENJE A/4
+  title: NALOG ZA KNJIŽENJE A/4
   price: 260.0
   srbobran: 2
 856:
-  title: IZVESTAJ O KNJIZENJU A/5
+  title: IZVESTAJ O KNJIŽENJU A/5
   price: 120.0
   srbobran: 3
 858:
@@ -100,7 +100,7 @@
   price: 155.0
   srbobran: 2
 860:
-  title: RACUN A/5 PDV
+  title: RAČUN A/5 PDV
   price: 160.0
   srbobran: 1
 861:
@@ -136,7 +136,7 @@
   price: 180.0
   srbobran: 2
 869:
-  title: ZBIRNA SPECIFIKACIJA CEKOVA
+  title: ZBIRNA SPECIFIKACIJA ČEKOVA
   price: 165.0
   srbobran: 0
 870:
@@ -152,17 +152,17 @@
 873:
   title: IZJAVA O KOMPENZACIJI
 875:
-  title: KNJIGA SANKA T
+  title: KNJIGA ŠANKA T
   price: 335.0
   srbobran: 11
   futog: 0
 876:
-  title: KNJIGA SANKA NCR
+  title: KNJIGA ŠANKA NCR
   price: 340.0
   srbobran: 16
   futog: 0
 878:
-  title: RACUN A/4 NCR
+  title: RAČUN A/4 NCR
   price: 360.0
   srbobran: 2
   futog: 0
@@ -179,12 +179,12 @@
   price: 250.0
   srbobran: 1
 887:
-  title: GRADJEVINSKI LIST
+  title: GRAĐEVINSKI LIST
   price: 300.0
   srbobran: 5
   futog: 0
 888:
-  title: GRADJEVINSKI DNEVNIK
+  title: GRAĐEVINSKI DNEVNIK
   price: 300.0
   srbobran: 2
   futog: 0
@@ -199,12 +199,12 @@
   srbobran: 1
   futog: 0
 901:
-  title: SKRACENI DELOVODNIK
+  title: SKRAĆENI DELOVODNIK
   price: 380.0
   srbobran: 1
   futog: 0
 903:
-  title: DOSTAVNA KNJIGA ZA POSTU
+  title: DOSTAVNA KNJIGA ZA POŠTU
   price: 330.0
   srbobran: 4
 904:
@@ -220,7 +220,7 @@
   price: 210.0
   srbobran: 4
 918:
-  title: MATICNA KNJIGA RADNIKA
+  title: MATIČNA KNJIGA RADNIKA
   price: 290.0
   srbobran: 1
 920:

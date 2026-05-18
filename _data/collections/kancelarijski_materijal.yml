@@ -228,7 +228,7 @@
   srbobran: 1
   futog: 0
 409:
-  title: STIPALJKA 41MM
+  title: ŠTIPALJKA 41MM
   price: 15.0
   srbobran: 1
 414:
@@ -259,7 +259,7 @@
   price: 735.0
   srbobran: 0
 437:
-  title: CASA 0,1
+  title: ČAŠA 0,1
   price: 3.0
   srbobran: 150
 439:
@@ -286,7 +286,7 @@
   price: 295.0
   srbobran: 1
 447:
-  title: ROLER PILOT PISI/BRISI
+  title: ROLER PILOT PIŠI/BRIŠI
   price: 480.0
   srbobran: 4
   futog: 0
@@ -345,7 +345,7 @@
   srbobran: 19
   futog: 0
 479:
-  title: NOZ ZA SKALPEL
+  title: NOŽ ZA SKALPEL
   price: 80.0
   srbobran: 2
 480:
@@ -449,7 +449,7 @@
 539:
   title: STALAK ZA SELOTEJP
 543:
-  title: BUSAC 8L
+  title: BUŠAČ 8L
 545:
   title: KREP PAPIR SILVER
   price: 180.0
@@ -461,7 +461,7 @@
   srbobran: 79
   futog: 0
 548:
-  title: RASHTEFTIVAC
+  title: RASHEFTIVAČ
   price: 110.0
   srbobran: 2
   futog: 0
@@ -491,7 +491,7 @@
   srbobran: 20
   futog: 0
 567:
-  title: BLOK BELESKE A/5
+  title: BLOK BELEŠKE A/5
   price: 140.0
   srbobran: 1
 568:
@@ -544,16 +544,16 @@
   srbobran: 300
   futog: 0
 584:
-  title: KOVERAT VAZDUSNI BR-5
+  title: KOVERAT VAZDUŠNI BR-5
   price: 40.0
   srbobran: 0
 585:
-  title: KOVERAT VAZDUSNI BR-2
+  title: KOVERAT VAZDUŠNI BR-2
   price: 25.0
   srbobran: 2
   futog: 0
 586:
-  title: KOVERAT VAZDUSNI BR-7
+  title: KOVERAT VAZDUŠNI BR-7
   price: 60.0
   srbobran: 2
   futog: 0
@@ -577,7 +577,7 @@
   srbobran: 100
   futog: 0
 594:
-  title: KOVERAT VAZDUSNI BR-9
+  title: KOVERAT VAZDUŠNI BR-9
   price: 80.0
   srbobran: 2
   futog: 0
@@ -616,19 +616,19 @@
   price: 10.0
   srbobran: 0
 612:
-  title: CASA 0,2
+  title: ČAŠA 0,2
   price: 5.0
   srbobran: 100
   futog: 0
 613:
-  title: CASA ZICANA
+  title: ČAŠA ŽIČANA
   price: 120.0
   srbobran: 1
   futog: 0
 615:
-  title: CASA 0,2
+  title: ČAŠA 0,2
 616:
-  title: CASA 0,5
+  title: ČAŠA 0,5
   price: 8.0
   srbobran: 83
 618:
@@ -703,7 +703,7 @@
   price: 120.0
   srbobran: 2
 658:
-  title: DOSIJE 60 DZEPOVA
+  title: DOSIJE 60 DŽEPOVA
 661:
   title: 'STALAK ZA SELOTEJP '
 662:
@@ -747,7 +747,7 @@
   price: 265.0
   srbobran: 0
 679:
-  title: NAKVASAC GUMENI
+  title: NAKVASAČ GUMENI
   price: 90.0
   srbobran: 2
   futog: 0
@@ -797,7 +797,7 @@
   srbobran: 60
   futog: 0
 703:
-  title: HEFT MASINA MINI 24/6
+  title: HEFT MAŠINA MINI 24/6
   price: 250.0
   srbobran: 1
   futog: 0
@@ -839,16 +839,16 @@
   srbobran: 8
   futog: 0
 727:
-  title: CIODE
+  title: ČIODE
   price: 40.0
   srbobran: 7
   futog: 0
 730:
-  title: HO PISI BRISI
+  title: HO PIŠI BRIŠI
   price: 170.0
   srbobran: 0
 735:
-  title: ULOZAK ZA STONI KALENDAR 1/1
+  title: ULOŽAK ZA STONI KALENDAR 1/1
 737:
   title: DATUMAR
   price: 150.0
@@ -869,7 +869,7 @@
   srbobran: 16
   futog: 0
 780:
-  title: STIPALJKA 19MM
+  title: ŠTIPALJKA 19MM
   price: 6.0
   srbobran: 0
 782:
@@ -885,7 +885,7 @@
   price: 830.0
   srbobran: 1
 805:
-  title: OMOT ZA PASOS
+  title: OMOT ZA PASOŠ
   price: 25.0
   srbobran: 9
 822:
@@ -921,12 +921,12 @@
   price: 395.0
   srbobran: 1
 896:
-  title: DOSIJE 10 DZEPOVA
+  title: DOSIJE 10 DŽEPOVA
   price: 195.0
   srbobran: 3
   futog: 0
 921:
-  title: RACUN A/5 NCR
+  title: RAČUN A/5 NCR
   price: 160.0
   srbobran: 7
   futog: 0
@@ -1018,12 +1018,12 @@
   price: 735.0
   srbobran: 0
 989:
-  title: SET ZA BELESKE CODEX
+  title: SET ZA BELEŠKE CODEX
   price: 715.0
   srbobran: 2
   futog: 0
 999:
-  title: SET ZA BELESKE LEKSA
+  title: SET ZA BELEŠKE LEKSA
   price: 1015.0
   srbobran: 0
   futog: 0
@@ -1066,7 +1066,7 @@
 1066:
   title: PAUS PAPIR A/3 1/1
 1074:
-  title: PAPIR KLOBUCNI 100*70
+  title: PAPIR KLOBUČNI 100*70
   price: 15.0
   srbobran: 221
   futog: 0
@@ -1087,7 +1087,7 @@
   price: 90.0
   srbobran: 48
 1111:
-  title: ATASE PODLOGA
+  title: ATAŠE PODLOGA
   price: 260.0
   srbobran: 2
 1112:
@@ -1106,21 +1106,21 @@
   price: 220.0
   srbobran: 1
 1121:
-  title: 'HEFT MASINA 24/6 DELTA 105 '
+  title: 'HEFT MAŠINA 24/6 DELTA 105 '
   price: 1635.0
   srbobran: 1
   futog: 0
 1123:
-  title: HEFT MASINA 24/6 DELTA 107
+  title: HEFT MAŠINA 24/6 DELTA 107
   price: 955.0
   srbobran: 0
   futog: 0
 1124:
-  title: HEFT MASINA SAX S-10
+  title: HEFT MAŠINA SAX S-10
   price: 240.0
   srbobran: 0
 1127:
-  title: HEFT MASINA DL-501
+  title: HEFT MAŠINA DL-501
   price: 385.0
   srbobran: 0
 1152:
@@ -1134,12 +1134,12 @@
   price: 360.0
   srbobran: 1
 1185:
-  title: BUSAC 30L
+  title: BUŠAČ 30L
   price: 610.0
   srbobran: 1
   futog: 0
 1199:
-  title: DOSIJE 40 DZEPOVA
+  title: DOSIJE 40 DŽEPOVA
   price: 360.0
   srbobran: 1
   futog: 0
@@ -1148,7 +1148,7 @@
   price: 935.0
   srbobran: 1
 1208:
-  title: PISACA TRAKA 13MM
+  title: PISAĆA TRAKA 13MM
   price: 299.0
   srbobran: 0
 1214:
