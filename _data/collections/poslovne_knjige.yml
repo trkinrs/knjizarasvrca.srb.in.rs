@@ -24,7 +24,7 @@
 746:
   title: OBRAZAC 1 1+1
   price: 130.0
-  srbobran: 65
+  srbobran: 61
   futog: 0
 748:
   title: OBRAZAC 1 1+2
@@ -106,7 +106,7 @@
 861:
   title: OTPREMNICA A/5
   price: 180.0
-  srbobran: 14
+  srbobran: 11
   futog: 0
 862:
   title: OTPREMNICA-PRIJEMNICA A/4
@@ -147,7 +147,7 @@
 872:
   title: POPIS ROBE SA NIVELACIJOM
   price: 325.0
-  srbobran: 5
+  srbobran: 4
   futog: 0
 873:
   title: IZJAVA O KOMPENZACIJI
