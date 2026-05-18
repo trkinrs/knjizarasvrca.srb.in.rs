@@ -1,25 +1,25 @@
 ---
 37:
-  title: SABLON DEKOR
+  title: ŠABLON DEKOR
   price: 155.0
   srbobran: 6
 118:
-  title: MASNA CRVENA
+  title: MAŠNA CRVENA
   price: 80.0
   srbobran: 18
   futog: 0
 131:
-  title: PLANER VENCANJA
+  title: PLANER VENČANJA
   price: 1560.0
   srbobran: 2
   futog: 0
 150:
-  title: MASNA
+  title: MAŠNA
   price: 45.0
   srbobran: 24
   futog: 0
 168:
-  title: NOVOGODISNJA BOJANKA
+  title: NOVOGODIŠNJA BOJANKA
   price: 635.0
   srbobran: 1
 172:
@@ -27,7 +27,7 @@
   price: 290.0
   srbobran: 4
 176:
-  title: BOJANKA A/4 NOVOGODISNJA
+  title: BOJANKA A/4 NOVOGODIŠNJA
   price: 225.0
   srbobran: 8
   futog: 0
@@ -46,11 +46,11 @@
   price: 355.0
   srbobran: 0
 236:
-  title: KORPICE ZA KOLACE - 7
+  title: KORPICE ZA KOLAČE - 7
   price: 50.0
   srbobran: 16
 237:
-  title: GLITTER U CASI 1/6 BOJA
+  title: GLITTER U ČAŠI 1/6 BOJA
   price: 350.0
   srbobran: 0
   futog: 0
@@ -647,8 +647,8 @@
   futog: 0
 1518:
   title: BUSAC 10L
-  price: 545.0
-  srbobran: 0
+  price: 325.0
+  srbobran: 1
 1525:
   title: ČESTITKA
   price: 130.0
@@ -1039,8 +1039,8 @@
   srbobran: 5
 2985:
   title: TACNA KARTON FI/21CM
-  price: 160.0
-  srbobran: 0
+  price: 165.0
+  srbobran: 4
 2993:
   title: VADICEP MODERATO
   price: 220.0

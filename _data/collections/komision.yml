@@ -1,14 +1,14 @@
 ---
 38:
-  title: PP - ZIVOTINJE U AFRICI
+  title: PP - ŽIVOTINJE U AFRICI
   price: 199.0
   srbobran: 0
 47:
-  title: PP - ZIVOTINJE U MORU
+  title: PP - ŽIVOTINJE U MORU
   price: 199.0
   srbobran: 2
 78:
-  title: PP - ZIVOTINJE U BASTI
+  title: PP - ŽIVOTINJE U BAŠTI
   price: 199.0
   srbobran: 0
 100:
@@ -16,15 +16,15 @@
   price: 199.0
   srbobran: 0
 128:
-  title: PP - MUZICKI INSTRUMENTI
+  title: PP - MUZIČKI INSTRUMENTI
   price: 199.0
   srbobran: 1
 151:
-  title: VU - AVANTURE MALOG DZERIJA
+  title: VU - AVANTURE MALOG DŽERIJA
   price: 899.0
   srbobran: 1
 152:
-  title: PP - IGRACKE
+  title: PP - IGRAČKE
   price: 199.0
   srbobran: 1
 164:
@@ -32,11 +32,11 @@
   price: 199.0
   srbobran: 1
 194:
-  title: PP - POVRCE
+  title: PP - POVRĆE
   price: 199.0
   srbobran: 2
 217:
-  title: PP - VOCE
+  title: PP - VOĆE
   price: 199.0
   srbobran: 0
 235:
@@ -44,7 +44,7 @@
   price: 199.0
   srbobran: 0
 242:
-  title: PP - ZIVOTINJE U SUMI
+  title: PP - ŽIVOTINJE U ŠUMI
   price: 199.0
   srbobran: 0
 274:

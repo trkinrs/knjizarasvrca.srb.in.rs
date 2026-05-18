@@ -1,6 +1,6 @@
 ---
 33:
-  title: SUNDJER ZA BELU TABLU
+  title: SUNĐER ZA BELU TABLU
   price: 90.0
   srbobran: 5
   futog: 0
@@ -10,7 +10,7 @@
   srbobran: 5
   futog: 0
 81:
-  title: DOSIJE 30 DZEPOVA
+  title: DOSIJE 30 DŽEPOVA
   price: 315.0
   srbobran: 2
   futog: 0
@@ -414,7 +414,7 @@
 530:
   title: 'SELOTEJP 50/50 '
   price: 95.0
-  srbobran: 13
+  srbobran: 19
   futog: 0
 531:
   title: SELOTEJP 15/60
@@ -458,7 +458,7 @@
 547:
   title: DOSIJE POLUMEHANIKA
   price: 60.0
-  srbobran: 29
+  srbobran: 79
   futog: 0
 548:
   title: RASHTEFTIVAC
@@ -478,7 +478,7 @@
 556:
   title: MARKER CN KOSI VRH
   price: 80.0
-  srbobran: 20
+  srbobran: 40
   futog: -5
 558:
   title: INDIGO
@@ -536,7 +536,7 @@
 582:
   title: KOVERAT AMERIKEN SL
   price: 5.0
-  srbobran: 100
+  srbobran: 600
   futog: 0
 583:
   title: KOVERAT B/6 SL
@@ -591,7 +591,7 @@
 597:
   title: DOSIJE KROMO
   price: 40.0
-  srbobran: 15
+  srbobran: 65
   futog: 0
 598:
   title: DOSIJE SA GUMOM
@@ -633,8 +633,8 @@
   srbobran: 83
 618:
   title: ETIKETE BR
-  price: 90.0
-  srbobran: 12
+  price: 95.0
+  srbobran: 62
   futog: 0
 620:
   title: JEDERMAN
@@ -666,12 +666,12 @@
 632:
   title: PAPIR A/4 80G
   price: 3750.0
-  srbobran: 2
+  srbobran: 5
   futog: 0
 633:
   title: PAPIR A/4 80G
   price: 680.0
-  srbobran: 18
+  srbobran: 28
   futog: 0
 635:
   title: PAPIR A4 U BOJI 1/100
@@ -812,7 +812,7 @@
 713:
   title: SPONKE MAPED S-10
   price: 45.0
-  srbobran: 17
+  srbobran: 53
   futog: 0
 717:
   title: KOREKTOR TRAKA 12M
@@ -827,7 +827,7 @@
 720:
   title: SPONKE MAPED 24/6
   price: 70.0
-  srbobran: 13
+  srbobran: 49
   futog: 0
 723:
   title: SPAJALICE 50MM
@@ -890,8 +890,8 @@
   srbobran: 9
 822:
   title: KARTICA RK-30
-  price: 15.0
-  srbobran: 6
+  price: 12.0
+  srbobran: 106
   futog: 0
 830:
   title: FOLIJA ZA PLASTIFICIRANJE
@@ -941,7 +941,7 @@
 934:
   title: KOREKTOR ČETKICA
   price: 130.0
-  srbobran: 9
+  srbobran: 21
   futog: 0
 940:
   title: TABLA PLUTA 60*40
@@ -962,8 +962,8 @@
   srbobran: 1
 952:
   title: HEFT MAŠINA DELTA 102
-  price: 365.0
-  srbobran: 0
+  price: 1100.0
+  srbobran: 1
 953:
   title: GEL OLOVKA 0,5
   price: 30.0
@@ -1145,8 +1145,8 @@
   futog: 0
 1204:
   title: PAPIR A/3 VK 20/10
-  price: 950.0
-  srbobran: 0
+  price: 935.0
+  srbobran: 1
 1208:
   title: PISACA TRAKA 13MM
   price: 299.0
@@ -1154,7 +1154,7 @@
 1214:
   title: DOSIJE MEHANIZAM
   price: 130.0
-  srbobran: 0
+  srbobran: 24
 1216:
   title: OMOT SPISA B/Z
   price: 10.0
@@ -1208,8 +1208,8 @@
   srbobran: 0
 1360:
   title: TRAKA ZA KALKULATOR
-  price: 395.0
-  srbobran: 0
+  price: 380.0
+  srbobran: 3
 1361:
   title: KOVERAT DUGME AMERIKEN
   price: 50.0
@@ -1328,7 +1328,7 @@
 1519:
   title: BUSAC 20L
   price: 410.0
-  srbobran: 1
+  srbobran: 2
   futog: 0
 1521:
   title: TERMO ROLNA 57/28MM
@@ -1345,7 +1345,7 @@
 1535:
   title: MEHANIKA
   price: 30.0
-  srbobran: 25
+  srbobran: 125
   futog: 0
 1538:
   title: FASCIKLA 8 PREGRADA A/4
@@ -1436,7 +1436,7 @@
 1912:
   title: ZABRANJENO PUSENJE A/4
   price: 95.0
-  srbobran: 3
+  srbobran: 5
   futog: 0
 1931:
   title: KOVERAT VAZDUSNI BR-3
@@ -1528,7 +1528,7 @@
 2115:
   title: SELOTEJP 15*33
   price: 40.0
-  srbobran: 59
+  srbobran: 109
   futog: 0
 2139:
   title: KREDE 1/100 BOJA
@@ -1631,12 +1631,12 @@
 2585:
   title: CIODE PLUTA
   price: 60.0
-  srbobran: 1
+  srbobran: 3
   futog: 0
 2594:
   title: MARKER CN OBLI VRH
   price: 80.0
-  srbobran: 2
+  srbobran: 22
   futog: 0
 2595:
   title: MARKER BELI ICO
@@ -1699,7 +1699,7 @@
 3149:
   title: RAJZNEDLE 1/50 S
   price: 40.0
-  srbobran: 0
+  srbobran: 5
 3230:
   title: MARKER CP 1MM
   price: 85.0
@@ -1749,10 +1749,12 @@
   srbobran: 2
 3629:
   title: SELOTEJP 50/5 DUPLEKS
+  price: 180.0
+  srbobran: 2
 3699:
   title: ODLUKA O REKLAMACIJI A/5
-  price: 120.0
-  srbobran: 0
+  price: 180.0
+  srbobran: 2
 3707:
   title: FOLIJA ZA KORIČENJE
   price: 780.0
@@ -1833,7 +1835,7 @@
 4260:
   title: 'BOJA ZA PECAT '
   price: 70.0
-  srbobran: 7
+  srbobran: 10
   futog: 0
 4263:
   title: BATERIJA AA/AAA

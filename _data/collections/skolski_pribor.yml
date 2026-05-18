@@ -15,7 +15,7 @@
   srbobran: 7
   futog: 0
 24:
-  title: UVIJAC A/4 SAMOLEPLJIV
+  title: UVIJAČ A/4 SAMOLEPLJIV
   price: 40.0
   srbobran: 111
   futog: 0
@@ -77,7 +77,7 @@
 55:
   title: UGALJ ZA CRTANJE 1/1
   price: 90.0
-  srbobran: 0
+  srbobran: 6
   futog: 0
 56:
   title: OP*C VENTIL PRECISION PLUS
@@ -85,7 +85,7 @@
   srbobran: 0
   futog: 0
 57:
-  title: UVIJAC A/5
+  title: UVIJAČ A/5
   price: 20.0
   srbobran: 397
   futog: 0
@@ -148,7 +148,7 @@
   srbobran: 7
   futog: 0
 77:
-  title: VEZBANKA
+  title: VEŽBANKA
   price: 40.0
   srbobran: 46
   futog: 0
@@ -158,7 +158,7 @@
   srbobran: 0
   futog: 0
 85:
-  title: SESTAR BLUE/PINK
+  title: ŠESTAR BLUE/PINK
   price: 310.0
   srbobran: 8
   futog: 0
@@ -195,7 +195,7 @@
   srbobran: 13
   futog: 0
 96:
-  title: TUS CRNI KOHINOOR
+  title: TUŠ CRNI KOHINOOR
   price: 135.0
   srbobran: 7
   futog: 0
@@ -235,7 +235,7 @@
   srbobran: 11
   futog: 0
 112:
-  title: SET CETKICA 1/6
+  title: SET ČETKICA 1/6
   price: 360.0
   srbobran: 1
   futog: 0
@@ -317,7 +317,7 @@
   srbobran: 31
   futog: 0
 145:
-  title: SESTAR SC
+  title: ŠESTAR SC
   price: 120.0
   srbobran: 2
 147:
@@ -336,11 +336,11 @@
   srbobran: 3
   futog: 0
 162:
-  title: SESTAR MAPED STOP
+  title: ŠESTAR MAPED STOP
   price: 550.0
   srbobran: 1
 170:
-  title: PERO ZA TUS
+  title: PERO ZA TUŠ
   price: 50.0
   srbobran: 26
   futog: 0
@@ -369,7 +369,7 @@
   price: 90.0
   srbobran: 1
 182:
-  title: CETKICA PL-12
+  title: ČETKICA PL-12
   price: 90.0
   srbobran: 14
 184:
@@ -378,23 +378,23 @@
   srbobran: 4
   futog: 0
 189:
-  title: CETKICA PL-4
+  title: ČETKICA PL-4
   price: 40.0
   srbobran: 0
 190:
-  title: CETKICA AK-4
+  title: ČETKICA AK-4
   price: 35.0
   srbobran: 7
 191:
-  title: CESTITKA
+  title: ČESTITKA
   price: 70.0
   srbobran: 27
 192:
-  title: CETKICA PL-16
+  title: ČETKICA PL-16
   price: 75.0
   srbobran: 0
 196:
-  title: SET CETKICA 1/6
+  title: SET ČETKICA 1/6
   price: 320.0
   srbobran: 5
   futog: 0
@@ -408,7 +408,7 @@
   srbobran: 0
   futog: 0
 220:
-  title: FLASICA ZA VODU AL
+  title: FLAŠICA ZA VODU AL
   price: 499.0
   srbobran: 0
   futog: 0

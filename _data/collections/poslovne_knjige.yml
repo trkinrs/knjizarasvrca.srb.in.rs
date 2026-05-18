@@ -24,7 +24,7 @@
 746:
   title: OBRAZAC 1 1+1
   price: 130.0
-  srbobran: 25
+  srbobran: 65
   futog: 0
 748:
   title: OBRAZAC 1 1+2
@@ -33,7 +33,7 @@
 750:
   title: OBRAZAC 3 1+1
   price: 130.0
-  srbobran: 3
+  srbobran: 33
   futog: 0
 751:
   title: 'OBRAZAC 2 1+1 '
@@ -154,12 +154,12 @@
 875:
   title: KNJIGA SANKA T
   price: 335.0
-  srbobran: 1
+  srbobran: 11
   futog: 0
 876:
   title: KNJIGA SANKA NCR
   price: 340.0
-  srbobran: 6
+  srbobran: 16
   futog: 0
 878:
   title: RACUN A/4 NCR
@@ -233,8 +233,8 @@
   srbobran: 2
 970:
   title: POTVRDA O REKLAMACIJI A/5
-  price: 120.0
-  srbobran: 0
+  price: 180.0
+  srbobran: 2
 971:
   title: DELOVODNIK 200L
   price: 1135.0
