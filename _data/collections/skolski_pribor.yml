@@ -295,7 +295,7 @@
 138:
   title: GUMICA SOFTY MINI
   price: 45.0
-  srbobran: 13
+  srbobran: 12
   futog: 0
 139:
   title: MINE 2MM
@@ -504,7 +504,7 @@
 408:
   title: UDARALJKE ZA METALOFON
   price: 120.0
-  srbobran: 3
+  srbobran: 1
   futog: 0
 420:
   title: PLOČA ZA LINOREZ
@@ -670,7 +670,7 @@
 968:
   title: OL HB NORIS
   price: 90.0
-  srbobran: 25
+  srbobran: 23
   futog: 0
 988:
   title: MATEMATIČKI LENJIR
@@ -727,7 +727,7 @@
 1088:
   title: MINE 0,5 HB MAPED
   price: 90.0
-  srbobran: 11
+  srbobran: 9
   futog: 0
 1089:
   title: KREDA ZA TEKSTIL BELA 1/1
@@ -768,7 +768,7 @@
 1196:
   title: GUMICA SC
   price: 75.0
-  srbobran: 4
+  srbobran: 3
   futog: 0
 1200:
   title: SKICEN BLOK
@@ -899,12 +899,12 @@
 1892:
   title: PALETA
 1927:
-  title: OTO PLOCA
+  title: OTO PLOČA
   price: 190.0
   srbobran: 25
   futog: 0
 1932:
-  title: CASA ZA OLOVKE DIZNI
+  title: ČAŠA ZA OLOVKE DIZNI
   price: 250.0
   srbobran: 1
 1936:
@@ -918,7 +918,7 @@
   srbobran: 17
   futog: 0
 1950:
-  title: 'CASA ZA OLOVKE '
+  title: 'ČAŠA ZA OLOVKE '
   price: 100.0
   srbobran: 0
   futog: 0
@@ -928,26 +928,26 @@
   srbobran: 3
   futog: 0
 2003:
-  title: BLOKCIC A/6 S
+  title: BLOKČIĆ A/6 S
   price: 80.0
   srbobran: 0
   futog: 0
 2017:
-  title: VOSTANE BOJE 1/12 SC
+  title: VOŠTANE BOJE 1/12 SC
   price: 85.0
   srbobran: 10
   futog: 0
 2021:
-  title: VOSTANE BOJE 1/12 JUMBO SC
+  title: VOŠTANE BOJE 1/12 JUMBO SC
   price: 160.0
   srbobran: 3
 2043:
-  title: MUSEMA ZA LIKOVNO
+  title: MUŠEMA ZA LIKOVNO
   price: 100.0
   srbobran: 2
   futog: 0
 2047:
-  title: MUZICKI STAPICI
+  title: MUZIČKI ŠTAPIĆI
   price: 180.0
   srbobran: 4
   futog: 0
@@ -970,7 +970,7 @@
 2119:
   title: TO MARS 0,5
   price: 240.0
-  srbobran: 8
+  srbobran: 7
   futog: 0
 2125:
   title: RAČUNALJKA PVC
@@ -978,7 +978,7 @@
   srbobran: 2
   futog: 0
 2164:
-  title: CETKICA PL-14
+  title: ČETKICA PL-14
   price: 60.0
   srbobran: 3
 2168:

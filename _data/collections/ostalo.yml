@@ -664,7 +664,7 @@
 1929:
   title: PRIVEZAK FUNKY
 1933:
-  title: BOJANKA SA CETKICOM
+  title: BOJANKA SA ČETKICOM
   price: 350.0
   srbobran: 0
 1938:
@@ -675,7 +675,7 @@
 1940:
   title: NOVOGODISNJE KUGLE 1819
 1943:
-  title: RUKAVICE KOZA
+  title: RUKAVICE KOŽA
   price: 3975.0
   srbobran: 0
   futog: 0
@@ -690,12 +690,12 @@
   price: 450.0
   srbobran: 0
 2049:
-  title: 'MASNA '
+  title: 'MAŠNA '
   price: 40.0
   srbobran: 31
   futog: 0
 2050:
-  title: MAGNET SENDVIC/CUP
+  title: MAGNET SENDVIČ/CUP
   price: 135.0
   srbobran: 2
 2058:
@@ -707,7 +707,7 @@
   price: 87.0
   srbobran: 0
 2151:
-  title: SABLON PVC
+  title: ŠABLON PVC
   price: 230.0
   srbobran: 4
   futog: 0
@@ -730,7 +730,7 @@
   price: 1680.0
   srbobran: 1
 2176:
-  title: BUSAC VELIKI OBLICI
+  title: BUŠAČ VELIKI OBLICI
   price: 490.0
   srbobran: 3
 2177:
