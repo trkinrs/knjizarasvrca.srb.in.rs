@@ -27,7 +27,7 @@
 29:
   title: BLOK IV
   price: 90.0
-  srbobran: 12
+  srbobran: 10
   futog: 0
 30:
   title: BLOK V
@@ -300,7 +300,7 @@
 139:
   title: MINE 2MM
   price: 80.0
-  srbobran: 7
+  srbobran: 5
   futog: 0
 141:
   title: REZAČ PVC
