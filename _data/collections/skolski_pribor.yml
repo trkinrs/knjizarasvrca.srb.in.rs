@@ -504,7 +504,7 @@
 408:
   title: UDARALJKE ZA METALOFON
   price: 120.0
-  srbobran: 1
+  srbobran: 0
   futog: 0
 420:
   title: PLOČA ZA LINOREZ
@@ -670,7 +670,7 @@
 968:
   title: OL HB NORIS
   price: 90.0
-  srbobran: 23
+  srbobran: 21
   futog: 0
 988:
   title: MATEMATIČKI LENJIR
