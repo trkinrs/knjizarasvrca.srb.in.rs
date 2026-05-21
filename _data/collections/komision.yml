@@ -55,7 +55,7 @@
 275:
   title: PP - UČIM DA PIŠEM PISANA ĆIRILICA
   price: 260.0
-  srbobran: 2
+  srbobran: 1
   futog: 0
 281:
   title: PP - UČIM DA PIŠEM PISANA LATINICA
@@ -269,7 +269,7 @@
 387:
   title: PP - PIŠEM LATINICU
   price: 500.0
-  srbobran: 1
+  srbobran: 0
   futog: 0
 388:
   title: PP - TRAZI I PRONAĐI - ZEMLJA USKRŠNJEG ZEKE
@@ -279,7 +279,7 @@
 390:
   title: PP - KNJIGA ZA PREDŠKOLCE PO NOVIM OSNOVAMA
   price: 1180.0
-  srbobran: 1
+  srbobran: 0
   futog: 0
 391:
   title: PP - ZAGOLICAJ TIGRA!
@@ -3037,7 +3037,7 @@
 2257:
   title: PP - KNJIGA ZA SVAKOG PREDŠKOLCA
   price: 1180.0
-  srbobran: 2
+  srbobran: 1
   futog: 0
 2258:
   title: 'VU - KNJIGA PUNA IGARA : SPORTSKE IGRE'
