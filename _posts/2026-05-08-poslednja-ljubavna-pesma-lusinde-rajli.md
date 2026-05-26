@@ -1,7 +1,7 @@
 ---
 layout: post
 image: assets/images/poslednja_ljubavna_pesma.webp
-title: ''
+title: 'Poslednja ljubavna pesma - Lusinde Rajli'
 ---
 [L - POSLEDNJA LJUBAVNA PESMA - LUSINDA RAJLI]({{ site.baseurl }}//komision/2498-l-poslednja-ljubavna-pesma-lusinda-rajli/) 
 
