@@ -3037,7 +3037,7 @@
 2257:
   title: PP - KNJIGA ZA SVAKOG PREDŠKOLCA
   price: 1180.0
-  srbobran: 1
+  srbobran: 0
   futog: 0
 2258:
   title: 'VU - KNJIGA PUNA IGARA : SPORTSKE IGRE'
@@ -3169,7 +3169,7 @@
 2295:
   title: VU - ZABAVNE AKTIVNOSTI I NALEPNICE
   price: 899.0
-  srbobran: 2
+  srbobran: 1
 2296:
   title: VU - ZEMLJA BAJKI - AKCIJA
   price: 1999.0
