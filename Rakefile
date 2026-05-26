@@ -67,5 +67,5 @@ task commit_and_push: [ :commit_source, :deploy ]
 
 desc "Pull the repo"
 task :pull do |task, args|
-  sh "git pull"
+  sh "git pull --rebase"
 end
