@@ -1,6 +1,10 @@
 ---
 layout: post
+image: assets/images/poslednja_ljubavna_pesma.webp
+title: ''
 ---
+[L - POSLEDNJA LJUBAVNA PESMA - LUSINDA RAJLI]({{ site.baseurl }}//komision/2498-l-poslednja-ljubavna-pesma-lusinda-rajli/) 
+
 Pozdrav svima, danas ćemo pričati o novom delu od Lusinde Rajli u pitanju je knjiga “Poslednja ljubavna pesma” koji je izašao u decembru 2025-e godine.
 
 Početak priče smešten je u Zapadnom Korku u Irskoj nakon toga se seli u Londom, gde mladi par Sorka O Donovan i Kon Dejli odlaze kako bi ostvarili svoje mladalačke snove.
