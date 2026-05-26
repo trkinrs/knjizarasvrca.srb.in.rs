@@ -187,7 +187,7 @@
 342:
   title: PP - OTKRIVAM, STVARAM I SMIŠLJAM SA 4 GODINE
   price: 740.0
-  srbobran: 1
+  srbobran: 0
   futog: 2
 344:
   title: PP - OTKRIVAM, STVARAM I SMIŠLJAM SA 5 GODINA
@@ -1313,7 +1313,7 @@
 1306:
   title: VU - BEBA UČI
   price: 599.0
-  srbobran: 2
+  srbobran: 1
 1309:
   title: VU - BLOK ZA BOJENJE
   price: 399.0
@@ -1480,12 +1480,20 @@
   futog: 1
 1448:
   title: KC - DA PUKNEŠ OD SMEHA - DOKTORI
+  price: 590.0
+  futog: 1
 1449:
   title: KC - DA PUKNEŠ OD SMEHA - OGAVNI
+  price: 590.0
+  futog: 1
 1450:
   title: KC - DA PUKNEŠ OD SMEHA - PERICA RAZMIŠLJA
+  price: 590.0
+  futog: 1
 1451:
   title: KC - DA PUKNEŠ OD SMEHA - ŽIVOTINJE
+  price: 590.0
+  futog: 1
 1459:
   title: KC - DA PUKNEŠ OD SMEHA 1
   price: 790.0
@@ -2030,6 +2038,8 @@
   futog: 1
 1679:
   title: KC - KOMPLETNA KNJIGA O ŠAHU
+  price: 1250.0
+  futog: 1
 1684:
   title: KC - KUĆA ZA LUTKE
   price: 2700.02
@@ -2108,8 +2118,12 @@
   futog: 1
 1759:
   title: KC - MATEMATIKA ZA PREDŠKOLCE
+  price: 1100.01
+  futog: 1
 1770:
   title: KC - MIŠKO I PUNDRAVCI
+  price: 330.0
+  futog: 1
 1771:
   title: KC - MIŠKO LJUTKO
   price: 330.0
@@ -2124,6 +2138,8 @@
   srbobran: 0
 1781:
   title: KC - MIŠKO NEĆEJED
+  price: 330.0
+  futog: 1
 1782:
   title: KC - MIŠKO PIŠKO
   price: 330.0
@@ -2325,7 +2341,7 @@
 1888:
   title: KC - OVO JE NAJSTRAŠNIJI DAN...
   price: 820.0
-  futog: 1
+  futog: 2
 1889:
   title: KC - PECA I CIRKUSKI ORKESTAR
   price: 1950.03
@@ -2528,6 +2544,8 @@
   srbobran: 0
 1970:
   title: KC - SMEŠNE PRIČE - 50 URNEBESNO SMEŠNIH ZAGONETAKA
+  price: 1100.01
+  futog: 1
 1971:
   title: VU - GLAVA, RAMENA, KOLENA I STOPALA - I DRUGE PESMICE ZA DECU
   price: 1999.0
@@ -2774,6 +2792,8 @@
   futog: 1
 2131:
   title: KC - ZBUNJENO MAJMUNČE
+  price: 950.02
+  futog: 1
 2132:
   title: KC - ZDRAV ŽIVOT - ŠTA SVE ANA ZNA
   price: 650.01
@@ -2784,6 +2804,8 @@
   futog: 1
 2134:
   title: KC - ZELENBABINI DAROVI
+  price: 800.0
+  futog: 1
 2135:
   title: KC - ZIMSKI DAN - SVETLUCAVE NALEPNICE
   price: 950.02
@@ -3137,11 +3159,14 @@
   srbobran: 0
   futog: 1
 2302:
-  title: VU - PRIČE O DOBROTI
+  title: KC - PRIČE O DRUGARSTVU I LEPOM PONAŠANJU
+  price: 1450.01
+  futog: 1
 2303:
-  title: VU - PUT KOJIM SE REĐE IDE
+  title: KC - DI-DŽEJ PECA - 20 ZVUKOVA I MELODIJA
   price: 1299.0
   srbobran: 0
+  futog: 1
 2305:
   title: VU - DAMIN GAMBIT - AKCIJA
   price: 499.0
@@ -3193,7 +3218,9 @@
   price: 1480.02
   futog: 1
 2318:
-  title: VU - VEŠTICA I CAR
+  title: KC - PECA I LATINO RITAM - 16 ZVUKOVA I NUMERA
+  price: 1950.03
+  futog: 1
 2319:
   title: VU - DOBRA DEVOJKA, ZLA KRV - AKCIJA
   price: 499.0
