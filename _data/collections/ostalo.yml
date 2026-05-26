@@ -7,17 +7,17 @@
   title: MAŠNA CRVENA
   price: 80.0
   srbobran: 18
-  futog: 0
+  futog: 9
 131:
   title: PLANER VENČANJA
   price: 1560.0
   srbobran: 2
-  futog: 0
+  futog: 1
 150:
   title: MAŠNA
   price: 45.0
   srbobran: 23
-  futog: 0
+  futog: 20
 168:
   title: NOVOGODIŠNJA BOJANKA
   price: 635.0
@@ -30,12 +30,12 @@
   title: BOJANKA A/4 NOVOGODIŠNJA
   price: 225.0
   srbobran: 8
-  futog: 0
+  futog: 7
 198:
   title: ČESTITKA ROĐENDAN
   price: 120.0
   srbobran: 84
-  futog: 0
+  futog: 47
 201:
   title: SALVETE 38*38/40
   price: 330.0
@@ -53,12 +53,12 @@
   title: GLITTER U ČAŠI 1/6 BOJA
   price: 350.0
   srbobran: 0
-  futog: 0
+  futog: 3
 239:
   title: NOVČANIK 19,5*10,4/6*60
   price: 1225.0
   srbobran: 2
-  futog: 0
+  futog: 3
 240:
   title: IGRA OSVAJAČ
   price: 1350.0
@@ -84,7 +84,6 @@
   title: PAPIR A/4 ŠVRĆA
   price: 351.6
   srbobran: 0
-  futog: 0
 262:
   title: DOMINE MAXI
   price: 750.0
@@ -97,17 +96,17 @@
   title: PRIVEZAK ŽIVOTINJICA
   price: 450.0
   srbobran: 60
-  futog: 0
+  futog: 62
 270:
   title: FUTROLA ZA KLJUCEVE
   price: 825.0
   srbobran: 0
-  futog: 0
+  futog: 2
 271:
   title: NOVČANIK ZA KK
   price: 925.0
   srbobran: 0
-  futog: 0
+  futog: 3
 272:
   title: FUTROLA ZA NAOČARI
   price: 1250.0
@@ -120,7 +119,7 @@
   title: KAIŠ KOŽA
   price: 1915.0
   srbobran: 0
-  futog: 0
+  futog: 1
 290:
   title: PARTY TANJIRIĆI
   price: 87.0
@@ -137,7 +136,7 @@
   title: BLOK ZA YAMB
   price: 60.0
   srbobran: 5
-  futog: 0
+  futog: 5
 307:
   title: SVEĆICA BIG
   price: 125.0
@@ -154,6 +153,7 @@
   title: TREZOR JOLLY
   price: 1599.0
   srbobran: 1
+  futog: 2
 317:
   title: PUZZLE 3000
   price: 2750.0
@@ -162,7 +162,7 @@
   title: PUZZLE 1/1000
   price: 1610.0
   srbobran: 2
-  futog: 0
+  futog: 2
 319:
   title: DRUŠTVENA IGRA
   price: 1150.0
@@ -171,17 +171,17 @@
   title: KAPITAL
   price: 1270.0
   srbobran: 0
-  futog: 0
+  futog: 1
 322:
   title: UNO KARTE
   price: 210.0
   srbobran: 1
-  futog: 0
+  futog: 1
 325:
   title: PP - MOJ ŠKOLSKI SPOMENAR - BROŠ
   price: 400.0
   srbobran: 0
-  futog: 0
+  futog: 1
 326:
   title: KLIKER
   price: 15.0
@@ -190,7 +190,7 @@
   title: RAM ZA SLIKE PF7
   price: 355.0
   srbobran: 1
-  futog: 0
+  futog: 1
 334:
   title: PUZZLE 1/2000
   price: 1810.0
@@ -199,7 +199,7 @@
   title: PUZZLE 2*20
   price: 1120.0
   srbobran: 0
-  futog: 0
+  futog: 1
 340:
   title: BOJANKA A/4
   price: 80.0
@@ -216,32 +216,34 @@
   title: FOTO ALBUM 13*18/200
   price: 1500.0
   srbobran: 1
+  futog: 2
 361:
   title: FOTO ALBUM 10*15/80
   price: 620.0
   srbobran: 2
+  futog: 2
 366:
   title: FOTO ALBUM 13/18 200F
 368:
   title: ČESTITKA
   price: 60.0
   srbobran: 8
-  futog: 0
+  futog: 1
 370:
   title: ČESTITKA ŠTAMPANA
   price: 220.0
   srbobran: 25
-  futog: 0
+  futog: 6
 371:
   title: ČESTITKA CVETNA
   price: 120.0
   srbobran: 26
-  futog: 0
+  futog: 14
 373:
   title: ČESTITKA MINI
   price: 90.0
   srbobran: 39
-  futog: 0
+  futog: 34
 374:
   title: ČESTITKA MINI
   price: 250.0
@@ -254,7 +256,7 @@
   title: ČESTITKA
   price: 190.0
   srbobran: 4
-  futog: 0
+  futog: 7
 379:
   title: ČESTITKA
   price: 85.0
@@ -271,7 +273,7 @@
   title: ČESTITKA MINI
   price: 160.0
   srbobran: 17
-  futog: 0
+  futog: 9
 386:
   title: ČESTITKA
   price: 95.0
@@ -280,7 +282,7 @@
   title: NOVČANIK SC
   price: 595.0
   srbobran: 3
-  futog: 0
+  futog: 2
 399:
   title: NOVOGODIŠNJA KUGLA
   price: 75.0
@@ -289,7 +291,7 @@
   title: KIŠOBRAN CLASSIC
   price: 895.0
   srbobran: 9
-  futog: 0
+  futog: 8
 427:
   title: DŽEPNI REČNIK
   price: 170.0
@@ -302,7 +304,7 @@
   title: MAGIČNA KOCKA 6,3CM
   price: 460.0
   srbobran: 1
-  futog: 0
+  futog: 1
 453:
   title: FOTO ALBUM 13/18 100F
   price: 570.0
@@ -315,7 +317,7 @@
   title: SET HO+PENKALO TTO
   price: 1560.0
   srbobran: 3
-  futog: 0
+  futog: 2
 516:
   title: LOPTA FLUO
 518:
@@ -332,6 +334,7 @@
   title: 'KRAFT OČI MIX '
   price: 70.0
   srbobran: 0
+  futog: 4
 639:
   title: KRAFT SRCE/ZVEZDA
   price: 25.0
@@ -348,14 +351,14 @@
   title: DEKOR BLOK
   price: 755.0
   srbobran: 0
-  futog: 0
+  futog: 1
 694:
   title: IGRA 4/1
 700:
   title: REKET PVC
   price: 495.0
   srbobran: 2
-  futog: 0
+  futog: 2
 714:
   title: 'MUŠKI KOŽNI NOVČANIK '
   price: 3570.0
@@ -388,7 +391,7 @@
   title: RAM ZA SLIKE 23-017-11
   price: 215.0
   srbobran: 1
-  futog: 0
+  futog: 1
 881:
   title: SPISAK ZA KUPOVINU
   price: 120.0
@@ -401,22 +404,22 @@
   title: OGLEDALCE RETRO
   price: 375.0
   srbobran: 0
-  futog: 0
+  futog: 4
 936:
   title: MASKA ZA SPAVANJE
   price: 1365.0
   srbobran: 1
-  futog: 0
+  futog: 2
 945:
   title: RAM ZA SLIKE
   price: 365.0
   srbobran: 0
-  futog: 0
+  futog: 1
 948:
   title: MAŠNA NA POTEZ
   price: 80.0
   srbobran: 0
-  futog: 0
+  futog: 3
 951:
   title: IGRA METROPOL
 954:
@@ -429,17 +432,16 @@
   title: TABLICA A/5
   price: 40.0
   srbobran: 5
-  futog: 0
 976:
   title: ČESTITKA
   price: 99.0
   srbobran: 12
-  futog: 0
+  futog: 2
 990:
   title: SET ZA DECU DEXYCO
   price: 575.0
   srbobran: 0
-  futog: 0
+  futog: 1
 1004:
   title: KRAFT GLITTER 60G
 1006:
@@ -468,6 +470,7 @@
   title: KOCKICE ZA YAMB
   price: 195.0
   srbobran: 1
+  futog: 1
 1059:
   title: NEDELJNI PLANER A/4
   price: 495.0
@@ -480,7 +483,7 @@
   title: NOVČANIK 3*60
   price: 2100.0
   srbobran: 3
-  futog: 0
+  futog: 3
 1070:
   title: NOVČANIK SC/YL
   price: 550.0
@@ -491,7 +494,6 @@
   title: PUZZLE 1/100
   price: 1545.0
   srbobran: 1
-  futog: 0
 1094:
   title: TACNA T-4
   price: 165.0
@@ -508,7 +510,7 @@
   title: PRIVEZAK KOŽA
   price: 535.0
   srbobran: 0
-  futog: 0
+  futog: 1
 1166:
   title: ENGLESKI REČNIK
   price: 895.0
@@ -521,12 +523,11 @@
   title: TACNA T-3
   price: 190.0
   srbobran: 2
-  futog: 0
+  futog: 2
 1177:
   title: PUZZLE 1/500
   price: 895.0
   srbobran: 1
-  futog: 0
 1182:
   title: 'KRAVATA FERE '
   price: 1915.0
@@ -535,11 +536,12 @@
   title: ROĐENDANSKA SVEĆICA LOVE
   price: 80.0
   srbobran: 0
+  futog: 6
 1192:
   title: ČESTITKA BEBI
   price: 120.0
   srbobran: 4
-  futog: 0
+  futog: 7
 1215:
   title: KRAVATA BOSS
   price: 4799.0
@@ -556,12 +558,12 @@
   title: ČESTITKA MINI
   price: 80.0
   srbobran: 0
-  futog: 0
+  futog: 2
 1231:
   title: 'ČESTITKA '
   price: 160.0
   srbobran: 16
-  futog: 0
+  futog: 18
 1232:
   title: BUŠAČ BORDURA
   price: 325.0
@@ -574,7 +576,7 @@
   title: PAPIRNA TACNA
   price: 110.0
   srbobran: 0
-  futog: 0
+  futog: 3
 1261:
   title: IGRA RIKOŠET
   price: 925.0
@@ -583,7 +585,6 @@
   title: PUZZLE 1/200
   price: 1870.0
   srbobran: 1
-  futog: 0
 1340:
   title: KANTA ZA SMEĆE
   price: 348.48
@@ -604,12 +605,12 @@
   title: KIŠOBRAN
   price: 585.0
   srbobran: 1
-  futog: 0
+  futog: 1
 1369:
   title: KIŠOBRAN CAMPOS
   price: 895.0
   srbobran: 1
-  futog: 0
+  futog: 2
 1387:
   title: TACNA ŠTAMPA
   price: 135.0
@@ -631,7 +632,7 @@
   title: DEČIJI KIŠOBRAN
   price: 550.0
   srbobran: 2
-  futog: 0
+  futog: 1
 1432:
   title: POPISNA LISTA OS
   price: 1100.0
@@ -644,21 +645,22 @@
   title: ČESTITKA
   price: 70.0
   srbobran: 5
-  futog: 0
+  futog: 6
 1518:
   title: BUŠAČ 10L
   price: 325.0
   srbobran: 1
+  futog: 0
 1525:
   title: ČESTITKA
   price: 130.0
   srbobran: 30
-  futog: 0
+  futog: 22
 1886:
   title: RULET
   price: 2110.0
   srbobran: 1
-  futog: 0
+  futog: 1
 1898:
   title: TACNA FI-18CM
 1929:
@@ -671,14 +673,14 @@
   title: NOVČANIK 19,5*10,4/5*60
   price: 1410.0
   srbobran: 3
-  futog: 0
+  futog: 1
 1940:
   title: NOVOGODISNJE KUGLE 1819
 1943:
   title: RUKAVICE KOŽA
   price: 3975.0
   srbobran: 0
-  futog: 0
+  futog: 1
 1945:
   title: JAJE DINO 2/1
   price: 360.0
@@ -689,11 +691,12 @@
   title: KREDA U KUTIJI 15KOM
   price: 450.0
   srbobran: 0
+  futog: 4
 2049:
   title: 'MAŠNA '
   price: 40.0
   srbobran: 31
-  futog: 0
+  futog: 19
 2050:
   title: MAGNET SENDVIČ/CUP
   price: 135.0
@@ -710,21 +713,21 @@
   title: ŠABLON PVC
   price: 230.0
   srbobran: 4
-  futog: 0
+  futog: 8
 2170:
   title: 'PRSTEN '
   price: 70.0
   srbobran: 17
-  futog: 0
+  futog: 26
 2173:
   title: SET MALA DOKTORKA 5 DELOVA
   price: 320.0
-  futog: 0
+  futog: 1
 2174:
   title: KARTE ZA REMI 1/2
   price: 1050.0
   srbobran: 0
-  futog: 0
+  futog: 1
 2175:
   title: PUZZLE 1/1500
   price: 1680.0
@@ -737,161 +740,149 @@
   title: SET MALA DOKTORKA 8 DELOVA
   price: 8.0
   srbobran: 0
-  futog: 0
 2180:
   title: DRVENE SLAGALICE 15*15
   price: 195.0
-  futog: 0
+  futog: 3
 2181:
   title: DRVENE SLAGALICE 15*22
   price: 600.0
-  futog: 0
+  futog: 3
 2182:
   title: PAPIRNA KUTIJA ZA RUČAK
   price: 120.0
   srbobran: 3
-  futog: 0
+  futog: 3
 2184:
   title: PLATNO SA PRINTOM + VODENE BOJE
   price: 170.0
-  futog: 0
+  futog: 2
 2185:
   title: BOJANKA MEDIA
   price: 130.0
   srbobran: 9
-  futog: 0
+  futog: 9
 2190:
   title: 'STIKERI PO OBLIKU '
   price: 220.0
-  futog: 0
+  futog: 1
 2191:
   title: STIKERI JEDNOROG
   price: 190.0
   srbobran: 0
-  futog: 0
+  futog: 1
 2192:
   title: 'SET STIKERA '
   price: 289.0
   srbobran: 0
-  futog: 0
+  futog: 3
 2196:
   title: STIKERI DINO
   price: 140.0
-  futog: 0
+  futog: 1
 2198:
   title: 'SVETLUCAVI STIKERI '
-  price: 160.0
-  futog: 0
 2199:
   title: POTAPANJE BRODOVA
   price: 1395.0
-  futog: 0
+  futog: 1
 2202:
   title: NALEPNICA KOJA SVETLI U MRAKU
   price: 320.0
-  futog: 0
+  futog: 2
 2204:
   title: NALEPNICE KOJE SVETLE U MRAKU
   price: 110.0
-  futog: 0
+  futog: 2
 2206:
   title: PEČATI ZOO
   price: 60.0
   srbobran: 10
-  futog: 0
 2207:
   title: MINI HIGHLIGHTER
   price: 70.0
   srbobran: 22
-  futog: 0
 2209:
   title: INDIKATORI STRELICE
-  price: 90.0
-  futog: 0
 2210:
   title: INDIKATORI VOĆE
-  price: 170.0
-  futog: 0
 2214:
   title: PLASTELIN 4 BOJE
   price: 430.0
   srbobran: 2
-  futog: 0
+  futog: 2
 2215:
   title: PLASTELIN 6 BOJA
   price: 690.0
   srbobran: 0
-  futog: 0
+  futog: 3
 2217:
   title: AKRILNA BOJA
   price: 90.0
-  futog: 0
+  futog: 12
 2218:
   title: TACK IT - VIŠENAMENSKI LEPAK
   price: 175.0
   srbobran: 0
-  futog: 0
 2221:
   title: ŽIVOTINJE 1/1
   price: 220.0
   srbobran: 33
-  futog: 0
+  futog: 70
 2223:
   title: SPIRALNA OPRUGA DUGINIH BOJA
   price: 250.0
   srbobran: 1
-  futog: 0
+  futog: 2
 2224:
   title: CRVIĆI NA NAVIJANJE
   price: 250.0
   srbobran: 4
-  futog: 0
+  futog: 5
 2225:
   title: IQ TWINS - SG 306
   price: 1945.0
-  futog: 0
+  futog: 1
 2227:
   title: IQ FIT - SG 423
   price: 805.0
   srbobran: 0
-  futog: 0
+  futog: 1
 2230:
   title: IQ PUZZLER PRO - SG 455
   price: 1999.0
   srbobran: 0
-  futog: 0
+  futog: 1
 2231:
   title: IQ SIX PRO - SG 479
-  price: 1945.0
-  futog: 0
 2232:
   title: IQ LOVE - SG 302
   price: 2375.0
-  futog: 0
+  futog: 1
 2235:
   title: JUMPIN - SG 421
   price: 2810.0
-  futog: 0
+  futog: 1
 2236:
   title: SQUIRRELS GO NUTS! - SG 425
   price: 2810.0
-  futog: 0
+  futog: 1
 2237:
   title: GOOAL! - SGT 320
   price: 1840.0
-  futog: 0
+  futog: 1
 2239:
   title: PUZZLE BEACH - SGT 300
   price: 1840.0
-  futog: 0
+  futog: 1
 2240:
   title: IQ BUBBLES - SG 493
   price: 1945.0
-  futog: 0
+  futog: 1
 2241:
   title: IQ DELUXE - CIRCLE - SG 311
   price: 3565.0
-  futog: 0
+  futog: 1
 2242:
   title: IQ DELUXE - HEXAGON - SG 314
   price: 5999.0
@@ -901,15 +892,15 @@
   title: MAX PREMIUM - RETRO - 15 IN DISPLAY
   price: 140.0
   srbobran: 0
-  futog: 0
+  futog: 1
 2244:
   title: MAX PREMIUM - FLOWERS - 15 IN DISPLAY
   price: 2145.0
-  futog: 0
+  futog: 1
 2245:
   title: 'AKRILLNI MARKER '
   price: 170.0
-  futog: 0
+  futog: 1
 2262:
   title: BOJE ZA LICE
 2274:
@@ -938,7 +929,7 @@
   title: YAMB LIMENKA
   price: 795.0
   srbobran: 1
-  futog: 0
+  futog: 2
 2527:
   title: VILJUŠKE/KAŠIKE PVC
   price: 150.0
@@ -951,12 +942,12 @@
   title: RETRO KUVAR SA DASKOM
   price: 450.0
   srbobran: 0
-  futog: 0
+  futog: 2
 2747:
   title: 'DEČIJE MUKE '
   price: 999.0
   srbobran: 2
-  futog: 0
+  futog: 3
 2758:
   title: ČOVEČE NE LJUTI SE
   price: 420.0
@@ -965,74 +956,70 @@
   title: ŠAH DRVENI MANJI
   price: 3700.0
   srbobran: 1
-  futog: 0
+  futog: 1
 2788:
   title: PUZZLE 1/500
   price: 1020.0
-  futog: 0
+  futog: 1
 2789:
   title: SLAGALICA
-  price: 1060.0
-  futog: 0
 2793:
   title: IGRA IZGRADI ZID
   price: 1060.0
   srbobran: 1
-  futog: 0
 2794:
   title: POGODI ŠTA JE NA SLICI ?
   price: 1330.0
-  futog: 0
+  futog: 1
 2795:
   title: NOVČANIK MUŠKI
   price: 1940.0
-  futog: 0
+  futog: 2
 2796:
   title: NOVČANIK MUŠKI 3533
   price: 2020.0
-  futog: 0
+  futog: 2
 2798:
   title: PUZZLE 26 STORY THE FARM
   price: 1650.0
-  futog: 0
+  futog: 1
 2799:
   title: 'PUZZLE 4U1 '
   price: 1510.0
   srbobran: 3
-  futog: 0
+  futog: 2
 2800:
   title: 'PUZZLE 3D '
   price: 2260.0
   srbobran: 1
-  futog: 0
+  futog: 1
 2802:
   title: PUZZLE 300
   price: 1500.0
-  futog: 0
+  futog: 1
 2803:
   title: PUZZLE 1/1000
   price: 1600.0
   srbobran: 1
-  futog: 0
+  futog: 2
 2804:
   title: PUZZLE 1/1500
   price: 2070.0
   srbobran: 1
-  futog: 0
+  futog: 1
 2805:
   title: PUZZLE BABY DINOSAURIOS
   price: 1310.0
   srbobran: 1
-  futog: 0
 2806:
   title: PUZZLE 1/500
   price: 1260.0
-  futog: 0
+  futog: 1
 2903:
   title: FLASICA ZA VODU ALUMINIJUM
   price: 625.0
   srbobran: 2
-  futog: 0
+  futog: 1
 2964:
   title: PARTY TANJIRICI DIZNI
   price: 125.0
@@ -1041,6 +1028,7 @@
   title: TACNA KARTON FI/21CM
   price: 165.0
   srbobran: 4
+  futog: 0
 2993:
   title: VADICEP MODERATO
   price: 220.0
@@ -1049,7 +1037,7 @@
   title: CESTITKA
   price: 115.0
   srbobran: 0
-  futog: 0
+  futog: 2
 3016:
   title: KUTIJA ZA HO+TO CENTRY
   price: 130.0
@@ -1058,12 +1046,12 @@
   title: CESTITKE
   price: 280.0
   srbobran: 18
-  futog: 0
+  futog: 5
 3147:
   title: SET ZA UZINU
   price: 955.0
   srbobran: 4
-  futog: 0
+  futog: 3
 3215:
   title: RADOSNICA
 3218:
@@ -1074,7 +1062,7 @@
   title: MANIKIR SET DOLL
   price: 515.0
   srbobran: 5
-  futog: 0
+  futog: 2
 3257:
   title: OGLEDALCE PARIS
   price: 315.0
@@ -1083,7 +1071,7 @@
   title: GLOBUS SVETLECI
   price: 5200.0
   srbobran: 0
-  futog: 0
+  futog: 1
 3270:
   title: MAGNET
   price: 120.0
@@ -1102,7 +1090,7 @@
   title: PODLOGA ZA BUSAC
   price: 55.0
   srbobran: 90
-  futog: 0
+  futog: 46
 3511:
   title: TACNA GOLD 30*30
   price: 160.0
@@ -1113,63 +1101,71 @@
   title: MARKER 8660/8 BABY
   price: 430.0
   srbobran: 2
-  futog: 0
 3618:
   title: 'PERLA SIKERI '
   price: 199.0
   srbobran: 2
+  futog: 2
 3619:
   title: STIKERI
   price: 255.0
   srbobran: 6
+  futog: 7
 3620:
   title: PERLE 10 BOJA
   price: 525.0
   srbobran: 0
+  futog: 1
 3621:
   title: MIKNI KRAFT KUTIJICE
   price: 470.0
   srbobran: 0
+  futog: 2
 3622:
   title: SET ZA PRAVLJENJE NARUKVICA
   price: 490.0
   srbobran: 0
+  futog: 2
 3623:
   title: KRAFT
   price: 275.0
   srbobran: 2
+  futog: 3
 3625:
   title: PONPON MIX
   price: 275.0
   srbobran: 0
+  futog: 1
 3626:
   title: RASTEGLJIVA BANANA
   price: 420.0
   srbobran: 2
+  futog: 8
 3627:
   title: PODMETAČ 1/6
   price: 40.0
   srbobran: 12
+  futog: 12
 3708:
   title: LOPTICA SKOCICA
   price: 80.0
   srbobran: 22
-  futog: 0
+  futog: 18
 3722:
   title: CESTITKA BC/R
   price: 160.0
   srbobran: 4
-  futog: 0
+  futog: 6
 3723:
   title: CESTITKA BC/P
   price: 190.0
   srbobran: 7
-  futog: 0
+  futog: 3
 3724:
   title: BOJANKA B/5
   price: 210.0
   srbobran: 4
-  futog: 0
+  futog: 3
 3738:
   title: KUTIJA SA TACNOM 6602
   price: 195.0
@@ -1186,7 +1182,7 @@
   title: KARTE PIATNIK MAĐARICE
   price: 480.0
   srbobran: 2
-  futog: 0
+  futog: 2
 3771:
   title: NOVOGODISNJA SVECA
   price: 495.0
@@ -1199,6 +1195,7 @@
   title: SVECICA BROJ
   price: 50.0
   srbobran: 0
+  futog: 45
 3826:
   title: 'L - '
   price: 249.0
@@ -1207,23 +1204,24 @@
   title: PRIVEZAK ZA KLJUCEVE
   price: 350.0
   srbobran: 0
-  futog: 0
+  futog: 7
 3950:
   title: KREDA ZA TROTOAR
   price: 250.0
   srbobran: 2
+  futog: 3
 3954:
   title: BOJANKA A/4 SAVPO
 3979:
   title: EDUKATIVNE KARTE
   price: 490.0
   srbobran: 0
-  futog: 0
+  futog: 1
 4073:
   title: DECIJI KISOBRAN
   price: 650.0
   srbobran: 1
-  futog: 0
+  futog: 2
 4074:
   title: RUBIKOVA KOCKA
   price: 315.0
@@ -1256,29 +1254,26 @@
   title: 'CESTITKA '
   price: 140.0
   srbobran: 6
-  futog: 0
+  futog: 6
 4265:
   title: SELOTEJP UKRASNI
 4267:
   title: PUZZLE 1/3000
   price: 2950.0
   srbobran: 0
-  futog: 0
+  futog: 1
 4272:
   title: PAPIRNI STOLNJAK 7M
   price: 940.0
   srbobran: 2
-  futog: 0
+  futog: 1
 4514:
   title: PREVOZ POŠILJKE
 4515:
   title: AVANS
   price: 100.0
   srbobran: 0
-  futog: 0
 4516:
   title: KANCELARIJSKI MATERIJAL
 4517:
   title: USLUGA IZDVOJENOG ŠALTERA
-  price: 100.0
-  futog: -1

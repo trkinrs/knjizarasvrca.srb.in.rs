@@ -3,27 +3,27 @@
   title: KOPIJA A/4 1/1
   price: 15.0
   srbobran: -136
-  futog: -847
+  futog: -211
 2:
   title: KOPIJA A/4 1/2
   price: 20.0
   srbobran: -950
-  futog: -153
+  futog: -363
 3:
   title: KOPIJA A/3 1/1
   price: 20.0
   srbobran: -3
-  futog: -1
+  futog: 0
 4:
   title: OČITAVANJE
   price: 30.0
   srbobran: -23
-  futog: -19
+  futog: -2
 5:
   title: IZDAVANJE STALKA
   price: 500.0
   srbobran: 0
-  futog: -4
+  futog: -3
 6:
   title: KORIČENJE
   price: 100.0
@@ -33,9 +33,9 @@
   title: SKENIRANJE
   price: 50.0
   srbobran: -9
-  futog: -77
+  futog: -3
 8:
   title: DUVANJE BALONA
   price: 300.0
   srbobran: -136
-  futog: -42
+  futog: -6
