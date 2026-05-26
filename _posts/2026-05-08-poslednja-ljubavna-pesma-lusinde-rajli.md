@@ -3,7 +3,7 @@ layout: post
 image: assets/images/poslednja_ljubavna_pesma.webp
 title: 'Poslednja ljubavna pesma - Lusinde Rajli'
 ---
-[L - POSLEDNJA LJUBAVNA PESMA - LUSINDA RAJLI]({{ site.baseurl }}//komision/2498-l-poslednja-ljubavna-pesma-lusinda-rajli/) 
+[L - POSLEDNJA LJUBAVNA PESMA - LUSINDA RAJLI]({{ site.baseurl }}/komision/2498-l-poslednja-ljubavna-pesma-lusinda-rajli/) 
 
 Pozdrav svima, danas ćemo pričati o novom delu od Lusinde Rajli u pitanju je knjiga “Poslednja ljubavna pesma” koji je izašao u decembru 2025-e godine.
 
@@ -18,4 +18,3 @@ U ovoj knjizi ćete takođe pronaći mnogo intriga puno tajni iz prošlosti koje
 Pišite nam u komentarima koje je vaše mišljenje o ovoj knjizi.
 
 <video controls="" src="{{ site.baseurl }}/assets/videos/Poslednja ljubavna pesma - Lusinda Rajli.mp4"></video>
-

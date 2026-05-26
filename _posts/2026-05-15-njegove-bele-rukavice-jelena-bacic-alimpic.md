@@ -3,7 +3,7 @@ layout: post
 image: assets/images/Njegove-bele-rukavice-h1600.avif
 title: Njegove bele rukavice Jelena Bačić Alimpić
 ---
-Lepa knjiga koju mozete kupiti  [L - NJEGOVE BELE RUKAVICE - JELENA BAČIĆ ALIMPIĆ]({{ site.baseurl }}//komision/2460-l-njegove-bele-rukavice-jelena-bacic-alimpic/)
+Lepa knjiga koju mozete kupiti  [L - NJEGOVE BELE RUKAVICE - JELENA BAČIĆ ALIMPIĆ]({{ site.baseurl }}/komision/2460-l-njegove-bele-rukavice-jelena-bacic-alimpic/)
 
 <video controls="" src="{{ site.baseurl }}/assets/videos/njegove bele rukavice jelena bacic alimpic.mp4"></video>
 
@@ -21,4 +21,3 @@ koja se uprkos svim nedaćama hvata u koštac sa životom i u toj borbi istrajav
 Da li ste već pročitali ovu knjigu? Ukoliko jeste obavezno nam pišite koji su vaši utisci u komentarima.
 Ukoliko niste naša je topla preporuka da to uradite, čak može biti jedna lepa preporuka za jedan lep poklon.
 Zapratite našu stranicu [ŠvrćaNaGlas](https://www.instagram.com/svrcanaglas/) a mi se vidimo se nekim sledećem naslovom. Ćao!
-
