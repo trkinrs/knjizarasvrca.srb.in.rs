@@ -149,7 +149,7 @@
   title: VEŽBANKA
   price: 40.0
   srbobran: 43
-  futog: 42
+  futog: 40
 84:
   title: DRVENA BOJA 1/12 STAEDTLER
   price: 465.0
@@ -354,7 +354,7 @@
 177:
   title: HAMER B/1 BOJA
   price: 170.0
-  srbobran: 17
+  srbobran: 16
   futog: 42
 178:
   title: HAMER B/1 BELI
@@ -563,7 +563,7 @@
   title: OHO LEPAK 20G
   price: 160.0
   srbobran: 15
-  futog: 36
+  futog: 35
 697:
   title: OL HB MAPED
   price: 40.0
