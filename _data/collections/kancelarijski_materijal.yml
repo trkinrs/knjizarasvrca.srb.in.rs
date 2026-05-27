@@ -1131,7 +1131,7 @@
 1199:
   title: DOSIJE 40 DŽEPOVA
   price: 360.0
-  srbobran: 1
+  srbobran: 0
   futog: 1
 1204:
   title: PAPIR A/3 VK 20/10
@@ -1478,7 +1478,7 @@
 1991:
   title: REGISTRATOR A/4 N
   price: 330.0
-  srbobran: 21
+  srbobran: 19
   futog: 21
 1993:
   title: REGISTRATOR A/4 N
