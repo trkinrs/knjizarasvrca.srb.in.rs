@@ -33,12 +33,12 @@
   title: BLOK V
   price: 150.0
   srbobran: 18
-  futog: 47
+  futog: 46
 32:
   title: KOLAŽ B/5 SL
   price: 130.0
   srbobran: 7
-  futog: 21
+  futog: 20
 42:
   title: TO 0,5 PILOT
   price: 240.0
@@ -427,7 +427,7 @@
   title: OL HB SC
   price: 30.0
   srbobran: 0
-  futog: 48
+  futog: 45
 261:
   title: MINE 0,5 HB CONNECT
   price: 40.0
