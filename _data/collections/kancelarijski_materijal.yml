@@ -165,7 +165,7 @@
   title: CELOFAN 100/70
   price: 30.0
   srbobran: 4
-  futog: 2
+  futog: 0
 289:
   title: PRIVEZAK BOVA
   price: 59.0
@@ -1230,7 +1230,7 @@
   title: DOSIJE 11 RUPA 40MIC
   price: 6.0
   srbobran: 465
-  futog: 95
+  futog: 94
 1376:
   title: POLICA ZA DOKUMENTA
   price: 440.0
