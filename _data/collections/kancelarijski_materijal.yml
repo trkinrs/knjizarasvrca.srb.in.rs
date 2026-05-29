@@ -93,7 +93,7 @@
 193:
   title: SET HO+ROLER ELDORADO
   price: 2255.0
-  srbobran: 1
+  srbobran: 0
 195:
   title: SET HO+NP HEMINGWAY
   price: 2315.0
@@ -1065,7 +1065,7 @@
 1079:
   title: ROKOVNIK B/5 PLANO
   price: 685.0
-  srbobran: 2
+  srbobran: 1
 1080:
   title: 'FOTO PAPIR MAT '
   price: 60.0
