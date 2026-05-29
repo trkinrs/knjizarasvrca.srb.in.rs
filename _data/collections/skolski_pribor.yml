@@ -355,7 +355,7 @@
   title: HAMER B/1 BOJA
   price: 170.0
   srbobran: 14
-  futog: 42
+  futog: 39
 178:
   title: HAMER B/1 BELI
   price: 80.0
@@ -606,7 +606,7 @@
 889:
   title: DNEVNIK PRAKSE
   price: 220.0
-  srbobran: 2
+  srbobran: 1
   futog: 12
 892:
   title: REZAČ MAPED METALNI
@@ -1173,7 +1173,7 @@
   title: HAMER B/1 BOJA
   price: 170.0
   srbobran: 7
-  futog: 1
+  futog: 0
 3970:
   title: HO SC
 4078:
