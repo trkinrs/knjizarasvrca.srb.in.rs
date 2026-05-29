@@ -267,7 +267,7 @@
   title: HO AH 567C
   price: 30.0
   srbobran: 0
-  futog: 41
+  futog: 40
 443:
   title: VIZITAR POST
   price: 475.0
@@ -491,7 +491,7 @@
   title: MEMO BLOKČIĆ SPIRALA
   price: 200.0
   srbobran: 0
-  futog: 1
+  futog: 0
 569:
   title: BLOK KOCKA BOJA
   price: 195.0
@@ -1696,7 +1696,7 @@
   title: MARKER CP 1MM
   price: 85.0
   srbobran: 120
-  futog: 46
+  futog: 45
 3240:
   title: SET VINSKI ALEGRO
   price: 455.0
