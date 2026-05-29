@@ -204,7 +204,7 @@
 359:
   title: TO 0,5 ROTRING
   price: 650.0
-  srbobran: 6
+  srbobran: 5
   futog: 4
 360:
   title: SPAJALICE 33MM
@@ -367,12 +367,12 @@
 499:
   title: SIGNIR CONNECT
   price: 85.0
-  srbobran: 15
+  srbobran: 13
   futog: 0
 502:
   title: SIGNIR OF
   price: 55.0
-  srbobran: 13
+  srbobran: 10
   futog: 9
 503:
   title: SIGNIR MAPED
@@ -523,7 +523,7 @@
 580:
   title: KOVERAT AMERIKEN SL
   price: 7.0
-  srbobran: 184
+  srbobran: 174
   futog: 66
 582:
   title: KOVERAT AMERIKEN SL
@@ -561,7 +561,7 @@
 590:
   title: KOVERAT B/5 SL
   price: 15.0
-  srbobran: 120
+  srbobran: 115
   futog: 193
 592:
   title: KOVERAT B/5 SL
@@ -659,7 +659,7 @@
 632:
   title: PAPIR A/4 80G
   price: 3750.0
-  srbobran: 3
+  srbobran: 2
   futog: 2
 633:
   title: PAPIR A/4 80G
@@ -1154,7 +1154,7 @@
 1252:
   title: KOVERAT B/6
   price: 7.0
-  srbobran: 86
+  srbobran: 76
   futog: 41
 1263:
   title: MARKER KOSI OF
@@ -1229,7 +1229,7 @@
 1373:
   title: DOSIJE 11 RUPA 40MIC
   price: 6.0
-  srbobran: 365
+  srbobran: 345
   futog: 94
 1376:
   title: POLICA ZA DOKUMENTA

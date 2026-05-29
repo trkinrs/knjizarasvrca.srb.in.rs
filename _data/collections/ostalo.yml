@@ -232,12 +232,12 @@
 370:
   title: ČESTITKA ŠTAMPANA
   price: 220.0
-  srbobran: 25
+  srbobran: 23
   futog: 6
 371:
   title: ČESTITKA CVETNA
   price: 120.0
-  srbobran: 26
+  srbobran: 25
   futog: 14
 373:
   title: ČESTITKA MINI
@@ -562,7 +562,7 @@
 1231:
   title: 'ČESTITKA '
   price: 160.0
-  srbobran: 15
+  srbobran: 14
   futog: 17
 1232:
   title: BUŠAČ BORDURA
@@ -644,7 +644,7 @@
 1515:
   title: ČESTITKA
   price: 70.0
-  srbobran: 5
+  srbobran: 4
   futog: 6
 1518:
   title: BUŠAČ 10L
