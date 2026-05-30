@@ -51,7 +51,7 @@
 156:
   title: HO OF EASY GLIDE
   price: 60.0
-  srbobran: 27
+  srbobran: 20
   futog: 29
 160:
   title: KALKULATOR ELEVEN CMB-1201-BK
@@ -155,7 +155,7 @@
 267:
   title: MARKER CP
   price: 90.0
-  srbobran: 17
+  srbobran: 16
   futog: 0
 280:
   title: MASTILO ZA NP
@@ -190,8 +190,8 @@
 330:
   title: SUPER LEPAK BOND 3G
   price: 220.0
-  srbobran: 0
-  futog: 2
+  srbobran: 1
+  futog: 1
 336:
   title: MAKAZE KOHINOOR
   price: 325.0
@@ -248,7 +248,7 @@
 432:
   title: TERMO ROLNA 57/48MM
   price: 90.0
-  srbobran: 51
+  srbobran: 31
   futog: 40
 434:
   title: FILM FA 93 1/1
@@ -275,7 +275,7 @@
 444:
   title: 'GEL OL 0,5 '
   price: 30.0
-  srbobran: 8
+  srbobran: 6
   futog: 7
 445:
   title: ROLER PILOT G2 0,5
@@ -305,7 +305,7 @@
 458:
   title: UL ZA HO PVC
   price: 5.0
-  srbobran: 66
+  srbobran: 56
   futog: 51
 459:
   title: UL ZA HO PARKER METALNI
@@ -314,7 +314,7 @@
 460:
   title: UL ZA HO PARKER PVC
   price: 20.0
-  srbobran: 16
+  srbobran: 11
   futog: 25
 461:
   title: UL ZA HO 4404E
@@ -393,12 +393,12 @@
 524:
   title: TERMO ROLNA 57/40MM
   price: 60.0
-  srbobran: 45
+  srbobran: 25
   futog: 49
 525:
   title: TERMO ROLNA 80/60
   price: 160.0
-  srbobran: 24
+  srbobran: 20
   futog: 3
 528:
   title: SELOTEJP 50/50 T/M
@@ -504,7 +504,7 @@
 573:
   title: BLOK KOCKA
   price: 180.0
-  srbobran: 13
+  srbobran: 10
   futog: 6
 574:
   title: GUMICE ZA AKTA
@@ -514,7 +514,7 @@
 576:
   title: BLOK SL 1/100
   price: 50.0
-  srbobran: 21
+  srbobran: 20
   futog: 6
 578:
   title: BLOK SL 1/500
@@ -523,12 +523,12 @@
 580:
   title: KOVERAT AMERIKEN SL
   price: 7.0
-  srbobran: 174
+  srbobran: 154
   futog: 66
 582:
   title: KOVERAT AMERIKEN SL
   price: 5.0
-  srbobran: 500
+  srbobran: 400
   futog: 300
 583:
   title: KOVERAT B/6 SL
@@ -552,7 +552,7 @@
 587:
   title: KOVERAT A/4 SL
   price: 25.0
-  srbobran: 135
+  srbobran: 110
   futog: 100
 588:
   title: KOVERAT CD
@@ -561,8 +561,8 @@
 590:
   title: KOVERAT B/5 SL
   price: 15.0
-  srbobran: 115
-  futog: 182
+  srbobran: 120
+  futog: 132
 592:
   title: KOVERAT B/5 SL
   price: 13.0
@@ -576,8 +576,8 @@
 595:
   title: KOVERAT A/4 SL
   price: 30.0
-  srbobran: 39
-  futog: 48
+  srbobran: 29
+  futog: 28
 596:
   title: DOSIJE KROMO 280G
 597:
@@ -605,9 +605,9 @@
   srbobran: 0
 606:
   title: DOSIJE 11 RUPA 60MIC
-  price: 10.0
-  srbobran: 0
-  futog: 300
+  price: 8.0
+  srbobran: 300
+  futog: 0
 612:
   title: ČAŠA 0,2
   price: 5.0
@@ -659,8 +659,8 @@
 632:
   title: PAPIR A/4 80G
   price: 3750.0
-  srbobran: 2
-  futog: 2
+  srbobran: 4
+  futog: 0
 633:
   title: PAPIR A/4 80G
   price: 680.0
@@ -828,7 +828,7 @@
 724:
   title: SPAJALICE 25MM
   price: 45.0
-  srbobran: 13
+  srbobran: 12
   futog: 15
 727:
   title: ČIODE
@@ -902,8 +902,8 @@
 840:
   title: KOVERAT A/3
   price: 40.0
-  srbobran: 20
-  futog: 30
+  srbobran: 16
+  futog: 15
 843:
   title: KOLAŽ A/4 T
   price: 120.0
@@ -934,7 +934,7 @@
 934:
   title: KOREKTOR ČETKICA
   price: 130.0
-  srbobran: 20
+  srbobran: 18
   futog: 20
 940:
   title: TABLA PLUTA 60*40
@@ -1297,7 +1297,7 @@
 1445:
   title: DOSIJE 11 RUPA 60MIC
   price: 12.0
-  srbobran: 170
+  srbobran: 70
   futog: 100
 1452:
   title: POHVALNICA ZA POSTIGNUTE IR
@@ -1478,8 +1478,8 @@
 1991:
   title: REGISTRATOR A/4 N
   price: 330.0
-  srbobran: 18
-  futog: 21
+  srbobran: 14
+  futog: 11
 1993:
   title: REGISTRATOR A/4 N
   price: 340.0
@@ -1521,7 +1521,7 @@
 2115:
   title: SELOTEJP 15*33
   price: 40.0
-  srbobran: 78
+  srbobran: 46
   futog: 30
 2139:
   title: KREDE 1/100 BOJA
@@ -1588,7 +1588,7 @@
 2314:
   title: GEL OL PIŠI-BRIŠI
   price: 190.0
-  srbobran: 5
+  srbobran: 4
 2473:
   title: KUTIJA ZA PAPIR METALNA
   price: 200.0
@@ -1695,7 +1695,7 @@
 3230:
   title: MARKER CP 1MM
   price: 85.0
-  srbobran: 120
+  srbobran: 118
   futog: 45
 3240:
   title: SET VINSKI ALEGRO

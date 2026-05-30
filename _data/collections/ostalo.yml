@@ -34,7 +34,7 @@
 198:
   title: ČESTITKA ROĐENDAN
   price: 120.0
-  srbobran: 78
+  srbobran: 77
   futog: 45
 201:
   title: SALVETE 38*38/40
@@ -232,13 +232,13 @@
 370:
   title: ČESTITKA ŠTAMPANA
   price: 220.0
-  srbobran: 23
+  srbobran: 21
   futog: 6
 371:
   title: ČESTITKA CVETNA
   price: 120.0
   srbobran: 24
-  futog: 14
+  futog: 13
 373:
   title: ČESTITKA MINI
   price: 90.0
@@ -255,7 +255,7 @@
 376:
   title: ČESTITKA
   price: 190.0
-  srbobran: 4
+  srbobran: 3
   futog: 7
 379:
   title: ČESTITKA
@@ -562,7 +562,7 @@
 1231:
   title: 'ČESTITKA '
   price: 160.0
-  srbobran: 12
+  srbobran: 11
   futog: 17
 1232:
   title: BUŠAČ BORDURA
@@ -1139,8 +1139,8 @@
 3626:
   title: RASTEGLJIVA BANANA
   price: 420.0
-  srbobran: 1
-  futog: 8
+  srbobran: 3
+  futog: 6
 3627:
   title: PODMETAČ 1/6
   price: 40.0
