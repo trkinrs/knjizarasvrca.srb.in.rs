@@ -1558,7 +1558,7 @@
 1504:
   title: KC - FUDBAL ZA DOVITLJIVE
   price: 980.01
-  futog: 1
+  futog: 0
 1505:
   title: KC - FUDBAL - 40 SLAVNIH IGRAČA
   price: 980.01
@@ -3971,7 +3971,7 @@
 2523:
   title: VU - KNJIGA SA AKTIVNOSTIMA
   price: 799.0
-  srbobran: 3
+  srbobran: 2
 2524:
   title: L - PRIČE O NADI - HEDER MORIS
   price: 899.0
@@ -7286,7 +7286,7 @@
 3464:
   title: VU - ISIDORA MUN IDE NA SPAVANJAC KOD DRUGARICE
   price: 799.01
-  futog: 1
+  futog: 0
 3465:
   title: VU - ISIDORA MUN IZVODI ZIMSKE ČAROLIJE
   price: 799.01
