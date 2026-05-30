@@ -8,7 +8,7 @@
   title: TESARSKA OL
   price: 45.0
   srbobran: 5
-  futog: 3
+  futog: 2
 81:
   title: DOSIJE 30 DŽEPOVA
   price: 315.0
@@ -305,8 +305,8 @@
 458:
   title: UL ZA HO PVC
   price: 5.0
-  srbobran: 106
-  futog: 11
+  srbobran: 66
+  futog: 51
 459:
   title: UL ZA HO PARKER METALNI
   price: 30.0
@@ -476,7 +476,7 @@
 558:
   title: INDIGO
   price: 10.0
-  srbobran: 42
+  srbobran: 40
   futog: 50
 564:
   title: HO SCOOL COOL
@@ -1022,7 +1022,7 @@
 1009:
   title: PAPIRNI STOLNJAK BELI 7M
   price: 530.0
-  srbobran: 2
+  srbobran: 1
   futog: 0
 1013:
   title: FASCIKLA DUGME A/3
@@ -1766,7 +1766,7 @@
 3753:
   title: AKREDITIV KARTICA
   price: 20.0
-  srbobran: 18
+  srbobran: 17
 3777:
   title: HEFT MASINA DINGLI DL502
   price: 520.0
