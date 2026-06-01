@@ -2986,11 +2986,11 @@
 2251:
   title: VU - 50 NEVEROVATNIH ZVUKOVA - AKCIJA
   price: 1799.0
-  futog: 2
+  futog: 0
 2252:
   title: VU - BEBINA OTKRIVALICA - AKCIJA
   price: 499.0
-  futog: 2
+  futog: 0
 2253:
   title: PP - BAJKA SA NALEPNICAMA - ALADIN I ČAROBNA LAMPA
   price: 299.0
@@ -3026,16 +3026,16 @@
   title: VU - ADRENALIN - AKCIJA
   price: 210.0
   srbobran: 0
-  futog: 1
+  futog: 0
 2263:
   title: VU - DOK SE KAFA NE OHLADI - AKCIJA
   price: 499.0
-  futog: 1
+  futog: 0
 2264:
   title: VU - IGRA NASLEDNIKA - AKCIJA
   price: 440.0
   srbobran: 0
-  futog: 1
+  futog: 0
 2265:
   title: VU - VELIKA BOJANKA PUNA
   price: 499.0
@@ -3071,11 +3071,11 @@
 2277:
   title: VU - KLUB UBISTAVA ČETVRTKOM - AKCIJA
   price: 499.0
-  futog: 1
+  futog: 0
 2278:
   title: VU - KUĆA SVETLOSTI - AKCIJA
   price: 499.0
-  futog: 1
+  futog: 0
 2279:
   title: VU - MANIFESTUJ - AKCIJA
 2280:
@@ -3085,11 +3085,11 @@
 2282:
   title: VU - MOJA ZABAVNA KNJIGA JEDNOROZI - AKCIJA
   price: 399.0
-  futog: 1
+  futog: 0
 2283:
   title: VU - NA KAFI SA MAČKOM - AKCIJA
   price: 499.0
-  futog: 1
+  futog: 0
 2284:
   title: VU - NAJLEPŠE PRIČE IZ PRIRODE - AKCIJA
   price: 999.0
@@ -3097,18 +3097,18 @@
 2285:
   title: VU - NAJLEPŠE PRIČE ZA SLATKE SNOVE - AKCIJA
   price: 899.0
-  futog: 2
+  futog: 0
 2286:
   title: VU - NEZNANKA SA SENE - AKCIJA
 2287:
   title: VU - POKLANJAM TI ZVEZDE - AKCIJA
   price: 499.0
-  futog: 1
+  futog: 0
 2288:
   title: VU - SANATORIJUM - AKCIJA
   price: 999.0
   srbobran: 0
-  futog: 1
+  futog: 0
 2290:
   title: VU - MALA PLAŠLJIVICA
   price: 799.0
@@ -3118,7 +3118,7 @@
   title: VU - ŠAPTAČ - AKCIJA
   price: 799.0
   srbobran: 0
-  futog: 1
+  futog: 0
 2292:
   title: 'VU - MALE PRIČE O ŽIVOTINJAMA : PAČE'
   price: 449.0
@@ -3126,7 +3126,7 @@
 2293:
   title: VU - SLEDEĆE GODINE U OVO VREME - AKCIJA
   price: 499.0
-  futog: 1
+  futog: 0
 2294:
   title: VU - TAMO GDE RAKOVI PEVAJU - AKCIJA
   price: 499.0
@@ -3140,7 +3140,7 @@
 2297:
   title: VU - ZOV ANĐELA - AKCIJA
   price: 499.0
-  futog: 1
+  futog: 0
 2298:
   title: PČ - NIKI I NIŠTA - BOJAN BABIĆ
   price: 1480.02
@@ -3170,7 +3170,7 @@
 2305:
   title: VU - DAMIN GAMBIT - AKCIJA
   price: 499.0
-  futog: 1
+  futog: 0
 2306:
   title: VU - MOĆNI MITOVI I KAKO DA IH PREŽIVITE
   price: 2590.0
@@ -3190,7 +3190,7 @@
 2310:
   title: VU - KNJIGA SA NALEPNICAMA ZA MALIŠANE- AKCIJA
   price: 299.0
-  futog: 3
+  futog: 0
 2311:
   title: 'VU - OBOJ ŽIVOTINJE : KUCA'
   price: 349.0
@@ -3203,16 +3203,16 @@
   title: VU - UČENJE KROZ IGRU - KNJIGA SA AKTIVNOSTIMA - AKCIJA
   price: 299.0
   srbobran: 0
-  futog: 3
+  futog: 0
 2315:
   title: VU - NA SREĆNOM MESTU - AKCIJA
   price: 299.0
   srbobran: 0
-  futog: 1
+  futog: 0
 2316:
   title: VU - UMEĆE RATOVANJA / VLADALAC - AKCIJA
   price: 499.0
-  futog: 1
+  futog: 0
 2317:
   title: PČ - MESEČEVA AVATURA - JELENA IVETIĆ
   price: 1480.02
@@ -3224,19 +3224,19 @@
 2319:
   title: VU - DOBRA DEVOJKA, ZLA KRV - AKCIJA
   price: 499.0
-  futog: 1
+  futog: 0
 2320:
   title: VU - KO ĆE SUZE DA BRIŠE KAD TE NE BUDE VIŠE - AKCIJA
   price: 499.0
-  futog: 1
+  futog: 0
 2321:
   title: VU - KRADLJIVAC DUŠA - AKCIJA
   price: 499.0
-  futog: 1
+  futog: 0
 2322:
   title: VU - KUĆA BEZ SEĆANJA - AKCIJA
   price: 499.0
-  futog: 1
+  futog: 0
 2323:
   title: L - CILKIN PUT - HEDER MORIS
   price: 799.0
@@ -7162,15 +7162,15 @@
 3424:
   title: VU - BEBA UPOZNAJE - BOJE/BROJEVE - AKCIJA
   price: 499.0
-  futog: 3
+  futog: 0
 3425:
   title: VU - BEBA UPOZNAJE - SVET OKO NAS - AKCIJA
   price: 499.0
-  futog: 2
+  futog: 0
 3426:
   title: VU - BEBA UPOZNAJE - ŽIVOTINJE - AKCIJA
   price: 499.0
-  futog: 2
+  futog: 0
 3427:
   title: VU - BEBIN SVET - PESMARICA
 3431:
@@ -7262,11 +7262,11 @@
 3458:
   title: VU - HAJDE DA ISTRAŽIMO - LJUDSKO TELO - AKCIJA
   price: 799.0
-  futog: 2
+  futog: 0
 3459:
   title: VU - HAJDE DA ISTRAŽIMO - SVEMIR - AKCIJA
   price: 799.0
-  futog: 1
+  futog: 0
 3460:
   title: VU - IGRAJ SE SA NAMA - KUCE
   price: 399.01
@@ -7462,7 +7462,7 @@
 3519:
   title: VU - MOJ PRVI SLIKOVNI ATLAS - AKCIJA
   price: 399.0
-  futog: 1
+  futog: 0
 3520:
   title: VU - MOJA KNJIGA TAJNI
   price: 899.02
@@ -7524,7 +7524,7 @@
 3537:
   title: VU - MOJIH PRVIH 100 REČI - AKCIJA
   price: 699.0
-  futog: 1
+  futog: 0
 3538:
   title: VU - MUZIČKA KNJIGA - KRCKO ORAŠČIĆ
   price: 1499.04
@@ -7564,7 +7564,7 @@
 3547:
   title: VU - NAJLEPŠE PRIČE ZA LAKU NOĆ - AKCIJA
   price: 899.0
-  futog: 1
+  futog: 0
 3548:
   title: VU - NAJLEPŠE PRIČE ZA PRAZNIČNE VEČERI
   price: 1199.02
@@ -7808,7 +7808,7 @@
 3614:
   title: VU - ZVUČNA SLIKOVNICA - AKCIJA
   price: 1799.0
-  futog: 4
+  futog: 0
 3630:
   title: PP - MACA SUKI - BALERINA
   price: 1080.03
@@ -8031,7 +8031,7 @@
   title: VU - 100 REČI -KNJIGA SA AKTIVNOSTIMA - AKCIJA
   price: 1299.0
   srbobran: 0
-  futog: 4
+  futog: 0
 3752:
   title: VU - BEBA OTKRIVA SVET
   price: 1699.0
