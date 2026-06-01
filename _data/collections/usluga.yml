@@ -3,12 +3,12 @@
   title: KOPIJA A/4 1/1
   price: 15.0
   srbobran: -136
-  futog: -245
+  futog: -253
 2:
   title: KOPIJA A/4 1/2
   price: 20.0
   srbobran: -950
-  futog: -375
+  futog: -376
 3:
   title: KOPIJA A/3 1/1
   price: 20.0
@@ -37,5 +37,5 @@
 8:
   title: DUVANJE BALONA
   price: 300.0
-  srbobran: -155
+  srbobran: -158
   futog: -27

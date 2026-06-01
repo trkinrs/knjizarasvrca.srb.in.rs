@@ -500,8 +500,8 @@
 408:
   title: UDARALJKE ZA METALOFON
   price: 120.0
-  srbobran: 0
-  futog: 3
+  srbobran: 2
+  futog: 1
 420:
   title: PLOČA ZA LINOREZ
   price: 155.0
@@ -754,8 +754,8 @@
 1176:
   title: LEPAK TEČNI OF
   price: 80.0
-  srbobran: 0
-  futog: 12
+  srbobran: 12
+  futog: 0
 1187:
   title: TEMPERA U STICKU PASTEL 1/10
   price: 750.0
