@@ -155,7 +155,7 @@
 267:
   title: MARKER CP
   price: 90.0
-  srbobran: 16
+  srbobran: 4
   futog: 0
 280:
   title: MASTILO ZA NP
@@ -261,7 +261,7 @@
 439:
   title: HO SC RESTYLE
   price: 60.0
-  srbobran: 26
+  srbobran: 25
   futog: 33
 440:
   title: HO AH 567C
@@ -354,7 +354,7 @@
 482:
   title: HO AH 567
   price: 40.0
-  srbobran: 100
+  srbobran: 99
   futog: 60
 484:
   title: UL HO OF441
@@ -393,7 +393,7 @@
 524:
   title: TERMO ROLNA 57/40MM
   price: 60.0
-  srbobran: 25
+  srbobran: 15
   futog: 49
 525:
   title: TERMO ROLNA 80/60
@@ -481,7 +481,7 @@
 564:
   title: HO SCOOL COOL
   price: 50.0
-  srbobran: 18
+  srbobran: 2
   futog: 27
 567:
   title: BLOK BELEŠKE A/5
@@ -659,7 +659,7 @@
 632:
   title: PAPIR A/4 80G
   price: 3750.0
-  srbobran: 4
+  srbobran: 2
   futog: 0
 633:
   title: PAPIR A/4 80G
@@ -888,7 +888,7 @@
 830:
   title: FOLIJA ZA PLASTIFICIRANJE
   price: 1250.0
-  srbobran: 2
+  srbobran: 0
   futog: 0
 833:
   title: SKALPEL 18MM
@@ -1654,7 +1654,7 @@
 2774:
   title: MARKER 0,6 CP
   price: 85.0
-  srbobran: 90
+  srbobran: 89
   futog: 59
 2801:
   title: ORGANIZER 13 PREGRADA
@@ -1695,7 +1695,7 @@
 3230:
   title: MARKER CP 1MM
   price: 85.0
-  srbobran: 118
+  srbobran: 117
   futog: 45
 3240:
   title: SET VINSKI ALEGRO

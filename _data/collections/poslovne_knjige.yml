@@ -24,7 +24,7 @@
 746:
   title: OBRAZAC 1 1+1
   price: 130.0
-  srbobran: 57
+  srbobran: 55
   futog: 26
 748:
   title: OBRAZAC 1 1+2
@@ -105,7 +105,7 @@
 861:
   title: OTPREMNICA A/5
   price: 180.0
-  srbobran: 10
+  srbobran: 6
   futog: 5
 862:
   title: OTPREMNICA-PRIJEMNICA A/4
@@ -122,7 +122,7 @@
 865:
   title: OTPREMNICA A/5 PDV
   price: 180.0
-  srbobran: 10
+  srbobran: 8
   futog: 3
 866:
   title: OTKUPNI LIST A/5
