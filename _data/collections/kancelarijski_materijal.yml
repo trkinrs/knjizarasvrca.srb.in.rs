@@ -248,7 +248,7 @@
 432:
   title: TERMO ROLNA 57/48MM
   price: 90.0
-  srbobran: 31
+  srbobran: 30
   futog: 40
 434:
   title: FILM FA 93 1/1
@@ -393,7 +393,7 @@
 524:
   title: TERMO ROLNA 57/40MM
   price: 60.0
-  srbobran: 15
+  srbobran: 11
   futog: 49
 525:
   title: TERMO ROLNA 80/60
@@ -524,7 +524,7 @@
   title: KOVERAT AMERIKEN SL
   price: 7.0
   srbobran: 144
-  futog: 66
+  futog: 65
 582:
   title: KOVERAT AMERIKEN SL
   price: 5.0
@@ -584,7 +584,7 @@
   title: DOSIJE KROMO
   price: 40.0
   srbobran: 64
-  futog: 57
+  futog: 52
 598:
   title: DOSIJE SA GUMOM
   price: 120.0
@@ -1229,7 +1229,7 @@
 1373:
   title: DOSIJE 11 RUPA 40MIC
   price: 6.0
-  srbobran: 339
+  srbobran: 335
   futog: 91
 1376:
   title: POLICA ZA DOKUMENTA
