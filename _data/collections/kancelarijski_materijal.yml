@@ -398,7 +398,7 @@
 525:
   title: TERMO ROLNA 80/60
   price: 160.0
-  srbobran: 20
+  srbobran: 17
   futog: 3
 528:
   title: SELOTEJP 50/50 T/M
@@ -1212,7 +1212,7 @@
   title: DOSIJE 20 DŽEPOVA
   price: 250.0
   srbobran: 4
-  futog: 1
+  futog: 0
 1368:
   title: HEFT MAŠINA KANEX HD-10ED
   price: 350.0
@@ -1229,7 +1229,7 @@
 1373:
   title: DOSIJE 11 RUPA 40MIC
   price: 6.0
-  srbobran: 345
+  srbobran: 344
   futog: 94
 1376:
   title: POLICA ZA DOKUMENTA
