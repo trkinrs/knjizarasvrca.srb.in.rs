@@ -33,12 +33,12 @@
   title: BLOK V
   price: 150.0
   srbobran: 16
-  futog: 46
+  futog: 45
 32:
   title: KOLAŽ B/5 SL
   price: 130.0
   srbobran: 7
-  futog: 19
+  futog: 18
 42:
   title: TO 0,5 PILOT
   price: 240.0
@@ -326,7 +326,7 @@
   title: LEPAK STICK 10G
   price: 120.0
   srbobran: 0
-  futog: 38
+  futog: 37
 157:
   title: NP
   price: 90.0

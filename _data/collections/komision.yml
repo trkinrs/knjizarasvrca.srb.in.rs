@@ -2985,12 +2985,12 @@
   srbobran: 2
 2251:
   title: VU - BAJKA SALGALICA - CRVENKAPA - AKCIJA
-  price: 1799.0
-  futog: 0
+  price: 699.01
+  futog: 1
 2252:
   title: VU - BAJKA SLAGALICA - PINOKIO - AKCIJA
-  price: 499.0
-  futog: 0
+  price: 699.01
+  futog: 1
 2253:
   title: PP - BAJKA SA NALEPNICAMA - ALADIN I ČAROBNA LAMPA
   price: 299.0
@@ -3022,20 +3022,22 @@
   srbobran: 0
 2260:
   title: VU - BAJKA SLAGALICA - TRI PRASETA - AKCIJA
+  price: 699.01
+  futog: 1
 2261:
   title: VU - BEZ DAHA - AKCIJA
   price: 210.0
   srbobran: 0
-  futog: 0
+  futog: 1
 2263:
   title: VU - DEČAK OD STAKLA - AKCIJA
-  price: 499.0
-  futog: 0
+  price: 1199.02
+  futog: 1
 2264:
   title: VU - DEČAK U PRUGASTOJ PIDŽAMI - AKCIJA
   price: 440.0
   srbobran: 0
-  futog: 0
+  futog: 1
 2265:
   title: VU - VELIKA BOJANKA PUNA
   price: 499.0
@@ -3070,45 +3072,50 @@
   srbobran: 0
 2277:
   title: VU - DEVOJKA IZ BRUKLINA - AKCIJA
-  price: 499.0
-  futog: 0
+  price: 1199.02
+  futog: 1
 2278:
   title: VU - DEVOJKA IZ VOZA - AKCIJA
-  price: 499.0
-  futog: 0
+  price: 1099.02
+  futog: 1
 2279:
   title: VU - DOBA POROKA - AKCIJA
+  price: 1499.04
+  futog: 1
 2280:
   title: VU - MALI ŠAMPIONI - KVIZ - FARMA
   price: 799.0
   srbobran: 0
 2282:
   title: VU - HIPNOTIZER V - AKCIJA
-  price: 399.0
-  futog: 0
+  price: 1299.03
+  futog: 1
 2283:
   title: VU - IGRA ŠAPTAČA - AKCIJA
-  price: 499.0
-  futog: 0
+  price: 1199.02
+  futog: 1
 2284:
   title: VU - JEDNOM VERENI, VERENI ZAUVEK - AKCIJA
   price: 999.0
   srbobran: 0
+  futog: 1
 2285:
   title: VU - KNJIGA SLAGALICA, GDE ŽIVE ŽIVOTINJE? - AKCIJA
-  price: 899.0
-  futog: 0
+  price: 1099.02
+  futog: 1
 2286:
   title: VU - KNJIGA SLAGALICA - ŽIVOTINJE - AKCIJA
+  price: 1499.04
+  futog: 1
 2287:
   title: VU - LJUBAV BEZ PRAVILA - AKCIJA
-  price: 499.0
-  futog: 0
+  price: 1099.02
+  futog: 1
 2288:
   title: VU - LOVAC NA DUŠE - AKCIJA
   price: 999.0
   srbobran: 0
-  futog: 0
+  futog: 1
 2290:
   title: VU - MALA PLAŠLJIVICA
   price: 799.0
@@ -3118,29 +3125,32 @@
   title: VU - MALE TRAUME - AKCIJA
   price: 799.0
   srbobran: 0
-  futog: 0
+  futog: 1
 2292:
   title: 'VU - MALE PRIČE O ŽIVOTINJAMA : PAČE'
   price: 449.0
   srbobran: 1
 2293:
   title: VU - MEGAVEŽBANKA 1 - AKCIJA
-  price: 499.0
-  futog: 0
+  price: 1399.02
+  futog: 1
 2294:
   title: VU - MEGAVEŽBANKA 2 - AKCIJA
   price: 499.0
   srbobran: 0
+  futog: 1
 2295:
   title: VU - ZABAVNE AKTIVNOSTI I NALEPNICE
   price: 899.0
   srbobran: 1
 2296:
   title: VU - MOJ BLOK SA MOZGALICAMA - 3-4 GODINE - AKCIJA
+  price: 699.01
+  futog: 1
 2297:
   title: VU - MOJ BLOK SA MOZGALICAMA - 5-6 GODINA - AKCIJA
-  price: 499.0
-  futog: 0
+  price: 699.01
+  futog: 1
 2298:
   title: PČ - NIKI I NIŠTA - BOJAN BABIĆ
   price: 1480.02
@@ -3169,8 +3179,8 @@
   futog: 1
 2305:
   title: VU - MOJ BLOK SA MOZGALICAMA - 7-8 GODINA - AKCIJA
-  price: 499.0
-  futog: 0
+  price: 699.01
+  futog: 1
 2306:
   title: VU - MOĆNI MITOVI I KAKO DA IH PREŽIVITE
   price: 2590.0
@@ -3189,8 +3199,8 @@
   srbobran: 1
 2310:
   title: VU - MOJA PRVA PIŠI-BRIŠI KNJIGA - BOJE I BROJEVI- AKCIJA
-  price: 299.0
-  futog: 0
+  price: 899.02
+  futog: 1
 2311:
   title: 'VU - OBOJ ŽIVOTINJE : KUCA'
   price: 349.0
@@ -3203,16 +3213,16 @@
   title: VU - MOJA PRVA PIŠI-BRIŠI KNJIGA - OBLICI I VELIČINE - AKCIJA
   price: 299.0
   srbobran: 0
-  futog: 0
+  futog: 1
 2315:
   title: VU - NE OKLEVAJ NI TREN - AKCIJA
   price: 299.0
   srbobran: 0
-  futog: 0
+  futog: 1
 2316:
   title: VU - NEKO DRUGI - AKCIJA
-  price: 499.0
-  futog: 0
+  price: 1299.03
+  futog: 1
 2317:
   title: PČ - MESEČEVA AVATURA - JELENA IVETIĆ
   price: 1480.02
@@ -3223,20 +3233,20 @@
   futog: 1
 2319:
   title: VU - NEMA DAME BEZ MANE - AKCIJA
-  price: 499.0
-  futog: 0
+  price: 1199.02
+  futog: 1
 2320:
   title: VU - POSLE TEBE - AKCIJA
-  price: 499.0
-  futog: 0
+  price: 1199.02
+  futog: 1
 2321:
   title: VU - PRIČE KRATKE ZA SNOVE SLATNE - LAKU NOĆ DECO - AKCIJA
-  price: 499.0
-  futog: 0
+  price: 999.02
+  futog: 1
 2322:
   title: VU - PRIČE KRATKE ZA SNOVE SLATKE - PRINCEZE - AKCIJA
-  price: 499.0
-  futog: 0
+  price: 999.02
+  futog: 1
 2323:
   title: L - CILKIN PUT - HEDER MORIS
   price: 799.0
@@ -7161,16 +7171,16 @@
   futog: 1
 3424:
   title: VU - RAZMRDAJTE VIJUGE - DINOSAURI - AKCIJA
-  price: 499.0
-  futog: 0
+  price: 699.01
+  futog: 1
 3425:
   title: VU - RAZMRDAJTE VIJUGE - MAŠINE - AKCIJA
-  price: 499.0
-  futog: 0
+  price: 699.01
+  futog: 1
 3426:
   title: VU - RAZMRDAJTE VIJUGE - POD MOREM - AKCIJA
-  price: 499.0
-  futog: 0
+  price: 699.01
+  futog: 1
 3427:
   title: VU - BEBIN SVET - PESMARICA
 3431:
@@ -7261,12 +7271,12 @@
   futog: 1
 3458:
   title: VU - RAZMRDAJTE VIJUGE - SVEMIR - AKCIJA
-  price: 799.0
-  futog: 0
+  price: 699.01
+  futog: 1
 3459:
   title: VU - ŠTA DONOSI SUTRA - AKCIJA
-  price: 799.0
-  futog: 0
+  price: 1199.02
+  futog: 1
 3460:
   title: VU - IGRAJ SE SA NAMA - KUCE
   price: 399.01
@@ -7407,8 +7417,8 @@
   futog: 1
 3503:
   title: VU - UPOZNAJMO ŽIVOTINJE - BEBE ŽIVOTINJA - AKCIJA
-  price: 799.0
-  futog: 0
+  price: 999.02
+  futog: 1
 3504:
   title: VU - MAGIČNA KNJIŽICA ZA KUPANJE - KORNJAČA
   price: 699.01
@@ -7461,8 +7471,8 @@
   futog: 1
 3519:
   title: VU - UPOZNAJMO ŽIVOTINJE - DOMAĆE ŽIVOTINJE - AKCIJA
-  price: 399.0
-  futog: 0
+  price: 999.02
+  futog: 1
 3520:
   title: VU - MOJA KNJIGA TAJNI
   price: 899.02
@@ -7523,8 +7533,8 @@
   title: VU - MOJA ZABAVNA ROZE TORBICA
 3537:
   title: VU - VIZIJA U BELOM - AKCIJA
-  price: 699.0
-  futog: 0
+  price: 1199.02
+  futog: 1
 3538:
   title: VU - MUZIČKA KNJIGA - KRCKO ORAŠČIĆ
   price: 1499.04
@@ -7563,8 +7573,8 @@
   futog: 1
 3547:
   title: VU - VOJVODA JE SAMO NJEN - AKCIJA
-  price: 899.0
-  futog: 0
+  price: 1199.02
+  futog: 1
 3548:
   title: VU - NAJLEPŠE PRIČE ZA PRAZNIČNE VEČERI
   price: 1199.02
@@ -7807,8 +7817,8 @@
   futog: 1
 3614:
   title: VU - ZABAVA SA NALEPNICAMA - BEBE ŽIVOTINJA - AKCIJA
-  price: 1799.0
-  futog: 0
+  price: 699.01
+  futog: 1
 3630:
   title: PP - MACA SUKI - BALERINA
   price: 1080.03
@@ -8017,6 +8027,44 @@
   srbobran: 2
 3688:
   title: VU - ZABAVA SA NALEPNICAMA - GUSARI - AKCIJA
+  price: 699.01
+  futog: 1
+3689:
+  title: VU - ZABAVA SA NALEPNCAMA - KONJI, PONIJI I JEDNOROZI - AKCIJA
+  price: 699.01
+  futog: 1
+3690:
+  title: VU - ZABAVA SA NALEPNICAMA - LETNJA ZABAVA - AKCIJA
+  price: 699.01
+  futog: 1
+3691:
+  title: VU - ZABAVA SA NALEPNICAMA - NA SEOSKOM IMANJU - AKCIJA
+  price: 699.01
+  futog: 1
+3692:
+  title: VU - ZABAVA SA NALEPNICAMA - PODVODNA AVANTURA - AKCIJA
+  price: 699.01
+  futog: 1
+3693:
+  title: VU - ZABAVA SA NALEPNICAMA - SPORTSKA ZABAVA - AKCIJA
+  price: 699.01
+  futog: 1
+3694:
+  title: VU - ZABAVA SA NALEPNICAMA- ŽIVOTINJE IZ DŽUNGLE - AKCIJA
+  price: 699.01
+  futog: 1
+3695:
+  title: VU - ZAVIRI I ISTRAŽI - VESELA BAŠTA - AKCIJA
+  price: 999.02
+  futog: 1
+3696:
+  title: VU - ZAVIRI I ISTRAŽI - ZOOLOŠKI VRT - AKCIJA
+  price: 999.02
+  futog: 1
+3697:
+  title: VU - ZAVIRI I OTKRIJ - ŽIVOTINJE - AKCIJA
+  price: 999.02
+  futog: 1
 3741:
   title: 'L - '
   price: 1999.0
@@ -8033,7 +8081,7 @@
   title: VU - ZABAVA SA NALEPNICAMA - DINOSAURI - AKCIJA
   price: 1299.0
   srbobran: 0
-  futog: 0
+  futog: 1
 3752:
   title: VU - BEBA OTKRIVA SVET
   price: 1699.0
