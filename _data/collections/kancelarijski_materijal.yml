@@ -84,7 +84,7 @@
 186:
   title: SET HO+PENKALO TTO
   price: 1250.0
-  srbobran: 1
+  srbobran: 0
   futog: 2
 188:
   title: ROKOVNIK B/5 DATUMIRANI
@@ -101,7 +101,7 @@
 197:
   title: 'SET HO+ROLER '
   price: 1200.0
-  srbobran: 1
+  srbobran: 0
 199:
   title: NOTES SA GUMOM
   price: 285.0
@@ -583,7 +583,7 @@
 597:
   title: DOSIJE KROMO
   price: 40.0
-  srbobran: 64
+  srbobran: 63
   futog: 52
 598:
   title: DOSIJE SA GUMOM
@@ -819,7 +819,7 @@
 720:
   title: SPONKE MAPED 24/6
   price: 70.0
-  srbobran: 48
+  srbobran: 46
   futog: 19
 723:
   title: SPAJALICE 50MM
