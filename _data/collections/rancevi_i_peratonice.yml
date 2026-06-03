@@ -39,9 +39,9 @@
   futog: 1
 212:
   title: RANAC 305-4 VRTIĆ
-  price: 4850.0
-  srbobran: 0
-  futog: 8
+  price: 2160.0
+  srbobran: 4
+  futog: 4
 221:
   title: RANAC SC
   price: 3210.0
@@ -189,9 +189,9 @@
   srbobran: 1
 2893:
   title: 'SPORT TORBA '
-  price: 5805.0
-  srbobran: 0
-  futog: 10
+  price: 680.0
+  srbobran: 4
+  futog: 6
 2896:
   title: PERNICA EVA 3D
   price: 605.0

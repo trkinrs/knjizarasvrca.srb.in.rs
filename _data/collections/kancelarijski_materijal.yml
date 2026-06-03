@@ -41,7 +41,7 @@
 153:
   title: 'HO A PLUS '
   price: 60.0
-  srbobran: 26
+  srbobran: 25
   futog: 0
 155:
   title: NALEPNICE
@@ -305,8 +305,8 @@
 458:
   title: UL ZA HO PVC
   price: 5.0
-  srbobran: 56
-  futog: 251
+  srbobran: 156
+  futog: 151
 459:
   title: UL ZA HO PARKER METALNI
   price: 30.0
@@ -332,7 +332,7 @@
 467:
   title: GEL OLOVKA PIŠI-BRIŠI
   price: 210.0
-  srbobran: 7
+  srbobran: 5
   futog: 9
 477:
   title: HO BIC ROUND
@@ -631,13 +631,13 @@
 620:
   title: JEDERMAN
   price: 65.0
-  srbobran: 22
-  futog: 46
+  srbobran: 42
+  futog: 26
 621:
   title: ETIKETE ZA CENE
   price: 130.0
-  srbobran: 10
-  futog: 9
+  srbobran: 15
+  futog: 4
 625:
   title: ATAŠE MAPA PVC
   price: 350.0
@@ -786,8 +786,8 @@
 699:
   title: 'HO '
   price: 20.0
-  srbobran: 49
-  futog: 53
+  srbobran: 85
+  futog: 17
 703:
   title: HEFT MAŠINA MINI 24/6
   price: 250.0
@@ -1041,8 +1041,8 @@
 1029:
   title: ROLER CONNECT KF-217
   price: 80.0
-  srbobran: 0
-  futog: 20
+  srbobran: 20
+  futog: 0
 1038:
   title: KUTIJA ZA VK
   price: 130.0
@@ -1108,9 +1108,9 @@
   futog: 1
 1124:
   title: HEFT MAŠINA DL-368
-  price: 240.0
-  srbobran: 0
-  futog: 3
+  price: 195.0
+  srbobran: 2
+  futog: 1
 1127:
   title: HEFT MAŠINA DL-501
   price: 385.0
@@ -1156,8 +1156,8 @@
 1252:
   title: KOVERAT B/6
   price: 7.0
-  srbobran: 76
-  futog: 241
+  srbobran: 176
+  futog: 141
 1263:
   title: MARKER KOSI OF
   price: 50.0
@@ -1286,9 +1286,9 @@
   srbobran: 2
 1416:
   title: DOSIJE 40 DŽEPOVA
-  price: 360.0
-  srbobran: 0
-  futog: 6
+  price: 415.0
+  srbobran: 3
+  futog: 3
 1420:
   title: OVERA POTPISA
   price: 10.0
@@ -1524,8 +1524,8 @@
 2115:
   title: SELOTEJP 15*33
   price: 40.0
-  srbobran: 46
-  futog: 79
+  srbobran: 86
+  futog: 39
 2139:
   title: KREDE 1/100 BOJA
   price: 1150.0
@@ -1636,8 +1636,8 @@
 2595:
   title: MARKER BELI ICO
   price: 280.0
-  srbobran: 1
-  futog: 10
+  srbobran: 6
+  futog: 5
 2616:
   title: DOSIJE 11 RUPA 90MIC
   price: 12.0

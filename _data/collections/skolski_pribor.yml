@@ -354,8 +354,8 @@
 177:
   title: HAMER B/1 BOJA
   price: 170.0
-  srbobran: 19
-  futog: 50
+  srbobran: 30
+  futog: 39
 178:
   title: HAMER B/1 BELI
   price: 80.0
@@ -488,8 +488,8 @@
 367:
   title: LEPAK TEČNI NORA 50ML
   price: 75.0
-  srbobran: 0
-  futog: 20
+  srbobran: 12
+  futog: 8
 393:
   title: BRISAČ MASTILA
 404:
@@ -500,8 +500,8 @@
 408:
   title: UDARALJKE ZA METALOFON
   price: 120.0
-  srbobran: 2
-  futog: 6
+  srbobran: 4
+  futog: 4
 420:
   title: PLOČA ZA LINOREZ
   price: 155.0
@@ -518,7 +518,7 @@
 500:
   title: SET LENJIRA 1/4
   price: 255.0
-  srbobran: 4
+  srbobran: 3
   futog: 6
 511:
   title: ISTORIJSKI ATLAS
@@ -773,9 +773,9 @@
   futog: 7
 1205:
   title: START RAM
-  price: 510.0
-  srbobran: 0
-  futog: 3
+  price: 540.0
+  srbobran: 2
+  futog: 1
 1206:
   title: GUMICA OF
 1242:
@@ -876,9 +876,9 @@
   futog: 3
 1527:
   title: REČNIK A/6 2/3 KOLONE
-  price: 35.0
-  srbobran: 0
-  futog: 20
+  price: 40.0
+  srbobran: 10
+  futog: 10
 1808:
   title: METALOFON ŠKOLSKI SREDNJI
   price: 2750.0

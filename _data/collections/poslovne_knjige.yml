@@ -19,7 +19,7 @@
 630:
   title: PREVOZNICA A/5
   price: 180.0
-  srbobran: 5
+  srbobran: 2
   futog: 4
 746:
   title: OBRAZAC 1 1+1
@@ -33,7 +33,7 @@
 750:
   title: OBRAZAC 3 1+1
   price: 130.0
-  srbobran: 32
+  srbobran: 31
   futog: 11
 751:
   title: 'OBRAZAC 2 1+1 '
@@ -238,9 +238,9 @@
   srbobran: 0
 1278:
   title: KNJIGA INSPEKCIJE
-  price: 320.0
-  srbobran: 2
-  futog: 1
+  price: 385.0
+  srbobran: 3
+  futog: 0
 1333:
   title: ARHIVSKA KNJIGA
   price: 360.0
