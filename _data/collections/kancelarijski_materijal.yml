@@ -477,11 +477,11 @@
   title: INDIGO
   price: 10.0
   srbobran: 32
-  futog: 50
+  futog: 46
 564:
   title: HO SCOOL COOL
   price: 50.0
-  srbobran: 1
+  srbobran: 0
   futog: 27
 567:
   title: BLOK BELEŠKE A/5
@@ -515,7 +515,7 @@
   title: BLOK SL 1/100
   price: 50.0
   srbobran: 20
-  futog: 6
+  futog: 2
 578:
   title: BLOK SL 1/500
   price: 270.0
@@ -1654,7 +1654,7 @@
 2774:
   title: MARKER 0,6 CP
   price: 85.0
-  srbobran: 89
+  srbobran: 87
   futog: 59
 2801:
   title: ORGANIZER 13 PREGRADA
