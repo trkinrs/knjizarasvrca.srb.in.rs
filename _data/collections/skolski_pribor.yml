@@ -33,7 +33,7 @@
   title: BLOK V
   price: 150.0
   srbobran: 12
-  futog: 45
+  futog: 44
 32:
   title: KOLAŽ B/5 SL
   price: 130.0
@@ -104,7 +104,7 @@
   title: KESA ZA BLOK V
   price: 75.0
   srbobran: 41
-  futog: 50
+  futog: 49
 65:
   title: TEMPERA 1/12 6ML
   price: 260.0
@@ -355,7 +355,7 @@
   title: HAMER B/1 BOJA
   price: 170.0
   srbobran: 19
-  futog: 34
+  futog: 50
 178:
   title: HAMER B/1 BELI
   price: 80.0
@@ -489,7 +489,7 @@
   title: LEPAK TEČNI NORA 50ML
   price: 75.0
   srbobran: 0
-  futog: 9
+  futog: 20
 393:
   title: BRISAČ MASTILA
 404:
@@ -501,7 +501,7 @@
   title: UDARALJKE ZA METALOFON
   price: 120.0
   srbobran: 2
-  futog: 1
+  futog: 6
 420:
   title: PLOČA ZA LINOREZ
   price: 155.0
@@ -643,7 +643,7 @@
 946:
   title: REZAČ METALNI MAPED SATELIT
   price: 130.0
-  srbobran: 16
+  srbobran: 15
   futog: 16
 949:
   title: REZAČ IGLOO 1
@@ -775,7 +775,7 @@
   title: START RAM
   price: 510.0
   srbobran: 0
-  futog: 0
+  futog: 3
 1206:
   title: GUMICA OF
 1242:
@@ -878,6 +878,7 @@
   title: REČNIK A/6 2/3 KOLONE
   price: 35.0
   srbobran: 0
+  futog: 20
 1808:
   title: METALOFON ŠKOLSKI SREDNJI
   price: 2750.0
@@ -957,7 +958,7 @@
   title: VODENE BOJE 1/12 SC
   price: 225.0
   srbobran: 6
-  futog: 8
+  futog: 7
 2114:
   title: GUMICA SC
   price: 20.0
@@ -1142,7 +1143,7 @@
 3617:
   title: HAMER B1 BELI 250G
   price: 140.0
-  srbobran: 6
+  srbobran: 5
   futog: 8
 3624:
   title: 'HAMER A/4 '

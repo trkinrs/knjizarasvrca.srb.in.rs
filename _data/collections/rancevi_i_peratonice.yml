@@ -38,9 +38,10 @@
   srbobran: 0
   futog: 1
 212:
-  title: RANAC PULSE BICOLOR
+  title: RANAC 305-4 VRTIĆ
   price: 4850.0
   srbobran: 0
+  futog: 8
 221:
   title: RANAC SC
   price: 3210.0
@@ -187,10 +188,10 @@
   price: 1950.0
   srbobran: 1
 2893:
-  title: SPORT TORBA TARGET
+  title: 'SPORT TORBA '
   price: 5805.0
   srbobran: 0
-  futog: 0
+  futog: 10
 2896:
   title: PERNICA EVA 3D
   price: 605.0

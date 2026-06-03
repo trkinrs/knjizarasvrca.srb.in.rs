@@ -306,7 +306,7 @@
   title: UL ZA HO PVC
   price: 5.0
   srbobran: 56
-  futog: 51
+  futog: 251
 459:
   title: UL ZA HO PARKER METALNI
   price: 30.0
@@ -523,7 +523,7 @@
 580:
   title: KOVERAT AMERIKEN SL
   price: 7.0
-  srbobran: 144
+  srbobran: 136
   futog: 65
 582:
   title: KOVERAT AMERIKEN SL
@@ -561,7 +561,7 @@
 590:
   title: KOVERAT B/5 SL
   price: 15.0
-  srbobran: 120
+  srbobran: 110
   futog: 131
 592:
   title: KOVERAT B/5 SL
@@ -632,12 +632,12 @@
   title: JEDERMAN
   price: 65.0
   srbobran: 22
-  futog: 16
+  futog: 46
 621:
   title: ETIKETE ZA CENE
   price: 130.0
   srbobran: 10
-  futog: 4
+  futog: 9
 625:
   title: ATAŠE MAPA PVC
   price: 350.0
@@ -1042,6 +1042,7 @@
   title: ROLER CONNECT KF-217
   price: 80.0
   srbobran: 0
+  futog: 20
 1038:
   title: KUTIJA ZA VK
   price: 130.0
@@ -1106,9 +1107,10 @@
   srbobran: 0
   futog: 1
 1124:
-  title: HEFT MAŠINA SAX S-10
+  title: HEFT MAŠINA DL-368
   price: 240.0
   srbobran: 0
+  futog: 3
 1127:
   title: HEFT MAŠINA DL-501
   price: 385.0
@@ -1155,7 +1157,7 @@
   title: KOVERAT B/6
   price: 7.0
   srbobran: 76
-  futog: 41
+  futog: 241
 1263:
   title: MARKER KOSI OF
   price: 50.0
@@ -1286,6 +1288,7 @@
   title: DOSIJE 40 DŽEPOVA
   price: 360.0
   srbobran: 0
+  futog: 6
 1420:
   title: OVERA POTPISA
   price: 10.0
@@ -1298,7 +1301,7 @@
   title: DOSIJE 11 RUPA 60MIC
   price: 12.0
   srbobran: 70
-  futog: 100
+  futog: 400
 1452:
   title: POHVALNICA ZA POSTIGNUTE IR
   price: 30.0
@@ -1478,7 +1481,7 @@
 1991:
   title: REGISTRATOR A/4 N
   price: 330.0
-  srbobran: 14
+  srbobran: 13
   futog: 11
 1993:
   title: REGISTRATOR A/4 N
@@ -1522,7 +1525,7 @@
   title: SELOTEJP 15*33
   price: 40.0
   srbobran: 46
-  futog: 29
+  futog: 79
 2139:
   title: KREDE 1/100 BOJA
   price: 1150.0
@@ -1634,6 +1637,7 @@
   title: MARKER BELI ICO
   price: 280.0
   srbobran: 1
+  futog: 10
 2616:
   title: DOSIJE 11 RUPA 90MIC
   price: 12.0
