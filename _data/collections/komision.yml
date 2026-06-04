@@ -51,6 +51,7 @@
   title: PP - UČIM DA PIŠEM ŠTAMPANA ĆIRILICA
   price: 260.0
   srbobran: 0
+  futog: 1
 275:
   title: PP - UČIM DA PIŠEM PISANA ĆIRILICA
   price: 260.0
@@ -80,22 +81,26 @@
   title: PP - MALA ŠKOLA IV STEPEN
   price: 699.0
   srbobran: 0
+  futog: 2
 286:
   title: PP - MALA ŠKOLA V STEPEN
   price: 699.0
   srbobran: 0
+  futog: 2
 294:
   title: PP - MOJA VELIKA PREDŠKOLSKA KNJIGA
   price: 780.0
   srbobran: 2
+  futog: 2
 295:
   title: PP - KNJIGA ZA DEČAKE SA VISE OD 1000 NALEPNICA
   price: 680.0
   srbobran: 2
 296:
-  title: PP - KNJIGE ZA DEVOJČICE SA VISE OD 1000 NALEPNICA
+  title: PP - KNJIGA ZA DEVOJČICE SA VISE OD 1000 NALEPNICA
   price: 680.0
   srbobran: 0
+  futog: 1
 297:
   title: PP - MOJA PRVA SLOVARICA
   price: 3490.0
@@ -317,6 +322,7 @@
   title: PP - PIŠEM ĆIRILICU
   price: 500.0
   srbobran: 0
+  futog: 1
 406:
   title: PP - MOJA PRVA BIBLIOTEKA - OSEĆANJA SASSI
   price: 1980.0
@@ -552,6 +558,7 @@
   title: PP - 100 ZADATAKA 5 GODINA
   price: 699.0
   srbobran: 0
+  futog: 2
 540:
   title: PP - IGRA SKRIVALICA - GDE JE LAV ?
   price: 1290.0
@@ -566,9 +573,10 @@
   srbobran: 1
   futog: 1
 544:
-  title: PP - 100 ZADATAKA 6 GODINA
+  title: PP - BAJKA SA NALEPNICAMA - SNEŽANA I SEDAM PATULJAKA
   price: 699.0
   srbobran: 0
+  futog: 2
 549:
   title: PP - VELIKE MAŠINE - KOPAČI
   price: 399.0
@@ -1023,10 +1031,12 @@
   title: PP - 100 ZADATAKA - 6 GODINA
   price: 699.0
   srbobran: 1
+  futog: 2
 768:
-  title: PP - 100 ZADATAKA - 4 GODINE
+  title: PP - IZBROJ I NAUČI + TRAŽI I PRONAĐI - ZANIMANJA
   price: 699.0
   srbobran: 0
+  futog: 2
 770:
   title: VU - ČUDESNE BAJKE
   price: 249.0
@@ -1832,6 +1842,7 @@
   title: PP - MALI DRUGARI - SLON
   price: 299.0
   srbobran: 2
+  futog: 1
 1589:
   title: PP - MALI DRUGARI - TIGAR
   price: 299.0
@@ -1860,10 +1871,12 @@
   title: PP - MALE BAJKE - PRINCEZA I ŽABAC
   price: 299.0
   srbobran: 2
+  futog: 1
 1595:
   title: PP - MALE BAJKE - PINOKIO
   price: 299.0
   srbobran: 2
+  futog: 1
 1596:
   title: PP - MALE BAJKE - CRVENKAPA
   price: 299.0
@@ -1916,6 +1929,7 @@
   title: PP - MALE BAJKE - USPAVANA LEPOTICA
   price: 299.0
   srbobran: 1
+  futog: 1
 1617:
   title: PP - ZA TEBE SAM TU
   price: 499.0
@@ -2566,6 +2580,7 @@
   title: PP - MOJA PRVA KNJIGA SA NALEPNICAMA - TROPSKA ŠUMA
   price: 299.0
   srbobran: 1
+  futog: 1
 1976:
   title: KC - ŠTA ĆEŠ OBUĆI MACO ?
   price: 1300.01
@@ -2902,10 +2917,12 @@
   title: PP - MOJA PRVA KNJIGA SA NALEPNICAMA - FARMA
   price: 299.0
   srbobran: 1
+  futog: 2
 2172:
   title: PP - MOJA PRVA KNJIGA SA NALEPNICAMA - PRINCEZE
   price: 299.0
   srbobran: 1
+  futog: 2
 2179:
   title: VU - SUPERZABAVNI NAUČNI KVIZ
   price: 799.0
@@ -2958,6 +2975,7 @@
   title: PP - MOJA PRVA KNJIGA SA NALEPNICAMA - ŠUMA
   price: 299.0
   srbobran: 1
+  futog: 2
 2238:
   title: PP - MOJA PRVA KNJIGA SA NALEPNICAMA - ŠKOLA JAHANJA
   price: 299.0
@@ -2971,18 +2989,22 @@
   title: PP - BAJKA SA NALEPNICAMA - KNJIGA O DŽUNGLI
   price: 299.0
   srbobran: 2
+  futog: 2
 2248:
   title: PP - BAJKA SA NALEPNICAMA - LEPOTICA I ZVER
   price: 299.0
   srbobran: 2
+  futog: 2
 2249:
   title: PP - BAJKA SA NALEPNICAMA - PINOKIO
   price: 299.0
   srbobran: 2
+  futog: 2
 2250:
   title: PP - BAJKA SA NALEPNICAMA - ALISA U ZEMLJI ČUDA
   price: 299.0
   srbobran: 2
+  futog: 2
 2251:
   title: VU - BAJKA SALGALICA - CRVENKAPA - AKCIJA
   price: 399.0
@@ -2995,6 +3017,7 @@
   title: PP - BAJKA SA NALEPNICAMA - ALADIN I ČAROBNA LAMPA
   price: 299.0
   srbobran: 2
+  futog: 2
 2254:
   title: PP - LAROUSSE MONTESORI RS - UČIM DA SABIRAM I ODUZIMAM
   price: 640.0
@@ -4866,14 +4889,17 @@
   title: PP - ISECI, OBOJ I ZALEPI - PREVOZNA SREDSTVA
   price: 599.01
   srbobran: 1
+  futog: 2
 2770:
   title: PP - ISECI, OBOJ I ZALEPI - JEDNOROZI
   price: 599.01
   srbobran: 0
+  futog: 2
 2771:
   title: PP - ISECI, OBOJ I ZALEPI - ZOO-VRT
   price: 599.01
   srbobran: 2
+  futog: 2
 2772:
   title: PP - PUTUJ, UČI, ISTRAŽUJ - ZEMLJA - SASSI
   price: 1199.02
@@ -7839,36 +7865,44 @@
   title: PP - BOJANKA SA PALETOM BOJA - BROJEVI
   price: 299.0
   srbobran: 3
+  futog: 2
 3635:
   title: PP - BOJANKA SA PALETOM BOJA - OBLICI
   price: 299.0
   srbobran: 3
+  futog: 2
 3637:
   title: PP - BOJANKA SA PALETOM BOJA - BOJE
   price: 299.0
   srbobran: 3
+  futog: 2
 3638:
   title: PP - BOJANKA SA PALETOM BOJA - AZBUKA
   price: 299.0
   srbobran: 3
+  futog: 2
 3639:
   title: PP - NACRTAJ I OBOJ - VILE
   price: 199.0
   srbobran: 2
+  futog: 2
 3640:
   title: PP - NACRTAJ I OBOJ - GUSARI
   price: 199.0
   srbobran: 2
+  futog: 2
 3641:
   title: PP - NACRTAJ I OBOJ - PRINCEZE
   price: 199.0
   srbobran: 2
+  futog: 2
 3642:
   title: VU - ISIDORA MUN I BUNAR ŽELJA
 3643:
   title: PP - SLIKAMO PRSTIĆIMA - ŽIVOTINJE
   price: 599.01
   srbobran: 2
+  futog: 1
 3644:
   title: PP - SLIKAMO PRSTIĆIMA - MORSKI SVET
   price: 599.01
@@ -7877,6 +7911,7 @@
   title: PP - SLIKAMO PRSTIĆIMA - MODNE KREACIJE
   price: 599.01
   srbobran: 2
+  futog: 2
 3650:
   title: PP - SLIKAMO PRSTIĆIMA - FARMA
   price: 599.01
@@ -7885,26 +7920,32 @@
   title: PP - ČAROBNA BOJANKA - ŽIVOTINJE
   price: 599.01
   srbobran: 1
+  futog: 2
 3652:
   title: PP - ČAROBNA BOJANKA - JEDNOROZI
   price: 599.01
   srbobran: 2
+  futog: 2
 3653:
   title: PP - ČAROBNA BOJANKA - PRINCEZE
   price: 599.01
   srbobran: 2
+  futog: 2
 3654:
   title: PP - ČAROBNA BOJANKA - DINOSAURUSI
   price: 599.01
   srbobran: 2
+  futog: 2
 3655:
   title: PP - ZVUČNA KNJIGA - KUCA
   price: 699.01
   srbobran: 2
+  futog: 1
 3656:
   title: PP - ZVUČNA KNJIGA - MACA
   price: 699.01
   srbobran: 2
+  futog: 1
 3657:
   title: PP - ZVUČNA KNJIGA- PATKA
   price: 699.01
@@ -7917,10 +7958,12 @@
   title: PP - BOJANKA - JEDNOROZI ( 12 VOŠTANIH BOJICA )
   price: 599.01
   srbobran: 2
+  futog: 1
 3660:
   title: PP - BOJANKA - DINOSAURUSI ( 12 VOŠTANIH BOJICA )
   price: 599.01
   srbobran: 2
+  futog: 1
 3661:
   title: PP - KNJGA SA OTKRIVALICAMA - JEDNOROZI - SASSI
   price: 999.03
@@ -7941,10 +7984,12 @@
   title: PP - MOJE PRVE MOZGALICE
   price: 399.01
   srbobran: 2
+  futog: 2
 3667:
   title: PP - MOJA PRVA KREATIVNA MOZGALICA
   price: 399.01
   srbobran: 2
+  futog: 2
 3668:
   title: PP - BAJKE BRAĆE GRIM - JAKOB I VILHELM GRIM
   price: 1990.05
@@ -7957,10 +8002,12 @@
   title: PP - DAN I NOĆ - NA FARMI - SASSI
   price: 999.03
   srbobran: 2
+  futog: 1
 3671:
   title: PP - DAN I NOĆ - U ŠUMI - SASSI
   price: 999.03
   srbobran: 2
+  futog: 1
 3672:
   title: PP - DAN I NOĆ - DINOSAURUSI - SASSI
   price: 999.03
@@ -7981,50 +8028,62 @@
   title: PP - ČAROBNA AZBUKA - KOMPLET
   price: 1599.01
   srbobran: 2
+  futog: 1
 3677:
   title: PP - ČAROBNA ABECEDA - KOMPLET
   price: 1599.01
   srbobran: 2
+  futog: 1
 3678:
   title: PP - ČAROBNA AZBUKA I ČAROBNA ABECEDA - KOMPLET
   price: 2199.05
   srbobran: 2
+  futog: 1
 3679:
   title: PP - ČAROBNA AZBUKA - ŠTAMPANA SLOVA ĆIRILICE
   price: 599.01
   srbobran: 2
+  futog: 2
 3680:
   title: PP - ČAROBNA AZBUKA - PISANA SLOVA ĆIRILICE
   price: 599.01
   srbobran: 2
+  futog: 2
 3681:
   title: PP - ČAROBNA ABECEDA - ŠTAMPANA SLOVA LATINICE
   price: 599.01
   srbobran: 2
+  futog: 2
 3682:
   title: PP - ČAROBNA ABECEDA - PISANA SLOVA LATINICE
   price: 599.01
   srbobran: 2
+  futog: 2
 3683:
   title: PP - ČAROBNA CRTALICA - GRAFOMOTORIČKE VEŽBE
   price: 599.01
   srbobran: 2
+  futog: 2
 3684:
   title: PP - PIŠI-BRIŠI ŽIVOTINJE - KNJIGA SA AKTIVNOSTIMA
   price: 599.01
   srbobran: 2
+  futog: 2
 3685:
   title: PP - PIŠI-BRIŠI FARMA - KNJIGA SA AKTIVNOSTIMA
   price: 599.01
   srbobran: 2
+  futog: 2
 3686:
   title: PP - PIŠI-BRIŠI DINOSAURUSI - KNJIGA SA AKTIVNOSTIMA
   price: 599.01
   srbobran: 2
+  futog: 2
 3687:
   title: PP - PIŠI-BRIŠI OKEAN - KNJIGA SA AKTIVNOSTIMA
   price: 599.01
   srbobran: 2
+  futog: 2
 3688:
   title: VU - ZABAVA SA NALEPNICAMA - GUSARI - AKCIJA
   price: 499.0
@@ -8065,6 +8124,12 @@
   title: VU - ZAVIRI I OTKRIJ - ŽIVOTINJE - AKCIJA
   price: 499.0
   futog: 1
+3698:
+  title: PP - IZBROJ I NAUČI + TRAŽI I PRONAĐI - U KUPOVINI
+  price: 399.01
+  futog: 2
+3700:
+  title: PP - KNJIGA ZA DEVOJČICE SA VIŠE OD 1000 NALEPNICA
 3741:
   title: 'L - '
   price: 1999.0
@@ -8230,6 +8295,8 @@
   futog: 2
 4458:
   title: 'PP - VATROMET ZNANJA '
+  price: 550.01
+  futog: 1
 4459:
   title: PP - VRTEŠKA ZNANJA
   price: 550.01
