@@ -419,7 +419,7 @@
 533:
   title: KOVERAT DUGME A/4
   price: 250.0
-  srbobran: 8
+  srbobran: 7
   futog: 5
 534:
   title: SELOTEJP 50/50
@@ -562,7 +562,7 @@
   title: KOVERAT B/5 SL
   price: 15.0
   srbobran: 110
-  futog: 131
+  futog: 130
 592:
   title: KOVERAT B/5 SL
   price: 13.0
@@ -828,7 +828,7 @@
 724:
   title: SPAJALICE 25MM
   price: 45.0
-  srbobran: 12
+  srbobran: 11
   futog: 15
 727:
   title: ČIODE
@@ -934,7 +934,7 @@
 934:
   title: KOREKTOR ČETKICA
   price: 130.0
-  srbobran: 18
+  srbobran: 17
   futog: 20
 940:
   title: TABLA PLUTA 60*40
@@ -1267,7 +1267,7 @@
 1405:
   title: PAK PAPIR NATRON
   price: 40.0
-  srbobran: 30
+  srbobran: 25
   futog: 19
 1406:
   title: KOVERAT VAZDUŠNI BR-10
