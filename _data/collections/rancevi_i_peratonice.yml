@@ -10,9 +10,9 @@
   srbobran: 1
 200:
   title: PERNICA SC JEDNODELNA
-  price: 895.0
-  srbobran: 1
-  futog: 2
+  price: 985.0
+  srbobran: 7
+  futog: 8
 202:
   title: 'PERNICA '
   price: 345.0
@@ -30,8 +30,9 @@
   futog: 3
 209:
   title: PERNICA DVODELNA PUNA
-  price: 1135.0
-  srbobran: 0
+  price: 1095.0
+  srbobran: 4
+  futog: 4
 211:
   title: RANAC SC
   price: 3650.0
@@ -53,10 +54,13 @@
   srbobran: 1
 362:
   title: PERNICA TRODELNA PUNA
-  price: 250.0
-  srbobran: 0
+  price: 1345.0
+  srbobran: 3
+  futog: 3
 488:
   title: PERNICA PRAZNA URBAN 2 ZIPA
+  price: 530.0
+  futog: 2
 551:
   title: PERNICA OKRUGLA
   price: 650.0
@@ -64,8 +68,9 @@
   futog: 1
 871:
   title: 'PERNICA PRAZNA 1 ZIP '
-  price: 640.0
-  srbobran: 0
+  price: 950.0
+  srbobran: 2
+  futog: 4
 874:
   title: PERNICA TTS PUNA
   price: 855.0

@@ -659,8 +659,8 @@
 632:
   title: PAPIR A/4 80G
   price: 3750.0
-  srbobran: 2
-  futog: 0
+  srbobran: 6
+  futog: 1
 633:
   title: PAPIR A/4 80G
   price: 680.0
@@ -935,7 +935,7 @@
   title: KOREKTOR ČETKICA
   price: 130.0
   srbobran: 17
-  futog: 20
+  futog: 19
 940:
   title: TABLA PLUTA 60*40
   price: 799.0
@@ -1209,12 +1209,12 @@
   title: KOVERAT DUGME AMERIKEN
   price: 50.0
   srbobran: 4
-  futog: 2
+  futog: 12
 1365:
   title: DOSIJE 20 DŽEPOVA
   price: 250.0
   srbobran: 4
-  futog: 0
+  futog: 3
 1368:
   title: HEFT MAŠINA KANEX HD-10ED
   price: 350.0
@@ -1223,6 +1223,7 @@
   title: DOSIJE 30 DŽEPOVA
   price: 235.0
   srbobran: 0
+  futog: 3
 1371:
   title: DOSIJE SUP
   price: 80.0
@@ -1512,7 +1513,7 @@
 2088:
   title: MARKER ART OBOSTRANI
   price: 99.0
-  srbobran: 46
+  srbobran: 70
   futog: 33
 2089:
   title: ALAT ZA LINOREZ
