@@ -204,7 +204,7 @@
 359:
   title: TO 0,5 ROTRING
   price: 650.0
-  srbobran: 5
+  srbobran: 4
   futog: 4
 360:
   title: SPAJALICE 33MM
@@ -354,7 +354,7 @@
 482:
   title: HO AH 567
   price: 40.0
-  srbobran: 96
+  srbobran: 90
   futog: 60
 484:
   title: UL HO OF441
@@ -367,12 +367,12 @@
 499:
   title: SIGNIR CONNECT
   price: 85.0
-  srbobran: 13
+  srbobran: 11
   futog: 0
 502:
   title: SIGNIR OF
   price: 55.0
-  srbobran: 10
+  srbobran: 8
   futog: 9
 503:
   title: SIGNIR MAPED
@@ -394,7 +394,7 @@
   title: TERMO ROLNA 57/40MM
   price: 60.0
   srbobran: 11
-  futog: 44
+  futog: 34
 525:
   title: TERMO ROLNA 80/60
   price: 160.0
@@ -528,7 +528,7 @@
 582:
   title: KOVERAT AMERIKEN SL
   price: 5.0
-  srbobran: 400
+  srbobran: 300
   futog: 300
 583:
   title: KOVERAT B/6 SL
@@ -664,7 +664,7 @@
 633:
   title: PAPIR A/4 80G
   price: 680.0
-  srbobran: 22
+  srbobran: 21
   futog: 31
 635:
   title: PAPIR A4 U BOJI 1/100
@@ -786,7 +786,7 @@
 699:
   title: 'HO '
   price: 20.0
-  srbobran: 85
+  srbobran: 83
   futog: 17
 703:
   title: HEFT MAŠINA MINI 24/6
@@ -820,7 +820,7 @@
   title: SPONKE MAPED 24/6
   price: 70.0
   srbobran: 46
-  futog: 19
+  futog: 18
 723:
   title: SPAJALICE 50MM
   price: 210.0
@@ -828,8 +828,8 @@
 724:
   title: SPAJALICE 25MM
   price: 45.0
-  srbobran: 11
-  futog: 15
+  srbobran: 10
+  futog: 14
 727:
   title: ČIODE
   price: 40.0
@@ -858,7 +858,7 @@
 777:
   title: BLOK A/6 C/5 SP
   price: 100.0
-  srbobran: 14
+  srbobran: 9
   futog: 15
 780:
   title: ŠTIPALJKA 19MM
@@ -934,7 +934,7 @@
 934:
   title: KOREKTOR ČETKICA
   price: 130.0
-  srbobran: 17
+  srbobran: 15
   futog: 19
 940:
   title: TABLA PLUTA 60*40
@@ -1513,7 +1513,7 @@
 2088:
   title: MARKER ART OBOSTRANI
   price: 99.0
-  srbobran: 70
+  srbobran: 67
   futog: 33
 2089:
   title: ALAT ZA LINOREZ
@@ -1558,7 +1558,7 @@
 2178:
   title: DOSIJE 11 RUPA 80MIC
   price: 15.0
-  srbobran: 535
+  srbobran: 525
   futog: 337
 2193:
   title: MARKER FLIP CHART 1/4
@@ -1700,7 +1700,7 @@
 3230:
   title: MARKER CP 1MM
   price: 85.0
-  srbobran: 116
+  srbobran: 111
   futog: 45
 3240:
   title: SET VINSKI ALEGRO
