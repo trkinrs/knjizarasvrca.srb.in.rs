@@ -577,7 +577,7 @@
   title: KOVERAT A/4 SL
   price: 30.0
   srbobran: 29
-  futog: 28
+  futog: 27
 596:
   title: DOSIJE KROMO 280G
 597:
@@ -589,7 +589,7 @@
   title: DOSIJE SA GUMOM
   price: 120.0
   srbobran: 55
-  futog: 29
+  futog: 28
 599:
   title: DOSIJE BOJA
   price: 60.0
@@ -778,7 +778,7 @@
   title: ROKOVNIK B/5 VISION
   price: 685.0
   srbobran: 0
-  futog: 2
+  futog: 1
 696:
   title: ROKOVNIK B/5 VENTURA
   price: 930.0
@@ -819,7 +819,7 @@
 720:
   title: SPONKE MAPED 24/6
   price: 70.0
-  srbobran: 46
+  srbobran: 44
   futog: 18
 723:
   title: SPAJALICE 50MM
@@ -1232,7 +1232,7 @@
 1373:
   title: DOSIJE 11 RUPA 40MIC
   price: 6.0
-  srbobran: 332
+  srbobran: 331
   futog: 88
 1376:
   title: POLICA ZA DOKUMENTA
@@ -1482,7 +1482,7 @@
 1991:
   title: REGISTRATOR A/4 N
   price: 330.0
-  srbobran: 13
+  srbobran: 11
   futog: 11
 1993:
   title: REGISTRATOR A/4 N
