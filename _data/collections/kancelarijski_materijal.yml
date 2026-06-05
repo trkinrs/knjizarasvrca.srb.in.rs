@@ -115,7 +115,7 @@
   title: HO 6 BOJA
   price: 135.0
   srbobran: 12
-  futog: 13
+  futog: 12
 206:
   title: HO 10 BOJA
   price: 195.0
@@ -248,7 +248,7 @@
 432:
   title: TERMO ROLNA 57/48MM
   price: 90.0
-  srbobran: 30
+  srbobran: 24
   futog: 35
 434:
   title: FILM FA 93 1/1
@@ -1526,7 +1526,7 @@
   title: SELOTEJP 15*33
   price: 40.0
   srbobran: 86
-  futog: 39
+  futog: 38
 2139:
   title: KREDE 1/100 BOJA
   price: 1150.0
@@ -1670,7 +1670,7 @@
   title: PAPIR A/4 80G BOJA
   price: 10.0
   srbobran: 545
-  futog: 487
+  futog: 484
 2961:
   title: DOZVOLJENO PUSENJE A/4
   price: 55.0
