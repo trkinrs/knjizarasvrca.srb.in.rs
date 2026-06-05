@@ -204,7 +204,7 @@
 359:
   title: TO 0,5 ROTRING
   price: 650.0
-  srbobran: 4
+  srbobran: 3
   futog: 4
 360:
   title: SPAJALICE 33MM
@@ -248,7 +248,7 @@
 432:
   title: TERMO ROLNA 57/48MM
   price: 90.0
-  srbobran: 24
+  srbobran: 23
   futog: 35
 434:
   title: FILM FA 93 1/1
@@ -306,7 +306,7 @@
   title: UL ZA HO PVC
   price: 5.0
   srbobran: 156
-  futog: 151
+  futog: 149
 459:
   title: UL ZA HO PARKER METALNI
   price: 30.0
@@ -315,7 +315,7 @@
   title: UL ZA HO PARKER PVC
   price: 20.0
   srbobran: 11
-  futog: 25
+  futog: 21
 461:
   title: UL ZA HO 4404E
   price: 10.0
@@ -393,7 +393,7 @@
 524:
   title: TERMO ROLNA 57/40MM
   price: 60.0
-  srbobran: 11
+  srbobran: 10
   futog: 34
 525:
   title: TERMO ROLNA 80/60
