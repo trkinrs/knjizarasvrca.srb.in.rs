@@ -3025,7 +3025,7 @@
 2255:
   title: PP - OTKRIVAM, STVARAM I SMIŠLJAM SA 6 GODINA
   price: 740.0
-  srbobran: 0
+  srbobran: -1
   futog: 2
 2256:
   title: VU - MALI GENIJALCI - UČIMO DA BROJIMO NA ENGLESKOM JEZIKU
@@ -4911,11 +4911,11 @@
 2775:
   title: PP - PUTUJ, UČI, ISTRAŽUJ -  SVEMIR - SASSI
   price: 1199.02
-  srbobran: 1
+  srbobran: 0
 2776:
   title: PP - PUTUJ, UČI, ISTRAŽUJ -  LJUDSKO TELO - SASSI
   price: 1199.02
-  srbobran: 1
+  srbobran: 0
 2777:
   title: PP - UPOZNAJEM PLANETU ZELJU - AUZOU
   price: 3490.07
@@ -8042,7 +8042,7 @@
 3679:
   title: PP - ČAROBNA AZBUKA - ŠTAMPANA SLOVA ĆIRILICE
   price: 599.01
-  srbobran: 1
+  srbobran: 0
   futog: 2
 3680:
   title: PP - ČAROBNA AZBUKA - PISANA SLOVA ĆIRILICE
@@ -8062,7 +8062,7 @@
 3683:
   title: PP - ČAROBNA CRTALICA - GRAFOMOTORIČKE VEŽBE
   price: 599.01
-  srbobran: 1
+  srbobran: 0
   futog: 2
 3684:
   title: PP - PIŠI-BRIŠI ŽIVOTINJE - KNJIGA SA AKTIVNOSTIMA
