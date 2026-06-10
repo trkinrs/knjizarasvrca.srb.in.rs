@@ -51,8 +51,8 @@
 156:
   title: HO OF EASY GLIDE
   price: 60.0
-  srbobran: 14
-  futog: 29
+  srbobran: 42
+  futog: 1
 160:
   title: KALKULATOR ELEVEN CMB-1201-BK
   price: 1025.0
@@ -248,7 +248,7 @@
 432:
   title: TERMO ROLNA 57/48MM
   price: 90.0
-  srbobran: 20
+  srbobran: 10
   futog: 35
 434:
   title: FILM FA 93 1/1
@@ -523,7 +523,7 @@
 580:
   title: KOVERAT AMERIKEN SL
   price: 7.0
-  srbobran: 136
+  srbobran: 127
   futog: 65
 582:
   title: KOVERAT AMERIKEN SL
@@ -1700,8 +1700,8 @@
 3230:
   title: MARKER CP 1MM
   price: 85.0
-  srbobran: 111
-  futog: 45
+  srbobran: 114
+  futog: 42
 3240:
   title: SET VINSKI ALEGRO
   price: 455.0
@@ -1722,7 +1722,8 @@
 3467:
   title: MARKER BT OF
   price: 50.0
-  srbobran: 28
+  srbobran: 38
+  futog: 0
 3500:
   title: DOSIJE 11 RUPA 120MIC
   price: 15.0

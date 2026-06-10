@@ -606,8 +606,8 @@
 889:
   title: DNEVNIK PRAKSE
   price: 220.0
-  srbobran: 0
-  futog: 12
+  srbobran: 5
+  futog: 7
 892:
   title: REZAČ MAPED METALNI
   price: 120.0
@@ -754,7 +754,7 @@
 1176:
   title: LEPAK TEČNI OF
   price: 80.0
-  srbobran: 72
+  srbobran: 96
   futog: 0
 1187:
   title: TEMPERA U STICKU PASTEL 1/10
