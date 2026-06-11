@@ -149,6 +149,7 @@
   title: POZIVNICE ZA ROĐENDAN
   price: 10.0
   srbobran: 0
+  futog: 100
 315:
   title: TREZOR JOLLY
   price: 1599.0
@@ -238,7 +239,7 @@
   title: ČESTITKA CVETNA
   price: 120.0
   srbobran: 24
-  futog: 11
+  futog: 10
 373:
   title: ČESTITKA MINI
   price: 90.0
@@ -718,7 +719,7 @@
   title: 'PRSTEN '
   price: 70.0
   srbobran: 15
-  futog: 25
+  futog: 23
 2173:
   title: SET MALA DOKTORKA 5 DELOVA
   price: 320.0
@@ -1165,7 +1166,7 @@
   title: BOJANKA B/5
   price: 210.0
   srbobran: 4
-  futog: 1
+  futog: 5
 3738:
   title: KUTIJA SA TACNOM 6602
   price: 195.0

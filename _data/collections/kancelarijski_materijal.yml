@@ -57,7 +57,7 @@
   title: KALKULATOR TTO DG 900A
   price: 1025.0
   srbobran: 0
-  futog: 0
+  futog: 1
 167:
   title: OBOSTRANO LEPLJIVA TRAKA 18MM
   price: 180.0
@@ -85,7 +85,7 @@
   title: SET HO+PENKALO TTO
   price: 1250.0
   srbobran: 0
-  futog: 2
+  futog: 1
 188:
   title: ROKOVNIK B/5 DATUMIRANI
   price: 940.0
@@ -354,7 +354,7 @@
 482:
   title: HO AH 567
   price: 40.0
-  srbobran: 89
+  srbobran: 88
   futog: 60
 484:
   title: UL HO OF441
@@ -393,7 +393,7 @@
 524:
   title: TERMO ROLNA 57/40MM
   price: 60.0
-  srbobran: 7
+  srbobran: 57
   futog: 30
 525:
   title: TERMO ROLNA 80/60
@@ -485,8 +485,9 @@
   futog: 27
 567:
   title: BLOK BELEŠKE A/5
-  price: 140.0
-  srbobran: 0
+  price: 160.0
+  srbobran: 3
+  futog: 0
 568:
   title: MEMO BLOKČIĆ SPIRALA
   price: 200.0
@@ -513,9 +514,9 @@
   futog: 0
 576:
   title: BLOK SL 1/100
-  price: 50.0
-  srbobran: 20
-  futog: 2
+  price: 80.0
+  srbobran: 21
+  futog: 10
 578:
   title: BLOK SL 1/500
   price: 270.0
@@ -523,8 +524,8 @@
 580:
   title: KOVERAT AMERIKEN SL
   price: 7.0
-  srbobran: 127
-  futog: 65
+  srbobran: 227
+  futog: 165
 582:
   title: KOVERAT AMERIKEN SL
   price: 5.0
@@ -857,8 +858,8 @@
   futog: 36
 777:
   title: BLOK A/6 C/5 SP
-  price: 100.0
-  srbobran: 9
+  price: 130.0
+  srbobran: 29
   futog: 15
 780:
   title: ŠTIPALJKA 19MM
@@ -1188,6 +1189,7 @@
   title: BLANKO 120*12/4" 1+1
   price: 5150.0
   srbobran: 0
+  futog: 0
 1339:
   title: UGOVOR O RADU
   price: 50.0
@@ -1232,7 +1234,7 @@
 1373:
   title: DOSIJE 11 RUPA 40MIC
   price: 6.0
-  srbobran: 327
+  srbobran: 326
   futog: 87
 1376:
   title: POLICA ZA DOKUMENTA
@@ -1428,8 +1430,8 @@
 1900:
   title: TERMO ROLNA 80/70MM
   price: 225.0
-  srbobran: 11
-  futog: 4
+  srbobran: 31
+  futog: 8
 1912:
   title: ZABRANJENO PUSENJE A/4
   price: 95.0

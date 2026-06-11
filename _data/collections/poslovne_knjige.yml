@@ -19,8 +19,8 @@
 630:
   title: PREVOZNICA A/5
   price: 180.0
-  srbobran: 2
-  futog: 4
+  srbobran: 10
+  futog: 6
 746:
   title: OBRAZAC 1 1+1
   price: 130.0
@@ -105,8 +105,8 @@
 861:
   title: OTPREMNICA A/5
   price: 180.0
-  srbobran: 6
-  futog: 1
+  srbobran: 11
+  futog: 6
 862:
   title: OTPREMNICA-PRIJEMNICA A/4
   price: 240.0
