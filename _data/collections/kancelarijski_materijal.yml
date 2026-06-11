@@ -24,7 +24,7 @@
 88:
   title: FOLIJA BUS
   price: 20.0
-  srbobran: 6
+  srbobran: 3
 90:
   title: PRIZNANICA A/5
   price: 150.0
@@ -665,7 +665,7 @@
   title: PAPIR A/4 80G
   price: 680.0
   srbobran: 21
-  futog: 31
+  futog: 30
 635:
   title: PAPIR A4 U BOJI 1/100
   price: 295.0
