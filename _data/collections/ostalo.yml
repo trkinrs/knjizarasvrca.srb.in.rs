@@ -95,7 +95,7 @@
 269:
   title: PRIVEZAK ŽIVOTINJICA
   price: 450.0
-  srbobran: 59
+  srbobran: 58
   futog: 62
 270:
   title: FUTROLA ZA KLJUCEVE
@@ -475,7 +475,8 @@
 1059:
   title: NEDELJNI PLANER A/4
   price: 495.0
-  srbobran: 1
+  srbobran: 0
+  futog: 1
 1064:
   title: BG-RL MATEMATIKA 2 DEO 2/M
   price: 850.0
