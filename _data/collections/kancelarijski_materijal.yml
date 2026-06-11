@@ -190,7 +190,7 @@
 330:
   title: SUPER LEPAK BOND 3G
   price: 220.0
-  srbobran: 1
+  srbobran: 0
   futog: 1
 336:
   title: MAKAZE KOHINOOR
@@ -666,7 +666,7 @@
   title: PAPIR A/4 80G
   price: 680.0
   srbobran: 21
-  futog: 30
+  futog: 29
 635:
   title: PAPIR A4 U BOJI 1/100
   price: 295.0
@@ -1235,7 +1235,7 @@
   title: DOSIJE 11 RUPA 40MIC
   price: 6.0
   srbobran: 326
-  futog: 87
+  futog: 86
 1376:
   title: POLICA ZA DOKUMENTA
   price: 440.0
