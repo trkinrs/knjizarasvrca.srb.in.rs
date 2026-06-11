@@ -585,7 +585,7 @@
 597:
   title: DOSIJE KROMO
   price: 40.0
-  srbobran: 61
+  srbobran: 59
   futog: 51
 598:
   title: DOSIJE SA GUMOM
@@ -595,7 +595,7 @@
 599:
   title: DOSIJE BOJA
   price: 60.0
-  srbobran: 39
+  srbobran: 37
   futog: 23
 602:
   title: DOSIJE L
@@ -1236,7 +1236,7 @@
   title: DOSIJE 11 RUPA 40MIC
   price: 6.0
   srbobran: 326
-  futog: 86
+  futog: 85
 1376:
   title: POLICA ZA DOKUMENTA
   price: 440.0
