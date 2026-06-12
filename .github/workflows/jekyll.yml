@@ -1,16 +1,17 @@
-name: Build and deploy Jekyll site
+name: Build Jekyll
 
 on:
   push:
     branches:
       - main
 
+permissions:
+  contents: write
+
 jobs:
-  build-and-deploy:
+  build-and-push:
     if: contains(github.event.head_commit.message, '[run-ci]')
     runs-on: ubuntu-latest
-    permissions:
-      contents: write
 
     steps:
       - name: Checkout
@@ -19,13 +20,9 @@ jobs:
       - name: Setup Ruby
         uses: ruby/setup-ruby@v1
         with:
-          ruby-version: '3.3'
           bundler-cache: true
 
-      - name: Generate article pages
-        run: ruby scripts/generate_article_pages.rb
-
-      - name: Build Jekyll site
+      - name: Build site
         run: bundle exec jekyll build
 
       - name: Deploy to gh-pages
