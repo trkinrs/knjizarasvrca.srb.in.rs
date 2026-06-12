@@ -90,6 +90,8 @@ layout: page
   {% assign item_data = site.data.collections[page.collection_name][article.sku] %}
   {% assign srb = item_data.srbobran | plus: 0 %}
   {% assign fut = item_data.futog | plus: 0 %}
+  {% assign total_stock = srb | plus: fut %}
+  {% if total_stock == 0 %}{% continue %}{% endif %}
   <a class="product-card-item" href="{{ article.url | relative_url }}">
     {% if article.image %}
       <img class="product-card-img" src="{{ article.image | relative_url }}" alt="{{ article.title }}">
