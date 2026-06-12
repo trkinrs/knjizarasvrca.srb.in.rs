@@ -33,19 +33,30 @@ desc "Commit source code to main"
 task :commit_source do
   sh "git add ."
   sh %(git commit -m "Update source site content" || echo 'Nothing to commit on main')
+  sh "git pull --rebase origin main"
   sh "git push origin main"
 end
 
-desc "Deploy #{BUILD_DIR} to #{GITHUB_PAGES_BRANCH} branch"
+desc "Deploy to #{GITHUB_PAGES_BRANCH} branch using a temporary build dir (does not touch #{BUILD_DIR})"
 task :deploy do
-  origin = `git config --get remote.origin.url`
+  origin = `git config --get remote.origin.url`.strip
   fail "origin is empty" if origin.empty?
-
-  Rake::Task[:build].invoke
 
   current_public_folder = Dir.pwd
   Dir.mktmpdir do |tmp|
-    cp_r "#{BUILD_DIR}/.", tmp
+    if ENV["LP_USE_DOCKER_INSTEAD_OF_LOCAL_RUBY"] == "true"
+      sh <<~HERE_DOC
+        docker run --rm \
+          #{PLATFORM} \
+          --volume "#{REPO_DIR}:/srv/jekyll" \
+          --volume "#{tmp}:/srv/jekyll/_site" \
+          -w /srv/jekyll \
+          #{JEKYLL_IMAGE} \
+          jekyll build
+      HERE_DOC
+    else
+      sh "bundle exec jekyll build -d #{tmp}"
+    end
 
     Dir.chdir tmp
 
