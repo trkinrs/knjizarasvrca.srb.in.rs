@@ -1599,8 +1599,8 @@
     "collection": "kancelarijski_materijal",
     "image": null,
     "price": 250.0,
-    "srbobran": 4,
-    "futog": 3
+    "srbobran": 3,
+    "futog": 2
   }
     
   ,
@@ -6188,7 +6188,7 @@
     "collection": "kancelarijski_materijal",
     "image": "/assets/images/896/dosije-10-dzepova-1.jpg",
     "price": 195.0,
-    "srbobran": 3,
+    "srbobran": 2,
     "futog": 2
   }
     
@@ -15460,7 +15460,7 @@
     "image": null,
     "price": 1999.0,
     "srbobran": null,
-    "futog": 2
+    "futog": 0
   }
     
   ,
@@ -33299,7 +33299,7 @@
     "collection": "ostalo",
     "image": "/assets/images/1231/cestitka-1.jpg",
     "price": 160.0,
-    "srbobran": 8,
+    "srbobran": 7,
     "futog": 15
   }
     
@@ -37163,7 +37163,7 @@
     "image": "/assets/images/861/otpremnica-a-5-1.jpg",
     "price": 180.0,
     "srbobran": 11,
-    "futog": 6
+    "futog": 4
   }
     
   ,
@@ -37318,7 +37318,7 @@
     "collection": "poslovne_knjige",
     "image": "/assets/images/876/knjiga-sanka-ncr-1.jpg",
     "price": 340.0,
-    "srbobran": 11,
+    "srbobran": 9,
     "futog": 2
   }
     
