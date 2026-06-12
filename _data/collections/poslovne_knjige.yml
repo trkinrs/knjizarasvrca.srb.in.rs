@@ -107,7 +107,7 @@
   title: OTPREMNICA A/5
   price: 180.0
   srbobran: 11
-  futog: 6
+  futog: 4
 862:
   title: OTPREMNICA-PRIJEMNICA A/4
   price: 240.0
@@ -156,7 +156,7 @@
 876:
   title: KNJIGA ŠANKA NCR
   price: 340.0
-  srbobran: 11
+  srbobran: 9
   futog: 2
 878:
   title: RAČUN A/4 NCR
