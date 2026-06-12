@@ -184,273 +184,791 @@
     
 
 
-<table>
-  <thead>
-    <tr>
-      <th>Šifra</th>
-      <th>Naziv</th>
-      <th>Cena</th>
-      <th>Srbobran</th>
-      <th>Futog</th>
-    </tr>
-  </thead>
-  <tbody>
+<style>
+  .product-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(180px, 1fr));
+    gap: 1.25rem;
+    margin-top: 1.5rem;
+  }
+  .product-card-item {
+    border: 1px solid #e0e0e0;
+    border-radius: 8px;
+    overflow: hidden;
+    display: flex;
+    flex-direction: column;
+    text-decoration: none;
+    color: inherit;
+    transition: box-shadow 0.2s, transform 0.2s;
+    background: #fff;
+  }
+  .product-card-item:hover {
+    box-shadow: 0 4px 16px rgba(0,0,0,0.13);
+    transform: translateY(-2px);
+    text-decoration: none;
+  }
+  .product-card-img {
+    width: 100%;
+    aspect-ratio: 3/4;
+    object-fit: cover;
+    display: block;
+    background: #f5f5f5;
+  }
+  .product-card-body {
+    padding: 0.6rem 0.75rem 0.75rem;
+    display: flex;
+    flex-direction: column;
+    gap: 0.35rem;
+    flex: 1;
+  }
+  .product-card-title {
+    font-size: 0.82rem;
+    font-weight: 600;
+    line-height: 1.3;
+    color: #222;
+  }
+  .product-card-sku {
+    font-size: 0.72rem;
+    color: #aaa;
+  }
+  .product-card-price {
+    font-size: 1rem;
+    font-weight: bold;
+    color: #c0392b;
+    margin-top: auto;
+    padding-top: 0.35rem;
+  }
+  .product-card-stock {
+    display: flex;
+    gap: 0.6rem;
+    font-size: 0.72rem;
+    color: #555;
+    flex-wrap: wrap;
+  }
+  .stock-dot {
+    width: 8px;
+    height: 8px;
+    border-radius: 50%;
+    display: inline-block;
+    flex-shrink: 0;
+    margin-top: 2px;
+  }
+  .stock-dot.in-stock  { background: #27ae60; }
+  .stock-dot.low-stock { background: #f39c12; }
+  .stock-dot.no-stock  { background: #ccc; }
+  .stock-chip {
+    display: flex;
+    align-items: center;
+    gap: 0.3rem;
+    white-space: nowrap;
+  }
+</style>
+
+<div class="product-grid">
+  
+  
+  
+  
+  
+  
+  
+  <a class="product-card-item" href="/ukrasni_papiri_i_kese/3715-ukrasna-kesa/">
     
+      <img class="product-card-img" src="/assets/images/3715/ukrasna-kesa-1.jpg" alt="UKRASNA KESA">
     
+    <div class="product-card-body">
+      <div class="product-card-title">UKRASNA KESA</div>
+      <div class="product-card-sku">3715</div>
+      
+      <div class="product-card-price">175 din.</div>
+      
+      <div class="product-card-stock">
+        <span class="stock-chip">
+          <span class="stock-dot low-stock"></span>
+          
+          Srb (1)
+        </span>
+        <span class="stock-chip">
+          <span class="stock-dot no-stock"></span>
+          Fut (0)
+        </span>
+      </div>
+    </div>
+  </a>
+  
+  
+  
+  
+  
+  
+  <a class="product-card-item" href="/ukrasni_papiri_i_kese/2716-ukrasna-kesa/">
     
-    <tr>
-      <td>3715</td>
-      <td><a href="/ukrasni_papiri_i_kese/3715-ukrasna-kesa/">UKRASNA KESA</a></td>
-      <td>175.0</td>
-      <td>1</td>
-      <td></td>
-    </tr>
+      <img class="product-card-img" src="/assets/book-placeholder.svg" alt="UKRASNA KESA">
     
+    <div class="product-card-body">
+      <div class="product-card-title">UKRASNA KESA</div>
+      <div class="product-card-sku">2716</div>
+      
+      <div class="product-card-price">199 din.</div>
+      
+      <div class="product-card-stock">
+        <span class="stock-chip">
+          <span class="stock-dot in-stock"></span>
+          
+          Srb (7)
+        </span>
+        <span class="stock-chip">
+          <span class="stock-dot no-stock"></span>
+          Fut (0)
+        </span>
+      </div>
+    </div>
+  </a>
+  
+  
+  
+  
+  
+  
+  <a class="product-card-item" href="/ukrasni_papiri_i_kese/2519-ukrasna-kesa/">
     
-    <tr>
-      <td>2716</td>
-      <td><a href="/ukrasni_papiri_i_kese/2716-ukrasna-kesa/">UKRASNA KESA</a></td>
-      <td>199.0</td>
-      <td>7</td>
-      <td></td>
-    </tr>
+      <img class="product-card-img" src="/assets/book-placeholder.svg" alt="UKRASNA KESA">
     
+    <div class="product-card-body">
+      <div class="product-card-title">UKRASNA KESA</div>
+      <div class="product-card-sku">2519</div>
+      
+      <div class="product-card-price">190 din.</div>
+      
+      <div class="product-card-stock">
+        <span class="stock-chip">
+          <span class="stock-dot in-stock"></span>
+          
+          Srb (2)
+        </span>
+        <span class="stock-chip">
+          <span class="stock-dot no-stock"></span>
+          Fut (0)
+        </span>
+      </div>
+    </div>
+  </a>
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  <a class="product-card-item" href="/ukrasni_papiri_i_kese/1887-ukrasni-papir-100-70/">
     
-    <tr>
-      <td>2519</td>
-      <td><a href="/ukrasni_papiri_i_kese/2519-ukrasna-kesa/">UKRASNA KESA</a></td>
-      <td>190.0</td>
-      <td>2</td>
-      <td></td>
-    </tr>
+      <img class="product-card-img" src="/assets/images/1887/ukrasni-papir-100-70-1.jpg" alt="UKRASNI PAPIR 100*70">
     
+    <div class="product-card-body">
+      <div class="product-card-title">UKRASNI PAPIR 100*70</div>
+      <div class="product-card-sku">1887</div>
+      
+      <div class="product-card-price">110 din.</div>
+      
+      <div class="product-card-stock">
+        <span class="stock-chip">
+          <span class="stock-dot low-stock"></span>
+          
+          Srb (1)
+        </span>
+        <span class="stock-chip">
+          <span class="stock-dot no-stock"></span>
+          Fut (0)
+        </span>
+      </div>
+    </div>
+  </a>
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  <a class="product-card-item" href="/ukrasni_papiri_i_kese/1297-ukrasna-kesa/">
     
-    <tr>
-      <td>1902</td>
-      <td><a href="/ukrasni_papiri_i_kese/1902-ukrasna-kesa/">UKRASNA KESA</a></td>
-      <td></td>
-      <td></td>
-      <td></td>
-    </tr>
+      <img class="product-card-img" src="/assets/images/1297/ukrasna-kesa-1.jpg" alt="UKRASNA KESA">
     
+    <div class="product-card-body">
+      <div class="product-card-title">UKRASNA KESA</div>
+      <div class="product-card-sku">1297</div>
+      
+      <div class="product-card-price">80 din.</div>
+      
+      <div class="product-card-stock">
+        <span class="stock-chip">
+          <span class="stock-dot in-stock"></span>
+          
+          Srb (4)
+        </span>
+        <span class="stock-chip">
+          <span class="stock-dot low-stock"></span>
+          
+          Fut (1)
+        </span>
+      </div>
+    </div>
+  </a>
+  
+  
+  
+  
+  
+  
+  <a class="product-card-item" href="/ukrasni_papiri_i_kese/1290-ukrasna-kesa/">
     
-    <tr>
-      <td>1887</td>
-      <td><a href="/ukrasni_papiri_i_kese/1887-ukrasni-papir-100-70/">UKRASNI PAPIR 100*70</a></td>
-      <td>110.0</td>
-      <td>1</td>
-      <td></td>
-    </tr>
+      <img class="product-card-img" src="/assets/images/1290/ukrasna-kesa-1.jpg" alt="UKRASNA KESA">
     
+    <div class="product-card-body">
+      <div class="product-card-title">UKRASNA KESA</div>
+      <div class="product-card-sku">1290</div>
+      
+      <div class="product-card-price">65 din.</div>
+      
+      <div class="product-card-stock">
+        <span class="stock-chip">
+          <span class="stock-dot low-stock"></span>
+          
+          Srb (1)
+        </span>
+        <span class="stock-chip">
+          <span class="stock-dot in-stock"></span>
+          
+          Fut (3)
+        </span>
+      </div>
+    </div>
+  </a>
+  
+  
+  
+  
+  
+  
+  <a class="product-card-item" href="/ukrasni_papiri_i_kese/509-ukrasna-kesa/">
     
-    <tr>
-      <td>1793</td>
-      <td><a href="/ukrasni_papiri_i_kese/1793-ukrasna-kesa/">UKRASNA KESA</a></td>
-      <td></td>
-      <td></td>
-      <td></td>
-    </tr>
+      <img class="product-card-img" src="/assets/images/509/ukrasna-kesa-1.jpg" alt="UKRASNA KESA">
     
+    <div class="product-card-body">
+      <div class="product-card-title">UKRASNA KESA</div>
+      <div class="product-card-sku">509</div>
+      
+      <div class="product-card-price">130 din.</div>
+      
+      <div class="product-card-stock">
+        <span class="stock-chip">
+          <span class="stock-dot in-stock"></span>
+          
+          Srb (7)
+        </span>
+        <span class="stock-chip">
+          <span class="stock-dot low-stock"></span>
+          
+          Fut (1)
+        </span>
+      </div>
+    </div>
+  </a>
+  
+  
+  
+  
+  
+  
+  <a class="product-card-item" href="/ukrasni_papiri_i_kese/451-ukrasna-kesa/">
     
-    <tr>
-      <td>1513</td>
-      <td><a href="/ukrasni_papiri_i_kese/1513-ukrasna-kesa/">UKRASNA KESA</a></td>
-      <td></td>
-      <td></td>
-      <td></td>
-    </tr>
+      <img class="product-card-img" src="/assets/images/451/ukrasna-kesa-1.jpg" alt="UKRASNA KESA">
     
+    <div class="product-card-body">
+      <div class="product-card-title">UKRASNA KESA</div>
+      <div class="product-card-sku">451</div>
+      
+      <div class="product-card-price">180 din.</div>
+      
+      <div class="product-card-stock">
+        <span class="stock-chip">
+          <span class="stock-dot in-stock"></span>
+          
+          Srb (9)
+        </span>
+        <span class="stock-chip">
+          <span class="stock-dot in-stock"></span>
+          
+          Fut (7)
+        </span>
+      </div>
+    </div>
+  </a>
+  
+  
+  
+  
+  
+  
+  <a class="product-card-item" href="/ukrasni_papiri_i_kese/428-ukrasna-kesa/">
     
-    <tr>
-      <td>1297</td>
-      <td><a href="/ukrasni_papiri_i_kese/1297-ukrasna-kesa/">UKRASNA KESA</a></td>
-      <td>80.0</td>
-      <td>4</td>
-      <td>1</td>
-    </tr>
+      <img class="product-card-img" src="/assets/images/428/ukrasna-kesa-1.jpg" alt="UKRASNA KESA">
     
+    <div class="product-card-body">
+      <div class="product-card-title">UKRASNA KESA</div>
+      <div class="product-card-sku">428</div>
+      
+      <div class="product-card-price">120 din.</div>
+      
+      <div class="product-card-stock">
+        <span class="stock-chip">
+          <span class="stock-dot in-stock"></span>
+          
+          Srb (8)
+        </span>
+        <span class="stock-chip">
+          <span class="stock-dot in-stock"></span>
+          
+          Fut (2)
+        </span>
+      </div>
+    </div>
+  </a>
+  
+  
+  
+  
+  
+  
+  <a class="product-card-item" href="/ukrasni_papiri_i_kese/424-ukrasna-kesa-s/">
     
-    <tr>
-      <td>1290</td>
-      <td><a href="/ukrasni_papiri_i_kese/1290-ukrasna-kesa/">UKRASNA KESA</a></td>
-      <td>65.0</td>
-      <td>1</td>
-      <td>3</td>
-    </tr>
+      <img class="product-card-img" src="/assets/images/424/ukrasna-kesa-s-1.jpg" alt="UKRASNA KESA S">
     
+    <div class="product-card-body">
+      <div class="product-card-title">UKRASNA KESA S</div>
+      <div class="product-card-sku">424</div>
+      
+      <div class="product-card-price">125 din.</div>
+      
+      <div class="product-card-stock">
+        <span class="stock-chip">
+          <span class="stock-dot in-stock"></span>
+          
+          Srb (13)
+        </span>
+        <span class="stock-chip">
+          <span class="stock-dot in-stock"></span>
+          
+          Fut (3)
+        </span>
+      </div>
+    </div>
+  </a>
+  
+  
+  
+  
+  
+  
+  <a class="product-card-item" href="/ukrasni_papiri_i_kese/410-ukrasni-papir-2m/">
     
-    <tr>
-      <td>509</td>
-      <td><a href="/ukrasni_papiri_i_kese/509-ukrasna-kesa/">UKRASNA KESA</a></td>
-      <td>130.0</td>
-      <td>7</td>
-      <td>1</td>
-    </tr>
+      <img class="product-card-img" src="/assets/images/410/ukrasni-papir-2m-1.jpg" alt="UKRASNI PAPIR 2M">
     
+    <div class="product-card-body">
+      <div class="product-card-title">UKRASNI PAPIR 2M</div>
+      <div class="product-card-sku">410</div>
+      
+      <div class="product-card-price">160 din.</div>
+      
+      <div class="product-card-stock">
+        <span class="stock-chip">
+          <span class="stock-dot low-stock"></span>
+          
+          Srb (1)
+        </span>
+        <span class="stock-chip">
+          <span class="stock-dot no-stock"></span>
+          Fut (0)
+        </span>
+      </div>
+    </div>
+  </a>
+  
+  
+  
+  
+  
+  
+  <a class="product-card-item" href="/ukrasni_papiri_i_kese/389-ukrasna-kesa/">
     
-    <tr>
-      <td>451</td>
-      <td><a href="/ukrasni_papiri_i_kese/451-ukrasna-kesa/">UKRASNA KESA</a></td>
-      <td>180.0</td>
-      <td>9</td>
-      <td>7</td>
-    </tr>
+      <img class="product-card-img" src="/assets/images/389/ukrasna-kesa-1.jpg" alt="UKRASNA KESA">
     
+    <div class="product-card-body">
+      <div class="product-card-title">UKRASNA KESA</div>
+      <div class="product-card-sku">389</div>
+      
+      <div class="product-card-price">115 din.</div>
+      
+      <div class="product-card-stock">
+        <span class="stock-chip">
+          <span class="stock-dot low-stock"></span>
+          
+          Srb (1)
+        </span>
+        <span class="stock-chip">
+          <span class="stock-dot no-stock"></span>
+          Fut (0)
+        </span>
+      </div>
+    </div>
+  </a>
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  <a class="product-card-item" href="/ukrasni_papiri_i_kese/263-ukrasna-kesa-m/">
     
-    <tr>
-      <td>428</td>
-      <td><a href="/ukrasni_papiri_i_kese/428-ukrasna-kesa/">UKRASNA KESA</a></td>
-      <td>120.0</td>
-      <td>8</td>
-      <td>2</td>
-    </tr>
+      <img class="product-card-img" src="/assets/images/263/ukrasna-kesa-m-1.jpg" alt="UKRASNA KESA M">
     
+    <div class="product-card-body">
+      <div class="product-card-title">UKRASNA KESA M</div>
+      <div class="product-card-sku">263</div>
+      
+      <div class="product-card-price">175 din.</div>
+      
+      <div class="product-card-stock">
+        <span class="stock-chip">
+          <span class="stock-dot in-stock"></span>
+          
+          Srb (11)
+        </span>
+        <span class="stock-chip">
+          <span class="stock-dot no-stock"></span>
+          Fut (0)
+        </span>
+      </div>
+    </div>
+  </a>
+  
+  
+  
+  
+  
+  
+  <a class="product-card-item" href="/ukrasni_papiri_i_kese/260-ukrasna-kesa/">
     
-    <tr>
-      <td>424</td>
-      <td><a href="/ukrasni_papiri_i_kese/424-ukrasna-kesa-s/">UKRASNA KESA S</a></td>
-      <td>125.0</td>
-      <td>13</td>
-      <td>3</td>
-    </tr>
+      <img class="product-card-img" src="/assets/book-placeholder.svg" alt="UKRASNA KESA">
     
+    <div class="product-card-body">
+      <div class="product-card-title">UKRASNA KESA</div>
+      <div class="product-card-sku">260</div>
+      
+      <div class="product-card-price">210 din.</div>
+      
+      <div class="product-card-stock">
+        <span class="stock-chip">
+          <span class="stock-dot low-stock"></span>
+          
+          Srb (1)
+        </span>
+        <span class="stock-chip">
+          <span class="stock-dot no-stock"></span>
+          Fut (0)
+        </span>
+      </div>
+    </div>
+  </a>
+  
+  
+  
+  
+  
+  
+  <a class="product-card-item" href="/ukrasni_papiri_i_kese/256-ukrasna-kesa/">
     
-    <tr>
-      <td>410</td>
-      <td><a href="/ukrasni_papiri_i_kese/410-ukrasni-papir-2m/">UKRASNI PAPIR 2M</a></td>
-      <td>160.0</td>
-      <td>1</td>
-      <td></td>
-    </tr>
+      <img class="product-card-img" src="/assets/images/256/ukrasna-kesa-1.jpg" alt="UKRASNA KESA">
     
+    <div class="product-card-body">
+      <div class="product-card-title">UKRASNA KESA</div>
+      <div class="product-card-sku">256</div>
+      
+      <div class="product-card-price">90 din.</div>
+      
+      <div class="product-card-stock">
+        <span class="stock-chip">
+          <span class="stock-dot in-stock"></span>
+          
+          Srb (9)
+        </span>
+        <span class="stock-chip">
+          <span class="stock-dot no-stock"></span>
+          Fut (0)
+        </span>
+      </div>
+    </div>
+  </a>
+  
+  
+  
+  
+  
+  
+  <a class="product-card-item" href="/ukrasni_papiri_i_kese/255-ukrasna-kesa/">
     
-    <tr>
-      <td>389</td>
-      <td><a href="/ukrasni_papiri_i_kese/389-ukrasna-kesa/">UKRASNA KESA</a></td>
-      <td>115.0</td>
-      <td>1</td>
-      <td></td>
-    </tr>
+      <img class="product-card-img" src="/assets/images/255/ukrasna-kesa-1.jpg" alt="UKRASNA KESA">
     
+    <div class="product-card-body">
+      <div class="product-card-title">UKRASNA KESA</div>
+      <div class="product-card-sku">255</div>
+      
+      <div class="product-card-price">115 din.</div>
+      
+      <div class="product-card-stock">
+        <span class="stock-chip">
+          <span class="stock-dot in-stock"></span>
+          
+          Srb (2)
+        </span>
+        <span class="stock-chip">
+          <span class="stock-dot no-stock"></span>
+          Fut (0)
+        </span>
+      </div>
+    </div>
+  </a>
+  
+  
+  
+  
+  
+  
+  <a class="product-card-item" href="/ukrasni_papiri_i_kese/253-ukrasna-kesa/">
     
-    <tr>
-      <td>264</td>
-      <td><a href="/ukrasni_papiri_i_kese/264-ukrasna-kesa-xl/">UKRASNA KESA XL</a></td>
-      <td>290.0</td>
-      <td>0</td>
-      <td></td>
-    </tr>
+      <img class="product-card-img" src="/assets/book-placeholder.svg" alt="UKRASNA KESA">
     
+    <div class="product-card-body">
+      <div class="product-card-title">UKRASNA KESA</div>
+      <div class="product-card-sku">253</div>
+      
+      <div class="product-card-price">140 din.</div>
+      
+      <div class="product-card-stock">
+        <span class="stock-chip">
+          <span class="stock-dot in-stock"></span>
+          
+          Srb (2)
+        </span>
+        <span class="stock-chip">
+          <span class="stock-dot in-stock"></span>
+          
+          Fut (2)
+        </span>
+      </div>
+    </div>
+  </a>
+  
+  
+  
+  
+  
+  
+  <a class="product-card-item" href="/ukrasni_papiri_i_kese/252-ukrasna-kesa/">
     
-    <tr>
-      <td>263</td>
-      <td><a href="/ukrasni_papiri_i_kese/263-ukrasna-kesa-m/">UKRASNA KESA M</a></td>
-      <td>175.0</td>
-      <td>11</td>
-      <td></td>
-    </tr>
+      <img class="product-card-img" src="/assets/images/252/ukrasna-kesa-1.jpg" alt="UKRASNA KESA">
     
+    <div class="product-card-body">
+      <div class="product-card-title">UKRASNA KESA</div>
+      <div class="product-card-sku">252</div>
+      
+      <div class="product-card-price">175 din.</div>
+      
+      <div class="product-card-stock">
+        <span class="stock-chip">
+          <span class="stock-dot in-stock"></span>
+          
+          Srb (5)
+        </span>
+        <span class="stock-chip">
+          <span class="stock-dot in-stock"></span>
+          
+          Fut (2)
+        </span>
+      </div>
+    </div>
+  </a>
+  
+  
+  
+  
+  
+  
+  <a class="product-card-item" href="/ukrasni_papiri_i_kese/248-ukrasna-kesa-l/">
     
-    <tr>
-      <td>260</td>
-      <td><a href="/ukrasni_papiri_i_kese/260-ukrasna-kesa/">UKRASNA KESA</a></td>
-      <td>210.0</td>
-      <td>1</td>
-      <td></td>
-    </tr>
+      <img class="product-card-img" src="/assets/book-placeholder.svg" alt="UKRASNA KESA L">
     
+    <div class="product-card-body">
+      <div class="product-card-title">UKRASNA KESA L</div>
+      <div class="product-card-sku">248</div>
+      
+      <div class="product-card-price">215 din.</div>
+      
+      <div class="product-card-stock">
+        <span class="stock-chip">
+          <span class="stock-dot in-stock"></span>
+          
+          Srb (2)
+        </span>
+        <span class="stock-chip">
+          <span class="stock-dot no-stock"></span>
+          Fut (0)
+        </span>
+      </div>
+    </div>
+  </a>
+  
+  
+  
+  
+  
+  
+  <a class="product-card-item" href="/ukrasni_papiri_i_kese/246-ukrasna-kesa/">
     
-    <tr>
-      <td>256</td>
-      <td><a href="/ukrasni_papiri_i_kese/256-ukrasna-kesa/">UKRASNA KESA</a></td>
-      <td>90.0</td>
-      <td>9</td>
-      <td></td>
-    </tr>
+      <img class="product-card-img" src="/assets/book-placeholder.svg" alt="UKRASNA KESA">
     
+    <div class="product-card-body">
+      <div class="product-card-title">UKRASNA KESA</div>
+      <div class="product-card-sku">246</div>
+      
+      <div class="product-card-price">40 din.</div>
+      
+      <div class="product-card-stock">
+        <span class="stock-chip">
+          <span class="stock-dot low-stock"></span>
+          
+          Srb (1)
+        </span>
+        <span class="stock-chip">
+          <span class="stock-dot no-stock"></span>
+          Fut (0)
+        </span>
+      </div>
+    </div>
+  </a>
+  
+  
+  
+  
+  
+  
+  <a class="product-card-item" href="/ukrasni_papiri_i_kese/245-ukrasni-papir-2m/">
     
-    <tr>
-      <td>255</td>
-      <td><a href="/ukrasni_papiri_i_kese/255-ukrasna-kesa/">UKRASNA KESA</a></td>
-      <td>115.0</td>
-      <td>2</td>
-      <td></td>
-    </tr>
+      <img class="product-card-img" src="/assets/images/245/ukrasni-papir-2m-1.jpg" alt="UKRASNI PAPIR 2M">
     
+    <div class="product-card-body">
+      <div class="product-card-title">UKRASNI PAPIR 2M</div>
+      <div class="product-card-sku">245</div>
+      
+      <div class="product-card-price">150 din.</div>
+      
+      <div class="product-card-stock">
+        <span class="stock-chip">
+          <span class="stock-dot in-stock"></span>
+          
+          Srb (2)
+        </span>
+        <span class="stock-chip">
+          <span class="stock-dot no-stock"></span>
+          Fut (0)
+        </span>
+      </div>
+    </div>
+  </a>
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  <a class="product-card-item" href="/ukrasni_papiri_i_kese/180-ukrasni-papir-2m/">
     
-    <tr>
-      <td>253</td>
-      <td><a href="/ukrasni_papiri_i_kese/253-ukrasna-kesa/">UKRASNA KESA</a></td>
-      <td>140.0</td>
-      <td>2</td>
-      <td>2</td>
-    </tr>
+      <img class="product-card-img" src="/assets/images/180/ukrasni-papir-2m-1.jpg" alt="UKRASNI PAPIR 2M">
     
+    <div class="product-card-body">
+      <div class="product-card-title">UKRASNI PAPIR 2M</div>
+      <div class="product-card-sku">180</div>
+      
+      <div class="product-card-price">195 din.</div>
+      
+      <div class="product-card-stock">
+        <span class="stock-chip">
+          <span class="stock-dot in-stock"></span>
+          
+          Srb (10)
+        </span>
+        <span class="stock-chip">
+          <span class="stock-dot no-stock"></span>
+          Fut (0)
+        </span>
+      </div>
+    </div>
+  </a>
+  
+  
+  
+  
+  
+  
+  <a class="product-card-item" href="/ukrasni_papiri_i_kese/41-uk-papir-2m/">
     
-    <tr>
-      <td>252</td>
-      <td><a href="/ukrasni_papiri_i_kese/252-ukrasna-kesa/">UKRASNA KESA</a></td>
-      <td>175.0</td>
-      <td>5</td>
-      <td>2</td>
-    </tr>
+      <img class="product-card-img" src="/assets/images/41/uk-papir-2m-1.jpg" alt="UK PAPIR 2M">
     
-    
-    <tr>
-      <td>248</td>
-      <td><a href="/ukrasni_papiri_i_kese/248-ukrasna-kesa-l/">UKRASNA KESA L</a></td>
-      <td>215.0</td>
-      <td>2</td>
-      <td></td>
-    </tr>
-    
-    
-    <tr>
-      <td>246</td>
-      <td><a href="/ukrasni_papiri_i_kese/246-ukrasna-kesa/">UKRASNA KESA</a></td>
-      <td>40.0</td>
-      <td>1</td>
-      <td></td>
-    </tr>
-    
-    
-    <tr>
-      <td>245</td>
-      <td><a href="/ukrasni_papiri_i_kese/245-ukrasni-papir-2m/">UKRASNI PAPIR 2M</a></td>
-      <td>150.0</td>
-      <td>2</td>
-      <td></td>
-    </tr>
-    
-    
-    <tr>
-      <td>244</td>
-      <td><a href="/ukrasni_papiri_i_kese/244-ukrasni-papir-2m/">UKRASNI PAPIR 2M</a></td>
-      <td>195.0</td>
-      <td>0</td>
-      <td></td>
-    </tr>
-    
-    
-    <tr>
-      <td>180</td>
-      <td><a href="/ukrasni_papiri_i_kese/180-ukrasni-papir-2m/">UKRASNI PAPIR 2M</a></td>
-      <td>195.0</td>
-      <td>10</td>
-      <td></td>
-    </tr>
-    
-    
-    <tr>
-      <td>41</td>
-      <td><a href="/ukrasni_papiri_i_kese/41-uk-papir-2m/">UK PAPIR 2M</a></td>
-      <td>145.0</td>
-      <td>5</td>
-      <td>15</td>
-    </tr>
-    
-  </tbody>
-</table>
+    <div class="product-card-body">
+      <div class="product-card-title">UK PAPIR 2M</div>
+      <div class="product-card-sku">41</div>
+      
+      <div class="product-card-price">145 din.</div>
+      
+      <div class="product-card-stock">
+        <span class="stock-chip">
+          <span class="stock-dot in-stock"></span>
+          
+          Srb (5)
+        </span>
+        <span class="stock-chip">
+          <span class="stock-dot in-stock"></span>
+          
+          Fut (15)
+        </span>
+      </div>
+    </div>
+  </a>
+  
+</div>
 
   </div>
 

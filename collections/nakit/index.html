@@ -185,183 +185,580 @@
 
 
 
-<table>
-  <thead>
-    <tr>
-      <th>Šifra</th>
-      <th>Naziv</th>
-      <th>Cena</th>
-      <th>Srbobran</th>
-      <th>Futog</th>
-    </tr>
-  </thead>
-  <tbody>
+<style>
+  .product-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(180px, 1fr));
+    gap: 1.25rem;
+    margin-top: 1.5rem;
+  }
+  .product-card-item {
+    border: 1px solid #e0e0e0;
+    border-radius: 8px;
+    overflow: hidden;
+    display: flex;
+    flex-direction: column;
+    text-decoration: none;
+    color: inherit;
+    transition: box-shadow 0.2s, transform 0.2s;
+    background: #fff;
+  }
+  .product-card-item:hover {
+    box-shadow: 0 4px 16px rgba(0,0,0,0.13);
+    transform: translateY(-2px);
+    text-decoration: none;
+  }
+  .product-card-img {
+    width: 100%;
+    aspect-ratio: 3/4;
+    object-fit: cover;
+    display: block;
+    background: #f5f5f5;
+  }
+  .product-card-body {
+    padding: 0.6rem 0.75rem 0.75rem;
+    display: flex;
+    flex-direction: column;
+    gap: 0.35rem;
+    flex: 1;
+  }
+  .product-card-title {
+    font-size: 0.82rem;
+    font-weight: 600;
+    line-height: 1.3;
+    color: #222;
+  }
+  .product-card-sku {
+    font-size: 0.72rem;
+    color: #aaa;
+  }
+  .product-card-price {
+    font-size: 1rem;
+    font-weight: bold;
+    color: #c0392b;
+    margin-top: auto;
+    padding-top: 0.35rem;
+  }
+  .product-card-stock {
+    display: flex;
+    gap: 0.6rem;
+    font-size: 0.72rem;
+    color: #555;
+    flex-wrap: wrap;
+  }
+  .stock-dot {
+    width: 8px;
+    height: 8px;
+    border-radius: 50%;
+    display: inline-block;
+    flex-shrink: 0;
+    margin-top: 2px;
+  }
+  .stock-dot.in-stock  { background: #27ae60; }
+  .stock-dot.low-stock { background: #f39c12; }
+  .stock-dot.no-stock  { background: #ccc; }
+  .stock-chip {
+    display: flex;
+    align-items: center;
+    gap: 0.3rem;
+    white-space: nowrap;
+  }
+</style>
+
+<div class="product-grid">
+  
+  
+  
+  
+  
+  
+  
+  <a class="product-card-item" href="/nakit/3236-ogrlica-61300924/">
     
+      <img class="product-card-img" src="/assets/images/3236/ogrlica-61300924-1.jpg" alt="OGRLICA 61300924">
     
+    <div class="product-card-body">
+      <div class="product-card-title">OGRLICA 61300924</div>
+      <div class="product-card-sku">3236</div>
+      
+      <div class="product-card-price">2999 din.</div>
+      
+      <div class="product-card-stock">
+        <span class="stock-chip">
+          <span class="stock-dot low-stock"></span>
+          
+          Srb (1)
+        </span>
+        <span class="stock-chip">
+          <span class="stock-dot no-stock"></span>
+          Fut (0)
+        </span>
+      </div>
+    </div>
+  </a>
+  
+  
+  
+  
+  
+  
+  <a class="product-card-item" href="/nakit/3234-ogrlica-pfc/">
     
-    <tr>
-      <td>3236</td>
-      <td><a href="/nakit/3236-ogrlica-61300924/">OGRLICA 61300924</a></td>
-      <td>2999.0</td>
-      <td>1</td>
-      <td></td>
-    </tr>
+      <img class="product-card-img" src="/assets/images/3234/ogrlica-pfc-1.jpg" alt="OGRLICA PFC">
     
+    <div class="product-card-body">
+      <div class="product-card-title">OGRLICA PFC</div>
+      <div class="product-card-sku">3234</div>
+      
+      <div class="product-card-price">1975 din.</div>
+      
+      <div class="product-card-stock">
+        <span class="stock-chip">
+          <span class="stock-dot low-stock"></span>
+          
+          Srb (1)
+        </span>
+        <span class="stock-chip">
+          <span class="stock-dot no-stock"></span>
+          Fut (0)
+        </span>
+      </div>
+    </div>
+  </a>
+  
+  
+  
+  
+  
+  
+  <a class="product-card-item" href="/nakit/3223-ogrlica-43112212/">
     
-    <tr>
-      <td>3234</td>
-      <td><a href="/nakit/3234-ogrlica-pfc/">OGRLICA PFC</a></td>
-      <td>1975.0</td>
-      <td>1</td>
-      <td></td>
-    </tr>
+      <img class="product-card-img" src="/assets/images/3223/ogrlica-43112212-1.jpg" alt="OGRLICA 43112212">
     
+    <div class="product-card-body">
+      <div class="product-card-title">OGRLICA 43112212</div>
+      <div class="product-card-sku">3223</div>
+      
+      <div class="product-card-price">2085 din.</div>
+      
+      <div class="product-card-stock">
+        <span class="stock-chip">
+          <span class="stock-dot in-stock"></span>
+          
+          Srb (2)
+        </span>
+        <span class="stock-chip">
+          <span class="stock-dot no-stock"></span>
+          Fut (0)
+        </span>
+      </div>
+    </div>
+  </a>
+  
+  
+  
+  
+  
+  
+  <a class="product-card-item" href="/nakit/3217-mindjuse-793853/">
     
-    <tr>
-      <td>3223</td>
-      <td><a href="/nakit/3223-ogrlica-43112212/">OGRLICA 43112212</a></td>
-      <td>2085.0</td>
-      <td>2</td>
-      <td></td>
-    </tr>
+      <img class="product-card-img" src="/assets/images/3217/mindjuse-793853-1.jpg" alt="MINDJUSE 793853">
     
+    <div class="product-card-body">
+      <div class="product-card-title">MINDJUSE 793853</div>
+      <div class="product-card-sku">3217</div>
+      
+      <div class="product-card-price">830 din.</div>
+      
+      <div class="product-card-stock">
+        <span class="stock-chip">
+          <span class="stock-dot low-stock"></span>
+          
+          Srb (1)
+        </span>
+        <span class="stock-chip">
+          <span class="stock-dot no-stock"></span>
+          Fut (0)
+        </span>
+      </div>
+    </div>
+  </a>
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  <a class="product-card-item" href="/nakit/3034-mindjuse-713907/">
     
-    <tr>
-      <td>3217</td>
-      <td><a href="/nakit/3217-mindjuse-793853/">MINDJUSE 793853</a></td>
-      <td>830.0</td>
-      <td>1</td>
-      <td></td>
-    </tr>
+      <img class="product-card-img" src="/assets/images/3034/mindjuse-713907-1.jpg" alt="MINDJUSE 713907">
     
+    <div class="product-card-body">
+      <div class="product-card-title">MINDJUSE 713907</div>
+      <div class="product-card-sku">3034</div>
+      
+      <div class="product-card-price">699 din.</div>
+      
+      <div class="product-card-stock">
+        <span class="stock-chip">
+          <span class="stock-dot low-stock"></span>
+          
+          Srb (1)
+        </span>
+        <span class="stock-chip">
+          <span class="stock-dot no-stock"></span>
+          Fut (0)
+        </span>
+      </div>
+    </div>
+  </a>
+  
+  
+  
+  
+  
+  
+  <a class="product-card-item" href="/nakit/249-mindjuse-61410056/">
     
-    <tr>
-      <td>3040</td>
-      <td><a href="/nakit/3040-mindjuse-61400923/">MINDJUSE 61400923</a></td>
-      <td>1650.0</td>
-      <td>0</td>
-      <td>0</td>
-    </tr>
+      <img class="product-card-img" src="/assets/images/249/mindjuse-61410056-1.jpg" alt="MINDJUSE 61410056">
     
+    <div class="product-card-body">
+      <div class="product-card-title">MINDJUSE 61410056</div>
+      <div class="product-card-sku">249</div>
+      
+      <div class="product-card-price">3790 din.</div>
+      
+      <div class="product-card-stock">
+        <span class="stock-chip">
+          <span class="stock-dot no-stock"></span>
+          Srb (0)
+        </span>
+        <span class="stock-chip">
+          <span class="stock-dot low-stock"></span>
+          
+          Fut (1)
+        </span>
+      </div>
+    </div>
+  </a>
+  
+  
+  
+  
+  
+  
+  <a class="product-card-item" href="/nakit/247-mindjuse-61410053/">
     
-    <tr>
-      <td>3034</td>
-      <td><a href="/nakit/3034-mindjuse-713907/">MINDJUSE 713907</a></td>
-      <td>699.0</td>
-      <td>1</td>
-      <td></td>
-    </tr>
+      <img class="product-card-img" src="/assets/images/247/mindjuse-61410053-1.jpg" alt="MINDJUSE 61410053">
     
+    <div class="product-card-body">
+      <div class="product-card-title">MINDJUSE 61410053</div>
+      <div class="product-card-sku">247</div>
+      
+      <div class="product-card-price">3075 din.</div>
+      
+      <div class="product-card-stock">
+        <span class="stock-chip">
+          <span class="stock-dot low-stock"></span>
+          
+          Srb (1)
+        </span>
+        <span class="stock-chip">
+          <span class="stock-dot no-stock"></span>
+          Fut (0)
+        </span>
+      </div>
+    </div>
+  </a>
+  
+  
+  
+  
+  
+  
+  <a class="product-card-item" href="/nakit/238-mindjuse-14285408/">
     
-    <tr>
-      <td>249</td>
-      <td><a href="/nakit/249-mindjuse-61410056/">MINĐUŠE 61410056</a></td>
-      <td>3790.0</td>
-      <td>0</td>
-      <td>1</td>
-    </tr>
+      <img class="product-card-img" src="/assets/images/238/mindjuse-14285408-1.jpg" alt="MINDJUSE 14285408">
     
+    <div class="product-card-body">
+      <div class="product-card-title">MINDJUSE 14285408</div>
+      <div class="product-card-sku">238</div>
+      
+      <div class="product-card-price">1570 din.</div>
+      
+      <div class="product-card-stock">
+        <span class="stock-chip">
+          <span class="stock-dot low-stock"></span>
+          
+          Srb (1)
+        </span>
+        <span class="stock-chip">
+          <span class="stock-dot no-stock"></span>
+          Fut (0)
+        </span>
+      </div>
+    </div>
+  </a>
+  
+  
+  
+  
+  
+  
+  <a class="product-card-item" href="/nakit/234-mindjuse-713865/">
     
-    <tr>
-      <td>247</td>
-      <td><a href="/nakit/247-mindjuse-61410053/">MINĐUŠE 61410053</a></td>
-      <td>3075.0</td>
-      <td>1</td>
-      <td></td>
-    </tr>
+      <img class="product-card-img" src="/assets/images/234/mindjuse-713865-1.jpg" alt="MINDJUSE 713865">
     
+    <div class="product-card-body">
+      <div class="product-card-title">MINDJUSE 713865</div>
+      <div class="product-card-sku">234</div>
+      
+      <div class="product-card-price">1810 din.</div>
+      
+      <div class="product-card-stock">
+        <span class="stock-chip">
+          <span class="stock-dot low-stock"></span>
+          
+          Srb (1)
+        </span>
+        <span class="stock-chip">
+          <span class="stock-dot no-stock"></span>
+          Fut (0)
+        </span>
+      </div>
+    </div>
+  </a>
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  <a class="product-card-item" href="/nakit/231-mindjuse-713815/">
     
-    <tr>
-      <td>238</td>
-      <td><a href="/nakit/238-mindjuse-14285408/">MINĐUŠE 14285408</a></td>
-      <td>1570.0</td>
-      <td>1</td>
-      <td></td>
-    </tr>
+      <img class="product-card-img" src="/assets/images/231/mindjuse-713815-1.jpg" alt="MINDJUSE 713815">
     
+    <div class="product-card-body">
+      <div class="product-card-title">MINDJUSE 713815</div>
+      <div class="product-card-sku">231</div>
+      
+      <div class="product-card-price">1860 din.</div>
+      
+      <div class="product-card-stock">
+        <span class="stock-chip">
+          <span class="stock-dot no-stock"></span>
+          Srb (0)
+        </span>
+        <span class="stock-chip">
+          <span class="stock-dot low-stock"></span>
+          
+          Fut (1)
+        </span>
+      </div>
+    </div>
+  </a>
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  <a class="product-card-item" href="/nakit/226-mindjuse-793853/">
     
-    <tr>
-      <td>234</td>
-      <td><a href="/nakit/234-mindjuse-713865/">MINĐUŠE 713865</a></td>
-      <td>1810.0</td>
-      <td>1</td>
-      <td></td>
-    </tr>
+      <img class="product-card-img" src="/assets/images/226/mindjuse-793853-1.jpg" alt="MINDJUSE 793853">
     
+    <div class="product-card-body">
+      <div class="product-card-title">MINDJUSE 793853</div>
+      <div class="product-card-sku">226</div>
+      
+      <div class="product-card-price">875 din.</div>
+      
+      <div class="product-card-stock">
+        <span class="stock-chip">
+          <span class="stock-dot no-stock"></span>
+          Srb (0)
+        </span>
+        <span class="stock-chip">
+          <span class="stock-dot in-stock"></span>
+          
+          Fut (3)
+        </span>
+      </div>
+    </div>
+  </a>
+  
+  
+  
+  
+  
+  
+  <a class="product-card-item" href="/nakit/219-ogrlica-11300181/">
     
-    <tr>
-      <td>232</td>
-      <td><a href="/nakit/232-kanta-zicana-crna/">KANTA ŽIČANA CRNA</a></td>
-      <td>1715.0</td>
-      <td>0</td>
-      <td></td>
-    </tr>
+      <img class="product-card-img" src="/assets/images/219/ogrlica-11300181-1.jpg" alt="OGRLICA 11300181">
     
+    <div class="product-card-body">
+      <div class="product-card-title">OGRLICA 11300181</div>
+      <div class="product-card-sku">219</div>
+      
+      <div class="product-card-price">3915 din.</div>
+      
+      <div class="product-card-stock">
+        <span class="stock-chip">
+          <span class="stock-dot low-stock"></span>
+          
+          Srb (1)
+        </span>
+        <span class="stock-chip">
+          <span class="stock-dot no-stock"></span>
+          Fut (0)
+        </span>
+      </div>
+    </div>
+  </a>
+  
+  
+  
+  
+  
+  
+  <a class="product-card-item" href="/nakit/218-mindjuse-731907/">
     
-    <tr>
-      <td>231</td>
-      <td><a href="/nakit/231-mindjuse-713815/">MINĐUŠE 713815</a></td>
-      <td>1860.0</td>
-      <td>0</td>
-      <td>1</td>
-    </tr>
+      <img class="product-card-img" src="/assets/images/218/mindjuse-731907-1.jpg" alt="MINDJUSE 731907">
     
+    <div class="product-card-body">
+      <div class="product-card-title">MINDJUSE 731907</div>
+      <div class="product-card-sku">218</div>
+      
+      <div class="product-card-price">750 din.</div>
+      
+      <div class="product-card-stock">
+        <span class="stock-chip">
+          <span class="stock-dot low-stock"></span>
+          
+          Srb (1)
+        </span>
+        <span class="stock-chip">
+          <span class="stock-dot no-stock"></span>
+          Fut (0)
+        </span>
+      </div>
+    </div>
+  </a>
+  
+  
+  
+  
+  
+  
+  <a class="product-card-item" href="/nakit/216-ogrlica-43112212/">
     
-    <tr>
-      <td>229</td>
-      <td><a href="/nakit/229-ogrlica-43484108/">OGRLICA 43484108</a></td>
-      <td>2860.0</td>
-      <td>0</td>
-      <td></td>
-    </tr>
+      <img class="product-card-img" src="/assets/images/216/ogrlica-43112212-1.jpg" alt="OGRLICA 43112212">
     
+    <div class="product-card-body">
+      <div class="product-card-title">OGRLICA 43112212</div>
+      <div class="product-card-sku">216</div>
+      
+      <div class="product-card-price">2250 din.</div>
+      
+      <div class="product-card-stock">
+        <span class="stock-chip">
+          <span class="stock-dot in-stock"></span>
+          
+          Srb (2)
+        </span>
+        <span class="stock-chip">
+          <span class="stock-dot no-stock"></span>
+          Fut (0)
+        </span>
+      </div>
+    </div>
+  </a>
+  
+  
+  
+  
+  
+  
+  <a class="product-card-item" href="/nakit/214-mindjuse-723853/">
     
-    <tr>
-      <td>226</td>
-      <td><a href="/nakit/226-mindjuse-793853/">MINĐUŠE 793853</a></td>
-      <td>875.0</td>
-      <td>0</td>
-      <td>3</td>
-    </tr>
+      <img class="product-card-img" src="/assets/images/214/mindjuse-723853-1.jpg" alt="MINDJUSE 723853">
     
-    
-    <tr>
-      <td>219</td>
-      <td><a href="/nakit/219-ogrlica-11300181/">OGRLICA 11300181</a></td>
-      <td>3915.0</td>
-      <td>1</td>
-      <td></td>
-    </tr>
-    
-    
-    <tr>
-      <td>218</td>
-      <td><a href="/nakit/218-mindjusse-731907/">MINĐUŠSE 731907</a></td>
-      <td>750.0</td>
-      <td>1</td>
-      <td></td>
-    </tr>
-    
-    
-    <tr>
-      <td>216</td>
-      <td><a href="/nakit/216-ogrlica-43112212/">OGRLICA 43112212</a></td>
-      <td>2250.0</td>
-      <td>2</td>
-      <td></td>
-    </tr>
-    
-    
-    <tr>
-      <td>214</td>
-      <td><a href="/nakit/214-mindjuse-723853/">MINĐUŠE 723853</a></td>
-      <td>795.0</td>
-      <td>1</td>
-      <td></td>
-    </tr>
-    
-  </tbody>
-</table>
+    <div class="product-card-body">
+      <div class="product-card-title">MINDJUSE 723853</div>
+      <div class="product-card-sku">214</div>
+      
+      <div class="product-card-price">795 din.</div>
+      
+      <div class="product-card-stock">
+        <span class="stock-chip">
+          <span class="stock-dot low-stock"></span>
+          
+          Srb (1)
+        </span>
+        <span class="stock-chip">
+          <span class="stock-dot no-stock"></span>
+          Fut (0)
+        </span>
+      </div>
+    </div>
+  </a>
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+</div>
 
   </div>
 

@@ -188,6 +188,9 @@
     max-width: 700px;
     font-size: 0.95rem;
   }
+  .kontakt-table tr {
+    background-color: #fff;
+  }
   .kontakt-table td {
     padding: 0.6rem 0.75rem;
     vertical-align: middle;
@@ -197,6 +200,21 @@
     min-width: 250px;
     color: #666;
     font-size: 0.85rem;
+  }
+  @media (max-width: 600px) {
+    .kontakt-table td {
+      display: block;
+      padding: 0.3rem 0.5rem;
+    }
+    .kontakt-table td:first-child {
+      min-width: unset;
+      padding-top: 0.75rem;
+      padding-bottom: 0;
+      border-bottom: none;
+    }
+    .kontakt-table tr:first-child td:first-child {
+      padding-top: 0.5rem;
+    }
   }
   .kontakt-table .cell-value {
     display: flex;
