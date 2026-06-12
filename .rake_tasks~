@@ -1,0 +1,5 @@
+build[baseurl]
+commit_and_push
+commit_source
+deploy
+pull
