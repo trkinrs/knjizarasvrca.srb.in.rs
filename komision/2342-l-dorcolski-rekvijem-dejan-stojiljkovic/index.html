@@ -13,16 +13,23 @@
 <meta property="og:url" content="/komision/2342-l-dorcolski-rekvijem-dejan-stojiljkovic/" />
 <meta property="og:site_name" content="Knjižara Švrća" />
 <meta property="og:type" content="article" />
-<meta property="article:published_time" content="2026-06-12T07:21:32+00:00" />
+<meta property="article:published_time" content="2026-06-12T07:24:14+00:00" />
 <meta name="twitter:card" content="summary" />
 <meta property="twitter:title" content="L - DORĆOLSKI REKVIJEM - DEJAN STOJILJKOVIĆ" />
 <script type="application/ld+json">
-{"@context":"https://schema.org","@type":"BlogPosting","dateModified":"2026-06-12T07:21:32+00:00","datePublished":"2026-06-12T07:21:32+00:00","description":"Knjižara “Švrća” osnovana je 1990. godine. I više od 30 godina se bavimo trgovinom na veliko i malo školskim priborom, kancelarijskim materijalom, udžbenicima za osnovne i srednje škole, reklamnim materijalom, poklon i party programom.","headline":"L - DORĆOLSKI REKVIJEM - DEJAN STOJILJKOVIĆ","mainEntityOfPage":{"@type":"WebPage","@id":"/komision/2342-l-dorcolski-rekvijem-dejan-stojiljkovic/"},"url":"/komision/2342-l-dorcolski-rekvijem-dejan-stojiljkovic/"}</script>
+{"@context":"https://schema.org","@type":"BlogPosting","dateModified":"2026-06-12T07:24:14+00:00","datePublished":"2026-06-12T07:24:14+00:00","description":"Knjižara “Švrća” osnovana je 1990. godine. I više od 30 godina se bavimo trgovinom na veliko i malo školskim priborom, kancelarijskim materijalom, udžbenicima za osnovne i srednje škole, reklamnim materijalom, poklon i party programom.","headline":"L - DORĆOLSKI REKVIJEM - DEJAN STOJILJKOVIĆ","mainEntityOfPage":{"@type":"WebPage","@id":"/komision/2342-l-dorcolski-rekvijem-dejan-stojiljkovic/"},"url":"/komision/2342-l-dorcolski-rekvijem-dejan-stojiljkovic/"}</script>
 <!-- End Jekyll SEO tag -->
 <link rel="stylesheet" href="/assets/main.css"><link type="application/atom+xml" rel="alternate" href="/feed.xml" title="Knjižara Švrća" /></head>
 <body><header class="site-header" role="banner">
   <div class="wrapper">
     <a class="site-title" rel="author" href="/">Knjižara Švrća</a>
+
+    <a class="search-icon-mobile" href="/pretraga/" aria-label="Pretraga">
+      <svg viewBox="0 0 18 18" width="18px" height="18px" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round">
+        <circle cx="7.5" cy="7.5" r="5.5"/>
+        <line x1="11.5" y1="11.5" x2="16" y2="16"/>
+      </svg>
+    </a>
 
     <nav class="site-nav">
       <input type="checkbox" id="nav-trigger" class="nav-trigger" />
@@ -34,8 +41,7 @@
         </span>
       </label>
 
-      <div class="trigger">
-        <div class="mega-menu-wrap">
+      <div class="trigger"><a class="page-link" href="/pretraga/">Pretraga</a><a class="page-link" href="/kontakt/">Kontakt</a><div class="mega-menu-wrap">
           <button class="page-link mega-toggle" aria-expanded="false" aria-haspopup="true">
             Kategorije ▾
           </button>
@@ -53,7 +59,8 @@
             <a role="menuitem" href="/collections/ukrasni_papiri_i_kese/">Ukrasni papiri i kese</a>
             <a role="menuitem" href="/collections/usluga/">Usluga</a>
           </div>
-        </div><a class="page-link" href="/pretraga/">Pretraga</a><a class="page-link" href="/kontakt/">Kontakt</a></div>
+        </div>
+      </div>
     </nav>
   </div>
 </header>
@@ -107,8 +114,24 @@
     display: block;
   }
 
+  .search-icon-mobile {
+    display: none;
+    color: #424242;
+    line-height: 0;
+  }
+  .search-icon-mobile:hover {
+    color: #2a7ae2;
+  }
+
   /* Mobile: show as flat list inside the collapsed nav */
   @media (max-width: 600px) {
+    .search-icon-mobile {
+      display: inline-block;
+      position: absolute;
+      top: 50%;
+      right: 68px;
+      transform: translateY(-50%);
+    }
     .mega-dropdown {
       position: static;
       box-shadow: none;
