@@ -168,6 +168,44 @@ _schema:
   }
 </style>
 
+<style>
+  .breadcrumb {
+    font-size: 0.82rem;
+    color: #888;
+    margin-bottom: 1.25rem;
+    display: flex;
+    align-items: center;
+    gap: 0.4rem;
+    flex-wrap: wrap;
+  }
+  .breadcrumb a {
+    color: #888;
+    text-decoration: none;
+  }
+  .breadcrumb a:hover {
+    color: #c0392b;
+    text-decoration: underline;
+  }
+  .breadcrumb-sep {
+    color: #ccc;
+  }
+  .breadcrumb-current {
+    color: #444;
+    font-weight: 500;
+  }
+</style>
+
+{% assign collection_page = site.pages | where: "collection_name", page.collection | first %}
+<nav class="breadcrumb" aria-label="breadcrumb">
+  <a href="{{ '/' | relative_url }}">Početna</a>
+  {% if collection_page %}
+  <span class="breadcrumb-sep">›</span>
+  <a href="{{ collection_page.url | relative_url }}">{{ collection_page.title }}</a>
+  {% endif %}
+  <span class="breadcrumb-sep">›</span>
+  <span class="breadcrumb-current">{{ page.title }}</span>
+</nav>
+
 <div id="lightbox" role="dialog" aria-modal="true">
   <img id="lightbox-img" src="" alt="">
 </div>
