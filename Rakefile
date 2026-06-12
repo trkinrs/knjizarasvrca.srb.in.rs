@@ -8,6 +8,7 @@ PLATFORM = "--platform linux/amd64"
 JEKYLL_IMAGE = "jekyll/jekyll:latest"
 REPO_DIR = File.expand_path(__dir__)
 BUILD_DIR = "#{REPO_DIR}_site"
+PAGES_DIR = "#{REPO_DIR}_#{GITHUB_PAGES_BRANCH}"
 
 def sync_changed_files(source_dir, target_dir)
   source_paths = Dir.glob("#{source_dir}/**/*", File::FNM_DOTMATCH)
@@ -65,16 +66,12 @@ task :commit_and_push_with_rebase do
   sh "git push origin main"
 end
 
-desc "Deploy to #{GITHUB_PAGES_BRANCH} branch using a temporary build dir (does not touch #{BUILD_DIR})"
+desc "Deploy to #{GITHUB_PAGES_BRANCH} branch using a cached checkout (does not touch #{BUILD_DIR})"
 task :deploy do
   origin = `git config --get remote.origin.url`.strip
   fail "origin is empty" if origin.empty?
 
-  Dir.mktmpdir do |tmp|
-    build_dir = File.join(tmp, "build")
-    pages_dir = File.join(tmp, "pages")
-    FileUtils.mkdir_p [ build_dir, pages_dir ]
-
+  Dir.mktmpdir do |build_dir|
     if ENV["LP_USE_DOCKER_INSTEAD_OF_LOCAL_RUBY"] == "true"
       sh <<~HERE_DOC
         docker run --rm \
@@ -89,17 +86,29 @@ task :deploy do
       sh "bundle exec jekyll build -d #{build_dir}"
     end
 
-    Dir.chdir pages_dir do
-      sh "git init"
-      sh "git remote add origin #{origin}"
-
-      if system("git fetch --depth=1 origin #{GITHUB_PAGES_BRANCH}")
-        sh "git checkout -B #{GITHUB_PAGES_BRANCH} origin/#{GITHUB_PAGES_BRANCH}"
+    pages_checkout_created = false
+    unless File.directory?(File.join(PAGES_DIR, ".git"))
+      if system("git clone --branch #{GITHUB_PAGES_BRANCH} --single-branch #{origin} #{PAGES_DIR}")
+        puts "Cloned #{GITHUB_PAGES_BRANCH} to #{PAGES_DIR}"
+        pages_checkout_created = true
       else
-        sh "git checkout --orphan #{GITHUB_PAGES_BRANCH}"
+        FileUtils.mkdir_p PAGES_DIR
+        Dir.chdir PAGES_DIR do
+          sh "git init"
+          sh "git checkout --orphan #{GITHUB_PAGES_BRANCH}"
+          sh "git remote add origin #{origin}"
+        end
+        pages_checkout_created = true
       end
+    end
 
-      sync_changed_files build_dir, pages_dir
+    Dir.chdir PAGES_DIR do
+      sh "git remote set-url origin #{origin}"
+      current_branch = `git branch --show-current`.strip
+      sh "git checkout #{GITHUB_PAGES_BRANCH}" unless current_branch == GITHUB_PAGES_BRANCH
+      sh "git pull --ff-only origin #{GITHUB_PAGES_BRANCH}" unless pages_checkout_created
+
+      sync_changed_files build_dir, PAGES_DIR
 
       sh "git add -A"
       if system("git diff --cached --quiet")
@@ -122,4 +131,3 @@ desc "Pull the repo"
 task :pull do |task, args|
   sh "git pull --rebase"
 end
-
