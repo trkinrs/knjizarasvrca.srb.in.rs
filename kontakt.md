@@ -59,6 +59,11 @@ permalink: /kontakt/
   tr:hover .btn-copy {
     opacity: 1;
   }
+  @media (hover: none) {
+    .btn-copy {
+      opacity: 1;
+    }
+  }
   .btn-copy:hover {
     background: #e0e0e0;
   }
@@ -169,12 +174,46 @@ permalink: /kontakt/
 [O nama](/about/)
 
 <script>
+  function copyText(text) {
+    if (navigator.clipboard && window.isSecureContext) {
+      return navigator.clipboard.writeText(text);
+    }
+
+    return new Promise(function(resolve, reject) {
+      var textarea = document.createElement('textarea');
+      textarea.value = text;
+      textarea.setAttribute('readonly', '');
+      textarea.style.position = 'fixed';
+      textarea.style.top = '-9999px';
+      textarea.style.left = '-9999px';
+      document.body.appendChild(textarea);
+      textarea.select();
+
+      try {
+        if (document.execCommand('copy')) {
+          resolve();
+        } else {
+          reject(new Error('Copy command failed'));
+        }
+      } catch (error) {
+        reject(error);
+      } finally {
+        document.body.removeChild(textarea);
+      }
+    });
+  }
+
   document.querySelectorAll('.btn-copy').forEach(function(btn) {
     btn.addEventListener('click', function() {
-      var text = btn.closest('.cell-value').querySelector('.copy-source').textContent.trim();
-      navigator.clipboard.writeText(text).then(function() {
+      var source = btn.closest('.cell-value').querySelector('.copy-source');
+      var text = source.textContent.trim();
+
+      copyText(text).then(function() {
         btn.textContent = 'Copied!';
         btn.classList.add('copied');
+      }).catch(function() {
+        btn.textContent = 'Copy failed';
+      }).finally(function() {
         setTimeout(function() {
           btn.textContent = 'Copy';
           btn.classList.remove('copied');

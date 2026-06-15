@@ -20,8 +20,10 @@
 # in the templates via {{ site.myvariable }}.
 
 title: Knjižara Švrća
-email: knjizarasvrca@gmail.com
-phone: "+38163603018"
+emailsrbobran: "knjizarasvrca@gmail.com"
+emailfutog: "knjizarasvrcafutog@gmail.com"
+phonesrbobran: "063 603018"
+phonefutog: "060 6259699"
 description: >-
   Knjižara "Švrća" osnovana je 1990. godine. I više od 30 godina se bavimo
   trgovinom na veliko i malo školskim priborom, kancelarijskim materijalom,

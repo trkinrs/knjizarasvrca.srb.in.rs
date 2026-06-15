@@ -1,0 +1,75 @@
+<footer class="site-footer h-card">
+  <data class="u-url" href="{{ "/" | relative_url }}"></data>
+
+  <div class="wrapper">
+
+    <h2 class="footer-heading">{{ site.title | escape }}</h2>
+
+    <div class="footer-col-wrapper">
+      <div class="footer-col footer-col-1">
+        <ul class="contact-list">
+          <li class="p-name">
+            {%- if site.author -%}
+              {{ site.author | escape }}
+          {%- else -%}
+              {{ site.title | escape }}
+            {%- endif -%}
+          </li>
+          <li>Srbobran: <a href="https://www.google.com/maps/search/?api=1&amp;query=Trg%20Republike%201%2C%20Srbobran" target="_blank" rel="noopener">Trg Republike 1</a></li>
+          {%- if site.phonesrbobran -%}
+          <li><a href="tel:{{ site.phonesrbobran | remove: ' ' }}">{{ site.phonesrbobran }}</a></li>
+          {%- endif -%}
+          <li>Futog: <a href="https://www.google.com/maps/search/?api=1&amp;query=Cara%20Lazara%2018%2C%20Futog" target="_blank" rel="noopener">Cara Lazara 18</a></li>
+          {%- if site.phonefutog -%}
+          <li><a href="tel:{{ site.phonefutog | remove: ' ' }}">{{ site.phonefutog }}</a></li>
+          {%- endif -%}
+        </ul>
+      </div>
+
+      <div class="footer-col footer-col-2">
+        <ul class="social-media-list">
+          {%- if site.facebook_username -%}
+          <li><a href="https://www.facebook.com/{{ site.facebook_username | cgi_escape | escape }}"><svg class="svg-icon"><use xlink:href="{{ '/assets/minima-social-icons.svg#facebook' | relative_url }}"></use></svg> <span class="username">{{ site.facebook_username | escape }}</span></a></li>
+          {%- endif -%}
+          {%- if site.instagram_username -%}
+          <li><a href="https://instagram.com/{{ site.instagram_username | cgi_escape | escape }}"><svg class="svg-icon"><use xlink:href="{{ '/assets/minima-social-icons.svg#instagram' | relative_url }}"></use></svg> <span class="username">{{ site.instagram_username | escape }}</span></a></li>
+          {%- endif -%}
+          <li>
+            <a href="https://www.tiktok.com/@knjizarasvrcasvrcanaglas">
+              <svg class="svg-icon" viewBox="0 0 24 24" aria-hidden="true">
+                <path d="M16.6 5.8c1.1.8 2.4 1.2 3.8 1.2v3.2c-1.4 0-2.7-.3-3.8-.9v5.6c0 3.1-2.5 5.6-5.6 5.6s-5.6-2.5-5.6-5.6 2.5-5.6 5.6-5.6c.4 0 .8 0 1.1.1v3.4c-.3-.1-.7-.2-1.1-.2-1.3 0-2.3 1-2.3 2.3s1 2.3 2.3 2.3 2.3-1 2.3-2.3V3.5h3.3c.1.9.4 1.7 1 2.3z"/>
+              </svg>
+              <span class="username">@knjizarasvrcasvrcanaglas</span>
+            </a>
+          </li>
+          {%- if site.emailsrbobran -%}
+          <li>
+            <a class="u-email" href="mailto:{{ site.emailsrbobran }}">
+              <svg class="svg-icon" viewBox="0 0 24 24" aria-hidden="true">
+                <path d="M3 5h18v14H3V5zm2.7 2 6.3 5.1L18.3 7H5.7zM5 17h14V8.9l-7 5.7-7-5.7V17z"/>
+              </svg>
+              {{ site.emailsrbobran }}
+            </a>
+          </li>
+          {%- endif -%}
+          {%- if site.emailfutog -%}
+          <li>
+            <a class="u-email" href="mailto:{{ site.emailfutog }}">
+              <svg class="svg-icon" viewBox="0 0 24 24" aria-hidden="true">
+                <path d="M3 5h18v14H3V5zm2.7 2 6.3 5.1L18.3 7H5.7zM5 17h14V8.9l-7 5.7-7-5.7V17z"/>
+              </svg>
+              {{ site.emailfutog }}
+            </a>
+          </li>
+          {%- endif -%}
+        </ul>
+      </div>
+
+      <div class="footer-col footer-col-3">
+        <p>{{- site.description | escape -}}</p>
+      </div>
+    </div>
+
+  </div>
+
+</footer>
