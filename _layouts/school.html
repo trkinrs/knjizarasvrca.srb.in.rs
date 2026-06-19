@@ -1,0 +1,135 @@
+---
+layout: page
+---
+
+<style>
+  .school-summary {
+    display: flex;
+    justify-content: space-between;
+    gap: 1rem;
+    align-items: center;
+    margin: 1.5rem 0;
+    padding: 1rem;
+    background: #fff;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+  }
+  .school-summary-count {
+    color: #666;
+    font-size: 0.95rem;
+  }
+  .school-summary-total {
+    color: #c0392b;
+    font-size: 1.35rem;
+    font-weight: 700;
+    white-space: nowrap;
+  }
+  .school-book-list {
+    display: grid;
+    gap: 1rem;
+    margin: 0;
+    padding: 0;
+    list-style: none;
+  }
+  .school-book {
+    display: grid;
+    grid-template-columns: 96px minmax(0, 1fr) auto;
+    gap: 1rem;
+    align-items: start;
+    padding: 1rem;
+    background: #fff;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+  }
+  .school-book-image {
+    width: 96px;
+    aspect-ratio: 3 / 4;
+    object-fit: cover;
+    border-radius: 4px;
+    background: #f5f5f5;
+  }
+  .school-book-title {
+    margin: 0 0 0.35rem;
+    font-size: 1rem;
+    line-height: 1.3;
+  }
+  .school-book-meta {
+    color: #666;
+    font-size: 0.85rem;
+    line-height: 1.45;
+  }
+  .school-book-price {
+    color: #c0392b;
+    font-weight: 700;
+    white-space: nowrap;
+  }
+  .school-book-missing {
+    padding: 1rem;
+    background: #fff8e1;
+    border: 1px solid #f2d28a;
+    border-radius: 8px;
+  }
+  @media (max-width: 700px) {
+    .school-summary {
+      align-items: flex-start;
+      flex-direction: column;
+    }
+    .school-book {
+      grid-template-columns: 72px minmax(0, 1fr);
+    }
+    .school-book-image {
+      width: 72px;
+    }
+    .school-book-price {
+      grid-column: 2;
+    }
+  }
+</style>
+
+{{ content }}
+
+{% assign total = 0 %}
+{% assign item_count = 0 %}
+{% for sifra in page.vulkan_sifre %}
+  {% assign item = site.data.schools.vulkan[sifra] %}
+  {% if item %}
+    {% assign item_count = item_count | plus: 1 %}
+    {% assign total = total | plus: item.mpc %}
+  {% endif %}
+{% endfor %}
+
+<div class="school-summary">
+  <div>
+    <strong>{{ page.title }}</strong>
+    <div class="school-summary-count">{{ item_count }} udžbenika</div>
+  </div>
+  <div class="school-summary-total">Ukupno: {{ total | round }} din.</div>
+</div>
+
+<ul class="school-book-list">
+  {% for sifra in page.vulkan_sifre %}
+    {% assign item = site.data.schools.vulkan[sifra] %}
+    {% if item %}
+      <li class="school-book">
+        {% if item.image %}
+          <img class="school-book-image" src="{{ item.image | relative_url }}" alt="{{ item.title }}">
+        {% else %}
+          <img class="school-book-image" src="{{ '/assets/book-placeholder.svg' | relative_url }}" alt="{{ item.title }}">
+        {% endif %}
+        <div>
+          <h2 class="school-book-title"><a href="{{ item.link }}">{{ item.title }}</a></h2>
+          <div class="school-book-meta">
+            <div>Šifra: {{ sifra }}</div>
+            {% if item.naziv_udzbenika %}<div>{{ item.naziv_udzbenika }}</div>{% endif %}
+            {% if item.autor %}<div>Autor: {{ item.autor }}</div>{% endif %}
+            {% if item.izdavac %}<div>Izdavač: {{ item.izdavac }}</div>{% endif %}
+            {% if item.isbn %}<div>ISBN: {{ item.isbn }}</div>{% endif %}
+          </div>
+        </div>
+        <div class="school-book-price">{{ item.mpc | round }} din.</div>
+      </li>
+    {% else %}
+      <li class="school-book-missing">Nije pronađen Vulkan artikal sa šifrom {{ sifra }}.</li>
+    {% endif %}
+  {% endfor %}
+</ul>

@@ -56,6 +56,9 @@ collections:
   rancevi_i_peratonice:
     output: 'true'
     permalink: "/:collection/:name/"
+  schools:
+    output: 'true'
+    permalink: "/:collection/:name/"
   skolski_pribor:
     output: 'true'
     permalink: "/:collection/:name/"
@@ -74,6 +77,7 @@ collections:
 header_pages:
   - search.md
   - kontakt.md
+  - schools.md
 
 theme: minima
 plugins:
