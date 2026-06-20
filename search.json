@@ -38410,9 +38410,22 @@
   ,
   
   {
-    "title": "2. razred OŠ Čelarevo",
+    "title": "2. razred OŠ Zdravko Čelar, Čelarevo",
     "sku": null,
     "url": "/schools/celarevo-2-razred/",
+    "collection": "schools",
+    "image": null,
+    "price": null,
+    "srbobran": null,
+    "futog": null
+  }
+    
+  ,
+  
+  {
+    "title": "7. razred OŠ Zdravko Čelar, Čelarevo",
+    "sku": null,
+    "url": "/schools/celarevo-7-razred/",
     "collection": "schools",
     "image": null,
     "price": null,
