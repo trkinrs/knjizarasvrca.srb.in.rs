@@ -1,0 +1,25 @@
+---
+'244139':
+  naziv_udzbenika: Udžbenik 7 - Grujić
+  mpc: 850.0
+  title: Muzička kultura 7, udžbenik za sedmi razred sa QR kodom
+  description: Muzička kultura 7 vodi vas na muzičko putovanje kroz epohe i teme, obići ćete i izvođačko carstvo. U ovom udžbeniku svako poglavlje ima svog vodiča, čiji je zadatak da vam pokaže sve ono što je važno da saznate.
+  autor: Biljana Leković, Gabrijela Grujić, Maja Sokolović Ignjačević, Saša Kesić
+  izdavac: Klett
+  isbn: '9788653310486'
+  link: https://klett.rs/izdanje/muzicka-kultura-7-udzbenik-za-sedmi-razred-sa-qr-kodom-2
+  image_url: https://eknjizara.rs/wp-content/uploads/2025/04/Klett_Muzicko-7_revizija_2D_korice.jpg
+  image: "/assets/images/schools/klett/244139.jpg"
+  predmet: Muzička kultura
+'244140':
+  naziv_udzbenika: Udžbenik 7 - Filipović
+  mpc: 850.0
+  title: Likovna kultura 7, udžbenik za sedmi razred
+  description: Uz udžbenik Likovna kultura 7 nastavljate druženje i putovanje kroz svet umetnosti. Ponuđene likovne aktivnosti iz oblasti prostora i kompozicije, komunikacije i umetnosti omogućiće vam da učite, istražujete, maštate i stvarate.
+  autor: Sanja Filipović
+  izdavac: Klett
+  isbn: 978-86-533-0400-3
+  link: https://klett.rs/izdanje/likovna-kultura-7-udzbenik-za-sedmi-razred-2
+  image_url: https://eknjizara.rs/wp-content/uploads/2025/04/Klett_Likovno-7_Udzbenik_2D_korice_revizija-2025.jpg
+  image: "/assets/images/schools/klett/244140.jpg"
+  predmet: Likovna kultura

@@ -1,0 +1,25 @@
+---
+'12711201':
+  naziv_udzbenika: Udžbenik 7 - Jelić
+  mpc: 1100.0
+  title: MATEMATIKA za 7. razred osnovne škole
+  description: MATEMATIKA za 7. razred osnovne škole - S. Ješić J. Blagojević
+  autor: S. Ješić J. Blagojević
+  izdavac: Gerundijum
+  isbn: 978-86-87715-98-1
+  link: https://www.gerundijum.rs/opisst.php?id=12711201
+  image_url: https://www.gerundijum.rs/img/udzbenici/Matematika7Nm.jpg
+  image: "/assets/images/schools/gerundijum/12711201.jpg"
+  predmet: Matematika
+'12712301':
+  naziv_udzbenika: Zbirka zadataka 7 - Jelić
+  mpc: 1100.0
+  title: ZBIRKA ZADATAKA IZ MATEMATIKE za 7. razred osnovne škole
+  description: ZBIRKA ZADATAKA IZ MATEMATIKE za 7. razred osnovne škole - S. Ješić, T. Njaradi, J. Blagojević
+  autor: S. Ješić, T. Njaradi, J. Blagojević
+  izdavac: Gerundijum
+  isbn: 978-86-87715-99-8
+  link: https://www.gerundijum.rs/opisst.php?id=12712301
+  image_url: https://www.gerundijum.rs/img/udzbenici/Zbirka7Nm.jpg
+  image: "/assets/images/schools/gerundijum/12712301.jpg"
+  predmet: Matematika

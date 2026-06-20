@@ -90,8 +90,8 @@ layout: page
 
 {% assign total = 0 %}
 {% assign item_count = 0 %}
-{% for sifra in page.vulkan_sifre %}
-  {% assign item = site.data.schools.vulkan[sifra] %}
+{% for book in page.books %}
+  {% assign item = site.data.schools[book.source][book.sifra] %}
   {% if item %}
     {% assign item_count = item_count | plus: 1 %}
     {% assign total = total | plus: item.mpc %}
@@ -107,8 +107,8 @@ layout: page
 </div>
 
 <ul class="school-book-list">
-  {% for sifra in page.vulkan_sifre %}
-    {% assign item = site.data.schools.vulkan[sifra] %}
+  {% for book in page.books %}
+    {% assign item = site.data.schools[book.source][book.sifra] %}
     {% if item %}
       <li class="school-book">
         {% if item.image %}
@@ -119,7 +119,7 @@ layout: page
         <div>
           <h2 class="school-book-title"><a href="{{ item.link }}">{{ item.title }}</a></h2>
           <div class="school-book-meta">
-            <div>Šifra: {{ sifra }}</div>
+            <div>Šifra: {{ book.sifra }}</div>
             {% if item.naziv_udzbenika %}<div>{{ item.naziv_udzbenika }}</div>{% endif %}
             {% if item.autor %}<div>Autor: {{ item.autor }}</div>{% endif %}
             {% if item.izdavac %}<div>Izdavač: {{ item.izdavac }}</div>{% endif %}
@@ -129,7 +129,7 @@ layout: page
         <div class="school-book-price">{{ item.mpc | round }} din.</div>
       </li>
     {% else %}
-      <li class="school-book-missing">Nije pronađen Vulkan artikal sa šifrom {{ sifra }}.</li>
+      <li class="school-book-missing">Nije pronađen artikal {{ book.source }} sa šifrom {{ book.sifra }}.</li>
     {% endif %}
   {% endfor %}
 </ul>

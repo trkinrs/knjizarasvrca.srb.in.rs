@@ -1,0 +1,25 @@
+---
+'3601':
+  naziv_udzbenika: Udžbenik 7 - Naš  klass 3 - Nikolić
+  mpc: 739.2
+  title: Naš klass 3, udžbenik i CD za ruski jezik za 7. razred osnovne škole Zavod za udžbenike
+  description: Naš klass 3, udžbenik i CD iz ruskog jezika za sedmi razred osnovne škole
+  autor: Branislav Nikolić, Luka Medenica, Mira Simeunović
+  izdavac: Zavod za udžbenike
+  isbn: '9788617203069'
+  link: ''
+  image_url: https://c.cdnmp.net/616653181/p/m/2/nas-klass-3-udzbenik-i-cd-za-ruski-jezik-za-7-razred-osnovne-skole~4732.jpg
+  image: "/assets/images/schools/zavod/3601.jpg"
+  predmet: Ruski jezik
+'3602':
+  naziv_udzbenika: Radna sveska 7 - Naš Klass 3 - Nikolić
+  mpc: 495.0
+  title: Naš klass 3, radna sveska za ruski jezik za 7. razred osnovne škole Zavod za udžbenike
+  description: Naš klass 3, radna sveska iz ruskog jezika za sedmi razred osnovne škole
+  autor: Branislav Nikolić, Luka Medenica, Mira Simeunović
+  izdavac: Zavod za udžbenike
+  isbn: '9788617203038'
+  link: ''
+  image_url: https://c.cdnmp.net/616653181/p/m/1/nas-klass-3-radna-sveska-za-ruski-jezik-za-7-razred-osnovne-skole~4731.jpg
+  image: "/assets/images/schools/zavod/3602.jpg"
+  predmet: Ruski jezik

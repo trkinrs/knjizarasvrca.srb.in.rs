@@ -1,0 +1,61 @@
+---
+'125952':
+  naziv_udzbenika: Udžbenik 7 - Đisalov
+  mpc: 1240.0
+  title: Tehnika i tehnologija 7, dopunjeno izdanje udžbenika za sedmi razred
+  description: Udžbenik odlikuju pregledan dizajn i jasna navigacija koji olakšavaju snalaženje, opažanje, učenje i pamćenje.
+  autor: Dijana Karuović, Ivan Đisalov, Ivan Palinkaš
+  izdavac: Logos
+  isbn: 978-86-6109-710-2
+  link: https://logos-edu.rs/izdanje/tehnika-i-tehnologija-7-dopunjeno-izdanje-udzbenika-za-sedmi-razred-2
+  image_url: https://eknjizara.rs/wp-content/uploads/2020/06/L1710501-2.jpg
+  image: "/assets/images/schools/logos/125952.jpg"
+  predmet: Tehnika i tehnologija
+'244174':
+  naziv_udzbenika: Udžbenik 7 - Antić
+  mpc: 1240.0
+  title: Istorija 7, udžbenik za sedmi razred
+  description: Pregledan dizajn i jasna navigacija u udžbeniku olakšavaju opažanje, učenje i pamćenje.
+  autor: Manja Milinović, Čedomir Antić
+  izdavac: Logos
+  isbn: '9788661094811'
+  link: https://logos-edu.rs/izdanje/istorija-7-udzbenik-za-sedmi-razred-3
+  image_url: https://eknjizara.rs/wp-content/uploads/2025/04/Logos_Istorija-7_Udzbenik_2D_korice.jpg
+  image: "/assets/images/schools/logos/244174.jpg"
+  predmet: Istorija
+'244180':
+  naziv_udzbenika: Udžbenik 7 - Nedeljković
+  mpc: 1100.0
+  title: Hemija 7, udžbenik za sedmi razred
+  description: Pregledan dizajn i jasna navigacija olakšavaju opažanje, učenje i pamćenje.
+  autor: Dragana Anđelković, Tatjana Nedeljković
+  izdavac: Logos
+  isbn: '9788661094781'
+  link: https://logos-edu.rs/izdanje/hemija-7-udzbenik-za-sedmi-razred-2
+  image_url: https://eknjizara.rs/wp-content/uploads/2025/04/Logos_Hemija-7_Udzbenik_2D_korica.jpg
+  image: "/assets/images/schools/logos/244180.jpg"
+  predmet: Hemija
+'244181':
+  naziv_udzbenika: Laboratorijske vežbe sa zadacima 7 - Nedeljković
+  mpc: 940.0
+  title: Hemija 7, laboratorijske vežbe sa zadacima za sedmi razred
+  description: Laboratorijske vežbe i zadaci označeni prema nivoima složenosti. Na kraju se nalaze rešenja svih zadataka i prilozi.
+  autor: Dragana Anđelković, Tatjana Nedeljković
+  izdavac: Logos
+  isbn: '9788661094774'
+  link: https://logos-edu.rs/izdanje/hemija-7-laboratorijske-vezbe-sa-zadacima-za-sedmi-razred
+  image_url: https://eknjizara.rs/wp-content/uploads/2025/04/Logos_Hemija-7_RS_lab-vezbe_2D_korica.jpg
+  image: "/assets/images/schools/logos/244181.jpg"
+  predmet: Hemija
+'6853':
+  naziv_udzbenika: Udžbenik 7 - English plus 3 - Wetz, Gormley
+  mpc: 1870.0
+  title: Engleski jezik 7, English Plus 3 (2nd Edition), udžbenik za sedmi razred
+  description: Raznovrsne i pravilno gradirane vežbe i aktivnosti na tri nivoa omogućavaju đacima da napreduju u skladu sa sopstvenim mogućnostima.
+  autor: Ben Vec, Ketrin Gormli
+  izdavac: Logos
+  isbn: 978-01-942-0158-2
+  link: https://logos-edu.rs/izdanje/english-plus-3-2nd-edition-udzbenik-za-sedmi-razred
+  image_url: https://eknjizara.rs/wp-content/uploads/2020/06/L1711101-2.jpg
+  image: "/assets/images/schools/logos/6853.jpg"
+  predmet: Engleski jezik
