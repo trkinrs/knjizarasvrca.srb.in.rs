@@ -23,9 +23,9 @@
     "url": "/baloni/101-sb-pastel-mix/",
     "collection": "baloni",
     "image": null,
-    "price": 1550.0,
-    "srbobran": 0,
-    "futog": null
+    "price": 390.0,
+    "srbobran": 1,
+    "futog": 1
   }
     
   ,
@@ -36,9 +36,9 @@
     "url": "/baloni/102-fb-heart-45cm-red/",
     "collection": "baloni",
     "image": "/assets/images/102/fb-heart-45cm-red-1.jpg",
-    "price": 495.0,
-    "srbobran": 0,
-    "futog": null
+    "price": 200.0,
+    "srbobran": 4,
+    "futog": 4
   }
     
   ,
@@ -49,9 +49,9 @@
     "url": "/baloni/105-fb-heart-61cm-red/",
     "collection": "baloni",
     "image": "/assets/images/105/fb-heart-61cm-red-1.jpg",
-    "price": 425.0,
-    "srbobran": 0,
-    "futog": null
+    "price": 200.0,
+    "srbobran": 5,
+    "futog": 5
   }
     
   ,
@@ -64,7 +64,7 @@
     "image": "/assets/images/106/fbs-48cm-1.jpg",
     "price": 265.0,
     "srbobran": 0,
-    "futog": null
+    "futog": 4
   }
     
   ,
@@ -102,7 +102,7 @@
     "collection": "baloni",
     "image": "/assets/images/114/procos-fb-18-1.jpg",
     "price": 610.0,
-    "srbobran": 2,
+    "srbobran": 0,
     "futog": 1
   }
     
@@ -114,9 +114,9 @@
     "url": "/baloni/116-tegic-75g/",
     "collection": "baloni",
     "image": "/assets/images/116/tegic-75g-1.jpg",
-    "price": 180.0,
-    "srbobran": 0,
-    "futog": null
+    "price": 420.0,
+    "srbobran": 3,
+    "futog": 0
   }
     
   ,
@@ -127,9 +127,9 @@
     "url": "/baloni/117-tegic-170g/",
     "collection": "baloni",
     "image": "/assets/images/117/tegic-170g-1.jpg",
-    "price": 320.0,
-    "srbobran": 0,
-    "futog": null
+    "price": 350.0,
+    "srbobran": 5,
+    "futog": 5
   }
     
   ,
@@ -166,9 +166,9 @@
     "url": "/baloni/129-fb-heart-61cm/",
     "collection": "baloni",
     "image": null,
-    "price": 295.0,
-    "srbobran": 0,
-    "futog": 0
+    "price": 395.0,
+    "srbobran": 7,
+    "futog": 7
   }
     
   ,
@@ -270,9 +270,9 @@
     "url": "/baloni/1357-balon-30cm/",
     "collection": "baloni",
     "image": null,
-    "price": 60.0,
-    "srbobran": 53,
-    "futog": 21
+    "price": 70.0,
+    "srbobran": 141,
+    "futog": 111
   }
     
   ,
@@ -297,7 +297,7 @@
     "collection": "baloni",
     "image": null,
     "price": 495.0,
-    "srbobran": 1,
+    "srbobran": 0,
     "futog": null
   }
     
@@ -324,7 +324,7 @@
     "image": null,
     "price": 210.0,
     "srbobran": 0,
-    "futog": 1
+    "futog": 0
   }
     
   ,
@@ -454,7 +454,7 @@
     "image": null,
     "price": 695.0,
     "srbobran": 2,
-    "futog": 2
+    "futog": 1
   }
     
   ,
@@ -506,7 +506,7 @@
     "image": null,
     "price": 60.0,
     "srbobran": 0,
-    "futog": 36
+    "futog": 46
   }
     
   ,
@@ -595,9 +595,9 @@
     "url": "/baloni/159-vr-pm-teg-170g/",
     "collection": "baloni",
     "image": "/assets/images/159/vr-pm-teg-170g-1.jpg",
-    "price": 220.0,
-    "srbobran": 1,
-    "futog": null
+    "price": 230.0,
+    "srbobran": 13,
+    "futog": 0
   }
     
   ,
@@ -649,7 +649,7 @@
     "image": null,
     "price": 260.0,
     "srbobran": 0,
-    "futog": 1
+    "futog": 0
   }
     
   ,
@@ -779,7 +779,7 @@
     "image": "/assets/images/40/18-fbq-f-balon-if-1.jpg",
     "price": 380.0,
     "srbobran": 9,
-    "futog": 5
+    "futog": 4
   }
     
   ,
@@ -805,7 +805,7 @@
     "image": "/assets/images/45/grabo-srednji-brojevi-1.jpg",
     "price": 470.0,
     "srbobran": 44,
-    "futog": 47
+    "futog": 45
   }
     
   ,
@@ -855,9 +855,9 @@
     "url": "/baloni/64-18-fba-f-s40/",
     "collection": "baloni",
     "image": "/assets/images/64/18-fba-f-s40-1.jpg",
-    "price": 455.0,
-    "srbobran": 0,
-    "futog": null
+    "price": 450.0,
+    "srbobran": 17,
+    "futog": 11
   }
     
   ,
@@ -934,7 +934,7 @@
     "collection": "baloni",
     "image": "/assets/images/82/hrv-dobro-dosao-1.jpg",
     "price": 935.0,
-    "srbobran": 1,
+    "srbobran": 0,
     "futog": null
   }
     
@@ -947,8 +947,8 @@
     "collection": "baloni",
     "image": "/assets/images/9/balon-sb10p-23cm-1.jpg",
     "price": 30.0,
-    "srbobran": 389,
-    "futog": 362
+    "srbobran": 379,
+    "futog": 345
   }
     
   ,
@@ -1040,7 +1040,7 @@
     "collection": "kancelarijski_materijal",
     "image": "/assets/images/1029/roler-connect-kf-217-1.jpg",
     "price": 80.0,
-    "srbobran": 18,
+    "srbobran": 6,
     "futog": 0
   }
     
@@ -1080,7 +1080,7 @@
     "image": "/assets/images/1062/krep-papir-100-70-1.jpg",
     "price": 100.0,
     "srbobran": 32,
-    "futog": 28
+    "futog": 27
   }
     
   ,
@@ -1131,7 +1131,7 @@
     "collection": "kancelarijski_materijal",
     "image": null,
     "price": 60.0,
-    "srbobran": 30,
+    "srbobran": 28,
     "futog": null
   }
     
@@ -1183,7 +1183,7 @@
     "collection": "kancelarijski_materijal",
     "image": "/assets/images/1111/atase-podloga-1.jpg",
     "price": 260.0,
-    "srbobran": 2,
+    "srbobran": 0,
     "futog": null
   }
     
@@ -1222,8 +1222,8 @@
     "collection": "kancelarijski_materijal",
     "image": "/assets/images/1118/marker-cd-dvd-of-1.jpg",
     "price": 50.0,
-    "srbobran": 23,
-    "futog": null
+    "srbobran": 47,
+    "futog": 0
   }
     
   ,
@@ -1248,7 +1248,7 @@
     "collection": "kancelarijski_materijal",
     "image": "/assets/images/1121/heft-masina-24-6-delta-105-1.jpg",
     "price": 1635.0,
-    "srbobran": 1,
+    "srbobran": 0,
     "futog": null
   }
     
@@ -1404,7 +1404,7 @@
     "collection": "kancelarijski_materijal",
     "image": null,
     "price": 130.0,
-    "srbobran": 23,
+    "srbobran": 20,
     "futog": 0
   }
     
@@ -1431,7 +1431,7 @@
     "image": "/assets/images/1252/koverat-b-6-1.jpg",
     "price": 7.0,
     "srbobran": 165,
-    "futog": 139
+    "futog": 99
   }
     
   ,
@@ -1457,7 +1457,7 @@
     "image": "/assets/images/1268/marker-koh-i-noor-1.jpg",
     "price": 130.0,
     "srbobran": 60,
-    "futog": 15
+    "futog": 14
   }
     
   ,
@@ -1483,7 +1483,7 @@
     "image": null,
     "price": 85.0,
     "srbobran": 10,
-    "futog": 6
+    "futog": 3
   }
     
   ,
@@ -1638,7 +1638,7 @@
     "collection": "kancelarijski_materijal",
     "image": "/assets/images/1371/dosije-sup-1.jpg",
     "price": 80.0,
-    "srbobran": 120,
+    "srbobran": 99,
     "futog": 25
   }
     
@@ -1651,8 +1651,8 @@
     "collection": "kancelarijski_materijal",
     "image": "/assets/images/1373/dosije-11-rupa-40mic-1.jpg",
     "price": 6.0,
-    "srbobran": 316,
-    "futog": 85
+    "srbobran": 297,
+    "futog": 84
   }
     
   ,
@@ -1716,7 +1716,7 @@
     "collection": "kancelarijski_materijal",
     "image": null,
     "price": 410.0,
-    "srbobran": 1,
+    "srbobran": 0,
     "futog": 1
   }
     
@@ -1755,8 +1755,8 @@
     "collection": "kancelarijski_materijal",
     "image": "/assets/images/1405/pak-papir-natron-1.jpg",
     "price": 40.0,
-    "srbobran": 25,
-    "futog": 19
+    "srbobran": 18,
+    "futog": 18
   }
     
   ,
@@ -1846,7 +1846,7 @@
     "collection": "kancelarijski_materijal",
     "image": "/assets/images/1429/maramice-1.jpg",
     "price": 20.0,
-    "srbobran": 11,
+    "srbobran": 10,
     "futog": null
   }
     
@@ -1859,7 +1859,7 @@
     "collection": "kancelarijski_materijal",
     "image": "/assets/images/1445/dosije-11-rupa-60mic-1.jpg",
     "price": 12.0,
-    "srbobran": 70,
+    "srbobran": 56,
     "futog": 400
   }
     
@@ -1885,7 +1885,7 @@
     "collection": "kancelarijski_materijal",
     "image": null,
     "price": 180.0,
-    "srbobran": 4,
+    "srbobran": 2,
     "futog": 7
   }
     
@@ -1963,7 +1963,7 @@
     "collection": "kancelarijski_materijal",
     "image": "/assets/images/153/ho-a-plus-1.jpg",
     "price": 60.0,
-    "srbobran": 23,
+    "srbobran": 7,
     "futog": 0
   }
     
@@ -2041,7 +2041,7 @@
     "collection": "kancelarijski_materijal",
     "image": "/assets/images/156/ho-of-easy-glide-1.jpg",
     "price": 60.0,
-    "srbobran": 42,
+    "srbobran": 39,
     "futog": 1
   }
     
@@ -2093,7 +2093,7 @@
     "collection": "kancelarijski_materijal",
     "image": "/assets/images/171/nalepnice-p-1.jpg",
     "price": 30.0,
-    "srbobran": 3,
+    "srbobran": 4,
     "futog": 3
   }
     
@@ -2171,7 +2171,7 @@
     "collection": "kancelarijski_materijal",
     "image": null,
     "price": 40.0,
-    "srbobran": 2,
+    "srbobran": 0,
     "futog": 1
   }
     
@@ -2405,7 +2405,7 @@
     "collection": "kancelarijski_materijal",
     "image": "/assets/images/1900/termo-rolna-80-70mm-1.jpg",
     "price": 225.0,
-    "srbobran": 31,
+    "srbobran": 21,
     "futog": 8
   }
     
@@ -2418,7 +2418,7 @@
     "collection": "kancelarijski_materijal",
     "image": "/assets/images/1912/zabranjeno-pusenje-a-4-1.jpg",
     "price": 95.0,
-    "srbobran": 4,
+    "srbobran": 3,
     "futog": 3
   }
     
@@ -2444,7 +2444,7 @@
     "collection": "kancelarijski_materijal",
     "image": "/assets/images/1931/koverat-vazdusni-br-3-1.jpg",
     "price": 30.0,
-    "srbobran": 2,
+    "srbobran": 0,
     "futog": 1
   }
     
@@ -2574,7 +2574,7 @@
     "collection": "kancelarijski_materijal",
     "image": null,
     "price": 435.0,
-    "srbobran": 4,
+    "srbobran": 1,
     "futog": 4
   }
     
@@ -2613,7 +2613,7 @@
     "collection": "kancelarijski_materijal",
     "image": "/assets/images/1991/registrator-a-4-n-1.jpg",
     "price": 330.0,
-    "srbobran": 7,
+    "srbobran": 22,
     "futog": 11
   }
     
@@ -2678,7 +2678,7 @@
     "collection": "kancelarijski_materijal",
     "image": null,
     "price": 5.0,
-    "srbobran": 46,
+    "srbobran": 32,
     "futog": null
   }
     
@@ -2704,7 +2704,7 @@
     "collection": "kancelarijski_materijal",
     "image": "/assets/images/203/gel-olovka-tg-1.jpg",
     "price": 195.0,
-    "srbobran": 13,
+    "srbobran": 11,
     "futog": 11
   }
     
@@ -2782,7 +2782,7 @@
     "collection": "kancelarijski_materijal",
     "image": null,
     "price": 60.0,
-    "srbobran": 18,
+    "srbobran": 17,
     "futog": 15
   }
     
@@ -2795,8 +2795,8 @@
     "collection": "kancelarijski_materijal",
     "image": null,
     "price": 40.0,
-    "srbobran": 86,
-    "futog": 37
+    "srbobran": 70,
+    "futog": 36
   }
     
   ,
@@ -2913,7 +2913,7 @@
     "image": "/assets/images/2178/dosije-11-rupa-80mic-1.jpg",
     "price": 15.0,
     "srbobran": 525,
-    "futog": 337
+    "futog": 336
   }
     
   ,
@@ -3186,7 +3186,7 @@
     "image": "/assets/images/2585/ciode-pluta-1.jpg",
     "price": 60.0,
     "srbobran": 2,
-    "futog": 3
+    "futog": 2
   }
     
   ,
@@ -3211,8 +3211,8 @@
     "collection": "kancelarijski_materijal",
     "image": null,
     "price": 80.0,
-    "srbobran": 22,
-    "futog": 12
+    "srbobran": 32,
+    "futog": 11
   }
     
   ,
@@ -3224,7 +3224,7 @@
     "collection": "kancelarijski_materijal",
     "image": null,
     "price": 280.0,
-    "srbobran": 6,
+    "srbobran": 5,
     "futog": 5
   }
     
@@ -3314,8 +3314,8 @@
     "url": "/kancelarijski_materijal/2774-marker-0-6-cp/",
     "collection": "kancelarijski_materijal",
     "image": "/assets/images/2774/marker-0-6-cp-1.jpg",
-    "price": 85.0,
-    "srbobran": 87,
+    "price": 90.0,
+    "srbobran": 85,
     "futog": 59
   }
     
@@ -3354,8 +3354,8 @@
     "collection": "kancelarijski_materijal",
     "image": null,
     "price": 30.0,
-    "srbobran": 4,
-    "futog": 0
+    "srbobran": 2,
+    "futog": 2
   }
     
   ,
@@ -3445,7 +3445,7 @@
     "collection": "kancelarijski_materijal",
     "image": "/assets/images/2977/dozvoljeno-pusenje-a-7-1.jpg",
     "price": 20.0,
-    "srbobran": 53,
+    "srbobran": 51,
     "futog": null
   }
     
@@ -3509,9 +3509,9 @@
     "url": "/kancelarijski_materijal/3230-marker-cp-1mm/",
     "collection": "kancelarijski_materijal",
     "image": "/assets/images/3230/marker-cp-1mm-1.jpg",
-    "price": 85.0,
-    "srbobran": 114,
-    "futog": 42
+    "price": 90.0,
+    "srbobran": 118,
+    "futog": 43
   }
     
   ,
@@ -3562,8 +3562,8 @@
     "collection": "kancelarijski_materijal",
     "image": null,
     "price": 220.0,
-    "srbobran": 0,
-    "futog": 1
+    "srbobran": 7,
+    "futog": 6
   }
     
   ,
@@ -3639,8 +3639,8 @@
     "url": "/kancelarijski_materijal/3467-marker-bt-of/",
     "collection": "kancelarijski_materijal",
     "image": null,
-    "price": 50.0,
-    "srbobran": 38,
+    "price": 54.0,
+    "srbobran": 28,
     "futog": 0
   }
     
@@ -3679,7 +3679,7 @@
     "collection": "kancelarijski_materijal",
     "image": null,
     "price": 50.0,
-    "srbobran": 40,
+    "srbobran": 10,
     "futog": 50
   }
     
@@ -3718,8 +3718,8 @@
     "collection": "kancelarijski_materijal",
     "image": null,
     "price": 650.0,
-    "srbobran": 2,
-    "futog": 4
+    "srbobran": 6,
+    "futog": 0
   }
     
   ,
@@ -3756,9 +3756,9 @@
     "url": "/kancelarijski_materijal/363-foto-papir-190g/",
     "collection": "kancelarijski_materijal",
     "image": null,
-    "price": 20.0,
-    "srbobran": 0,
-    "futog": null
+    "price": 40.0,
+    "srbobran": 25,
+    "futog": 25
   }
     
   ,
@@ -3795,8 +3795,8 @@
     "url": "/kancelarijski_materijal/3707-folija-za-koricenje/",
     "collection": "kancelarijski_materijal",
     "image": null,
-    "price": 780.0,
-    "srbobran": 0,
+    "price": null,
+    "srbobran": null,
     "futog": null
   }
     
@@ -4160,7 +4160,7 @@
     "collection": "kancelarijski_materijal",
     "image": "/assets/images/4263/baterija-aa-aaa-1.jpg",
     "price": 65.0,
-    "srbobran": 32,
+    "srbobran": 24,
     "futog": 26
   }
     
@@ -4173,8 +4173,8 @@
     "collection": "kancelarijski_materijal",
     "image": "/assets/images/432/termo-rolna-57-48mm-1.jpg",
     "price": 90.0,
-    "srbobran": 10,
-    "futog": 35
+    "srbobran": 50,
+    "futog": 22
   }
     
   ,
@@ -4226,7 +4226,7 @@
     "image": "/assets/images/440/ho-ah-567c-1.jpg",
     "price": 30.0,
     "srbobran": 0,
-    "futog": 35
+    "futog": 26
   }
     
   ,
@@ -4316,7 +4316,7 @@
     "collection": "kancelarijski_materijal",
     "image": "/assets/images/456/ho-r301-1.jpg",
     "price": 40.0,
-    "srbobran": 67,
+    "srbobran": 54,
     "futog": 47
   }
     
@@ -4343,7 +4343,7 @@
     "image": null,
     "price": 5.0,
     "srbobran": 129,
-    "futog": 139
+    "futog": 129
   }
     
   ,
@@ -4355,8 +4355,8 @@
     "collection": "kancelarijski_materijal",
     "image": null,
     "price": 30.0,
-    "srbobran": 0,
-    "futog": null
+    "srbobran": 20,
+    "futog": 0
   }
     
   ,
@@ -4369,7 +4369,7 @@
     "image": null,
     "price": 20.0,
     "srbobran": 11,
-    "futog": 21
+    "futog": 18
   }
     
   ,
@@ -4421,7 +4421,7 @@
     "image": "/assets/images/467/gel-olovka-pisi-brisi-1.jpg",
     "price": 210.0,
     "srbobran": 5,
-    "futog": 9
+    "futog": 8
   }
     
   ,
@@ -4472,7 +4472,7 @@
     "collection": "kancelarijski_materijal",
     "image": "/assets/images/481/ho-vinson-fashion-1.jpg",
     "price": 50.0,
-    "srbobran": 29,
+    "srbobran": 25,
     "futog": 35
   }
     
@@ -4485,8 +4485,8 @@
     "collection": "kancelarijski_materijal",
     "image": "/assets/images/482/ho-ah-567-1.jpg",
     "price": 40.0,
-    "srbobran": 88,
-    "futog": 58
+    "srbobran": 73,
+    "futog": 51
   }
     
   ,
@@ -4537,7 +4537,7 @@
     "collection": "kancelarijski_materijal",
     "image": "/assets/images/502/signir-of-1.jpg",
     "price": 55.0,
-    "srbobran": 7,
+    "srbobran": 6,
     "futog": 9
   }
     
@@ -4602,8 +4602,8 @@
     "collection": "kancelarijski_materijal",
     "image": "/assets/images/524/termo-rolna-57-40mm-1.jpg",
     "price": 60.0,
-    "srbobran": 57,
-    "futog": 30
+    "srbobran": 23,
+    "futog": 20
   }
     
   ,
@@ -4615,7 +4615,7 @@
     "collection": "kancelarijski_materijal",
     "image": null,
     "price": 160.0,
-    "srbobran": 17,
+    "srbobran": 13,
     "futog": 3
   }
     
@@ -4654,7 +4654,7 @@
     "collection": "kancelarijski_materijal",
     "image": "/assets/images/530/selotejp-50-50-1.jpg",
     "price": 95.0,
-    "srbobran": 18,
+    "srbobran": 14,
     "futog": 20
   }
     
@@ -4667,7 +4667,7 @@
     "collection": "kancelarijski_materijal",
     "image": "/assets/images/531/selotejp-15-60-1.jpg",
     "price": 50.0,
-    "srbobran": 12,
+    "srbobran": 0,
     "futog": 11
   }
     
@@ -4680,7 +4680,7 @@
     "collection": "kancelarijski_materijal",
     "image": null,
     "price": 250.0,
-    "srbobran": 7,
+    "srbobran": 2,
     "futog": 5
   }
     
@@ -4824,7 +4824,7 @@
     "image": "/assets/images/555/marker-lumo-1.jpg",
     "price": 155.0,
     "srbobran": 0,
-    "futog": 9
+    "futog": 8
   }
     
   ,
@@ -4836,7 +4836,7 @@
     "collection": "kancelarijski_materijal",
     "image": "/assets/images/556/marker-cn-kosi-vrh-1.jpg",
     "price": 80.0,
-    "srbobran": 39,
+    "srbobran": 34,
     "futog": 5
   }
     
@@ -4875,7 +4875,7 @@
     "collection": "kancelarijski_materijal",
     "image": "/assets/images/567/blok-beleske-a-5-1.jpg",
     "price": 160.0,
-    "srbobran": 3,
+    "srbobran": 2,
     "futog": 0
   }
     
@@ -4901,7 +4901,7 @@
     "collection": "kancelarijski_materijal",
     "image": "/assets/images/569/blok-kocka-boja-1.jpg",
     "price": 195.0,
-    "srbobran": 6,
+    "srbobran": 5,
     "futog": 4
   }
     
@@ -4927,8 +4927,8 @@
     "collection": "kancelarijski_materijal",
     "image": "/assets/images/573/blok-kocka-1.jpg",
     "price": 180.0,
-    "srbobran": 9,
-    "futog": 5
+    "srbobran": 12,
+    "futog": 3
   }
     
   ,
@@ -4939,7 +4939,7 @@
     "url": "/kancelarijski_materijal/574-gumice-za-akta/",
     "collection": "kancelarijski_materijal",
     "image": "/assets/images/574/gumice-za-akta-1.jpg",
-    "price": 120.0,
+    "price": 1075.0,
     "srbobran": 1,
     "futog": 0
   }
@@ -4953,8 +4953,8 @@
     "collection": "kancelarijski_materijal",
     "image": null,
     "price": 80.0,
-    "srbobran": 21,
-    "futog": 10
+    "srbobran": 17,
+    "futog": 7
   }
     
   ,
@@ -4979,8 +4979,8 @@
     "collection": "kancelarijski_materijal",
     "image": null,
     "price": 7.0,
-    "srbobran": 217,
-    "futog": 165
+    "srbobran": 160,
+    "futog": 153
   }
     
   ,
@@ -4992,7 +4992,7 @@
     "collection": "kancelarijski_materijal",
     "image": null,
     "price": 5.0,
-    "srbobran": 300,
+    "srbobran": 200,
     "futog": 300
   }
     
@@ -5031,8 +5031,8 @@
     "collection": "kancelarijski_materijal",
     "image": "/assets/images/585/koverat-vazdusni-br-2-1.jpg",
     "price": 25.0,
-    "srbobran": 2,
-    "futog": 1
+    "srbobran": 0,
+    "futog": 0
   }
     
   ,
@@ -5057,7 +5057,7 @@
     "collection": "kancelarijski_materijal",
     "image": null,
     "price": 25.0,
-    "srbobran": 110,
+    "srbobran": 10,
     "futog": 100
   }
     
@@ -5083,8 +5083,8 @@
     "collection": "kancelarijski_materijal",
     "image": null,
     "price": 15.0,
-    "srbobran": 109,
-    "futog": 127
+    "srbobran": 69,
+    "futog": 125
   }
     
   ,
@@ -5096,7 +5096,7 @@
     "collection": "kancelarijski_materijal",
     "image": null,
     "price": 13.0,
-    "srbobran": 100,
+    "srbobran": 0,
     "futog": 100
   }
     
@@ -5122,8 +5122,8 @@
     "collection": "kancelarijski_materijal",
     "image": "/assets/images/595/koverat-a-4-sl-1.jpg",
     "price": 30.0,
-    "srbobran": 29,
-    "futog": 22
+    "srbobran": 4,
+    "futog": 18
   }
     
   ,
@@ -5148,7 +5148,7 @@
     "collection": "kancelarijski_materijal",
     "image": "/assets/images/597/dosije-kromo-1.jpg",
     "price": 40.0,
-    "srbobran": 59,
+    "srbobran": 34,
     "futog": 51
   }
     
@@ -5161,7 +5161,7 @@
     "collection": "kancelarijski_materijal",
     "image": "/assets/images/598/dosije-sa-gumom-1.jpg",
     "price": 120.0,
-    "srbobran": 55,
+    "srbobran": 49,
     "futog": 28
   }
     
@@ -5174,8 +5174,8 @@
     "collection": "kancelarijski_materijal",
     "image": "/assets/images/599/dosije-boja-1.jpg",
     "price": 60.0,
-    "srbobran": 37,
-    "futog": 23
+    "srbobran": 60,
+    "futog": 45
   }
     
   ,
@@ -5213,7 +5213,7 @@
     "collection": "kancelarijski_materijal",
     "image": null,
     "price": 8.0,
-    "srbobran": 300,
+    "srbobran": 190,
     "futog": 0
   }
     
@@ -5227,7 +5227,7 @@
     "image": "/assets/images/612/casa-0-2-1.jpg",
     "price": 5.0,
     "srbobran": 100,
-    "futog": null
+    "futog": 0
   }
     
   ,
@@ -5239,8 +5239,8 @@
     "collection": "kancelarijski_materijal",
     "image": "/assets/images/613/casa-zicana-1.jpg",
     "price": 120.0,
-    "srbobran": 1,
-    "futog": 2
+    "srbobran": 0,
+    "futog": 1
   }
     
   ,
@@ -5278,8 +5278,8 @@
     "collection": "kancelarijski_materijal",
     "image": "/assets/images/618/etikete-br-1.jpg",
     "price": 95.0,
-    "srbobran": 59,
-    "futog": 24
+    "srbobran": 56,
+    "futog": 22
   }
     
   ,
@@ -5304,7 +5304,7 @@
     "collection": "kancelarijski_materijal",
     "image": "/assets/images/621/etikete-za-cene-1.jpg",
     "price": 130.0,
-    "srbobran": 15,
+    "srbobran": 14,
     "futog": 4
   }
     
@@ -5317,7 +5317,7 @@
     "collection": "kancelarijski_materijal",
     "image": "/assets/images/625/atase-mapa-pvc-1.jpg",
     "price": 350.0,
-    "srbobran": 1,
+    "srbobran": 0,
     "futog": 1
   }
     
@@ -5369,7 +5369,7 @@
     "collection": "kancelarijski_materijal",
     "image": null,
     "price": 3750.0,
-    "srbobran": 6,
+    "srbobran": 3,
     "futog": 1
   }
     
@@ -5382,8 +5382,8 @@
     "collection": "kancelarijski_materijal",
     "image": null,
     "price": 680.0,
-    "srbobran": 21,
-    "futog": 29
+    "srbobran": 17,
+    "futog": 27
   }
     
   ,
@@ -5577,7 +5577,7 @@
     "collection": "kancelarijski_materijal",
     "image": "/assets/images/669/korektor-traka-12m-1.jpg",
     "price": 150.0,
-    "srbobran": 9,
+    "srbobran": 6,
     "futog": null
   }
     
@@ -5590,7 +5590,7 @@
     "collection": "kancelarijski_materijal",
     "image": "/assets/images/672/korektor-olovka-1.jpg",
     "price": 140.0,
-    "srbobran": 6,
+    "srbobran": 5,
     "futog": 5
   }
     
@@ -5628,7 +5628,7 @@
     "url": "/kancelarijski_materijal/679-nakvasac-gumeni/",
     "collection": "kancelarijski_materijal",
     "image": "/assets/images/679/nakvasac-gumeni-1.jpg",
-    "price": 90.0,
+    "price": 99.0,
     "srbobran": 2,
     "futog": 1
   }
@@ -5655,7 +5655,7 @@
     "collection": "kancelarijski_materijal",
     "image": "/assets/images/683/marker-bic-1.jpg",
     "price": 170.0,
-    "srbobran": 10,
+    "srbobran": 3,
     "futog": 8
   }
     
@@ -5695,7 +5695,7 @@
     "image": "/assets/images/687/registrator-a-5-n-1.jpg",
     "price": 395.0,
     "srbobran": 6,
-    "futog": 2
+    "futog": 1
   }
     
   ,
@@ -5706,9 +5706,9 @@
     "url": "/kancelarijski_materijal/689-registrator-a-4-u/",
     "collection": "kancelarijski_materijal",
     "image": "/assets/images/689/registrator-a-4-u-1.jpg",
-    "price": 385.0,
-    "srbobran": 0,
-    "futog": null
+    "price": 375.0,
+    "srbobran": 4,
+    "futog": 1
   }
     
   ,
@@ -5759,7 +5759,7 @@
     "collection": "kancelarijski_materijal",
     "image": null,
     "price": 20.0,
-    "srbobran": 83,
+    "srbobran": 27,
     "futog": 17
   }
     
@@ -5811,7 +5811,7 @@
     "collection": "kancelarijski_materijal",
     "image": "/assets/images/713/sponke-maped-s-10-1.jpg",
     "price": 45.0,
-    "srbobran": 52,
+    "srbobran": 51,
     "futog": 15
   }
     
@@ -5837,8 +5837,8 @@
     "collection": "kancelarijski_materijal",
     "image": "/assets/images/718/spajalice-80mm-1.jpg",
     "price": 150.0,
-    "srbobran": 3,
-    "futog": 3
+    "srbobran": 4,
+    "futog": 1
   }
     
   ,
@@ -5850,7 +5850,7 @@
     "collection": "kancelarijski_materijal",
     "image": "/assets/images/720/sponke-maped-24-6-1.jpg",
     "price": 70.0,
-    "srbobran": 44,
+    "srbobran": 42,
     "futog": 18
   }
     
@@ -5863,7 +5863,7 @@
     "collection": "kancelarijski_materijal",
     "image": null,
     "price": 210.0,
-    "srbobran": 3,
+    "srbobran": 2,
     "futog": null
   }
     
@@ -5876,8 +5876,8 @@
     "collection": "kancelarijski_materijal",
     "image": null,
     "price": 45.0,
-    "srbobran": 9,
-    "futog": 14
+    "srbobran": 7,
+    "futog": 11
   }
     
   ,
@@ -5967,7 +5967,7 @@
     "collection": "kancelarijski_materijal",
     "image": "/assets/images/777/blok-a-6-c-5-sp-1.jpg",
     "price": 130.0,
-    "srbobran": 29,
+    "srbobran": 27,
     "futog": 15
   }
     
@@ -6058,7 +6058,7 @@
     "collection": "kancelarijski_materijal",
     "image": null,
     "price": 12.0,
-    "srbobran": 106,
+    "srbobran": 96,
     "futog": 0
   }
     
@@ -6110,8 +6110,8 @@
     "collection": "kancelarijski_materijal",
     "image": "/assets/images/836/kasa-blok-1.jpg",
     "price": 50.0,
-    "srbobran": 14,
-    "futog": 10
+    "srbobran": 10,
+    "futog": 7
   }
     
   ,
@@ -6136,7 +6136,7 @@
     "collection": "kancelarijski_materijal",
     "image": "/assets/images/843/kolaz-a-4-t-1.jpg",
     "price": 120.0,
-    "srbobran": 4,
+    "srbobran": 2,
     "futog": 7
   }
     
@@ -6202,7 +6202,7 @@
     "image": "/assets/images/90/priznanica-a-5-1.jpg",
     "price": 150.0,
     "srbobran": 10,
-    "futog": 4
+    "futog": 3
   }
     
   ,
@@ -6214,8 +6214,8 @@
     "collection": "kancelarijski_materijal",
     "image": null,
     "price": 160.0,
-    "srbobran": 5,
-    "futog": 10
+    "srbobran": 4,
+    "futog": 4
   }
     
   ,
@@ -6266,8 +6266,8 @@
     "collection": "kancelarijski_materijal",
     "image": "/assets/images/934/korektor-cetkica-1.jpg",
     "price": 130.0,
-    "srbobran": 15,
-    "futog": 19
+    "srbobran": 14,
+    "futog": 18
   }
     
   ,
@@ -6292,7 +6292,7 @@
     "collection": "kancelarijski_materijal",
     "image": "/assets/images/941/fascikla-5cm-1.jpg",
     "price": 505.0,
-    "srbobran": 1,
+    "srbobran": 0,
     "futog": null
   }
     
@@ -6332,7 +6332,7 @@
     "image": null,
     "price": 1100.0,
     "srbobran": 1,
-    "futog": 1
+    "futog": 0
   }
     
   ,
@@ -6344,7 +6344,7 @@
     "collection": "kancelarijski_materijal",
     "image": null,
     "price": 30.0,
-    "srbobran": 20,
+    "srbobran": 19,
     "futog": 19
   }
     
@@ -6436,7 +6436,7 @@
     "image": "/assets/images/966/roler-ah-832-1.jpg",
     "price": 50.0,
     "srbobran": 6,
-    "futog": 44
+    "futog": 35
   }
     
   ,
@@ -6474,7 +6474,7 @@
     "collection": "kancelarijski_materijal",
     "image": "/assets/images/974/korice-za-dokumenta-lux-1.jpg",
     "price": 310.0,
-    "srbobran": 3,
+    "srbobran": 2,
     "futog": 1
   }
     
@@ -6553,8 +6553,8 @@
     "url": "/komision/1306-vu-beba-uci/",
     "collection": "komision",
     "image": "/assets/images/1306/vu-beba-uci-1.jpg",
-    "price": 599.0,
-    "srbobran": 1,
+    "price": 300.0,
+    "srbobran": 0,
     "futog": null
   }
     
@@ -6672,7 +6672,7 @@
     "image": null,
     "price": 880.0,
     "srbobran": null,
-    "futog": 1
+    "futog": 0
   }
     
   ,
@@ -7062,7 +7062,7 @@
     "image": null,
     "price": 500.01,
     "srbobran": null,
-    "futog": 1
+    "futog": 0
   }
     
   ,
@@ -7244,7 +7244,7 @@
     "image": null,
     "price": 500.01,
     "srbobran": null,
-    "futog": 1
+    "futog": 0
   }
     
   ,
@@ -7646,7 +7646,7 @@
     "collection": "komision",
     "image": null,
     "price": 299.0,
-    "srbobran": 2,
+    "srbobran": 1,
     "futog": 2
   }
     
@@ -7685,7 +7685,7 @@
     "collection": "komision",
     "image": null,
     "price": 299.0,
-    "srbobran": 1,
+    "srbobran": 0,
     "futog": 1
   }
     
@@ -7816,7 +7816,7 @@
     "image": null,
     "price": 1799.03,
     "srbobran": 1,
-    "futog": 1
+    "futog": 0
   }
     
   ,
@@ -8010,7 +8010,7 @@
     "collection": "komision",
     "image": null,
     "price": 399.01,
-    "srbobran": 1,
+    "srbobran": 0,
     "futog": 2
   }
     
@@ -8427,7 +8427,7 @@
     "image": null,
     "price": 499.0,
     "srbobran": 2,
-    "futog": 1
+    "futog": 0
   }
     
   ,
@@ -8635,7 +8635,7 @@
     "image": null,
     "price": 500.01,
     "srbobran": null,
-    "futog": 1
+    "futog": 0
   }
     
   ,
@@ -8973,7 +8973,7 @@
     "image": null,
     "price": 720.01,
     "srbobran": null,
-    "futog": 1
+    "futog": 0
   }
     
   ,
@@ -9674,7 +9674,7 @@
     "collection": "komision",
     "image": "/assets/images/1876/vu-dnevnik-mojih-tajni-1.jpg",
     "price": 899.0,
-    "srbobran": 1,
+    "srbobran": 0,
     "futog": null
   }
     
@@ -10026,7 +10026,7 @@
     "image": null,
     "price": 1450.01,
     "srbobran": null,
-    "futog": 1
+    "futog": 0
   }
     
   ,
@@ -11623,7 +11623,7 @@
     "url": "/komision/2179-vu-superzabavni-naucni-kviz/",
     "collection": "komision",
     "image": "/assets/images/2179/vu-superzabavni-naucni-kviz-1.jpg",
-    "price": 799.0,
+    "price": 400.0,
     "srbobran": 1,
     "futog": null
   }
@@ -11701,7 +11701,7 @@
     "url": "/komision/2211-vu-sumska-skola-za-vile/",
     "collection": "komision",
     "image": "/assets/images/2211/vu-sumska-skola-za-vile-1.jpg",
-    "price": 699.0,
+    "price": 350.0,
     "srbobran": 2,
     "futog": null
   }
@@ -11989,7 +11989,7 @@
     "image": null,
     "price": 399.0,
     "srbobran": null,
-    "futog": 1
+    "futog": 0
   }
     
   ,
@@ -12197,7 +12197,7 @@
     "image": null,
     "price": 399.0,
     "srbobran": null,
-    "futog": 1
+    "futog": 0
   }
     
   ,
@@ -12301,7 +12301,7 @@
     "image": null,
     "price": 799.0,
     "srbobran": 0,
-    "futog": 1
+    "futog": 0
   }
     
   ,
@@ -13965,7 +13965,7 @@
     "image": null,
     "price": 799.0,
     "srbobran": null,
-    "futog": 2
+    "futog": 1
   }
     
   ,
@@ -14938,7 +14938,7 @@
     "url": "/komision/2500-vu-akademija-sirena-jednoroga/",
     "collection": "komision",
     "image": "/assets/images/2500/vu-akademija-sirena-jednoroga-1.jpg",
-    "price": 799.0,
+    "price": 400.0,
     "srbobran": 2,
     "futog": null
   }
@@ -15107,7 +15107,7 @@
     "url": "/komision/2522-vu-klasici-svetske-knjizevnosti/",
     "collection": "komision",
     "image": null,
-    "price": 899.0,
+    "price": 450.0,
     "srbobran": 1,
     "futog": null
   }
@@ -15458,9 +15458,9 @@
     "url": "/komision/2550-l-romani-ivo-andric/",
     "collection": "komision",
     "image": null,
-    "price": 1999.0,
+    "price": 990.02,
     "srbobran": null,
-    "futog": 0
+    "futog": 1
   }
     
   ,
@@ -16721,7 +16721,7 @@
     "image": null,
     "price": 999.0,
     "srbobran": 0,
-    "futog": 2
+    "futog": 1
   }
     
   ,
@@ -16994,7 +16994,7 @@
     "image": null,
     "price": 1099.0,
     "srbobran": null,
-    "futog": 2
+    "futog": 1
   }
     
   ,
@@ -17995,7 +17995,7 @@
     "image": null,
     "price": 599.01,
     "srbobran": 1,
-    "futog": 2
+    "futog": 1
   }
     
   ,
@@ -18905,7 +18905,7 @@
     "image": "/assets/images/286/pp-mala-skola-v-stepen-1.jpg",
     "price": 699.0,
     "srbobran": 0,
-    "futog": 2
+    "futog": 1
   }
     
   ,
@@ -20736,7 +20736,7 @@
     "url": "/komision/3013-vu-citamo-zajedno/",
     "collection": "komision",
     "image": "/assets/images/3013/vu-citamo-zajedno-1.jpg",
-    "price": 399.0,
+    "price": 200.0,
     "srbobran": 1,
     "futog": null
   }
@@ -20842,7 +20842,7 @@
     "image": null,
     "price": 980.02,
     "srbobran": null,
-    "futog": 1
+    "futog": 0
   }
     
   ,
@@ -20933,7 +20933,7 @@
     "image": null,
     "price": 980.01,
     "srbobran": null,
-    "futog": 1
+    "futog": 0
   }
     
   ,
@@ -23349,9 +23349,9 @@
     "url": "/komision/3222-pc-pcelice-radoznalice-5-7-s-mirkovic-g-markovic/",
     "collection": "komision",
     "image": null,
-    "price": 650.02,
+    "price": 1050.0,
     "srbobran": null,
-    "futog": 6
+    "futog": 5
   }
     
   ,
@@ -25845,7 +25845,7 @@
     "url": "/komision/3431-vu-citamo-zajedno-carobni-pasulj/",
     "collection": "komision",
     "image": null,
-    "price": 399.01,
+    "price": 200.0,
     "srbobran": null,
     "futog": 1
   }
@@ -25871,7 +25871,7 @@
     "url": "/komision/3433-vu-citamo-zajedno-snezna-kraljica/",
     "collection": "komision",
     "image": null,
-    "price": 399.01,
+    "price": 200.0,
     "srbobran": null,
     "futog": 1
   }
@@ -25884,7 +25884,7 @@
     "url": "/komision/3436-vu-citamo-zajedno-tri-praseta/",
     "collection": "komision",
     "image": null,
-    "price": 399.01,
+    "price": 200.0,
     "srbobran": null,
     "futog": 1
   }
@@ -26185,7 +26185,7 @@
     "image": null,
     "price": 399.0,
     "srbobran": null,
-    "futog": 1
+    "futog": 0
   }
     
   ,
@@ -26692,7 +26692,7 @@
     "image": null,
     "price": 599.03,
     "srbobran": null,
-    "futog": 1
+    "futog": 0
   }
     
   ,
@@ -26744,7 +26744,7 @@
     "image": null,
     "price": 1499.04,
     "srbobran": null,
-    "futog": 1
+    "futog": 0
   }
     
   ,
@@ -27171,7 +27171,7 @@
     "url": "/komision/3539-vu-najlepse-bajke-za-laku-noc-andersen/",
     "collection": "komision",
     "image": null,
-    "price": 1999.04,
+    "price": 1000.0,
     "srbobran": null,
     "futog": 1
   }
@@ -27184,7 +27184,7 @@
     "url": "/komision/3540-vu-najlepse-bajke-za-laku-noc-grim/",
     "collection": "komision",
     "image": null,
-    "price": 1999.04,
+    "price": 1000.0,
     "srbobran": null,
     "futog": 1
   }
@@ -27197,7 +27197,7 @@
     "url": "/komision/3541-vu-najlepse-bajke-za-laku-noc-pero/",
     "collection": "komision",
     "image": null,
-    "price": 1999.04,
+    "price": 1000.0,
     "srbobran": null,
     "futog": 1
   }
@@ -27303,7 +27303,7 @@
     "image": null,
     "price": 2250.03,
     "srbobran": null,
-    "futog": 1
+    "futog": 0
   }
     
   ,
@@ -28083,7 +28083,7 @@
     "image": null,
     "price": 499.02,
     "srbobran": null,
-    "futog": 1
+    "futog": 0
   }
     
   ,
@@ -28341,7 +28341,7 @@
     "url": "/komision/3797-vu-manga/",
     "collection": "komision",
     "image": null,
-    "price": 699.0,
+    "price": 350.0,
     "srbobran": 2,
     "futog": null
   }
@@ -28510,7 +28510,7 @@
     "url": "/komision/3825-vu-neverovatna-stvorenja/",
     "collection": "komision",
     "image": "/assets/images/3825/vu-neverovatna-stvorenja-1.jpg",
-    "price": 1099.0,
+    "price": 550.0,
     "srbobran": 1,
     "futog": null
   }
@@ -30397,7 +30397,7 @@
     "image": "/assets/images/549/pp-velike-masine-kopaci-1.jpg",
     "price": 399.0,
     "srbobran": 1,
-    "futog": 2
+    "futog": 0
   }
     
   ,
@@ -30423,7 +30423,7 @@
     "image": "/assets/images/552/pp-velike-masine-kamioni-1.jpg",
     "price": 399.0,
     "srbobran": 2,
-    "futog": 2
+    "futog": 0
   }
     
   ,
@@ -30436,7 +30436,7 @@
     "image": "/assets/images/554/pp-velike-masine-traktori-1.jpg",
     "price": 399.0,
     "srbobran": 2,
-    "futog": 2
+    "futog": 1
   }
     
   ,
@@ -30501,7 +30501,7 @@
     "image": "/assets/images/566/l-sreca-je-piti-caj-sa-tobom-mamen-sances-1.jpg",
     "price": 999.0,
     "srbobran": 2,
-    "futog": 1
+    "futog": 0
   }
     
   ,
@@ -31150,7 +31150,7 @@
     "collection": "komision",
     "image": "/assets/images/698/l-meda-ceda-ide-na-more-1.jpg",
     "price": 999.0,
-    "srbobran": 1,
+    "srbobran": 0,
     "futog": null
   }
     
@@ -31671,7 +31671,7 @@
     "image": "/assets/images/764/pp-ucimo-s-ljubavlju-bicu-dobar-1.jpg",
     "price": 299.0,
     "srbobran": 2,
-    "futog": 2
+    "futog": 1
   }
     
   ,
@@ -31839,7 +31839,7 @@
     "collection": "komision",
     "image": null,
     "price": 110.0,
-    "srbobran": 48,
+    "srbobran": 47,
     "futog": null
   }
     
@@ -32385,7 +32385,7 @@
     "collection": "komision",
     "image": "/assets/images/838/l-hiljadu-cudesnih-sunaca-haled-hoseini-1.jpg",
     "price": 999.0,
-    "srbobran": 2,
+    "srbobran": 1,
     "futog": 2
   }
     
@@ -33039,7 +33039,7 @@
     "collection": "ostalo",
     "image": null,
     "price": 2100.0,
-    "srbobran": 3,
+    "srbobran": 2,
     "futog": 3
   }
     
@@ -33234,7 +33234,7 @@
     "collection": "ostalo",
     "image": null,
     "price": 120.0,
-    "srbobran": 4,
+    "srbobran": 3,
     "futog": 6
   }
     
@@ -33300,7 +33300,7 @@
     "image": "/assets/images/1231/cestitka-1.jpg",
     "price": 160.0,
     "srbobran": 7,
-    "futog": 15
+    "futog": 13
   }
     
   ,
@@ -33417,7 +33417,7 @@
     "image": null,
     "price": 220.0,
     "srbobran": 1,
-    "futog": null
+    "futog": 1
   }
     
   ,
@@ -33494,8 +33494,8 @@
     "collection": "ostalo",
     "image": "/assets/images/1424/tacna-t-2-1.jpg",
     "price": 150.0,
-    "srbobran": 0,
-    "futog": null
+    "srbobran": 3,
+    "futog": 0
   }
     
   ,
@@ -33754,8 +33754,8 @@
     "collection": "ostalo",
     "image": "/assets/images/198/cestitka-rodjendan-1.jpg",
     "price": 120.0,
-    "srbobran": 76,
-    "futog": 44
+    "srbobran": 93,
+    "futog": 39
   }
     
   ,
@@ -33858,7 +33858,7 @@
     "collection": "ostalo",
     "image": null,
     "price": 70.0,
-    "srbobran": 15,
+    "srbobran": 13,
     "futog": 23
   }
     
@@ -33989,7 +33989,7 @@
     "image": null,
     "price": 130.0,
     "srbobran": 9,
-    "futog": 9
+    "futog": 7
   }
     
   ,
@@ -34067,7 +34067,7 @@
     "image": null,
     "price": 1395.0,
     "srbobran": null,
-    "futog": 1
+    "futog": 0
   }
     
   ,
@@ -34093,7 +34093,7 @@
     "image": null,
     "price": 110.0,
     "srbobran": null,
-    "futog": 2
+    "futog": 1
   }
     
   ,
@@ -34118,7 +34118,7 @@
     "collection": "ostalo",
     "image": null,
     "price": 70.0,
-    "srbobran": 22,
+    "srbobran": 20,
     "futog": null
   }
     
@@ -34158,7 +34158,7 @@
     "image": null,
     "price": 430.0,
     "srbobran": 2,
-    "futog": 2
+    "futog": 0
   }
     
   ,
@@ -34210,7 +34210,7 @@
     "image": null,
     "price": 220.0,
     "srbobran": 33,
-    "futog": 69
+    "futog": 68
   }
     
   ,
@@ -34716,8 +34716,8 @@
     "collection": "ostalo",
     "image": "/assets/images/269/privezak-zivotinjica-1.jpg",
     "price": 450.0,
-    "srbobran": 58,
-    "futog": 62
+    "srbobran": 57,
+    "futog": 61
   }
     
   ,
@@ -34795,7 +34795,7 @@
     "image": "/assets/images/2758/covece-ne-ljuti-se-1.jpg",
     "price": 420.0,
     "srbobran": 1,
-    "futog": null
+    "futog": 1
   }
     
   ,
@@ -34951,7 +34951,7 @@
     "image": null,
     "price": 1500.0,
     "srbobran": null,
-    "futog": 1
+    "futog": 0
   }
     
   ,
@@ -35080,7 +35080,7 @@
     "collection": "ostalo",
     "image": "/assets/images/2985/tacna-karton-fi-21cm-1.jpg",
     "price": 165.0,
-    "srbobran": 4,
+    "srbobran": 0,
     "futog": 0
   }
     
@@ -35094,7 +35094,7 @@
     "image": "/assets/images/299/foto-album-13-18-100-1.jpg",
     "price": 1200.0,
     "srbobran": 0,
-    "futog": null
+    "futog": 2
   }
     
   ,
@@ -35328,7 +35328,7 @@
     "image": "/assets/images/325/pp-moj-skolski-spomenar-bros-1.jpg",
     "price": 400.0,
     "srbobran": 0,
-    "futog": 1
+    "futog": 0
   }
     
   ,
@@ -35340,7 +35340,7 @@
     "collection": "ostalo",
     "image": "/assets/images/3251/manikir-set-doll-1.jpg",
     "price": 515.0,
-    "srbobran": 5,
+    "srbobran": 4,
     "futog": 2
   }
     
@@ -35561,8 +35561,8 @@
     "collection": "ostalo",
     "image": null,
     "price": 1500.0,
-    "srbobran": 0,
-    "futog": 2
+    "srbobran": 2,
+    "futog": 0
   }
     
   ,
@@ -35613,7 +35613,7 @@
     "collection": "ostalo",
     "image": "/assets/images/368/cestitka-1.jpg",
     "price": 60.0,
-    "srbobran": 8,
+    "srbobran": 7,
     "futog": 1
   }
     
@@ -35639,7 +35639,7 @@
     "collection": "ostalo",
     "image": "/assets/images/370/cestitka-stampana-1.jpg",
     "price": 220.0,
-    "srbobran": 18,
+    "srbobran": 16,
     "futog": 6
   }
     
@@ -35652,8 +35652,8 @@
     "collection": "ostalo",
     "image": null,
     "price": 80.0,
-    "srbobran": 21,
-    "futog": 18
+    "srbobran": 18,
+    "futog": 16
   }
     
   ,
@@ -35678,7 +35678,7 @@
     "collection": "ostalo",
     "image": "/assets/images/3722/cestitka-bc-r-1.jpg",
     "price": 160.0,
-    "srbobran": 4,
+    "srbobran": 3,
     "futog": 6
   }
     
@@ -35691,7 +35691,7 @@
     "collection": "ostalo",
     "image": "/assets/images/3723/cestitka-bc-p-1.jpg",
     "price": 190.0,
-    "srbobran": 7,
+    "srbobran": 6,
     "futog": 3
   }
     
@@ -35717,8 +35717,8 @@
     "collection": "ostalo",
     "image": "/assets/images/373/cestitka-mini-1.jpg",
     "price": 90.0,
-    "srbobran": 35,
-    "futog": 33
+    "srbobran": 34,
+    "futog": 29
   }
     
   ,
@@ -35795,8 +35795,8 @@
     "collection": "ostalo",
     "image": "/assets/images/376/cestitka-1.jpg",
     "price": 190.0,
-    "srbobran": 3,
-    "futog": 5
+    "srbobran": 2,
+    "futog": 3
   }
     
   ,
@@ -36133,8 +36133,8 @@
     "collection": "ostalo",
     "image": "/assets/images/426/kisobran-classic-1.jpg",
     "price": 895.0,
-    "srbobran": 8,
-    "futog": 8
+    "srbobran": 5,
+    "futog": 9
   }
     
   ,
@@ -36186,7 +36186,7 @@
     "image": "/assets/images/4272/papirni-stolnjak-7m-1.jpg",
     "price": 940.0,
     "srbobran": 2,
-    "futog": 1
+    "futog": 0
   }
     
   ,
@@ -36238,7 +36238,7 @@
     "image": null,
     "price": 100.0,
     "srbobran": 0,
-    "futog": null
+    "futog": 0
   }
     
   ,
@@ -36433,7 +36433,7 @@
     "image": "/assets/images/700/reket-pvc-1.jpg",
     "price": 495.0,
     "srbobran": 2,
-    "futog": 2
+    "futog": 1
   }
     
   ,
@@ -36680,7 +36680,7 @@
     "image": "/assets/images/976/cestitka-1.jpg",
     "price": 99.0,
     "srbobran": 12,
-    "futog": 2
+    "futog": 1
   }
     
   ,
@@ -36707,7 +36707,7 @@
     "collection": "poslovne_knjige",
     "image": "/assets/images/1278/knjiga-inspekcije-1.jpg",
     "price": 385.0,
-    "srbobran": 3,
+    "srbobran": 1,
     "futog": 0
   }
     
@@ -36915,8 +36915,8 @@
     "collection": "poslovne_knjige",
     "image": "/assets/images/746/obrazac-1-1-1-1.jpg",
     "price": 130.0,
-    "srbobran": 52,
-    "futog": 24
+    "srbobran": 38,
+    "futog": 23
   }
     
   ,
@@ -36967,7 +36967,7 @@
     "collection": "poslovne_knjige",
     "image": "/assets/images/819/priznanica-a-6-1.jpg",
     "price": 100.0,
-    "srbobran": 19,
+    "srbobran": 13,
     "futog": null
   }
     
@@ -36980,7 +36980,7 @@
     "collection": "poslovne_knjige",
     "image": "/assets/images/820/sanitarna-knjizica-1.jpg",
     "price": 120.0,
-    "srbobran": 13,
+    "srbobran": 10,
     "futog": 9
   }
     
@@ -36994,7 +36994,7 @@
     "image": "/assets/images/845/nalog-naplati-1.jpg",
     "price": 180.0,
     "srbobran": 5,
-    "futog": null
+    "futog": 0
   }
     
   ,
@@ -37005,9 +37005,9 @@
     "url": "/poslovne_knjige/846-nalog-isplati/",
     "collection": "poslovne_knjige",
     "image": "/assets/images/846/nalog-isplati-1.jpg",
-    "price": 160.0,
-    "srbobran": 1,
-    "futog": null
+    "price": 180.0,
+    "srbobran": 3,
+    "futog": 0
   }
     
   ,
@@ -37162,8 +37162,8 @@
     "collection": "poslovne_knjige",
     "image": "/assets/images/861/otpremnica-a-5-1.jpg",
     "price": 180.0,
-    "srbobran": 11,
-    "futog": 4
+    "srbobran": 6,
+    "futog": 3
   }
     
   ,
@@ -37227,7 +37227,7 @@
     "collection": "poslovne_knjige",
     "image": "/assets/images/866/otkupni-list-a-5-1.jpg",
     "price": 210.0,
-    "srbobran": 4,
+    "srbobran": 3,
     "futog": null
   }
     
@@ -37305,7 +37305,7 @@
     "collection": "poslovne_knjige",
     "image": "/assets/images/875/knjiga-sanka-t-1.jpg",
     "price": 335.0,
-    "srbobran": 9,
+    "srbobran": 5,
     "futog": 0
   }
     
@@ -37318,7 +37318,7 @@
     "collection": "poslovne_knjige",
     "image": "/assets/images/876/knjiga-sanka-ncr-1.jpg",
     "price": 340.0,
-    "srbobran": 9,
+    "srbobran": 5,
     "futog": 2
   }
     
@@ -37343,9 +37343,9 @@
     "url": "/poslovne_knjige/879-dnevnik-blagajne/",
     "collection": "poslovne_knjige",
     "image": "/assets/images/879/dnevnik-blagajne-1.jpg",
-    "price": 320.0,
-    "srbobran": 3,
-    "futog": null
+    "price": 340.0,
+    "srbobran": 4,
+    "futog": 0
   }
     
   ,
@@ -37776,9 +37776,9 @@
     "url": "/rancevi_i_peratonice/1918-ranac-338-82/",
     "collection": "rancevi_i_peratonice",
     "image": "/assets/images/1918/ranac-338-82-1.jpg",
-    "price": 6590.0,
+    "price": 6720.0,
     "srbobran": 1,
-    "futog": null
+    "futog": 0
   }
     
   ,
@@ -37816,7 +37816,7 @@
     "collection": "rancevi_i_peratonice",
     "image": null,
     "price": 985.0,
-    "srbobran": 7,
+    "srbobran": 6,
     "futog": 8
   }
     
@@ -38311,7 +38311,7 @@
     "image": null,
     "price": 530.0,
     "srbobran": null,
-    "futog": 2
+    "futog": 1
   }
     
   ,
@@ -38445,7 +38445,7 @@
     "image": "/assets/images/1003/ol-hb-peps-gumica-1.jpg",
     "price": 50.0,
     "srbobran": 79,
-    "futog": 127
+    "futog": 125
   }
     
   ,
@@ -38483,7 +38483,7 @@
     "collection": "skolski_pribor",
     "image": null,
     "price": 30.0,
-    "srbobran": 21,
+    "srbobran": 13,
     "futog": null
   }
     
@@ -38510,7 +38510,7 @@
     "image": "/assets/images/104/to-0-5-ek-1.jpg",
     "price": 70.0,
     "srbobran": 8,
-    "futog": 6
+    "futog": 4
   }
     
   ,
@@ -38704,8 +38704,8 @@
     "collection": "skolski_pribor",
     "image": null,
     "price": 80.0,
-    "srbobran": 96,
-    "futog": 0
+    "srbobran": 42,
+    "futog": 12
   }
     
   ,
@@ -38938,7 +38938,7 @@
     "collection": "skolski_pribor",
     "image": "/assets/images/130/prvarica-1.jpg",
     "price": 190.0,
-    "srbobran": 2,
+    "srbobran": 1,
     "futog": 1
   }
     
@@ -38977,7 +38977,7 @@
     "collection": "skolski_pribor",
     "image": "/assets/images/132/gumica-softy-1.jpg",
     "price": 95.0,
-    "srbobran": 14,
+    "srbobran": 13,
     "futog": 9
   }
     
@@ -39068,7 +39068,7 @@
     "collection": "skolski_pribor",
     "image": "/assets/images/138/gumica-softy-mini-1.jpg",
     "price": 45.0,
-    "srbobran": 9,
+    "srbobran": 6,
     "futog": 11
   }
     
@@ -39120,7 +39120,7 @@
     "collection": "skolski_pribor",
     "image": null,
     "price": 30.0,
-    "srbobran": 25,
+    "srbobran": 21,
     "futog": 9
   }
     
@@ -39173,7 +39173,7 @@
     "image": "/assets/images/142/rezac-maped-mini-boogy-1.jpg",
     "price": 60.0,
     "srbobran": 0,
-    "futog": 22
+    "futog": 20
   }
     
   ,
@@ -39210,9 +39210,9 @@
     "url": "/skolski_pribor/145-sestar-sc/",
     "collection": "skolski_pribor",
     "image": "/assets/images/145/sestar-sc-1.jpg",
-    "price": 120.0,
-    "srbobran": 2,
-    "futog": null
+    "price": 130.0,
+    "srbobran": 14,
+    "futog": 12
   }
     
   ,
@@ -39237,7 +39237,7 @@
     "collection": "skolski_pribor",
     "image": null,
     "price": 30.0,
-    "srbobran": 16,
+    "srbobran": 15,
     "futog": 16
   }
     
@@ -39355,7 +39355,7 @@
     "image": "/assets/images/157/np-1.jpg",
     "price": 90.0,
     "srbobran": 3,
-    "futog": 4
+    "futog": 3
   }
     
   ,
@@ -39419,7 +39419,7 @@
     "collection": "skolski_pribor",
     "image": null,
     "price": 40.0,
-    "srbobran": 2,
+    "srbobran": 0,
     "futog": 73
   }
     
@@ -39523,7 +39523,7 @@
     "collection": "skolski_pribor",
     "image": "/assets/images/1878/paleta-za-likovno-1.jpg",
     "price": 80.0,
-    "srbobran": 7,
+    "srbobran": 6,
     "futog": 5
   }
     
@@ -39836,7 +39836,7 @@
     "image": null,
     "price": 240.0,
     "srbobran": 6,
-    "futog": 10
+    "futog": 9
   }
     
   ,
@@ -39875,7 +39875,7 @@
     "image": "/assets/images/2168/mine-0-7-sc-1.jpg",
     "price": 40.0,
     "srbobran": 0,
-    "futog": 50
+    "futog": 49
   }
     
   ,
@@ -40017,7 +40017,7 @@
     "collection": "skolski_pribor",
     "image": "/assets/images/223/mine-0-5-megapolis-1.jpg",
     "price": 80.0,
-    "srbobran": 7,
+    "srbobran": 6,
     "futog": 16
   }
     
@@ -40057,7 +40057,7 @@
     "image": null,
     "price": 50.0,
     "srbobran": 9,
-    "futog": 21
+    "futog": 19
   }
     
   ,
@@ -40069,7 +40069,7 @@
     "collection": "skolski_pribor",
     "image": "/assets/images/228/plastelin-1-10-spektra-1.jpg",
     "price": 130.0,
-    "srbobran": 12,
+    "srbobran": 5,
     "futog": 2
   }
     
@@ -40108,8 +40108,8 @@
     "collection": "skolski_pribor",
     "image": "/assets/images/24/uvijac-a-4-samolepljiv-1.jpg",
     "price": 40.0,
-    "srbobran": 111,
-    "futog": 25
+    "srbobran": 236,
+    "futog": 125
   }
     
   ,
@@ -40368,7 +40368,7 @@
     "collection": "skolski_pribor",
     "image": "/assets/images/278/rezac-igloo-2-1.jpg",
     "price": 210.0,
-    "srbobran": 30,
+    "srbobran": 27,
     "futog": 30
   }
     
@@ -40395,7 +40395,7 @@
     "image": null,
     "price": 125.0,
     "srbobran": null,
-    "futog": 60
+    "futog": 59
   }
     
   ,
@@ -40680,7 +40680,7 @@
     "collection": "skolski_pribor",
     "image": null,
     "price": 40.0,
-    "srbobran": 3,
+    "srbobran": 2,
     "futog": null
   }
     
@@ -40693,7 +40693,7 @@
     "collection": "skolski_pribor",
     "image": "/assets/images/367/lepak-tecni-nora-50ml-1.jpg",
     "price": 75.0,
-    "srbobran": 12,
+    "srbobran": 0,
     "futog": 8
   }
     
@@ -41030,9 +41030,9 @@
     "url": "/skolski_pribor/527-uvijac-a-4/",
     "collection": "skolski_pribor",
     "image": null,
-    "price": null,
-    "srbobran": null,
-    "futog": null
+    "price": 30.0,
+    "srbobran": 500,
+    "futog": 200
   }
     
   ,
@@ -41096,7 +41096,7 @@
     "collection": "skolski_pribor",
     "image": "/assets/images/561/to-black-pointer-0-5-1.jpg",
     "price": 140.0,
-    "srbobran": 4,
+    "srbobran": 3,
     "futog": 7
   }
     
@@ -41174,8 +41174,8 @@
     "collection": "skolski_pribor",
     "image": null,
     "price": 360.0,
-    "srbobran": 0,
-    "futog": 3
+    "srbobran": 3,
+    "futog": 0
   }
     
   ,
@@ -41265,8 +41265,8 @@
     "collection": "skolski_pribor",
     "image": null,
     "price": 160.0,
-    "srbobran": 15,
-    "futog": 35
+    "srbobran": 11,
+    "futog": 34
   }
     
   ,
@@ -41291,7 +41291,7 @@
     "collection": "skolski_pribor",
     "image": null,
     "price": 40.0,
-    "srbobran": 17,
+    "srbobran": 16,
     "futog": 87
   }
     
@@ -41370,7 +41370,7 @@
     "image": "/assets/images/73/tempera-1-10-16ml-1.png",
     "price": 455.0,
     "srbobran": 23,
-    "futog": 6
+    "futog": 5
   }
     
   ,
@@ -41383,7 +41383,7 @@
     "image": "/assets/images/745/poster-1.jpg",
     "price": 99.0,
     "srbobran": 20,
-    "futog": 14
+    "futog": 15
   }
     
   ,
@@ -41408,8 +41408,8 @@
     "collection": "skolski_pribor",
     "image": "/assets/images/76/drvena-boja-pastel-1-12-1.jpg",
     "price": 180.0,
-    "srbobran": 7,
-    "futog": 13
+    "srbobran": 6,
+    "futog": 12
   }
     
   ,
@@ -41447,7 +41447,7 @@
     "collection": "skolski_pribor",
     "image": "/assets/images/807/ol-hb-sc-1.jpg",
     "price": 30.0,
-    "srbobran": 17,
+    "srbobran": 16,
     "futog": null
   }
     
@@ -41460,7 +41460,7 @@
     "collection": "skolski_pribor",
     "image": null,
     "price": 295.0,
-    "srbobran": 10,
+    "srbobran": 9,
     "futog": 10
   }
     
@@ -41525,8 +41525,8 @@
     "collection": "skolski_pribor",
     "image": "/assets/images/889/dnevnik-prakse-1.jpg",
     "price": 220.0,
-    "srbobran": 5,
-    "futog": 7
+    "srbobran": 6,
+    "futog": 1
   }
     
   ,
@@ -41551,7 +41551,7 @@
     "collection": "skolski_pribor",
     "image": "/assets/images/892/rezac-maped-metalni-1.jpg",
     "price": 120.0,
-    "srbobran": 5,
+    "srbobran": 4,
     "futog": 16
   }
     
@@ -41577,7 +41577,7 @@
     "collection": "skolski_pribor",
     "image": "/assets/images/898/gumica-b-40-1.jpg",
     "price": 70.0,
-    "srbobran": 40,
+    "srbobran": 38,
     "futog": 60
   }
     
@@ -41589,9 +41589,9 @@
     "url": "/skolski_pribor/909-gumica-sc/",
     "collection": "skolski_pribor",
     "image": "/assets/images/909/gumica-sc-1.jpg",
-    "price": 50.0,
-    "srbobran": 2,
-    "futog": null
+    "price": 120.0,
+    "srbobran": 6,
+    "futog": 1
   }
     
   ,
@@ -41615,9 +41615,9 @@
     "url": "/skolski_pribor/917-flomasteri-obostrani-sc/",
     "collection": "skolski_pribor",
     "image": "/assets/images/917/flomasteri-obostrani-sc-1.jpg",
-    "price": 305.0,
-    "srbobran": 0,
-    "futog": null
+    "price": 360.0,
+    "srbobran": 6,
+    "futog": 6
   }
     
   ,
@@ -41669,7 +41669,7 @@
     "image": "/assets/images/93/flomasteri-giotto-1-12-1.jpg",
     "price": 360.0,
     "srbobran": 7,
-    "futog": 14
+    "futog": 13
   }
     
   ,
@@ -41680,9 +41680,9 @@
     "url": "/skolski_pribor/94-drvena-boja-1-12-maped/",
     "collection": "skolski_pribor",
     "image": "/assets/images/94/drvena-boja-1-12-maped-1.jpg",
-    "price": 430.0,
-    "srbobran": 1,
-    "futog": null
+    "price": 440.0,
+    "srbobran": 6,
+    "futog": 6
   }
     
   ,
@@ -41707,7 +41707,7 @@
     "collection": "skolski_pribor",
     "image": "/assets/images/949/rezac-igloo-1-1.jpg",
     "price": 130.0,
-    "srbobran": 30,
+    "srbobran": 29,
     "futog": 44
   }
     
@@ -41720,7 +41720,7 @@
     "collection": "skolski_pribor",
     "image": "/assets/images/95/drvena-boja-1-12-sc-1.jpg",
     "price": 220.0,
-    "srbobran": 13,
+    "srbobran": 12,
     "futog": 5
   }
     
@@ -41785,8 +41785,8 @@
     "collection": "skolski_pribor",
     "image": "/assets/images/968/ol-hb-noris-1.jpg",
     "price": 90.0,
-    "srbobran": 20,
-    "futog": 65
+    "srbobran": 18,
+    "futog": 61
   }
     
   ,
@@ -41799,7 +41799,7 @@
     "image": "/assets/images/97/patrona-1-1-1.jpg",
     "price": 10.0,
     "srbobran": 25,
-    "futog": 10
+    "futog": 9
   }
     
   ,
@@ -41837,8 +41837,8 @@
     "collection": "skolski_pribor",
     "image": null,
     "price": 50.0,
-    "srbobran": 1,
-    "futog": null
+    "srbobran": 49,
+    "futog": 48
   }
     
   ,
@@ -41995,8 +41995,8 @@
     "collection": "sveska",
     "image": null,
     "price": 290.0,
-    "srbobran": 16,
-    "futog": 14
+    "srbobran": 15,
+    "futog": 13
   }
     
   ,
@@ -42021,8 +42021,8 @@
     "collection": "sveska",
     "image": null,
     "price": 180.0,
-    "srbobran": 13,
-    "futog": 44
+    "srbobran": 12,
+    "futog": 43
   }
     
   ,
@@ -42073,7 +42073,7 @@
     "collection": "sveska",
     "image": "/assets/images/27/sveska-a-4-tp-1.jpg",
     "price": 320.0,
-    "srbobran": 22,
+    "srbobran": 21,
     "futog": 14
   }
     
@@ -42113,7 +42113,7 @@
     "image": "/assets/images/3666/sveska-a-5-sport-snupi-1.jpg",
     "price": 90.0,
     "srbobran": 123,
-    "futog": 47
+    "futog": 44
   }
     
   ,
@@ -42125,8 +42125,8 @@
     "collection": "sveska",
     "image": null,
     "price": 270.0,
-    "srbobran": 36,
-    "futog": 30
+    "srbobran": 35,
+    "futog": 28
   }
     
   ,
@@ -42138,7 +42138,7 @@
     "collection": "sveska",
     "image": null,
     "price": 75.0,
-    "srbobran": 44,
+    "srbobran": 43,
     "futog": 10
   }
     
@@ -46979,7 +46979,7 @@
     "image": null,
     "price": 140.0,
     "srbobran": 2,
-    "futog": 2
+    "futog": 1
   }
     
   ,
