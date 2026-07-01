@@ -1,5 +1,5 @@
 ---
 layout: article
-title: RANAC VRTIC
+title: RANAC VRTIĆ
 sku: 2064
 ---

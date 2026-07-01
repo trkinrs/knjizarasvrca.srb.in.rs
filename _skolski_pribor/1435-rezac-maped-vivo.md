@@ -1,5 +1,5 @@
 ---
 layout: article
-title: REZAC MAPED VIVO
+title: REZAČ MAPED VIVO
 sku: 1435
 ---

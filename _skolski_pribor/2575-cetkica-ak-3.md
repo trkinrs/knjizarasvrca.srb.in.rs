@@ -1,5 +1,5 @@
 ---
 layout: article
-title: CETKICA AK-3
+title: ČETKICA AK-3
 sku: 2575
 ---

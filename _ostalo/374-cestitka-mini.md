@@ -1,26 +1,5 @@
 ---
 layout: article
-title: CESTITKA MINI
+title: ČESTITKA MINI
 sku: 374
-image: "/assets/images/374/cestitka-mini-1.jpg"
-images:
-- "/assets/images/374/cestitka-mini-2.jpg"
 ---
-
-💌 **Čestitka – Reči koje ostaju zauvek**
-
-Bez obzira da li slavite rođendan, praznik, venčanje ili jednostavno želite da nekome ulepšate dan – čestitka je klasičan, ali uvek poseban način da izrazite emocije. Sa dekorativnim dizajnom i praznom unutrašnjošću, ostavlja prostor za tvoju iskrenu, ličnu poruku.
-
-✅ **Karakteristike:**
-
-- **Dimenzije:** Standardne&nbsp;
-
-- **Dizajn:** Različiti motivi – ljubavni, rođendanski, praznični...
-
-- **Unutrašnjost:** Prazna za tvoju poruku
-
-- **Materijal:** Kvalitetan papir, često sa dodatnim detaljima (sjaj, reljef, glitter)
-
-- **Uključen kovert:** Da – idealno za poklon ili slanje poštom
-
-📬 **Reči koje dolaze iz srca – sa stilom i pažnjom upakovane.**

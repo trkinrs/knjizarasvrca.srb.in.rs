@@ -1,5 +1,5 @@
 ---
 layout: article
-title: PRIRUCNIK STRANI JEZICI
+title: PRIRUČNIK STRANI JEZICI
 sku: 1006
 ---

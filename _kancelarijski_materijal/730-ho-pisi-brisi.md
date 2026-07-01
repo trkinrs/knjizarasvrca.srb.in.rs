@@ -1,5 +1,5 @@
 ---
 layout: article
-title: HO PISI BRISI
+title: HO PIŠI BRIŠI
 sku: 730
 ---

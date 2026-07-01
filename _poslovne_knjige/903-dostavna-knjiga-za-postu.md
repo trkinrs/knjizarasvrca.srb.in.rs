@@ -1,26 +1,5 @@
 ---
 layout: article
-title: DOSTAVNA KNJIGA ZA POSTU
+title: DOSTAVNA KNJIGA ZA POŠTU
 sku: 903
-image: "/assets/images/903/dostavna-knjiga-za-postu-1.jpg"
-images:
-- "/assets/images/903/dostavna-knjiga-za-postu-2.jpg"
 ---
-
-📗 **Knjiga primljene pošte na ličnost – Evidencija poverljive i lične pošte**
-
-**Knjiga primljene pošte na ličnost** koristi se za evidentiranje dokumenata i pošiljki koje su adresirane direktno na određenu osobu u organizaciji. Omogućava precizno praćenje prijema, datuma i potvrde o preuzimanju – posebno važna za poverljivu i ličnu korespondenciju.
-
-✅ **Karakteristike:**
-
-- **Format:** A4
-
-- **Sadržaj:** Kolone za datum prijema, broj pošiljke, ime i prezime primaoca, pošiljalac, vrsta dokumenta, potpis primaoca i napomene
-
-- **Povez:** Tvrdi, izdržljiv za svakodnevnu administraciju
-
-- **Upotreba:** Ustanove, firme, javna preduzeća, kancelarije
-
-- **Namena:** Poverljiva pošta, sudska dokumenta, ugovori, lični akti
-
-📬 **Knjiga primljene pošte na ličnost – Poverenje počinje dobrom evidencijom.**

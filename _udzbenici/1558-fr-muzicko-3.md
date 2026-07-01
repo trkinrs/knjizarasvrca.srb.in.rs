@@ -1,5 +1,5 @@
 ---
 layout: article
-title: FR - MUZICKO 3
+title: FR - MUZIČKO 3
 sku: 1558
 ---

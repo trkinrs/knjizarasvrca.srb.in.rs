@@ -1,5 +1,5 @@
 ---
 layout: article
-title: NOVOGODISNJA KUGLA
+title: NOVOGODIŠNJA KUGLA
 sku: 399
 ---

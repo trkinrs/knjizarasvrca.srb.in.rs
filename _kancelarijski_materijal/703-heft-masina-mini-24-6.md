@@ -1,5 +1,5 @@
 ---
 layout: article
-title: HEFT MASINA MINI 24/6
+title: HEFT MAŠINA MINI 24/6
 sku: 703
 ---

@@ -1,5 +1,5 @@
 ---
 layout: article
-title: HEFT MASINA DL-501
+title: HEFT MAŠINA DL-501
 sku: 1127
 ---

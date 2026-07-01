@@ -1,5 +1,5 @@
 ---
 layout: article
-title: KOVERAT VAZDUSNI B
+title: KOVERAT VAZDUŠNI B
 sku: 1935
 ---

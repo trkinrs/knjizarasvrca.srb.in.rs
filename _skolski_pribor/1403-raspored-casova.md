@@ -1,5 +1,5 @@
 ---
 layout: article
-title: RASPORED CASOVA
+title: RASPORED ČASOVA
 sku: 1403
 ---

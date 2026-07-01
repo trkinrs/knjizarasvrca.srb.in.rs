@@ -1,5 +1,5 @@
 ---
 layout: article
-title: FR - PRIRODA I DRUSTVO 3
+title: FR - PRIRODA I DRUŠTVO 3
 sku: 1543
 ---

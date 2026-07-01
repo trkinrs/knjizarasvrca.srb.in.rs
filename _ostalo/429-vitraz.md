@@ -1,5 +1,5 @@
 ---
 layout: article
-title: VITRAZ
+title: VITRAŽ
 sku: 429
 ---

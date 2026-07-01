@@ -1,5 +1,5 @@
 ---
 layout: article
-title: MINE ZA SESTAR 2MM
+title: MINE ZA ŠESTAR 2MM
 sku: 1083
 ---

@@ -1,5 +1,5 @@
 ---
 layout: article
-title: DECIJI PECAT
+title: DEČIJI PEČAT
 sku: 1076
 ---

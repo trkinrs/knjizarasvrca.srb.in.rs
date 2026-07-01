@@ -1,5 +1,5 @@
 ---
 layout: article
-title: CETKICA PL-10
+title: ČETKICA PL-10
 sku: 2518
 ---

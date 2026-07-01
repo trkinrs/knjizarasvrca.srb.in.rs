@@ -1,5 +1,5 @@
 ---
 layout: article
-title: CASA ZA OLOVKE DIZNI
+title: ČAŠA ZA OLOVKE DIZNI
 sku: 1932
 ---

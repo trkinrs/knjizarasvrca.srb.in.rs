@@ -1,5 +1,5 @@
 ---
 layout: article
-title: NOVCANIK SC
+title: NOVČANIK SC
 sku: 396
 ---

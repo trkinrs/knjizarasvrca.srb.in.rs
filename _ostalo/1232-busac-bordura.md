@@ -1,5 +1,5 @@
 ---
 layout: article
-title: BUSAC BORDURA
+title: BUŠAČ BORDURA
 sku: 1232
 ---

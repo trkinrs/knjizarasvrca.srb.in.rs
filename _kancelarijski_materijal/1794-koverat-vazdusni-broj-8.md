@@ -1,5 +1,5 @@
 ---
 layout: article
-title: KOVERAT VAZDUSNI BROJ-8
+title: KOVERAT VAZDUŠNI BROJ-8
 sku: 1794
 ---

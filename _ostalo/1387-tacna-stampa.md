@@ -1,5 +1,5 @@
 ---
 layout: article
-title: TACNA STAMPA
+title: TACNA ŠTAMPA
 sku: 1387
 ---

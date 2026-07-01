@@ -1,5 +1,5 @@
 ---
 layout: article
-title: LEPAK TECNI OF
+title: LEPAK TEČNI OF
 sku: 1176
 ---

@@ -1,5 +1,5 @@
 ---
 layout: article
-title: 'FR - CITANKA 3 '
+title: 'FR - ČITANKA 3 '
 sku: 1468
 ---

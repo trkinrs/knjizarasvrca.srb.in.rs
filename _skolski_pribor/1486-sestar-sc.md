@@ -1,5 +1,5 @@
 ---
 layout: article
-title: SESTAR SC
+title: ŠESTAR SC
 sku: 1486
 ---

@@ -1,5 +1,5 @@
 ---
 layout: article
-title: VEZBANKA
+title: VEŽBANKA
 sku: 1809
 ---

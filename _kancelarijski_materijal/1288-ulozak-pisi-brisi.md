@@ -1,5 +1,5 @@
 ---
 layout: article
-title: ULOZAK PISI-BRISI
+title: ULOŽAK PIŠI-BRIŠI
 sku: 1288
 ---

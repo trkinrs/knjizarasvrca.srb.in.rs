@@ -1,5 +1,5 @@
 ---
 layout: article
-title: TUS CRNI KOHINOOR
+title: TUŠ CRNI KOHINOOR
 sku: 96
 ---

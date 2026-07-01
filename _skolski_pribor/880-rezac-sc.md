@@ -1,5 +1,5 @@
 ---
 layout: article
-title: REZAC SC
+title: REZAČ SC
 sku: 880
 ---

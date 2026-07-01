@@ -1,5 +1,5 @@
 ---
 layout: article
-title: NOVOGODISNJI STAPIC
+title: NOVOGODIŠNJI ŠTAPIĆ
 sku: 769
 ---

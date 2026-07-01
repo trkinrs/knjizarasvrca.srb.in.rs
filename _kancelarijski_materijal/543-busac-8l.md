@@ -1,5 +1,5 @@
 ---
 layout: article
-title: BUSAC 8L
+title: BUŠAČ 8L
 sku: 543
 ---

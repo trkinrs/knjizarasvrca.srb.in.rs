@@ -1,5 +1,5 @@
 ---
 layout: article
-title: SKOLSKI SUNDJER
+title: ŠKOLSKI SUNĐER
 sku: 1325
 ---

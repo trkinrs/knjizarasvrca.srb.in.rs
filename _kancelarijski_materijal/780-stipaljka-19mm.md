@@ -1,5 +1,5 @@
 ---
 layout: article
-title: STIPALJKA 19MM
+title: ŠTIPALJKA 19MM
 sku: 780
 ---

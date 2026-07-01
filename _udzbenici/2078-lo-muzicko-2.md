@@ -1,5 +1,5 @@
 ---
 layout: article
-title: LO-MUZICKO 2
+title: LO-MUZIČKO 2
 sku: 2078
 ---

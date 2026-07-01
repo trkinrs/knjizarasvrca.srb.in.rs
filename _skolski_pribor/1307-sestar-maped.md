@@ -1,5 +1,5 @@
 ---
 layout: article
-title: SESTAR MAPED
+title: ŠESTAR MAPED
 sku: 1307
 ---

@@ -1,5 +1,5 @@
 ---
 layout: article
-title: NOVOGODISNJA BOJANKA
+title: NOVOGODIŠNJA BOJANKA
 sku: 168
 ---

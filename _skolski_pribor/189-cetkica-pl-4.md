@@ -1,5 +1,5 @@
 ---
 layout: article
-title: CETKICA PL-4
+title: ČETKICA PL-4
 sku: 189
 ---

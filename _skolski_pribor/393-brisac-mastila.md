@@ -1,5 +1,5 @@
 ---
 layout: article
-title: BRISAC MASTILA
+title: BRISAČ MASTILA
 sku: 393
 ---

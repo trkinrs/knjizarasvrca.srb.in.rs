@@ -1,5 +1,5 @@
 ---
 layout: article
-title: SET CETKICE 1/3
+title: SET ČETKICE 1/3
 sku: 335
 ---

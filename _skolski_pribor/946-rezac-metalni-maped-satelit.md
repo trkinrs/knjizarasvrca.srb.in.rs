@@ -1,5 +1,5 @@
 ---
 layout: article
-title: REZAC METALNI MAPED SATELIT
+title: REZAČ METALNI MAPED SATELIT
 sku: 946
 ---

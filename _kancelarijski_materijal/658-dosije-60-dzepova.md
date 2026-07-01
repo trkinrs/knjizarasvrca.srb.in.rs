@@ -1,5 +1,5 @@
 ---
 layout: article
-title: DOSIJE 60 DZEPOVA
+title: DOSIJE 60 DŽEPOVA
 sku: 658
 ---

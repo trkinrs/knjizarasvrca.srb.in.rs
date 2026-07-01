@@ -1,5 +1,5 @@
 ---
 layout: article
-title: VU - PRICAM TI PRICU
+title: VU - PRIČAM TI PRIČU
 sku: 2123
 ---

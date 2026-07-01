@@ -1,5 +1,5 @@
 ---
 layout: article
-title: OMOT ZA PASOS
+title: OMOT ZA PASOŠ
 sku: 805
 ---

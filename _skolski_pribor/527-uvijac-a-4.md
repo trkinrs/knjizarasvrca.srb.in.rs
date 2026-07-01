@@ -1,5 +1,5 @@
 ---
 layout: article
-title: UVIJAC A/4
+title: UVIJAČ A/4
 sku: 527
 ---

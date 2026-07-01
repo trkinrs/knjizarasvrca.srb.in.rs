@@ -1,5 +1,5 @@
 ---
 layout: article
-title: CETKICA AK-2
+title: ČETKICA AK-2
 sku: 1095
 ---

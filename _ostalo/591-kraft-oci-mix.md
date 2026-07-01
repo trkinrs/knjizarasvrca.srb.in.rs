@@ -1,5 +1,5 @@
 ---
 layout: article
-title: 'KRAFT OCI MIX '
+title: 'KRAFT OČI MIX '
 sku: 591
 ---

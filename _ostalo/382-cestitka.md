@@ -1,5 +1,5 @@
 ---
 layout: article
-title: CESTITKA
+title: ČESTITKA
 sku: 382
 ---

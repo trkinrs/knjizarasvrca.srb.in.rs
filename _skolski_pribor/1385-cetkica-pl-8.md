@@ -1,5 +1,5 @@
 ---
 layout: article
-title: CETKICA PL-8
+title: ČETKICA PL-8
 sku: 1385
 ---

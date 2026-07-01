@@ -1,5 +1,5 @@
 ---
 layout: article
-title: LEPAK SLJOKICE
+title: LEPAK ŠLJOKICE
 sku: 622
 ---

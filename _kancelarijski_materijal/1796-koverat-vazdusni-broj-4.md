@@ -1,5 +1,5 @@
 ---
 layout: article
-title: KOVERAT VAZDUSNI BROJ-4
+title: KOVERAT VAZDUŠNI BROJ-4
 sku: 1796
 ---

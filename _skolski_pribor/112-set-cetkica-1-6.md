@@ -1,5 +1,5 @@
 ---
 layout: article
-title: SET CETKICA 1/6
+title: SET ČETKICA 1/6
 sku: 112
 ---

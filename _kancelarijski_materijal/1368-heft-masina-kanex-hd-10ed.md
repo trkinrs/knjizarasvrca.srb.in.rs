@@ -1,5 +1,5 @@
 ---
 layout: article
-title: HEFT MASINA KANEX HD-10ED
+title: HEFT MAŠINA KANEX HD-10ED
 sku: 1368
 ---

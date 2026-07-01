@@ -1,5 +1,5 @@
 ---
 layout: article
-title: VU - SECANJA V
+title: VU - SEĆANJA V
 sku: 1402
 ---
