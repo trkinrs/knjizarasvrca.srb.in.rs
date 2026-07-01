@@ -24,8 +24,8 @@
 746:
   title: OBRAZAC 1 1+1
   price: 130.0
-  srbobran: 52
-  futog: 24
+  srbobran: 38
+  futog: 23
 748:
   title: OBRAZAC 1 1+2
   price: 160.0
@@ -43,20 +43,22 @@
 819:
   title: PRIZNANICA A/6
   price: 100.0
-  srbobran: 19
+  srbobran: 13
 820:
   title: SANITARNA KNJIŽICA
   price: 120.0
-  srbobran: 13
+  srbobran: 10
   futog: 9
 845:
   title: NALOG-NAPLATI
   price: 180.0
   srbobran: 5
+  futog: 0
 846:
   title: NALOG-ISPLATI
-  price: 160.0
-  srbobran: 1
+  price: 180.0
+  srbobran: 3
+  futog: 0
 847:
   title: NALOG MAGACINU DA IZDA
   price: 120.0
@@ -106,8 +108,8 @@
 861:
   title: OTPREMNICA A/5
   price: 180.0
-  srbobran: 11
-  futog: 4
+  srbobran: 6
+  futog: 3
 862:
   title: OTPREMNICA-PRIJEMNICA A/4
   price: 240.0
@@ -128,7 +130,7 @@
 866:
   title: OTKUPNI LIST A/5
   price: 210.0
-  srbobran: 4
+  srbobran: 3
 867:
   title: SPECIFIKACIJA CEKOVA
   price: 180.0
@@ -151,12 +153,12 @@
 875:
   title: KNJIGA ŠANKA T
   price: 335.0
-  srbobran: 9
+  srbobran: 5
   futog: 0
 876:
   title: KNJIGA ŠANKA NCR
   price: 340.0
-  srbobran: 9
+  srbobran: 5
   futog: 2
 878:
   title: RAČUN A/4 NCR
@@ -164,8 +166,9 @@
   srbobran: 2
 879:
   title: DNEVNIK BLAGAJNE
-  price: 320.0
-  srbobran: 3
+  price: 340.0
+  srbobran: 4
+  futog: 0
 882:
   title: PUTNI NALOG TMV
   price: 320.0
@@ -240,7 +243,7 @@
 1278:
   title: KNJIGA INSPEKCIJE
   price: 385.0
-  srbobran: 3
+  srbobran: 1
   futog: 0
 1333:
   title: ARHIVSKA KNJIGA

@@ -11,7 +11,7 @@
 200:
   title: PERNICA SC JEDNODELNA
   price: 985.0
-  srbobran: 7
+  srbobran: 6
   futog: 8
 202:
   title: 'PERNICA '
@@ -61,7 +61,7 @@
 488:
   title: PERNICA PRAZNA URBAN 2 ZIPA
   price: 530.0
-  futog: 2
+  futog: 1
 551:
   title: PERNICA OKRUGLA
   price: 650.0
@@ -139,8 +139,9 @@
   srbobran: 0
 1918:
   title: RANAC 338-82
-  price: 6590.0
+  price: 6720.0
   srbobran: 1
+  futog: 0
 1919:
   title: RANAC PULSE 2U1
   price: 6990.0

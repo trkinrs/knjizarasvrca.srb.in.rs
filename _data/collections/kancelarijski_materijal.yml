@@ -29,7 +29,7 @@
   title: PRIZNANICA A/5
   price: 150.0
   srbobran: 10
-  futog: 4
+  futog: 3
 110:
   title: JASTUČE ZA PEČAT 3
   price: 135.0
@@ -41,7 +41,7 @@
 153:
   title: 'HO A PLUS '
   price: 60.0
-  srbobran: 23
+  srbobran: 7
   futog: 0
 155:
   title: NALEPNICE
@@ -51,7 +51,7 @@
 156:
   title: HO OF EASY GLIDE
   price: 60.0
-  srbobran: 42
+  srbobran: 39
   futog: 1
 160:
   title: KALKULATOR TTO DG 900A
@@ -70,7 +70,7 @@
 171:
   title: NALEPNICE P
   price: 30.0
-  srbobran: 3
+  srbobran: 4
   futog: 3
 181:
   title: NEDELJNI PLANER A/5
@@ -110,7 +110,7 @@
 203:
   title: GEL OLOVKA TG
   price: 195.0
-  srbobran: 13
+  srbobran: 11
   futog: 11
 205:
   title: HO 6 BOJA
@@ -165,8 +165,8 @@
 287:
   title: CELOFAN 100/70
   price: 30.0
-  srbobran: 4
-  futog: 0
+  srbobran: 2
+  futog: 2
 289:
   title: PRIVEZAK BOVA
   price: 59.0
@@ -191,8 +191,8 @@
 330:
   title: SUPER LEPAK BOND 3G
   price: 220.0
-  srbobran: 0
-  futog: 1
+  srbobran: 7
+  futog: 6
 336:
   title: MAKAZE KOHINOOR
   price: 325.0
@@ -205,16 +205,17 @@
 359:
   title: TO 0,5 ROTRING
   price: 650.0
-  srbobran: 2
-  futog: 4
+  srbobran: 6
+  futog: 0
 360:
   title: SPAJALICE 33MM
   price: 70.0
   srbobran: 0
 363:
   title: FOTO PAPIR 190G
-  price: 20.0
-  srbobran: 0
+  price: 40.0
+  srbobran: 25
+  futog: 25
 369:
   title: UL ROLER PILOT 0,5/0,7
   price: 310.0
@@ -249,8 +250,8 @@
 432:
   title: TERMO ROLNA 57/48MM
   price: 90.0
-  srbobran: 10
-  futog: 35
+  srbobran: 50
+  futog: 22
 434:
   title: FILM FA 93 1/1
   price: 735.0
@@ -268,7 +269,7 @@
   title: HO AH 567C
   price: 30.0
   srbobran: 0
-  futog: 35
+  futog: 26
 443:
   title: VIZITAR POST
   price: 475.0
@@ -297,7 +298,7 @@
 456:
   title: HO R301
   price: 40.0
-  srbobran: 67
+  srbobran: 54
   futog: 47
 457:
   title: UL ZA HO PENAC 1/2
@@ -307,16 +308,17 @@
   title: UL ZA HO PVC
   price: 5.0
   srbobran: 129
-  futog: 139
+  futog: 129
 459:
   title: UL ZA HO PARKER METALNI
   price: 30.0
-  srbobran: 0
+  srbobran: 20
+  futog: 0
 460:
   title: UL ZA HO PARKER PVC
   price: 20.0
   srbobran: 11
-  futog: 21
+  futog: 18
 461:
   title: UL ZA HO 4404E
   price: 10.0
@@ -334,7 +336,7 @@
   title: GEL OLOVKA PIŠI-BRIŠI
   price: 210.0
   srbobran: 5
-  futog: 9
+  futog: 8
 477:
   title: HO BIC ROUND
   price: 75.0
@@ -350,13 +352,13 @@
 481:
   title: HO VINSON FASHION
   price: 50.0
-  srbobran: 29
+  srbobran: 25
   futog: 35
 482:
   title: HO AH 567
   price: 40.0
-  srbobran: 88
-  futog: 58
+  srbobran: 73
+  futog: 51
 484:
   title: UL HO OF441
   price: 25.0
@@ -373,7 +375,7 @@
 502:
   title: SIGNIR OF
   price: 55.0
-  srbobran: 7
+  srbobran: 6
   futog: 9
 503:
   title: SIGNIR MAPED
@@ -394,12 +396,12 @@
 524:
   title: TERMO ROLNA 57/40MM
   price: 60.0
-  srbobran: 57
-  futog: 30
+  srbobran: 23
+  futog: 20
 525:
   title: TERMO ROLNA 80/60
   price: 160.0
-  srbobran: 17
+  srbobran: 13
   futog: 3
 528:
   title: SELOTEJP 50/50 T/M
@@ -410,17 +412,17 @@
 530:
   title: 'SELOTEJP 50/50 '
   price: 95.0
-  srbobran: 18
+  srbobran: 14
   futog: 20
 531:
   title: SELOTEJP 15/60
   price: 50.0
-  srbobran: 12
+  srbobran: 0
   futog: 11
 533:
   title: KOVERAT DUGME A/4
   price: 250.0
-  srbobran: 7
+  srbobran: 2
   futog: 5
 534:
   title: SELOTEJP 50/50
@@ -468,11 +470,11 @@
   title: MARKER  LUMO
   price: 155.0
   srbobran: 0
-  futog: 9
+  futog: 8
 556:
   title: MARKER CN KOSI VRH
   price: 80.0
-  srbobran: 39
+  srbobran: 34
   futog: 5
 558:
   title: INDIGO
@@ -487,7 +489,7 @@
 567:
   title: BLOK BELEŠKE A/5
   price: 160.0
-  srbobran: 3
+  srbobran: 2
   futog: 0
 568:
   title: MEMO BLOKČIĆ SPIRALA
@@ -497,7 +499,7 @@
 569:
   title: BLOK KOCKA BOJA
   price: 195.0
-  srbobran: 6
+  srbobran: 5
   futog: 4
 572:
   title: BLOK SL 1/400
@@ -506,18 +508,18 @@
 573:
   title: BLOK KOCKA
   price: 180.0
-  srbobran: 9
-  futog: 5
+  srbobran: 12
+  futog: 3
 574:
   title: GUMICE ZA AKTA
-  price: 120.0
+  price: 1075.0
   srbobran: 1
   futog: 0
 576:
   title: BLOK SL 1/100
   price: 80.0
-  srbobran: 21
-  futog: 10
+  srbobran: 17
+  futog: 7
 578:
   title: BLOK SL 1/500
   price: 270.0
@@ -525,12 +527,12 @@
 580:
   title: KOVERAT AMERIKEN SL
   price: 7.0
-  srbobran: 217
-  futog: 165
+  srbobran: 160
+  futog: 153
 582:
   title: KOVERAT AMERIKEN SL
   price: 5.0
-  srbobran: 300
+  srbobran: 200
   futog: 300
 583:
   title: KOVERAT B/6 SL
@@ -544,8 +546,8 @@
 585:
   title: KOVERAT VAZDUŠNI BR-2
   price: 25.0
-  srbobran: 2
-  futog: 1
+  srbobran: 0
+  futog: 0
 586:
   title: KOVERAT VAZDUŠNI BR-7
   price: 60.0
@@ -554,7 +556,7 @@
 587:
   title: KOVERAT A/4 SL
   price: 25.0
-  srbobran: 110
+  srbobran: 10
   futog: 100
 588:
   title: KOVERAT CD
@@ -563,12 +565,12 @@
 590:
   title: KOVERAT B/5 SL
   price: 15.0
-  srbobran: 109
-  futog: 127
+  srbobran: 69
+  futog: 125
 592:
   title: KOVERAT B/5 SL
   price: 13.0
-  srbobran: 100
+  srbobran: 0
   futog: 100
 594:
   title: KOVERAT VAZDUŠNI BR-9
@@ -578,25 +580,25 @@
 595:
   title: KOVERAT A/4 SL
   price: 30.0
-  srbobran: 29
-  futog: 22
+  srbobran: 4
+  futog: 18
 596:
   title: DOSIJE KROMO 280G
 597:
   title: DOSIJE KROMO
   price: 40.0
-  srbobran: 59
+  srbobran: 34
   futog: 51
 598:
   title: DOSIJE SA GUMOM
   price: 120.0
-  srbobran: 55
+  srbobran: 49
   futog: 28
 599:
   title: DOSIJE BOJA
   price: 60.0
-  srbobran: 37
-  futog: 23
+  srbobran: 60
+  futog: 45
 602:
   title: DOSIJE L
   price: 15.0
@@ -608,17 +610,18 @@
 606:
   title: DOSIJE 11 RUPA 60MIC
   price: 8.0
-  srbobran: 300
+  srbobran: 190
   futog: 0
 612:
   title: ČAŠA 0,2
   price: 5.0
   srbobran: 100
+  futog: 0
 613:
   title: ČAŠA ŽIČANA
   price: 120.0
-  srbobran: 1
-  futog: 2
+  srbobran: 0
+  futog: 1
 615:
   title: ČAŠA 0,2
 616:
@@ -628,8 +631,8 @@
 618:
   title: ETIKETE BR
   price: 95.0
-  srbobran: 59
-  futog: 24
+  srbobran: 56
+  futog: 22
 620:
   title: JEDERMAN
   price: 65.0
@@ -638,12 +641,12 @@
 621:
   title: ETIKETE ZA CENE
   price: 130.0
-  srbobran: 15
+  srbobran: 14
   futog: 4
 625:
   title: ATAŠE MAPA PVC
   price: 350.0
-  srbobran: 1
+  srbobran: 0
   futog: 1
 626:
   title: MAKAZE 21CM
@@ -661,13 +664,13 @@
 632:
   title: PAPIR A/4 80G
   price: 3750.0
-  srbobran: 6
+  srbobran: 3
   futog: 1
 633:
   title: PAPIR A/4 80G
   price: 680.0
-  srbobran: 21
-  futog: 29
+  srbobran: 17
+  futog: 27
 635:
   title: PAPIR A4 U BOJI 1/100
   price: 295.0
@@ -726,11 +729,11 @@
 669:
   title: KOREKTOR TRAKA 12M
   price: 150.0
-  srbobran: 9
+  srbobran: 6
 672:
   title: KOREKTOR OLOVKA
   price: 140.0
-  srbobran: 6
+  srbobran: 5
   futog: 5
 673:
   title: ROLER PILOT V-5
@@ -742,7 +745,7 @@
   srbobran: 0
 679:
   title: NAKVASAČ GUMENI
-  price: 90.0
+  price: 99.0
   srbobran: 2
   futog: 1
 680:
@@ -753,7 +756,7 @@
 683:
   title: MARKER BIC
   price: 170.0
-  srbobran: 10
+  srbobran: 3
   futog: 8
 684:
   title: BLANKO 240*12 1+1 4"
@@ -767,11 +770,12 @@
   title: REGISTRATOR A/5 N
   price: 395.0
   srbobran: 6
-  futog: 2
+  futog: 1
 689:
   title: REGISTRATOR A/4 U
-  price: 385.0
-  srbobran: 0
+  price: 375.0
+  srbobran: 4
+  futog: 1
 692:
   title: ROKOVNIK B/5 HELSINKI
   price: 580.0
@@ -788,7 +792,7 @@
 699:
   title: 'HO '
   price: 20.0
-  srbobran: 83
+  srbobran: 27
   futog: 17
 703:
   title: HEFT MAŠINA MINI 24/6
@@ -806,7 +810,7 @@
 713:
   title: SPONKE MAPED S-10
   price: 45.0
-  srbobran: 52
+  srbobran: 51
   futog: 15
 717:
   title: KOREKTOR TRAKA 12M
@@ -816,22 +820,22 @@
 718:
   title: SPAJALICE 80MM
   price: 150.0
-  srbobran: 3
-  futog: 3
+  srbobran: 4
+  futog: 1
 720:
   title: SPONKE MAPED 24/6
   price: 70.0
-  srbobran: 44
+  srbobran: 42
   futog: 18
 723:
   title: SPAJALICE 50MM
   price: 210.0
-  srbobran: 3
+  srbobran: 2
 724:
   title: SPAJALICE 25MM
   price: 45.0
-  srbobran: 9
-  futog: 14
+  srbobran: 7
+  futog: 11
 727:
   title: ČIODE
   price: 40.0
@@ -860,7 +864,7 @@
 777:
   title: BLOK A/6 C/5 SP
   price: 130.0
-  srbobran: 29
+  srbobran: 27
   futog: 15
 780:
   title: ŠTIPALJKA 19MM
@@ -885,7 +889,7 @@
 822:
   title: KARTICA RK-30
   price: 12.0
-  srbobran: 106
+  srbobran: 96
   futog: 0
 830:
   title: FOLIJA ZA PLASTIFICIRANJE
@@ -899,8 +903,8 @@
 836:
   title: KASA BLOK
   price: 50.0
-  srbobran: 14
-  futog: 10
+  srbobran: 10
+  futog: 7
 840:
   title: KOVERAT A/3
   price: 40.0
@@ -909,7 +913,7 @@
 843:
   title: KOLAŽ A/4 T
   price: 120.0
-  srbobran: 4
+  srbobran: 2
   futog: 7
 890:
   title: PERSONALNI DOSIJE
@@ -923,8 +927,8 @@
 921:
   title: RAČUN A/5 NCR
   price: 160.0
-  srbobran: 5
-  futog: 10
+  srbobran: 4
+  futog: 4
 930:
   title: KARTICA FK-11
   price: 10.0
@@ -936,8 +940,8 @@
 934:
   title: KOREKTOR ČETKICA
   price: 130.0
-  srbobran: 15
-  futog: 19
+  srbobran: 14
+  futog: 18
 940:
   title: TABLA PLUTA 60*40
   price: 799.0
@@ -945,7 +949,7 @@
 941:
   title: FASCIKLA 5CM
   price: 505.0
-  srbobran: 1
+  srbobran: 0
 947:
   title: NOTES SL LG-80980
   price: 95.0
@@ -958,11 +962,11 @@
   title: HEFT MAŠINA DELTA 102
   price: 1100.0
   srbobran: 1
-  futog: 1
+  futog: 0
 953:
   title: GEL OLOVKA 0,5
   price: 30.0
-  srbobran: 20
+  srbobran: 19
   futog: 19
 957:
   title: SPONKE 23/10
@@ -993,7 +997,7 @@
   title: ROLER AH-832
   price: 50.0
   srbobran: 6
-  futog: 44
+  futog: 35
 972:
   title: HO SC 1705
   price: 60.0
@@ -1006,7 +1010,7 @@
 974:
   title: KORICE ZA DOKUMENTA LUX
   price: 310.0
-  srbobran: 3
+  srbobran: 2
   futog: 1
 981:
   title: FILM FAX 91/52 1/2
@@ -1043,7 +1047,7 @@
 1029:
   title: ROLER CONNECT KF-217
   price: 80.0
-  srbobran: 18
+  srbobran: 6
   futog: 0
 1038:
   title: KUTIJA ZA VK
@@ -1057,7 +1061,7 @@
   title: KREP PAPIR 100*70
   price: 100.0
   srbobran: 32
-  futog: 28
+  futog: 27
 1066:
   title: PAUS PAPIR A/3 1/1
 1074:
@@ -1072,7 +1076,7 @@
 1080:
   title: 'FOTO PAPIR MAT '
   price: 60.0
-  srbobran: 30
+  srbobran: 28
 1092:
   title: MARKER AG/AU
   price: 130.0
@@ -1084,7 +1088,7 @@
 1111:
   title: ATAŠE PODLOGA
   price: 260.0
-  srbobran: 2
+  srbobran: 0
 1112:
   title: LEPENKA B2
   price: 160.0
@@ -1094,7 +1098,8 @@
 1118:
   title: MARKER CD/DVD OF
   price: 50.0
-  srbobran: 23
+  srbobran: 47
+  futog: 0
 1120:
   title: KALENDAR 12L
   price: 220.0
@@ -1102,7 +1107,7 @@
 1121:
   title: 'HEFT MAŠINA 24/6 DELTA 105 '
   price: 1635.0
-  srbobran: 1
+  srbobran: 0
 1123:
   title: HEFT MAŠINA 24/6 DELTA 107
   price: 955.0
@@ -1149,7 +1154,7 @@
 1214:
   title: DOSIJE MEHANIZAM
   price: 130.0
-  srbobran: 23
+  srbobran: 20
   futog: 0
 1216:
   title: OMOT SPISA B/Z
@@ -1159,7 +1164,7 @@
   title: KOVERAT B/6
   price: 7.0
   srbobran: 165
-  futog: 139
+  futog: 99
 1263:
   title: MARKER KOSI OF
   price: 50.0
@@ -1168,7 +1173,7 @@
   title: MARKER KOH-I-NOOR
   price: 130.0
   srbobran: 60
-  futog: 15
+  futog: 14
 1270:
   title: KREDE BOJA 1/12
   price: 50.0
@@ -1177,7 +1182,7 @@
   title: ULOŽAK PIŠI-BRIŠI
   price: 85.0
   srbobran: 10
-  futog: 6
+  futog: 3
 1314:
   title: PAK PAPIR BELI
   price: 40.0
@@ -1230,13 +1235,13 @@
 1371:
   title: DOSIJE SUP
   price: 80.0
-  srbobran: 120
+  srbobran: 99
   futog: 25
 1373:
   title: DOSIJE 11 RUPA 40MIC
   price: 6.0
-  srbobran: 316
-  futog: 85
+  srbobran: 297
+  futog: 84
 1376:
   title: POLICA ZA DOKUMENTA
   price: 440.0
@@ -1258,7 +1263,7 @@
 1394:
   title: KORICE ZA KARTICE LUX
   price: 410.0
-  srbobran: 1
+  srbobran: 0
   futog: 1
 1400:
   title: OBRAZAC PPI-4
@@ -1271,8 +1276,8 @@
 1405:
   title: PAK PAPIR NATRON
   price: 40.0
-  srbobran: 25
-  futog: 19
+  srbobran: 18
+  futog: 18
 1406:
   title: KOVERAT VAZDUŠNI BR-10
   price: 95.0
@@ -1300,11 +1305,11 @@
 1429:
   title: MARAMICE
   price: 20.0
-  srbobran: 11
+  srbobran: 10
 1445:
   title: DOSIJE 11 RUPA 60MIC
   price: 12.0
-  srbobran: 70
+  srbobran: 56
   futog: 400
 1452:
   title: POHVALNICA ZA POSTIGNUTE IR
@@ -1313,7 +1318,7 @@
 1461:
   title: GEL OL VETRENJAČA
   price: 180.0
-  srbobran: 4
+  srbobran: 2
   futog: 7
 1499:
   title: HO SC
@@ -1377,7 +1382,7 @@
 1796:
   title: KOVERAT VAZDUŠNI BROJ-4
   price: 40.0
-  srbobran: 2
+  srbobran: 0
   futog: 1
 1797:
   title: KOVERAT BOJA
@@ -1431,17 +1436,17 @@
 1900:
   title: TERMO ROLNA 80/70MM
   price: 225.0
-  srbobran: 31
+  srbobran: 21
   futog: 8
 1912:
   title: ZABRANJENO PUSENJE A/4
   price: 95.0
-  srbobran: 4
+  srbobran: 3
   futog: 3
 1931:
   title: KOVERAT VAZDUŠNI BR-3
   price: 30.0
-  srbobran: 2
+  srbobran: 0
   futog: 1
 1934:
   title: NOTES LG-23874
@@ -1476,7 +1481,7 @@
 1988:
   title: FASCIKLA 3CM
   price: 435.0
-  srbobran: 4
+  srbobran: 1
   futog: 4
 1990:
   title: FASCIKLA DUGME AMERIKEN
@@ -1485,7 +1490,7 @@
 1991:
   title: REGISTRATOR A/4 N
   price: 330.0
-  srbobran: 7
+  srbobran: 22
   futog: 11
 1993:
   title: REGISTRATOR A/4 N
@@ -1507,7 +1512,7 @@
 2006:
   title: PAPIR A/4 80G
   price: 5.0
-  srbobran: 46
+  srbobran: 32
 2083:
   title: MARKER ALUMINIJUM
   price: 170.0
@@ -1523,13 +1528,13 @@
 2113:
   title: HO OF GEL INK
   price: 60.0
-  srbobran: 18
+  srbobran: 17
   futog: 15
 2115:
   title: SELOTEJP 15*33
   price: 40.0
-  srbobran: 86
-  futog: 37
+  srbobran: 70
+  futog: 36
 2139:
   title: KREDE 1/100 BOJA
   price: 1150.0
@@ -1562,7 +1567,7 @@
   title: DOSIJE 11 RUPA 80MIC
   price: 15.0
   srbobran: 525
-  futog: 337
+  futog: 336
 2193:
   title: MARKER FLIP CHART 1/4
   price: 425.0
@@ -1631,16 +1636,16 @@
   title: ČIODE PLUTA
   price: 60.0
   srbobran: 2
-  futog: 3
+  futog: 2
 2594:
   title: MARKER CN OBLI VRH
   price: 80.0
-  srbobran: 22
-  futog: 12
+  srbobran: 32
+  futog: 11
 2595:
   title: MARKER BELI ICO
   price: 280.0
-  srbobran: 6
+  srbobran: 5
   futog: 5
 2616:
   title: DOSIJE 11 RUPA 90MIC
@@ -1661,8 +1666,8 @@
   srbobran: 2
 2774:
   title: MARKER 0,6 CP
-  price: 85.0
-  srbobran: 87
+  price: 90.0
+  srbobran: 85
   futog: 59
 2801:
   title: ORGANIZER 13 PREGRADA
@@ -1685,7 +1690,7 @@
 2977:
   title: DOZVOLJENO PUSENJE A/7
   price: 20.0
-  srbobran: 53
+  srbobran: 51
 3007:
   title: FUTROLA ZA HO DUET
   price: 306.0
@@ -1702,9 +1707,9 @@
   futog: 4
 3230:
   title: MARKER CP 1MM
-  price: 85.0
-  srbobran: 114
-  futog: 42
+  price: 90.0
+  srbobran: 118
+  futog: 43
 3240:
   title: SET VINSKI ALEGRO
   price: 455.0
@@ -1724,8 +1729,8 @@
   srbobran: 2
 3467:
   title: MARKER BT OF
-  price: 50.0
-  srbobran: 38
+  price: 54.0
+  srbobran: 28
   futog: 0
 3500:
   title: DOSIJE 11 RUPA 120MIC
@@ -1738,7 +1743,7 @@
 3535:
   title: OBRAZAC CMR
   price: 50.0
-  srbobran: 40
+  srbobran: 10
   futog: 50
 3555:
   title: HO TORSION CLIP
@@ -1756,10 +1761,6 @@
   price: 180.0
   srbobran: 2
   futog: 1
-3707:
-  title: FOLIJA ZA KORIČENJE
-  price: 780.0
-  srbobran: 0
 3725:
   title: ATASE MAPA
 3733:
@@ -1842,5 +1843,5 @@
 4263:
   title: BATERIJA AA/AAA
   price: 65.0
-  srbobran: 32
+  srbobran: 24
   futog: 26
