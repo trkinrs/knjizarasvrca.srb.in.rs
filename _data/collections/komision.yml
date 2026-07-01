@@ -71,7 +71,7 @@
   title: PP - MALA ŠKOLA II STEPEN
   price: 699.0
   srbobran: 0
-  futog: 1
+  futog: 0
 284:
   title: PP - MALA ŠKOLA III STEPEN
   price: 699.0
@@ -6465,7 +6465,7 @@
 3222:
   title: PČ - PČELICE RADOZNALICE 5-7 - S.MIRKOVIĆ, G.MARKOVIĆ
   price: 1050.0
-  futog: 5
+  futog: 4
 3224:
   title: PČ - PČELICE U LETU - S.MIRKOVIĆ, G.MARKOVIĆ
   price: 1350.0
