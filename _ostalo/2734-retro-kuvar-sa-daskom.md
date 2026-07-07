@@ -5,8 +5,11 @@ sku: 2734
 image: "/assets/images/2734/retro-kuvar-sa-daskom-1.jpg"
 images:
 - "/assets/images/2734/retro-kuvar-sa-daskom-2.jpg"
+- assets/images/retro kuvar vintage chocolat.jpg
+- assets/images/retro kuvar vintage chocolat inside.jpg
+- assets/images/retro kuvar.jpg
+- assets/images/retro kuvar iznutra.jpg
 ---
-
 🍼 Bebi Kuvar B5 – Prvi koraci u svetu zdravih obroka  
 Bebi kuvar B5 je pažljivo osmišljen priručnik za roditelje koji žele da svom detetu pruže zdrav, ukusan i uravnotežen početak. Sadrži recepte prilagođene uzrastu bebe, savete o uvođenju čvrste hrane, kao i prostor za beleženje omiljenih jela i reakcija deteta.
 
@@ -27,3 +30,11 @@ Posebne stranice: za lične beleške, zabeleške o alergijama i bebinoj reakciji
 📘 Bebi kuvar B5 je više od knjige – to je vodič kroz prve ukuse, navike i osmehe vašeg deteta dok otkriva svet hrane.
 
 &nbsp;
+
+
+
+
+
+
+
+
