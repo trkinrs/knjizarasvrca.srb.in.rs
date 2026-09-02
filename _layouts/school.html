@@ -58,6 +58,21 @@ layout: page
     font-size: 0.85rem;
     line-height: 1.45;
   }
+  .school-book-image-link {
+    display: block;
+    line-height: 0;
+  }
+  .school-book-link {
+    display: inline-block;
+    margin-top: 0.45rem;
+    color: #8a6d00;
+    font-weight: 700;
+    text-decoration: none;
+  }
+  .school-book-link:hover {
+    color: #4f3f00;
+    text-decoration: underline;
+  }
   .school-book-price {
     color: #c0392b;
     font-weight: 700;
@@ -88,6 +103,54 @@ layout: page
 
 {{ content }}
 
+{% if page.kind == "lektire" %}
+{% assign total = 0 %}
+{% assign item_count = 0 %}
+{% for book in page.books %}
+  {% assign sifra = book.sifra | plus: 0 %}
+  {% assign item = site.data.collections.komision[sifra] %}
+  {% if item %}
+    {% assign item_count = item_count | plus: 1 %}
+    {% assign total = total | plus: item.price %}
+  {% endif %}
+{% endfor %}
+
+<div class="school-summary">
+  <div>
+    <strong>{{ page.title }}</strong>
+    <div class="school-summary-count">{{ item_count }} od {{ page.books.size }} naslova dostupno</div>
+  </div>
+  <div class="school-summary-total">Ukupno: {{ total | round }} din.</div>
+</div>
+
+<ul class="school-book-list">
+  {% for book in page.books %}
+    {% assign sifra = book.sifra | plus: 0 %}
+    {% assign item = site.data.collections.komision[sifra] %}
+    {% assign product = site.posts_by_sifra[book.sifra] %}
+    <li class="school-book">
+      {% if product %}
+        <a class="school-book-image-link" href="{{ product.url | relative_url }}" aria-label="Pogledaj artikal {{ product.title | escape }}">
+          <img class="school-book-image" src="{{ product.image | default: '/assets/book-placeholder.svg' | relative_url }}" alt="{{ product.title | escape }}">
+        </a>
+      {% else %}
+        <img class="school-book-image" src="{{ '/assets/book-placeholder.svg' | relative_url }}" alt="">
+      {% endif %}
+      <div>
+        <h2 class="school-book-title">
+          {% if product %}<a href="{{ product.url | relative_url }}">{{ book.title }}</a>{% else %}{{ book.title }}{% endif %}
+        </h2>
+        <div class="school-book-meta">
+          {% if book.sifra %}<div>Šifra: {{ book.sifra }}</div>{% endif %}
+          {% unless item %}<div>Nije pronađeno u našem katalogu.</div>{% endunless %}
+          {% if product %}<a class="school-book-link" href="{{ product.url | relative_url }}">Pogledaj artikal →</a>{% endif %}
+        </div>
+      </div>
+      {% if item.price %}<div class="school-book-price">{{ item.price | round }} din.</div>{% endif %}
+    </li>
+  {% endfor %}
+</ul>
+{% else %}
 {% assign total = 0 %}
 {% assign item_count = 0 %}
 {% for book in page.books %}
@@ -111,19 +174,26 @@ layout: page
     {% assign item = site.data.schools[book.source][book.sifra] %}
     {% if item %}
       <li class="school-book">
-        {% if item.image %}
+        {% if item.link %}
+          <a class="school-book-image-link" href="{{ item.link }}" aria-label="Pogledaj artikal {{ item.title | escape }}">
+            <img class="school-book-image" src="{{ item.image | default: '/assets/book-placeholder.svg' | relative_url }}" alt="{{ item.title }}">
+          </a>
+        {% elsif item.image %}
           <img class="school-book-image" src="{{ item.image | relative_url }}" alt="{{ item.title }}">
         {% else %}
           <img class="school-book-image" src="{{ '/assets/book-placeholder.svg' | relative_url }}" alt="{{ item.title }}">
         {% endif %}
         <div>
-          <h2 class="school-book-title"><a href="{{ item.link }}">{{ item.title }}</a></h2>
+          <h2 class="school-book-title">
+            {% if item.link %}<a href="{{ item.link }}">{{ item.title }}</a>{% else %}{{ item.title }}{% endif %}
+          </h2>
           <div class="school-book-meta">
             <div>Šifra: {{ book.sifra }}</div>
             {% if item.naziv_udzbenika %}<div>{{ item.naziv_udzbenika }}</div>{% endif %}
             {% if item.autor %}<div>Autor: {{ item.autor }}</div>{% endif %}
             {% if item.izdavac %}<div>Izdavač: {{ item.izdavac }}</div>{% endif %}
             {% if item.isbn %}<div>ISBN: {{ item.isbn }}</div>{% endif %}
+            {% if item.link %}<a class="school-book-link" href="{{ item.link }}">Pogledaj artikal →</a>{% endif %}
           </div>
         </div>
         <div class="school-book-price">{{ item.mpc | round }} din.</div>
@@ -133,3 +203,4 @@ layout: page
     {% endif %}
   {% endfor %}
 </ul>
+{% endif %}

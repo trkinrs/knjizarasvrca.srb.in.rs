@@ -1,5 +1,6 @@
 ---
 layout: school
+kind: udžbenici
 title: 2. razred OŠ Zdravko Čelar, Čelarevo
 books:
   - source: vulkan

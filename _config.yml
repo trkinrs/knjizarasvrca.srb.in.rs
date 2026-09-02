@@ -79,6 +79,9 @@ header_pages:
   - kontakt.md
   - schools.md
 
+exclude:
+  - README.md
+
 theme: minima
 plugins:
 - jekyll-feed

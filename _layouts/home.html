@@ -30,12 +30,14 @@ layout: default
         <div class="home-product-grid">
           {% for product in category.products %}
             {% assign item = site.data.collections[product.collection][product.sku] %}
+            {% assign sifra = product.sku | append: "" %}
+            {% assign product_post = site.posts_by_sifra[sifra] %}
             {% assign srb = item.srbobran | plus: 0 %}
             {% assign fut = item.futog | plus: 0 %}
             {% assign total_stock = srb | plus: fut %}
-            <a class="home-product-card" href="{{ product.url | relative_url }}">
+            <a class="home-product-card" href="{{ product_post.url | relative_url }}">
               <div class="home-product-image-wrap">
-                <img src="{{ product.image | relative_url }}" alt="{{ item.title | escape }}" loading="lazy">
+                <img src="{{ product_post.image | default: '/assets/book-placeholder.svg' | relative_url }}" alt="{{ item.title | escape }}" loading="lazy">
                 {% if total_stock > 0 %}
                   <span class="home-stock in-stock">Na stanju</span>
                 {% else %}
