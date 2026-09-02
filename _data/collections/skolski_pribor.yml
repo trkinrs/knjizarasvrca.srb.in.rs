@@ -18,7 +18,7 @@
   title: UVIJAČ A/4 SAMOLEPLJIV
   price: 40.0
   srbobran: 26
-  futog: 12
+  futog: 10
 26:
   title: NOTNA SVESKA A/4
   price: 150.0
@@ -28,7 +28,7 @@
   title: BLOK IV
   price: 90.0
   srbobran: 29
-  futog: 27
+  futog: 26
 30:
   title: BLOK V
   price: 150.0
@@ -130,7 +130,7 @@
   title: SVESKA A/5 52L
   price: 70.0
   srbobran: 305
-  futog: 375
+  futog: 374
 72:
   title: DRVENA BOJA 1/14
   price: 195.0
@@ -183,7 +183,7 @@
   title: FLOMASTERI GIOTTO 1/12
   price: 360.0
   srbobran: 11
-  futog: 8
+  futog: 7
 94:
   title: DRVENA BOJA 1/12 MAPED
   price: 440.0
