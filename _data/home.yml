@@ -1,0 +1,86 @@
+# Ručno odabrani najprodavaniji artikli za naslovnu stranu.
+# Cena i stanje se povlače iz _data/collections, pa ih ovde ne treba ponavljati.
+categories:
+  - title: Školski pribor
+    description: Sitnice koje se svakog dana nađu u đačkoj torbi.
+    url: /collections/skolski_pribor/
+    products:
+      - collection: skolski_pribor
+        sku: 1003
+        url: /skolski_pribor/1003-ol-hb-peps-gumica/
+        image: /assets/images/1003/ol-hb-peps-gumica-1.jpg
+      - collection: skolski_pribor
+        sku: 142
+        url: /skolski_pribor/142-rezac-maped-mini-boogy/
+        image: /assets/images/142/rezac-maped-mini-boogy-1.jpg
+      - collection: skolski_pribor
+        sku: 32
+        url: /skolski_pribor/32-kolaz-b-5-sl/
+        image: /assets/images/32/kolaz-b-5-sl-1.jpg
+      - collection: skolski_pribor
+        sku: 16
+        url: /skolski_pribor/16-drvena-boja-1-12-cc/
+        image: /assets/images/16/drvena-boja-1-12-cc-1.jpg
+
+  - title: Sveske
+    description: Najtraženiji formati za školu, beleške i svakodnevne ideje.
+    url: /collections/sveska/
+    products:
+      - collection: sveska
+        sku: 11
+        url: /sveska/11-sveska-a-5-tp-sc/
+        image: /assets/images/11/sveska-a-5-tp-sc-1.jpg
+      - collection: sveska
+        sku: 3666
+        url: /sveska/3666-sveska-a-5-sport-snupi/
+        image: /assets/images/3666/sveska-a-5-sport-snupi-1.jpg
+      - collection: sveska
+        sku: 27
+        url: /sveska/27-sveska-a-4-tp/
+        image: /assets/images/27/sveska-a-4-tp-1.jpg
+      - collection: sveska
+        sku: 491
+        url: /sveska/491-sveska-a-5-sc/
+        image: /assets/images/491/sveska-a-5-sc-1.jpg
+
+  - title: Rančevi i pernice
+    description: Praktični favoriti za školu, vrtić i slobodno vreme.
+    url: /collections/rancevi_i_peratonice/
+    products:
+      - collection: rancevi_i_peratonice
+        sku: 209
+        url: /rancevi_i_peratonice/209-pernica-dvodelna-puna/
+        image: /assets/images/209/pernica-3d-1-3-1.jpg
+      - collection: rancevi_i_peratonice
+        sku: 212
+        url: /rancevi_i_peratonice/212-ranac-305-4-vrtic/
+        image: /assets/images/212/ranac-pulse-bicolor-1.jpg
+      - collection: rancevi_i_peratonice
+        sku: 204
+        url: /rancevi_i_peratonice/204-pernica-jednodelna/
+        image: /assets/images/204/pernica-jednodelna-1.jpg
+      - collection: rancevi_i_peratonice
+        sku: 2899
+        url: /rancevi_i_peratonice/2899-ranac-3d-sc/
+        image: /assets/images/2899/ranac-3d-sc-1.jpg
+
+  - title: Knjige za najmlađe
+    description: Zabavne knjige, kvizovi i aktivnosti kojima se deca vraćaju.
+    url: /collections/komision/
+    products:
+      - collection: komision
+        sku: 2312
+        url: /komision/2312-vu-zabavni-kviz-za-malisane/
+        image: /assets/images/2312/vu-zabavni-kviz-1.jpg
+      - collection: komision
+        sku: 1894
+        url: /komision/1894-vu-karte/
+        image: /assets/images/1894/vu-karte-1.jpg
+      - collection: komision
+        sku: 1870
+        url: /komision/1870-vu-dzeronimo-stilton/
+        image: /assets/images/1870/vu-dzeronimo-stilton-1.jpg
+      - collection: komision
+        sku: 2628
+        url: /komision/2628-vu-velike-nalepnice-za-malene-ruke/
+        image: /assets/images/2628/vu-velike-nalepnice-za-malene-ruke-1.jpg

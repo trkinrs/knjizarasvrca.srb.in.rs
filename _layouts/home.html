@@ -9,33 +9,80 @@ layout: default
 
   {{ content }}
 
-  {%- if site.posts.size > 0 -%}
-    <h2 class="post-list-heading">{{ page.list_title | default: "Posts" }}</h2>
-    <ul class="post-list">
-      {%- for post in site.posts -%}
-      <li class="post-list-item">
-        {%- if post.image -%}
-          <a class="post-list-thumb" href="{{ post.url | relative_url }}">
-            <img class="post-list-image" src="{{ post.image | relative_url }}" alt="{{ post.title | escape }}">
-          </a>
-        {%- endif -%}
-        <div class="post-list-body">
-          {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
-          <span class="post-meta">{{ post.date | date: date_format }}</span>
-          <h3>
-            <a class="post-link" href="{{ post.url | relative_url }}">
-              {{ post.title | escape }}
-            </a>
-          </h3>
-          {%- if site.show_excerpts -%}
-            {{ post.excerpt }}
-          {%- endif -%}
-        </div>
-      </li>
-      {%- endfor -%}
-    </ul>
+  <header class="home-intro">
+    <span class="home-eyebrow">Izdvajamo iz ponude</span>
+    <h1>Najprodavanije u Švrći</h1>
+    <p>Provereni favoriti naših kupaca, na jednom mestu.</p>
+  </header>
 
-    <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | relative_url }}">via RSS</a></p>
-  {%- endif -%}
+  <div class="home-layout">
+    <main class="home-catalog" aria-label="Najprodavaniji artikli po kategorijama">
+      {% for category in site.data.home.categories %}
+      <section class="home-category">
+        <div class="home-category-heading">
+          <div>
+            <h2>{{ category.title }}</h2>
+            <p>{{ category.description }}</p>
+          </div>
+          <a href="{{ category.url | relative_url }}">Pogledaj sve <span aria-hidden="true">→</span></a>
+        </div>
+
+        <div class="home-product-grid">
+          {% for product in category.products %}
+            {% assign item = site.data.collections[product.collection][product.sku] %}
+            {% assign srb = item.srbobran | plus: 0 %}
+            {% assign fut = item.futog | plus: 0 %}
+            {% assign total_stock = srb | plus: fut %}
+            <a class="home-product-card" href="{{ product.url | relative_url }}">
+              <div class="home-product-image-wrap">
+                <img src="{{ product.image | relative_url }}" alt="{{ item.title | escape }}" loading="lazy">
+                {% if total_stock > 0 %}
+                  <span class="home-stock in-stock">Na stanju</span>
+                {% else %}
+                  <span class="home-stock out-of-stock">Proverite dostupnost</span>
+                {% endif %}
+              </div>
+              <div class="home-product-info">
+                <h3>{{ item.title }}</h3>
+                {% if item.price %}<strong>{{ item.price | round }} din.</strong>{% endif %}
+              </div>
+            </a>
+          {% endfor %}
+        </div>
+      </section>
+      {% endfor %}
+    </main>
+
+    {%- if site.posts.size > 0 -%}
+    <aside class="home-voice" aria-labelledby="svrca-na-glas-title">
+      <div class="home-voice-heading">
+        <span class="home-voice-mark" aria-hidden="true">”</span>
+        <div>
+          <span>Čitamo i preporučujemo</span>
+          <h2 id="svrca-na-glas-title">Švrća na glas</h2>
+        </div>
+      </div>
+      <div class="home-post-list">
+        {%- for post in site.posts limit: 4 -%}
+        <article class="home-post-item">
+          <a href="{{ post.url | relative_url }}">
+            {%- if post.image -%}
+              <img src="{{ post.image | relative_url }}" alt="" loading="lazy">
+            {%- endif -%}
+            <div>
+              <time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%d.%m.%Y." }}</time>
+              <h3>{{ post.title | escape }}</h3>
+              <span class="home-post-more">Pročitaj <span aria-hidden="true">→</span></span>
+            </div>
+          </a>
+        </article>
+        {%- endfor -%}
+      </div>
+      <a class="home-instagram-link" href="https://www.instagram.com/svrcanaglas/" rel="noopener noreferrer">
+        Pratite @svrcanaglas
+      </a>
+    </aside>
+    {%- endif -%}
+  </div>
 
 </div>
