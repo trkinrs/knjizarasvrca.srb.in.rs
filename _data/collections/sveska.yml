@@ -7,12 +7,12 @@
 12:
   title: SVESKA A/5 TP 80L
   price: 85.0
-  srbobran: 5
+  srbobran: 3
 13:
   title: SVESKA A/5 S
   price: 160.0
-  srbobran: 4
-  futog: 11
+  srbobran: 0
+  futog: 8
 17:
   title: SVESKA A/4 TP SC
   price: 215.0
@@ -24,7 +24,7 @@
 20:
   title: SVESKA A/4 60L
   price: 180.0
-  srbobran: 12
+  srbobran: 8
   futog: 43
 25:
   title: SVESKA A/4 60L
@@ -33,37 +33,38 @@
 27:
   title: SVESKA A/4 TP
   price: 320.0
-  srbobran: 21
-  futog: 14
+  srbobran: 48
+  futog: 18
 39:
   title: SVESKA A/4 TP SPEKTRA
   price: 270.0
-  srbobran: 35
-  futog: 28
+  srbobran: 61
+  futog: 25
 48:
   title: SVESKA A/5 52L
   price: 30.0
   srbobran: 3
 49:
-  title: SVESKA A/4 SNUPI
-  price: 190.0
-  srbobran: 0
+  title: SVESKA A/4 52L
+  price: 130.0
+  srbobran: 359
+  futog: 420
 486:
   title: SVESKA A/5 60L
   price: 90.0
-  srbobran: 18
+  srbobran: 15
   futog: 12
 490:
   title: SVESKA A/4 SC
 491:
   title: SVESKA A/5 SC
   price: 70.0
-  srbobran: 50
-  futog: 6
+  srbobran: 38
+  futog: 0
 494:
   title: SVESKA A/4 SC
   price: 170.0
-  srbobran: 18
+  srbobran: 13
   futog: 7
 496:
   title: SVESKA A/5  200L
@@ -89,8 +90,8 @@
 1803:
   title: SVESKA A/4 S
   price: 290.0
-  srbobran: 15
-  futog: 13
+  srbobran: 19
+  futog: 8
 1986:
   title: SVESKA A/6 OF
 2102:
@@ -109,17 +110,17 @@
 3646:
   title: SVESKA A/5 52L LATAJN/M
   price: 105.0
-  srbobran: 3
-  futog: 3
+  srbobran: 9
+  futog: 12
 3666:
   title: SVESKA A/5 SPORT/SNUPI
   price: 90.0
-  srbobran: 123
-  futog: 44
+  srbobran: 111
+  futog: 28
 3965:
   title: SVESKA A5 TP
   price: 75.0
-  srbobran: 43
+  srbobran: 37
   futog: 10
 3969:
   title: TO 2MM SC

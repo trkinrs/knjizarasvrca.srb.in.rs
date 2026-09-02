@@ -1,5 +1,5 @@
 ---
 layout: article
-title: BG-CITANKA 6
+title: BG-ČITANKA 6
 sku: 4432
 ---

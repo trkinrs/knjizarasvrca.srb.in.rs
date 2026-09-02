@@ -7,32 +7,32 @@
 163:
   title: RANAC PULSE JEANS
   price: 3350.0
-  srbobran: 1
+  srbobran: 0
 200:
   title: PERNICA SC JEDNODELNA
   price: 985.0
-  srbobran: 6
-  futog: 8
+  srbobran: 17
+  futog: 14
 202:
   title: 'PERNICA '
   price: 345.0
-  srbobran: 4
-  futog: 4
+  srbobran: 0
+  futog: 3
 204:
   title: PERNICA JEDNODELNA
   price: 875.0
   srbobran: 6
-  futog: 4
+  futog: 1
 208:
   title: PERNICA TTS
   price: 345.0
-  srbobran: 3
+  srbobran: 1
   futog: 3
 209:
   title: PERNICA DVODELNA PUNA
   price: 1095.0
-  srbobran: 4
-  futog: 4
+  srbobran: 3
+  futog: 5
 211:
   title: RANAC SC
   price: 3650.0
@@ -42,7 +42,7 @@
   title: RANAC 305-4 VRTIĆ
   price: 2160.0
   srbobran: 4
-  futog: 4
+  futog: 3
 221:
   title: RANAC SC
   price: 3210.0
@@ -51,17 +51,17 @@
 222:
   title: RANAC ANATOMSKI SC
   price: 4570.0
-  srbobran: 7
-  futog: 5
+  srbobran: 4
+  futog: 4
 362:
   title: PERNICA TRODELNA PUNA
   price: 1345.0
-  srbobran: 3
-  futog: 3
+  srbobran: 2
+  futog: 2
 488:
   title: PERNICA PRAZNA URBAN 2 ZIPA
   price: 530.0
-  futog: 1
+  futog: 0
 551:
   title: PERNICA OKRUGLA
   price: 650.0
@@ -70,7 +70,7 @@
 871:
   title: 'PERNICA PRAZNA 1 ZIP '
   price: 950.0
-  srbobran: 2
+  srbobran: 1
   futog: 4
 874:
   title: PERNICA TTS PUNA
@@ -79,11 +79,11 @@
 902:
   title: RANAC PULSE BABY
   price: 2685.0
-  srbobran: 1
+  srbobran: 0
 913:
   title: RANAC ANATOMSKI SC
   price: 3590.0
-  srbobran: 2
+  srbobran: 1
   futog: 1
 915:
   title: RANAC BODY SC
@@ -94,7 +94,7 @@
   title: PERNICA SA UŠIMA
   price: 845.0
   srbobran: 0
-  futog: 1
+  futog: 0
 1020:
   title: RANAC/TAŠNA DAMSKA
   price: 4015.0
@@ -109,9 +109,10 @@
   price: 3070.0
   srbobran: 1
 1241:
-  title: RANAC ANATOMSKI SC
-  price: 3495.0
-  srbobran: 0
+  title: RANAC ANATOMSKI BELMIL
+  price: 6720.0
+  srbobran: 2
+  futog: 3
 1254:
   title: PERNICA DVA FLIPA
   price: 570.0
@@ -119,7 +120,7 @@
 1346:
   title: PERNICA TG
   price: 670.0
-  srbobran: 1
+  srbobran: 0
 1533:
   title: TORBA DAMSKA
   price: 2350.0
@@ -127,16 +128,18 @@
   futog: 2
 1864:
   title: VU - DŽERONIMO STILTON
-  price: 999.0
-  srbobran: 15
+  price: 999.02
+  srbobran: 19
+  futog: 3
 1914:
   title: RANAC PULSE SCATE
   price: 6390.0
-  srbobran: 1
-1917:
-  title: RANAC SC
-  price: 2920.0
   srbobran: 0
+1917:
+  title: RANAC BELMIL
+  price: 6110.0
+  srbobran: 3
+  futog: 1
 1918:
   title: RANAC 338-82
   price: 6720.0
@@ -160,7 +163,7 @@
   title: RANAC PULSE SOLO
   price: 3490.0
   srbobran: 1
-  futog: 1
+  futog: 0
 2062:
   title: RANAC SC
   price: 2265.0
@@ -198,12 +201,12 @@
   title: 'SPORT TORBA '
   price: 680.0
   srbobran: 4
-  futog: 6
+  futog: 5
 2896:
   title: PERNICA EVA 3D
   price: 605.0
-  srbobran: 7
-  futog: 5
+  srbobran: 1
+  futog: 4
 2899:
   title: RANAC 3D SC
   price: 1990.0
@@ -221,7 +224,7 @@
 3150:
   title: PERNICA PLIS
   price: 710.0
-  srbobran: 1
+  srbobran: 0
 3308:
   title: PERNICA SLJOKICE
   price: 685.0
@@ -241,25 +244,17 @@
 3736:
   title: RANAC SUPER
   price: 3135.0
-  srbobran: 2
+  srbobran: 1
   futog: 1
 3852:
   title: TORBA SC
   price: 1290.0
   srbobran: 0
   futog: 1
-3855:
-  title: RANAC VRTIC
-  price: 2025.0
-  srbobran: 0
-3973:
-  title: PERNICA URBAN 2 ZIPA
-  price: 625.0
-  srbobran: 0
 3975:
   title: PERNICA URBAN 1 ZIP
   price: 735.0
-  srbobran: 1
+  srbobran: 0
   futog: 1
 4095:
   title: PERNICA BOMBONE

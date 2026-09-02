@@ -2,12 +2,12 @@
 41:
   title: UK PAPIR 2M
   price: 145.0
-  srbobran: 5
-  futog: 15
+  srbobran: 4
+  futog: 12
 180:
   title: UKRASNI PAPIR 2M
   price: 195.0
-  srbobran: 10
+  srbobran: 9
 244:
   title: UKRASNI PAPIR 2M
   price: 195.0
@@ -28,7 +28,7 @@
   title: UKRASNA KESA
   price: 175.0
   srbobran: 5
-  futog: 2
+  futog: 1
 253:
   title: UKRASNA KESA
   price: 140.0
@@ -41,7 +41,7 @@
 256:
   title: UKRASNA KESA
   price: 90.0
-  srbobran: 9
+  srbobran: 7
 260:
   title: UKRASNA KESA
   price: 210.0
@@ -57,7 +57,7 @@
 389:
   title: UKRASNA KESA
   price: 115.0
-  srbobran: 1
+  srbobran: 0
 410:
   title: UKRASNI PAPIR 2M
   price: 160.0
@@ -65,18 +65,18 @@
 424:
   title: UKRASNA KESA S
   price: 125.0
-  srbobran: 13
-  futog: 3
+  srbobran: 10
+  futog: 2
 428:
   title: UKRASNA KESA
   price: 120.0
   srbobran: 8
-  futog: 2
+  futog: 1
 451:
   title: UKRASNA KESA
   price: 180.0
-  srbobran: 9
-  futog: 7
+  srbobran: 7
+  futog: 5
 509:
   title: UKRASNA KESA
   price: 130.0
@@ -90,7 +90,7 @@
 1297:
   title: UKRASNA KESA
   price: 80.0
-  srbobran: 4
+  srbobran: 1
   futog: 1
 1513:
   title: UKRASNA KESA

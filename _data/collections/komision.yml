@@ -1,20 +1,23 @@
 ---
 38:
-  title: PP - ŽIVOTINJE U AFRICI
+  title: DS - ANIMALIJUM
   price: 199.0
   srbobran: 0
+  futog: 1
 47:
   title: PP - ŽIVOTINJE U MORU
   price: 199.0
   srbobran: 2
 78:
-  title: PP - ŽIVOTINJE U BAŠTI
+  title: DS - BAJKE ISKAKALICE -ALISA U ZEMLJI ČUDA
   price: 199.0
   srbobran: 0
+  futog: 1
 100:
-  title: PP - PTICE
+  title: DS - BAJKE ISKAKALICE - CRVENKAPA
   price: 199.0
   srbobran: 0
+  futog: 1
 128:
   title: PP - MUZIČKI INSTRUMENTI
   price: 199.0
@@ -36,22 +39,25 @@
   price: 199.0
   srbobran: 1
 217:
-  title: PP - VOĆE
+  title: DS - BAJKE ISKAKALICE - KRCKO ORAŠČIĆ
   price: 199.0
   srbobran: 0
+  futog: 1
 235:
-  title: PP - VOZIMO SE
+  title: DS - BOTANIKUM
   price: 199.0
   srbobran: 0
+  futog: 1
 242:
-  title: PP - ŽIVOTINJE U ŠUMI
+  title: DS - DINOSARIJUM
   price: 199.0
   srbobran: 0
+  futog: 1
 274:
   title: PP - UČIM DA PIŠEM ŠTAMPANA ĆIRILICA
   price: 260.0
   srbobran: 0
-  futog: 1
+  futog: 0
 275:
   title: PP - UČIM DA PIŠEM PISANA ĆIRILICA
   price: 260.0
@@ -86,12 +92,12 @@
   title: PP - MALA ŠKOLA V STEPEN
   price: 699.0
   srbobran: 0
-  futog: 1
+  futog: 0
 294:
   title: PP - MOJA VELIKA PREDŠKOLSKA KNJIGA
   price: 780.0
-  srbobran: 2
-  futog: 2
+  srbobran: 1
+  futog: 0
 295:
   title: PP - KNJIGA ZA DEČAKE SA VISE OD 1000 NALEPNICA
   price: 680.0
@@ -106,9 +112,10 @@
   price: 3490.0
   srbobran: 1
 298:
-  title: PP - VESELI MLADUNCI
+  title: DS - SPASIMO PLANETU - PAPIR
   price: 2790.0
   srbobran: 0
+  futog: 1
 303:
   title: PP - MOGU DA BRINEM O SVOM LJUBIMCU
   price: 249.0
@@ -128,9 +135,10 @@
   srbobran: 2
   futog: 2
 308:
-  title: PP - DOMAĆE ŽIVOTINJE
+  title: DS - SPASIMO PLANETU - PLASTIKA
   price: 300.0
   srbobran: 0
+  futog: 1
 309:
   title: PP - DRUŽINA ULIČNIH MAČORA
   price: 740.0
@@ -140,9 +148,10 @@
   price: 740.0
   srbobran: 1
 312:
-  title: 'PP - MONTESORI - OTKRIVANJE SVETA '
+  title: DS - SPASIMO PLANETU - RECIKLAŽA
   price: 880.0
   srbobran: 0
+  futog: 1
 313:
   title: PP - MONTESORI MATEMATIKA
   price: 880.0
@@ -232,7 +241,7 @@
   title: L - SEMPER IDEM - ĐORĐE LEBOVIĆ
   price: 1399.0
   srbobran: 1
-  futog: 0
+  futog: 2
 358:
   title: PP - CRTAJ I BOJI - JA VOLIM KUCE
   price: 599.0
@@ -250,7 +259,7 @@
   title: PP - MONTESORI U VRTIĆU 4-5
   price: 880.0
   srbobran: 0
-  futog: 2
+  futog: 1
 378:
   title: PP - MONTESORI U VRTIĆU 5-6
   price: 880.0
@@ -272,7 +281,7 @@
   title: PP - PIŠEM LATINICU
   price: 500.0
   srbobran: 0
-  futog: 1
+  futog: 0
 388:
   title: PP - TRAZI I PRONAĐI - ZEMLJA USKRŠNJEG ZEKE
   price: 499.0
@@ -322,7 +331,7 @@
   title: PP - PIŠEM ĆIRILICU
   price: 500.0
   srbobran: 0
-  futog: 1
+  futog: 0
 406:
   title: PP - MOJA PRVA BIBLIOTEKA - OSEĆANJA SASSI
   price: 1980.0
@@ -388,7 +397,7 @@
 435:
   title: L - SKRIVENA DEVOJKA - LUSINDA RAJLI
   price: 1299.0
-  srbobran: 1
+  srbobran: 0
   futog: 2
 436:
   title: PP - BEBA SE VOZI - AVION
@@ -479,12 +488,12 @@
   title: PP - PREVOZNA SREDSTVA - KARTONSKA SLIKOVNICA
   price: 299.0
   srbobran: 2
-  futog: 2
+  futog: 1
 489:
   title: PP - ZANIMANJA - KARTONSKA SLIKOVNICA
   price: 299.0
   srbobran: 1
-  futog: 2
+  futog: 1
 493:
   title: PP - GODIŠNJA DOBA - KARTONSKA SLIKOVNICA
   price: 299.0
@@ -525,7 +534,7 @@
   title: PP - MOJA PRVA KNJIGA TORBICA - FARMA
   price: 399.0
   srbobran: 0
-  futog: 2
+  futog: 1
 513:
   title: PP - MOJA PRVA KNJIGA TORBICA - ŽIVOTINJE
   price: 399.0
@@ -558,7 +567,7 @@
   title: PP - 100 ZADATAKA 5 GODINA
   price: 699.0
   srbobran: 0
-  futog: 2
+  futog: 1
 540:
   title: PP - IGRA SKRIVALICA - GDE JE LAV ?
   price: 1290.0
@@ -570,13 +579,13 @@
 542:
   title: PP - 100 ZADATAKA 2 GODINE
   price: 699.0
-  srbobran: 1
+  srbobran: 0
   futog: 1
 544:
   title: PP - BAJKA SA NALEPNICAMA - SNEŽANA I SEDAM PATULJAKA
   price: 699.0
   srbobran: 0
-  futog: 2
+  futog: 0
 549:
   title: PP - VELIKE MAŠINE - KOPAČI
   price: 399.0
@@ -590,12 +599,12 @@
 552:
   title: PP - VELIKE MAŠINE - KAMIONI
   price: 399.0
-  srbobran: 2
+  srbobran: 1
   futog: 0
 554:
   title: PP - VELIKE MAŠINE - TRAKTORI
   price: 399.0
-  srbobran: 2
+  srbobran: 1
   futog: 1
 557:
   title: L - ŽIVOTINJSKA FARMA - DŽORDŽ ORVEL
@@ -617,7 +626,7 @@
 566:
   title: L - SREĆA JE PITI ČAJ SA TOBOM - MAMEN SANČES
   price: 999.0
-  srbobran: 2
+  srbobran: 1
   futog: 0
 570:
   title: L - MAČAK KOJI JE SPASAO BIBLIOTEKU - SOSUKE NACUKAVA
@@ -635,9 +644,9 @@
   srbobran: 2
 577:
   title: L - DNEVNIK JEDNOG ČAROBNJAKA - PAULO KOELJO
-  price: 1199.0
-  srbobran: 2
-  futog: 2
+  price: 799.0
+  srbobran: 3
+  futog: 1
 579:
   title: L - NEPODNOŠLJIVA LAKOĆA POSTOJANJA - MILAN KUNDERA
   price: 1199.0
@@ -650,9 +659,9 @@
   futog: 2
 593:
   title: L - TRAGOVI ČUDA - NIKOLAS SPARKS
-  price: 1099.0
-  srbobran: 2
-  futog: 2
+  price: 1099.03
+  srbobran: 3
+  futog: 1
 600:
   title: L - PREŽIVETI SMRT - VESNA RADUSINOVIĆ
   price: 899.0
@@ -694,14 +703,14 @@
   futog: 2
 614:
   title: L - KLETVA - JELENA BAČIĆ ALIMPIĆ
-  price: 999.0
+  price: 999.02
   srbobran: 1
-  futog: 2
+  futog: 1
 617:
   title: L - KOFER IZ BERLINA - JELENA BAČIĆ ALIMPIĆ
-  price: 999.0
-  srbobran: 0
-  futog: 2
+  price: 1099.0
+  srbobran: 1
+  futog: 1
 623:
   title: L - OSTRVO STAKLA - TREJSI ŠEVALIJE
   price: 1199.0
@@ -769,12 +778,12 @@
 651:
   title: L - OJAČAJ SAMOPOUZDANJE - ŠTEFANI ŠTAL
   price: 999.0
-  srbobran: 2
+  srbobran: 1
   futog: 1
 652:
   title: L - HARIZMA CARA DUŠANA - KOSTA NIKOLIĆ
   price: 999.0
-  srbobran: 2
+  srbobran: 0
 653:
   title: L - ZAŠTO TAKO OZBILJNO ? - MAJK SINGER
   price: 1299.0
@@ -788,6 +797,7 @@
   title: L - HAJDUK IZ BEOGRADA - GRADIMIR STOJKOVIĆ
   price: 799.0
   srbobran: 1
+  futog: 1
 659:
   title: L - HAJDUK NA DUNAVU - GRADIMIR STOJKOVIĆ
   price: 799.0
@@ -852,7 +862,7 @@
 701:
   title: L - MEDA ČEDA - MALI BAŠTOVAN
   price: 999.0
-  srbobran: 1
+  srbobran: 0
 702:
   title: L - MEDA ČEDA - U PARKIĆU
   price: 999.0
@@ -929,7 +939,7 @@
 738:
   title: L - BRIDŽET DŽOUNS - LUDA ZA NJIM - HELEN FILDING
   price: 1099.0
-  srbobran: 2
+  srbobran: 1
   futog: 2
 739:
   title: L - KAROTA - DARKO TUŠEVLJAKOVIĆ
@@ -1012,7 +1022,7 @@
   title: PP - UČIMO S LJUBAVLJU - NAUČIĆU DA DELIM!
   price: 299.0
   srbobran: 2
-  futog: 2
+  futog: 1
 764:
   title: PP - UČIMO S LJUBAVLJU - BIĆU DOBAR!
   price: 299.0
@@ -1031,7 +1041,7 @@
   title: PP - 100 ZADATAKA 6 GODINA
   price: 699.0
   srbobran: 1
-  futog: 2
+  futog: 1
 768:
   title: PP - IZBROJ I NAUČI + TRAŽI I PRONAĐI - ZANIMANJA
   price: 699.0
@@ -1068,7 +1078,8 @@
 781:
   title: 'VU - BOOKMAKRKERI '
   price: 110.0
-  srbobran: 47
+  srbobran: 37
+  futog: 20
 783:
   title: VU - MINUT PRIČA ZA LAKU NOĆ
   price: 999.0
@@ -1155,7 +1166,7 @@
 810:
   title: L - DA JE BOLJE, NE BI VALJALO - BOJAN LJUBENOVIĆ
   price: 1099.0
-  srbobran: 1
+  srbobran: 0
   futog: 2
 811:
   title: L - NIŠTA NIJE SMEŠNO - BOJAN LJUBENOVIĆ
@@ -1164,7 +1175,7 @@
 812:
   title: L - SRBIJO BOG TI POMOGO - BOJAN LJUBENOVIĆ
   price: 1099.0
-  srbobran: 2
+  srbobran: 1
   futog: 2
 813:
   title: L - AZBUKA MOG ŽIVOTA - MIRJANA BOBIĆ MOJSILOVIĆ
@@ -1179,7 +1190,7 @@
 815:
   title: L - GOSPODIN POGREŠNI - MIRJANA BOBIĆ MOJSILOVIĆ
   price: 1099.0
-  srbobran: 2
+  srbobran: 1
   futog: 2
 816:
   title: L - MUŠKA AZBUKA - MIRJANA BOBIĆ MOJSILOVIĆ
@@ -1246,7 +1257,7 @@
   title: L - MACA NA RECEPT - SO IŠIDA
   price: 999.0
   srbobran: 0
-  futog: 1
+  futog: 2
 837:
   title: L - LOVAC NA ZMAJEVE - HALED HOSEINI
   price: 999.0
@@ -1255,8 +1266,8 @@
 838:
   title: L - HILJADU ČUDESNIH SUNACA - HALED HOSEINI
   price: 999.0
-  srbobran: 1
-  futog: 2
+  srbobran: 0
+  futog: 1
 841:
   title: L - A PLANINE ODJEKNUŠE - HALED HOSEINI
   price: 1099.0
@@ -1359,7 +1370,7 @@
 1395:
   title: KC - 32 IGRE ZA SVAKO DETE
   price: 880.0
-  futog: 0
+  futog: 1
 1397:
   title: PP - IGRA SKRIVALICA - GDE JE LAV ?
   price: 1290.0
@@ -1375,7 +1386,7 @@
 1402:
   title: VU - SEĆANJA V
   price: 999.0
-  srbobran: 1
+  srbobran: 0
 1404:
   title: KC - ARTUR I ZLATNO UŽE
   price: 1000.01
@@ -1426,7 +1437,7 @@
   srbobran: 1
 1427:
   title: KC - BOJE U PRIRODI
-  price: 820.01
+  price: 950.0
   futog: 1
 1428:
   title: KC - BOLNICA - MALI ISTRAŽIVAČI
@@ -1442,8 +1453,8 @@
   futog: 1
 1434:
   title: KC - CIPELA NA KRAJU SVETA
-  price: 590.0
-  futog: 2
+  price: 650.0
+  futog: 1
 1436:
   title: KC - CRNE PRIČE - GREŠKE EPSKIH RAZMERA
   price: 1100.01
@@ -1454,7 +1465,7 @@
   futog: 1
 1438:
   title: KC - CRVENCI I PLAVCI
-  price: 950.02
+  price: 1050.0
   futog: 1
 1439:
   title: KC - CRVENKAPA - ZVUČNA KNJIGA
@@ -1479,7 +1490,7 @@
 1444:
   title: KC - ČUDOVIŠTA KOJA SU VOLELA PICU
   price: 500.01
-  futog: 0
+  futog: 1
 1446:
   title: KC - ČUDOVIŠTE U ZEKINOJ ŠUMI
   price: 650.01
@@ -1514,7 +1525,7 @@
   futog: 1
 1483:
   title: KC - DEDA TRIŠIN MLIN
-  price: 900.0
+  price: 990.0
   futog: 1
 1484:
   title: VU - JA TO MOGU
@@ -1526,7 +1537,7 @@
   futog: 1
 1488:
   title: KC - DOBRI SUSEDI
-  price: 650.01
+  price: 750.0
   futog: 1
 1489:
   title: KC - DOŽIVLJAJI MAČKA TOŠE
@@ -1535,10 +1546,10 @@
 1490:
   title: KC - DUH DULE I DETEKTIVKA SARA
   price: 500.01
-  futog: 0
+  futog: 1
 1492:
   title: KC - DRUGARSTVO
-  price: 650.01
+  price: 750.0
   futog: 1
 1494:
   title: KC - DUH DULE KREĆE U ŠKOLU
@@ -1563,7 +1574,7 @@
   futog: 1
 1503:
   title: KC - FINDUS SE SELI
-  price: 850.01
+  price: 1050.0
   futog: 1
 1504:
   title: KC - FUDBAL ZA DOVITLJIVE
@@ -1583,7 +1594,7 @@
   futog: 0
 1509:
   title: KC - GOSPODIN OLIVER
-  price: 650.01
+  price: 800.0
   futog: 1
 1510:
   title: KC - GRADILIŠTE - MALI ISTRAŽIVAČI
@@ -1592,14 +1603,14 @@
 1512:
   title: KC - GRAMATIKA SRPSKOG JEZIKA ZA OSNOVNU
   price: 990.01
-  futog: 0
+  futog: 1
 1514:
   title: KC - GROZON
-  price: 950.02
+  price: 1050.0
   futog: 1
 1520:
   title: KC - GUŽVA NA METLI
-  price: 950.02
+  price: 1050.0
   futog: 1
 1522:
   title: KC - HRABROST
@@ -1646,8 +1657,8 @@
 1545:
   title: PP - DRUGARI SE SKRIVAJU - DŽUNGLA
   price: 299.0
-  srbobran: 2
-  futog: 2
+  srbobran: 1
+  futog: 1
 1546:
   title: PP - DRUGARI SE SKRIVAJU - OKEAN
   price: 299.0
@@ -1692,7 +1703,7 @@
   title: PP - OVAKO MI - IDEMO NA NOŠU
   price: 1080.01
   srbobran: 2
-  futog: 2
+  futog: 1
 1555:
   title: PP - OVAKO MI - PEREMO ZUBE
   price: 1080.01
@@ -1761,7 +1772,7 @@
 1572:
   title: PP - 100 CRTEŽA - FARMA
   price: 399.01
-  srbobran: 2
+  srbobran: 0
   futog: 2
 1573:
   title: PP - 100 CRTEŽA - MOJE PRVE REČI
@@ -1796,7 +1807,7 @@
 1579:
   title: PP - DRUGARI ŽIVOTINJE - KUCA I DRUGARI
   price: 399.01
-  srbobran: 2
+  srbobran: 1
   futog: 2
 1580:
   title: PP - MALI DRUGARI - BROD
@@ -1806,7 +1817,7 @@
 1581:
   title: PP - MALI DRUGARI - AUTO
   price: 299.0
-  srbobran: 2
+  srbobran: 1
   futog: 1
 1582:
   title: PP - MALI DRUGARI - VATROGASCI
@@ -1857,7 +1868,7 @@
   title: PP - MALI DRUGARI - JEDNOROG
   price: 299.0
   srbobran: 2
-  futog: 1
+  futog: 0
 1592:
   title: PP - MALE BAJKE - PEPELJUGA
   price: 299.0
@@ -1866,7 +1877,7 @@
 1593:
   title: KC - IGRA MEMORIJE
   price: 1600.02
-  futog: 1
+  futog: 0
 1594:
   title: PP - MALE BAJKE - PRINCEZA I ŽABAC
   price: 299.0
@@ -1881,7 +1892,7 @@
   title: PP - MALE BAJKE - CRVENKAPA
   price: 299.0
   srbobran: 1
-  futog: 1
+  futog: 0
 1597:
   title: PP - MALE BAJKE - ALADIN
   price: 299.0
@@ -1952,7 +1963,7 @@
   futog: 1
 1626:
   title: KC - JADNI PETSON
-  price: 850.01
+  price: 1050.0
   futog: 1
 1627:
   title: KC - JEDNA MAČKA, DVE MAČKE
@@ -1964,7 +1975,7 @@
   futog: 1
 1634:
   title: KC - JEŽEVA KUĆICA
-  price: 890.0
+  price: 990.0
   futog: 1
 1638:
   title: KC - KAD PORASTEM - MALI ISTRAŽIVAČI
@@ -1997,15 +2008,15 @@
 1655:
   title: KC - KAKO JE DUHA DULETA GRICNULA SAVEST
   price: 500.01
-  futog: 0
+  futog: 1
 1656:
   title: KC - KAKO SE MALI FINDUS IZGUBIO
-  price: 850.01
+  price: 1050.0
   futog: 1
 1657:
   title: KC - KAŽI "TETI" DOBAR DAN
-  price: 440.01
-  futog: 1
+  price: 650.01
+  futog: 2
 1658:
   title: KC - KIT SA TREGERIMA
   price: 980.01
@@ -2040,15 +2051,15 @@
   futog: 1
 1676:
   title: KC - KO TO RASTE NA SELU ?
-  price: 820.01
+  price: 950.0
   futog: 1
 1677:
   title: KC - KO ŽIVI U DŽUNGLI ?
-  price: 820.01
+  price: 950.0
   futog: 1
 1678:
   title: KC - KOGA SE TIČE KAKO ŽIVE PRIČE ?
-  price: 720.01
+  price: 950.0
   futog: 1
 1679:
   title: KC - KOMPLETNA KNJIGA O ŠAHU
@@ -2072,19 +2083,19 @@
   futog: 1
 1690:
   title: KC - LEPO PONAŠANJE- ŠTA SVE ANA ZNA
-  price: 650.0
+  price: 750.0
   futog: 1
 1691:
   title: KC - LETO KADA SAM NAUČILA DA LETIM
-  price: 950.01
-  futog: 1
+  price: 950.02
+  futog: 2
 1692:
   title: KC - LOGIČKE ZAVRZLAME
   price: 1100.01
   futog: 1
 1700:
   title: KC - LOV NA LISICU
-  price: 850.01
+  price: 1050.0
   futog: 1
 1701:
   title: KC - LOV NA TAK-TAK-TAK
@@ -2092,7 +2103,7 @@
   futog: 1
 1703:
   title: KC - LJUTITO MEČE
-  price: 890.0
+  price: 990.0
   futog: 1
 1710:
   title: KC - MAČAK U ČIZMAMA
@@ -2101,7 +2112,7 @@
 1716:
   title: KC - MALA VEŽBANKA ZA PREDŠKOLCE 5-6 GODINA
   price: 720.01
-  futog: 0
+  futog: 1
 1723:
   title: KC - MALA VEŽBANKA ZA PREDŠKOLCE 6-7 GODINA
   price: 720.01
@@ -2112,11 +2123,11 @@
   futog: 1
 1728:
   title: KC - MAMA MU ČITA
-  price: 950.02
+  price: 1050.0
   futog: 1
 1730:
   title: KC - MAMA MU SE POVREDILA
-  price: 950.02
+  price: 1050.0
   futog: 1
 1737:
   title: KC - MARSI I ZAGONETKE SFINGE - RIZNICA MITOVA PORODICE BRAUNSTON
@@ -2125,7 +2136,7 @@
 1738:
   title: KC - MATEMATIČKA VRTEŠKA
   price: 1200.01
-  futog: 1
+  futog: 0
 1739:
   title: KC - MATEMATIČKI KVIZIĆI ZA PREDŠKOLCE
   price: 1100.01
@@ -2136,12 +2147,12 @@
   futog: 1
 1770:
   title: KC - MIŠKO I PUNDRAVCI
-  price: 330.0
+  price: 440.0
   futog: 1
 1771:
   title: KC - MIŠKO LJUTKO
-  price: 330.0
-  futog: 1
+  price: 440.01
+  futog: 2
 1778:
   title: VU - ATLAS ZASTAVA
   price: 899.0
@@ -2152,20 +2163,20 @@
   srbobran: 0
 1781:
   title: KC - MIŠKO NEĆEJED
-  price: 330.0
+  price: 440.0
   futog: 1
 1782:
   title: KC - MIŠKO PIŠKO
-  price: 330.0
+  price: 440.0
   futog: 1
 1784:
   title: KC - MIŠKO PLAŠLJIVKO
-  price: 330.0
-  futog: 1
+  price: 440.01
+  futog: 2
 1785:
   title: KC - MIŠKO STIDLJIVKO
-  price: 330.0
-  futog: 1
+  price: 440.01
+  futog: 2
 1787:
   title: KC - MOJ DEKA JE BIO TREŠNJA
   price: 650.01
@@ -2192,7 +2203,7 @@
   futog: 1
 1799:
   title: KC - MOJA NAJBOLJA FUDBALSKA UTAKMICA ZAMALO
-  price: 700.0
+  price: 800.0
   futog: 1
 1800:
   title: KC - MOJA PRVA IGRA MEMORIJE - ŽIVOTINJE
@@ -2213,7 +2224,7 @@
   futog: 1
 1805:
   title: KC - MOJA PRVA PROFI FUDBALSKA UTAKMICA ZAMALO
-  price: 700.0
+  price: 800.0
   futog: 1
 1806:
   title: KC - MOJA PRVA SLAGALICA - VELIKE ŽIVOTINJE
@@ -2230,7 +2241,7 @@
 1811:
   title: KC - MOJE PRVE SLIKOVNICE - VELIKE ŽIVOTINJE
   price: 1300.01
-  futog: 0
+  futog: 1
 1812:
   title: KC - MOJI PRVI MIRISI - MOJA KNJIGA MIRISA I BOJA
   price: 1200.01
@@ -2274,7 +2285,7 @@
   futog: 1
 1861:
   title: KC - NOVA GODINA - ŠTA SVE ANA ZNA
-  price: 650.01
+  price: 750.0
   futog: 1
 1862:
   title: KC - NOVA GODINA U ZEKINOJ ŠUMI
@@ -2287,19 +2298,20 @@
 1867:
   title: KC - O MAČKAMA, NOTAMA I BUBAMA
   price: 700.0
-  futog: 0
+  futog: 2
 1868:
   title: KC - O SAOBRAĆAJU - ŠTA SVE ANA ZNA
-  price: 650.01
+  price: 750.0
   futog: 1
 1869:
   title: KC - O SPORTU - ŠTA SVE ANA ZNA
-  price: 650.01
+  price: 750.0
   futog: 1
 1870:
   title: VU - DŽERONIMO STILTON
-  price: 899.0
-  srbobran: 4
+  price: 899.02
+  srbobran: 6
+  futog: 2
 1871:
   title: VU - DŽERONIMO STILTON
   price: 1399.0
@@ -2314,7 +2326,7 @@
   srbobran: 2
 1875:
   title: KC - O SREĆI - ŠTA SVE ANA ZNA
-  price: 650.01
+  price: 750.0
   futog: 1
 1876:
   title: VU - DNEVNIK MOJIH TAJNI
@@ -2322,15 +2334,15 @@
   srbobran: 0
 1877:
   title: VU - ISIDORA MUN
-  price: 799.0
-  srbobran: 7
+  price: 799.01
+  srbobran: 6
 1879:
   title: KC - OD ČITANJA SE RASTE
   price: 650.01
   futog: 2
 1880:
   title: KC - OGLASI - ŠUMSKIH NOVINA
-  price: 900.0
+  price: 990.0
   futog: 1
 1881:
   title: KC - OLGA I SVEMIRSKO PUTOVANJE
@@ -2362,8 +2374,8 @@
   futog: 1
 1893:
   title: VU - JEDNOGRAD
-  price: 799.0
-  srbobran: 2
+  price: 799.01
+  srbobran: 3
 1894:
   title: VU - KARTE
   price: 499.0
@@ -2427,14 +2439,14 @@
 1915:
   title: KC - MOJE ČUDESNO TELO - MALI ISTRAŽIVAČI
   price: 1450.01
-  futog: 0
+  futog: 1
 1916:
   title: KC - PETSON KAMPUJE
-  price: 850.01
+  price: 1050.0
   futog: 1
 1920:
   title: KC - PETSON SLAVI BOŽIĆ
-  price: 850.01
+  price: 1050.0
   futog: 1
 1921:
   title: KC - PETSONOVE I FINDUSOVE MOZGALICE - SLOVA I REČI
@@ -2443,14 +2455,14 @@
 1922:
   title: KC - PIP I POZI BRZI TROTINET
   price: 990.01
-  futog: 1
+  futog: 0
 1923:
   title: KC - PIP I POZI IGRAČKA ZA SPAVANJE
-  price: 990.01
+  price: 1050.0
   futog: 1
 1924:
   title: KC - PIP I POZI - STRAŠNO ČUDOVIŠTE
-  price: 990.01
+  price: 1050.0
   futog: 1
 1925:
   title: KC - PLANETA ZEMLJA - LAVIRINTI
@@ -2459,10 +2471,10 @@
 1926:
   title: KC - PODVODN SVET - MALI ISTRAŽIVAČI
   price: 1450.01
-  futog: 0
+  futog: 1
 1928:
   title: KC - POLAZAK U ŠKOLU - ŠTA SVE ANA ZNA
-  price: 650.01
+  price: 750.0
   futog: 1
 1930:
   title: VU - KLASICI SK ZA DECU
@@ -2486,11 +2498,11 @@
   futog: 1
 1946:
   title: KC - PRUGASTI PRLE
-  price: 950.02
-  futog: 0
+  price: 1050.01
+  futog: 2
 1949:
   title: KC - PRUTKO
-  price: 950.02
+  price: 1050.0
   futog: 1
 1951:
   title: KC - PRVA SAZNANJA - SELO
@@ -2502,11 +2514,11 @@
   futog: 1
 1953:
   title: KC - PUŽ MOREM SKITA NA REPU KITA
-  price: 950.02
-  futog: 1
+  price: 1050.01
+  futog: 2
 1954:
   title: KC - RADOZNALO VRAPČE
-  price: 900.0
+  price: 990.0
   futog: 1
 1956:
   title: KC - REČNIK VRLINA
@@ -2530,8 +2542,8 @@
   srbobran: 0
 1962:
   title: VU - KLASICI SK ZA DECU
-  price: 899.0
-  srbobran: 2
+  price: 899.02
+  srbobran: 3
 1964:
   title: PP - MOJA PRVA KNJIGA SA NALEPNICAMA - SAVANA
   price: 299.0
@@ -2587,12 +2599,12 @@
   futog: 1
 1978:
   title: KC - ŠTA JE NOVO SAZNALA BUBAMARA ?
-  price: 950.02
+  price: 1050.0
   futog: 1
 1979:
   title: KC - ŠTA JE SAZNALA BUBAMARA ?
-  price: 950.02
-  futog: 1
+  price: 1050.0
+  futog: 0
 1980:
   title: VU - MALA VREDNICA
   price: 799.0
@@ -2635,7 +2647,7 @@
   futog: 1
 1999:
   title: KC - SUPERGLISTA
-  price: 950.02
+  price: 1050.0
   futog: 1
 2000:
   title: KC - SVE JE U REDU
@@ -2677,7 +2689,7 @@
   futog: 1
 2037:
   title: KC - U KUĆI - ŠTA SVE ANA ZNA
-  price: 650.01
+  price: 750.0
   futog: 1
 2039:
   title: KC - PRVA SAZNANJA - DINOSAURI
@@ -2698,11 +2710,11 @@
   futog: 1
 2057:
   title: KC - U VRTIĆU - ŠTA SVE ANA ZNA
-  price: 650.01
+  price: 750.0
   futog: 1
 2063:
   title: 'KC - VAŠAR U STRMOGLAVCU '
-  price: 900.0
+  price: 990.0
   futog: 1
 2065:
   title: KC - VATROGASCI - MALI ISTRAŽIVAČI
@@ -2730,15 +2742,15 @@
   futog: 1
 2094:
   title: KC - ZAGONETKE NA SVIM SPRATOVIMA 2
-  price: 1100.01
+  price: 1200.0
   futog: 1
 2097:
   title: KC - ZAGONETKE NA SVIM SPRATOVIMA 4 - KOSMOS I GDESMOS
-  price: 1100.01
+  price: 1200.0
   futog: 1
 2098:
   title: KC - ZAGONETKE NA SVIM SPRATOVIMA
-  price: 1100.01
+  price: 1200.0
   futog: 1
 2099:
   title: KC - ZAGONETKE ZA PREDŠKOLCE
@@ -2746,7 +2758,7 @@
   futog: 1
 2100:
   title: KC - ZAGONETKE NA SVIM SPRATOVIMA - DOBRO DOŠLI U MACOGRAD!
-  price: 1050.01
+  price: 1200.0
   futog: 1
 2103:
   title: VU - MALI UMETNICI
@@ -2754,7 +2766,7 @@
   srbobran: 1
 2106:
   title: KC - ZAGONETKE NA SVIM SPRATOVIMA U ZEMLJI BAJKI
-  price: 1050.01
+  price: 1200.0
   futog: 1
 2108:
   title: VU - OBOJ SUNĐERIMA
@@ -2807,15 +2819,15 @@
   futog: 1
 2131:
   title: KC - ZBUNJENO MAJMUNČE
-  price: 950.02
-  futog: 1
+  price: 1050.02
+  futog: 2
 2132:
   title: KC - ZDRAV ŽIVOT - ŠTA SVE ANA ZNA
-  price: 650.01
+  price: 750.0
   futog: 1
 2133:
   title: KC - ZDRAVA HRANA - ŠTA SVE ANA ZNA
-  price: 650.01
+  price: 750.0
   futog: 1
 2134:
   title: KC - ZELENBABINI DAROVI
@@ -2829,7 +2841,7 @@
   title: PP - BAJKA SA NALEPNICAMA - CRVENKAPA
   price: 299.0
   srbobran: 1
-  futog: 1
+  futog: 0
 2137:
   title: KC - ŽIVOTINJE SE KUPAJU - ČAROBNO KUPANJE
   price: 960.01
@@ -2865,7 +2877,7 @@
   futog: 1
 2149:
   title: KC - ZOG
-  price: 950.02
+  price: 1050.0
   futog: 1
 2150:
   title: VU - MOJA MALENA BOJANKA
@@ -2882,7 +2894,7 @@
 2154:
   title: VU - MOJA PRVA KNJIGA O ŽIVOTINJAMA
   price: 499.0
-  srbobran: 1
+  srbobran: 0
 2157:
   title: VU - MOJA KNJIGA SA NALEPNICAMA
   price: 299.0
@@ -2917,7 +2929,7 @@
   title: PP - MOJA PRVA KNJIGA SA NALEPNICAMA - FARMA
   price: 299.0
   srbobran: 1
-  futog: 2
+  futog: 1
 2172:
   title: PP - MOJA PRVA KNJIGA SA NALEPNICAMA - PRINCEZE
   price: 299.0
@@ -2957,8 +2969,8 @@
   srbobran: 4
 2216:
   title: VU - TEA STILTON
-  price: 1399.0
-  srbobran: 3
+  price: 1399.02
+  srbobran: 5
 2220:
   title: VU - TESTOVI ZA MALISANE
   price: 999.0
@@ -3062,9 +3074,10 @@
   srbobran: 0
   futog: 1
 2265:
-  title: VU - VELIKA BOJANKA PUNA
-  price: 499.0
-  srbobran: 0
+  title: VU - VELIKA BOJANKA
+  price: 699.01
+  srbobran: 4
+  futog: 3
 2266:
   title: VU - KNJIGA PUNA ZABAVE ZA PUTOVANJA
   price: 699.0
@@ -3096,7 +3109,7 @@
 2277:
   title: VU - DEVOJKA IZ BRUKLINA - AKCIJA
   price: 399.0
-  futog: 1
+  futog: 0
 2278:
   title: VU - DEVOJKA IZ VOZA - AKCIJA
   price: 399.0
@@ -3138,7 +3151,7 @@
   title: VU - LOVAC NA DUŠE - AKCIJA
   price: 999.0
   srbobran: 0
-  futog: 1
+  futog: 0
 2290:
   title: VU - MALA PLAŠLJIVICA
   price: 799.0
@@ -3229,9 +3242,10 @@
   price: 349.0
   srbobran: 1
 2312:
-  title: VU - ZABAVNI KVIZ
-  price: 599.0
-  srbobran: 2
+  title: VU - ZABAVNI KVIZ ZA MALIŠANE
+  price: 599.03
+  srbobran: 6
+  futog: 4
 2313:
   title: VU - MOJA PRVA PIŠI-BRIŠI KNJIGA - OBLICI I VELIČINE - AKCIJA
   price: 299.0
@@ -3277,15 +3291,18 @@
 2324:
   title: L - ČOVEK PO IMENU UVE - FREDRIK BAKMAN
   price: 1199.0
-  futog: 2
+  srbobran: 1
+  futog: 1
 2325:
   title: L - CRNCI U FIRENCI - VEDRANA RUDAN
   price: 899.0
-  futog: 2
+  srbobran: 1
+  futog: 1
 2326:
   title: L - CRVENI ŠATOR - ANITA DAJAMANT
   price: 999.02
-  futog: 2
+  srbobran: 1
+  futog: 1
 2327:
   title: L - CRVENO I CRNO - STENDAL
   price: 1499.01
@@ -3325,7 +3342,8 @@
 2336:
   title: L - DEVOJČICA NA LITICI - LUSINDA RAJLI
   price: 1299.03
-  futog: 2
+  srbobran: 1
+  futog: 1
 2337:
   title: L - DIJALOG O ZLU I DOBRU - ZLATA I ĐORĐE LEBOVIĆ
   price: 899.0
@@ -3333,7 +3351,8 @@
 2338:
   title: L - DNEVNIK JEDNE KURTIZANE - KIJOKO MURATA
   price: 899.0
-  futog: 2
+  srbobran: 1
+  futog: 1
 2339:
   title: L - DNEVNIK JEDNOG ČAROBNJAKA - MEK POVEZ - PAULJO KOELJO
 2340:
@@ -3391,7 +3410,8 @@
 2354:
   title: L - GOSPOĐA - E L DŽEJMS
   price: 1299.03
-  futog: 2
+  srbobran: 1
+  futog: 1
 2355:
   title: L - GOSPOĐA DALOVEJ - VIRDŽINIJA VULF
   price: 799.0
@@ -3415,7 +3435,8 @@
 2360:
   title: L - GREJ - E L DŽEJMS
   price: 1299.03
-  futog: 2
+  srbobran: 1
+  futog: 1
 2361:
   title: L - GREŠNIK - VREME ZLA 1 - DOBRICA ĆOSIĆ
   price: 1099.0
@@ -3451,7 +3472,8 @@
 2369:
   title: L - IGRA PRESTOLA - DŽORDŽM R.R. MARTIN
   price: 1299.03
-  futog: 2
+  srbobran: 1
+  futog: 1
 2370:
   title: L - ISTANBULSKO KOPILE - ELIF ŠAFAK
   price: 1099.0
@@ -3527,19 +3549,23 @@
 2388:
   title: L - KAZNA ZA GREH I - NOĆ KADA SU DOŠLI SVATOVI - JELENA BAČIĆ ALIMPIĆ
   price: 1099.0
-  futog: 2
+  srbobran: 1
+  futog: 1
 2389:
   title: L - KAZNA ZA GREH II - KNJIGA USPOMENA - JELENA BAČIĆ ALIMPIĆ
   price: 1099.0
-  futog: 2
+  srbobran: 1
+  futog: 1
 2390:
   title: L - KAZNA ZA GREH III - MOLITVA ZA OPROŠTAJ - JELENA BAČIĆ ALIMPIĆ
   price: 1099.0
-  futog: 2
+  srbobran: 1
+  futog: 1
 2391:
   title: L - KĆERI CVEĆA - TESA KOLINS
   price: 1199.02
-  futog: 2
+  srbobran: 1
+  futog: 1
 2392:
   title: L - KINA I - EDVARD RADERFURD
   price: 1499.01
@@ -3599,11 +3625,12 @@
 2406:
   title: L - KRADLJIVICA KNJIGA - MARKUS ZUSAK
   price: 1099.03
-  futog: 2
+  futog: 1
 2407:
   title: L - KROJAČ - JELENA BAČIĆ ALIMPIĆ
-  price: 1099.0
-  futog: 1
+  price: 1099.02
+  srbobran: 0
+  futog: 0
 2408:
   title: L - KRV NA SNEGU - JU NESBE
   price: 699.0
@@ -3647,7 +3674,8 @@
 2418:
   title: L - LJUBAV NA POSLEDNJI POGLED - VEDRANA RUDAN
   price: 999.0
-  futog: 2
+  srbobran: 1
+  futog: 1
 2419:
   title: L - LJUBAVNO PISMO - LUSINDA RAJLI
   price: 1299.03
@@ -3698,6 +3726,8 @@
   title: L - MAMA VILA I JA - SOFI KINSELA
 2432:
   title: L - MEDVEDGRAD - FREDRIK BAKMAN
+  price: 1199.02
+  futog: 1
 2433:
   title: L - MENSFILD PARK - DŽEJN OSTIN
   price: 1099.0
@@ -3725,7 +3755,8 @@
 2439:
   title: L - MOJA BAKA VAM SE IZVINJAVA- FREDRIK BAKMAN
   price: 1199.0
-  futog: 2
+  srbobran: 0
+  futog: 1
 2441:
   title: L - MOLITVA NA MORU - HALED HOSEINI
 2442:
@@ -3735,7 +3766,7 @@
 2443:
   title: 'VU - OBOJ ŽIVOTINJE : NILSKI KONJ'
   price: 349.0
-  srbobran: 1
+  srbobran: 0
 2444:
   title: VU - NA VEČERI SA UBICOM
   price: 499.0
@@ -3755,7 +3786,8 @@
 2448:
   title: L - MRAČNIJE - E L DŽEJMS
   price: 1299.03
-  futog: 2
+  srbobran: 1
+  futog: 1
 2449:
   title: L - MRAVAC MRAV - JELICA GREGANOVIĆ
   price: 699.0
@@ -3763,7 +3795,8 @@
 2450:
   title: L - MUŠKARAC U GRLU - VEDRANA RUDAN
   price: 999.0
-  futog: 2
+  srbobran: 1
+  futog: 1
 2451:
   title: L - MUŠKARAC U IZVESNIM GODINAMA - DOPUNJENO IZDANJE - VANJA BULIĆ
   price: 899.0
@@ -3787,15 +3820,18 @@
 2456:
   title: L - NEKI DRUGI ŽIVOT - JELENA BAČIĆ ALIMPIĆ
   price: 1099.0
-  futog: 2
+  srbobran: 1
+  futog: 1
 2457:
   title: L - NIGDE NEMA TE - JELENA BAČIĆ ALIMPIĆ
   price: 1099.0
-  futog: 2
+  srbobran: 1
+  futog: 1
 2458:
   title: L - NISAM KRIVA - JELENA BAČIĆ ALIMPIĆ
   price: 1099.0
-  futog: 2
+  srbobran: 1
+  futog: 1
 2459:
   title: L - NIŠTA NAS NE SMIJE IZNENADITI - ANTE TOMIĆ
   price: 899.0
@@ -3803,7 +3839,8 @@
 2460:
   title: L - NJEGOVE BELE RUKAVICE - JELENA BAČIĆ ALIMPIĆ
   price: 1099.0
-  futog: 2
+  srbobran: 1
+  futog: 1
 2461:
   title: L - NORTENGERSKA OPATIJA - DŽEJN OSTIN
   price: 999.0
@@ -3853,7 +3890,8 @@
 2476:
   title: L - OSLOBOĐENI - E L DŽEJMS
   price: 1799.0
-  futog: 2
+  srbobran: 1
+  futog: 1
 2477:
   title: L - OSTRVO NESTALOG DRVEĆA - ELIF ŠAFAK
   price: 1399.0
@@ -3881,20 +3919,22 @@
 2484:
   title: L - OVAJ PUT BIRAM SEBE - DIZGRAM
   price: 899.0
-  futog: 2
+  srbobran: 1
+  futog: 1
 2485:
   title: L - OŽILJCI ŽIVOTA - VUK DRAŠKOVIĆ
   price: 1399.03
   futog: 2
 2486:
   title: L - PEDESET NIJANSI MRAČNIJE - E L DŽEJMS
-  price: 90.0
-  srbobran: 0
-  futog: 2
+  price: 1299.03
+  srbobran: 1
+  futog: 1
 2487:
   title: L - PEDESET NIJANSI SIVA - E L DŽEJMS
   price: 1199.02
-  futog: 2
+  srbobran: 1
+  futog: 1
 2488:
   title: L - PETA GORA - MEK POVEZ - PAULO KOELJO
   price: 799.0
@@ -3906,7 +3946,8 @@
 2490:
   title: L - PISMO GOSPOĐE VILME - JELENA BAČIĆ ALIMPIĆ
   price: 1099.0
-  futog: 2
+  srbobran: 1
+  futog: 1
 2491:
   title: L - PLES OKO SUNCA - VEDRANA RUDAN
   price: 999.0
@@ -3921,9 +3962,9 @@
   futog: 2
 2494:
   title: L - PONOĆNA RUŽA - LUSINDA RAJLI
-  price: 100.0
-  srbobran: 0
-  futog: 2
+  price: 1299.03
+  srbobran: 1
+  futog: 1
 2495:
   title: L - PORED PUTA - IVO ANDRIĆ
   price: 1999.0
@@ -3943,7 +3984,8 @@
 2499:
   title: L - POSLEDNJA PRILIKA - FREDRIK BAKMAN
   price: 899.0
-  futog: 2
+  srbobran: 1
+  futog: 1
 2500:
   title: VU - AKADEMIJA SIRENA/JEDNOROGA
   price: 400.0
@@ -3951,7 +3993,8 @@
 2501:
   title: L - POSLEDNJE PROLEĆE U PARIZU - JELENA BAČIĆ ALIMPIĆ
   price: 1099.0
-  futog: 2
+  srbobran: 1
+  futog: 1
 2502:
   title: L - POSLEDNJE UMETNIČKO DELO - SOFIJA LUNDBERJ
   price: 572.88
@@ -4016,7 +4059,7 @@
 2526:
   title: L - PRINCEZIN ROĐENDAN - OSKAR VAJLD
   price: 1299.03
-  futog: 2
+  futog: 1
 2528:
   title: L - PROCES - FRANC KAFKA
 2529:
@@ -4043,7 +4086,8 @@
 2534:
   title: L - PUT DO KUĆE SVAKOG JUTRA SVE JE DUŽI - FREDRIK BAKMAN
   price: 899.0
-  futog: 2
+  srbobran: 1
+  futog: 1
 2535:
   title: L - PUT PROMENE - SINIŠA UBOVIĆ
   price: 999.02
@@ -4087,7 +4131,7 @@
 2545:
   title: L - RINGIŠPIL - JELENA BAČIĆ ALIMPIĆ
   price: 1999.04
-  futog: 2
+  futog: 1
 2546:
   title: L - ROBINJA SLOBODE - ILDEFONSO FALKONES
   price: 1699.01
@@ -4126,6 +4170,8 @@
   futog: 2
 2555:
   title: L - RUSALKIN POLJUBAC - KEJT KVIN
+  price: 1599.04
+  futog: 1
 2556:
   title: L - RUSKA I - EDVARD RADERFURD
   price: 1499.01
@@ -4137,7 +4183,7 @@
 2561:
   title: 'VU - PET PRIJATELJA U NOVOJ AVANTURI 2 '
   price: 799.0
-  srbobran: 1
+  srbobran: 0
   futog: 1
 2565:
   title: L - RUSKI KONZUL - VUK DRAŠKOVIĆ
@@ -4167,7 +4213,8 @@
 2572:
   title: L - SAMAC U BRAKU - MILICA JAKOVLJEVIĆ MIR-JAM
   price: 999.02
-  futog: 2
+  srbobran: 1
+  futog: 1
 2574:
   title: L - SARUM I - EDVARD RADERFURD
   price: 1399.03
@@ -4187,11 +4234,12 @@
 2580:
   title: L - SEBI DUGUJEŠ SVE - DIZGRAM
   price: 899.0
-  futog: 2
+  srbobran: 1
+  futog: 1
 2581:
   title: VU - SVETLUCAVI SVET
   price: 899.0
-  srbobran: 2
+  srbobran: 1
 2582:
   title: L - SEBIČNI DŽIN - OSKAR VAJLD
   price: 1299.03
@@ -4256,7 +4304,7 @@
 2601:
   title: L - SPASITELJ - JU NESBE
   price: 1299.03
-  futog: 2
+  futog: 1
 2602:
   title: L - ŠPIJUNKA - PAULO KOELJO
   price: 999.02
@@ -4276,7 +4324,8 @@
 2606:
   title: L - STRAH OD PLETENJA - VEDRANA RUDAN
   price: 999.0
-  futog: 2
+  srbobran: 1
+  futog: 1
 2607:
   title: L - STRAH OD VEZIVANJA - ŠTEFANI ŠTAL
   price: 999.0
@@ -4299,6 +4348,8 @@
   futog: 2
 2612:
   title: L - SUNČEVA SESTRA - LUSINDA RAJLI
+  price: 1299.03
+  futog: 1
 2613:
   title: L - SVAKO JE SPOSOBAN ZA VEZU - ŠTEFANI ŠTAL
   price: 999.0
@@ -4354,8 +4405,9 @@
   futog: 2
 2628:
   title: VU - VELIKE NALEPNICE ZA MALENE RUKE
-  price: 499.0
-  srbobran: 3
+  price: 499.02
+  srbobran: 5
+  futog: 2
 2629:
   title: VU - PROLEĆNA ČAROLIJA - ANTISTRES BOJANKA ZA ODRASLE
   price: 899.0
@@ -4363,7 +4415,7 @@
 2630:
   title: L - TRI ROMANA - HALED HOSEINI
   price: 1999.0
-  futog: 2
+  futog: 0
 2631:
   title: 'VU - RADOZNALI UMOVI : DINOSAURI'
   price: 999.0
@@ -4398,8 +4450,9 @@
   srbobran: 1
 2639:
   title: VU - ZRNCE KARTICE - BEBE ŽIVOTINJA
-  price: 499.0
-  srbobran: 1
+  price: 499.02
+  srbobran: 2
+  futog: 1
 2640:
   title: VU - TECI KAO REKA
   price: 499.0
@@ -4449,7 +4502,8 @@
 2651:
   title: L - U SENCI MASLINE - LUSINDA RAJLI
   price: 1299.03
-  futog: 2
+  srbobran: 1
+  futog: 1
 2652:
   title: L - U TUĐEM VEKU II - DOBRICA ĆOSIĆ
   price: 499.01
@@ -4457,7 +4511,8 @@
 2653:
   title: L - UBISTVA U FLIT HAUSU - LUSINDA RAJLI
   price: 1299.0
-  futog: 2
+  srbobran: 1
+  futog: 1
 2654:
   title: VU - ZVUČNA KNJIGA SA PROZORČIĆIMA - VOZILA
   price: 1799.0
@@ -4469,7 +4524,8 @@
 2657:
   title: L - UHO, GRLO, NOŽ - VEDRANA RUDAN
   price: 999.0
-  futog: 2
+  srbobran: 1
+  futog: 1
 2658:
   title: L - UHVAĆENI - NEVESA ALEN
   price: 1199.02
@@ -4519,7 +4575,7 @@
   title: L - ANĐEO ČUVAR - PAULJO KOELJO
   price: 399.0
   srbobran: 0
-  futog: 2
+  futog: 1
 2670:
   title: L - APSOLUTNA ISTINA - MAJK TAJSON
   price: 699.0
@@ -4540,7 +4596,7 @@
 2674:
   title: L - BELEŽNICA - NIKOLAS SPARKS
   price: 799.0
-  futog: 2
+  futog: 1
 2675:
   title: L - BELI OČNJAK - DŽEK LONDON
   price: 899.0
@@ -4581,7 +4637,8 @@
 2685:
   title: L - BRIT-MARI JE BILA TU - FREDRIK BAKMAN
   price: 1199.0
-  futog: 2
+  srbobran: 1
+  futog: 1
 2686:
   title: L - BUKET ŽUTIH RUŽA - LJILJANA ŠARAC
   price: 1099.0
@@ -4618,9 +4675,9 @@
   futog: 2
 2694:
   title: L - VELIKA KNJIGA O BOJAMA - KLAUSBERND FOLMAR
-  price: 390.0
-  srbobran: 0
-  futog: 3
+  price: 1299.03
+  srbobran: 1
+  futog: 2
 2695:
   title: L - VELIKA KNJIGA O RODITELJSTVU - SABINA ANDREZEN, MIHA BRUMLIK I KLAUS
     KOH
@@ -4746,11 +4803,13 @@
 2729:
   title: L - ŽELJA - NIKOLAS SPARKS
   price: 999.02
-  futog: 2
+  srbobran: 1
+  futog: 1
 2730:
   title: L - ŽIVOT BEZ KRPELJA - VEDRANA RUDAN
   price: 999.0
-  futog: 2
+  srbobran: 1
+  futog: 1
 2731:
   title: L - ŽIVOT NA ZEMLJI - LAROUSSE
   price: 1999.0
@@ -4809,6 +4868,8 @@
   futog: 2
 2746:
   title: L - ZABORAVLJENE DEVOJČICE - SARA BLEDEL
+  price: 899.02
+  futog: 1
 2748:
   title: PP - SJAJAN DAN / UŽASAN DAN - ANASTASIJA GALKINA
   price: 499.01
@@ -4840,7 +4901,7 @@
 2756:
   title: PP - MOJA VELIKA KNJIGA - DOBRO JUTRO, SVETE
   price: 1480.0
-  srbobran: 1
+  srbobran: 0
 2757:
   title: PP - MOJA VELIKA KNJIGA - BOJE
   price: 1480.0
@@ -5083,7 +5144,7 @@
 2842:
   title: PČ - BEBIN DODIR - VIR - VIR!
   price: 1450.03
-  futog: 1
+  futog: 0
 2843:
   title: PČ - BEBIN DODIR - VOLIM TE
   price: 1450.03
@@ -5275,7 +5336,8 @@
   futog: 1
 2894:
   title: PČ - DESANKA MAKSIMOVIĆ - ZLATNI - SLOBODAN STANIŠIĆ
-  price: 850.01
+  price: 1199.02
+  srbobran: 0
   futog: 1
 2895:
   title: PČ - DESPOT STEFAN - SLOBODAN STANIŠIĆ
@@ -5729,7 +5791,7 @@
 3022:
   title: PČ - KRALJ OBLAKA - ZORANA POPOVIĆ
   price: 980.02
-  futog: 0
+  futog: 1
 3023:
   title: PČ - KRALJEVSTVO ŽIVOTINJA - L.ČITILOV, H.GUTIREZ
   price: 1280.02
@@ -5757,7 +5819,7 @@
 3029:
   title: PČ - KUPALIĆI - RADOZNALI KIT - WILMA WONDERS
   price: 980.01
-  futog: 0
+  futog: 1
 3030:
   title: PČ - KUPALIĆI - VESELA ŽABICA - WILMA WONDERS
   price: 980.01
@@ -6013,7 +6075,7 @@
 3101:
   title: PČ - MOJA PRVA KARTA SVETA B2 - MIJAT MIJATOVIĆ
   price: 90.01
-  futog: 5
+  futog: 4
 3102:
   title: PČ - MORSKI KONJIĆ ČITALIĆ - N.NOVAK, N.RISTIĆ
   price: 1580.03
@@ -6232,7 +6294,7 @@
 3161:
   title: PČ - PAMETAN KAO PČELA BROJANJE - GORAN MARKOVIĆ
   price: 550.01
-  futog: 1
+  futog: 2
 3162:
   title: PČ - PAMETAN KAO PČELA ISTO I RAZLIČITO - GORAN MARKOVIĆ
   price: 550.01
@@ -6449,11 +6511,11 @@
 3216:
   title: PČ - PČELICA VEŽBALICA 3 - MAJA KORAKSIĆ
   price: 600.0
-  futog: 2
+  futog: 1
 3219:
   title: PČ - PČELICA VEŽBALICA 4 - MAJA KORAKSIĆ
   price: 600.0
-  futog: 2
+  futog: 1
 3220:
   title: PČ - PČELICE RADOZNALICE 3-5 - S.MIRKOVIĆ, G.MARKOVIĆ
   price: 850.01
@@ -6464,8 +6526,8 @@
   futog: 2
 3222:
   title: PČ - PČELICE RADOZNALICE 5-7 - S.MIRKOVIĆ, G.MARKOVIĆ
-  price: 1050.0
-  futog: 4
+  price: 1050.02
+  futog: 5
 3224:
   title: PČ - PČELICE U LETU - S.MIRKOVIĆ, G.MARKOVIĆ
   price: 1350.0
@@ -6604,7 +6666,7 @@
 3265:
   title: 'PČ - SKLAPALICE - DINOSAURUSI '
   price: 1680.03
-  futog: 1
+  futog: 0
 3266:
   title: PČ - SKLAPALICE - ŽIVOTINJE
   price: 1680.03
@@ -6757,7 +6819,7 @@
   title: PČ - SVAŠTARICA - MAJA KORAKSIĆ
   price: 1120.0
   srbobran: 0
-  futog: 2
+  futog: 1
 3307:
   title: PČ - SVETI SAVA OD PRINCA DO SVECA - ĐORĐE ČOLOVIĆ
   price: 80.0
@@ -6900,7 +6962,7 @@
 3346:
   title: PČ - VEŽBANKA IZ MATEMATIKE 1 - S.KOVAČEVIĆ, M.JANKOVIĆ
   price: 400.01
-  futog: 2
+  futog: 1
 3347:
   title: PČ - VEŽBANKA IZ MATEMATIKE 2 - S.KOVAČEVIĆ, M.JANKOVIĆ
   price: 400.01
@@ -7145,7 +7207,7 @@
   futog: 1
 3410:
   title: KC - KAKO SU SE MAMA MU I GAVRA UPOZNALI
-  price: 950.01
+  price: 1050.0
   futog: 2
 3411:
   title: KC - AUTO SERVIS - MALI ISTRAŽIVAČI
@@ -7153,12 +7215,12 @@
   futog: 1
 3412:
   title: KC - NAJLEPŠI DŽIN U GRADU
-  price: 950.01
+  price: 1050.0
   futog: 2
 3413:
   title: VU - 1, 2... VEŽBAM JA - SLOVA I BROJEVI
   price: 699.01
-  futog: 1
+  futog: 0
 3414:
   title: VU - 100 NEVEROVATNIH ZVUKOVA - PRVE REČI
   price: 2290.05
@@ -7170,6 +7232,7 @@
 3416:
   title: VU - 100 PRVIH ŽIVOTINJA
   price: 1199.02
+  srbobran: 1
   futog: 1
 3417:
   title: VU - 101 PRIČA ZA LAKU NOĆ
@@ -7178,10 +7241,12 @@
 3418:
   title: VU - 20 ZVUKOVA I ČINJENICA - FARMA
   price: 1699.05
-  futog: 1
+  srbobran: 1
+  futog: 0
 3419:
   title: VU - 20 ZVUKOVA I ČINJENICA - ŽIVOTINJE
   price: 1699.05
+  srbobran: 1
   futog: 1
 3420:
   title: VU - 50 NEVEROVATNIH ZVUKOVA - BEBE ŽIVOTINJA
@@ -7232,6 +7297,7 @@
 3438:
   title: VU - ČUDESNI ČAROBNJAK IZ OZA - PAOLA RATACI
   price: 1499.04
+  srbobran: 1
   futog: 1
 3439:
   title: VU - ČUDESNI RAZGOVORI U PRIRODI ŠIROM SVETA
@@ -7239,7 +7305,8 @@
   futog: 1
 3440:
   title: VU - DNEVNIK VISKE CVETIĆ - NOVA ŠKOLA
-  price: 1099.03
+  price: 1099.02
+  srbobran: 1
   futog: 0
 3441:
   title: VU - DOGMEN I KETKID
@@ -7260,13 +7327,13 @@
 3446:
   title: VU - DOGMEN - ZLOČIN I KALJAVŠTINA
   price: 1199.02
-  futog: 1
+  futog: 0
 3447:
   title: VU - DOGMEN
 3448:
   title: VU - DŽERONIMO STILTON - INFLUENSER IGROM SLUČAJA
   price: 999.02
-  futog: 1
+  futog: 0
 3449:
   title: VU - DŽERONIMO STILTON - PRIČE PUNE SMEHA - TAJNA MEMLJIVE LUKE
   price: 999.02
@@ -7286,14 +7353,17 @@
 3454:
   title: VU - FUDBALIČANSTVENI - MISTERIJA SEDAM AUTOGOLOVA
   price: 1199.02
-  futog: 1
+  srbobran: 1
+  futog: 0
 3455:
   title: VU - HAJDE DA ISTRAŽIMO - DINOSAURI
   price: 999.02
+  srbobran: 1
   futog: 1
 3456:
   title: VU - HAJDE DA ISTRAŽIMO - GRADILIŠTE
   price: 999.02
+  srbobran: 1
   futog: 1
 3458:
   title: VU - RAZMRDAJTE VIJUGE - SVEMIR - AKCIJA
@@ -7318,7 +7388,7 @@
 3463:
   title: 'VU - ISIDORA MUN IDE NA LEDENI FESTIVAL '
   price: 799.01
-  futog: 1
+  futog: 0
 3464:
   title: VU - ISIDORA MUN IDE NA SPAVANJAC KOD DRUGARICE
   price: 799.01
@@ -7344,10 +7414,12 @@
 3474:
   title: VU - KAD PORASTEM, BIĆU - DOKTOR
   price: 699.01
+  srbobran: 1
   futog: 1
 3475:
   title: VU - KAD PORASTEM BIĆU- VATROGASAC
   price: 699.01
+  srbobran: 1
   futog: 1
 3476:
   title: VU - KARTE - PRVE REČI NA ENGLESKOM JEZIKU
@@ -7356,7 +7428,7 @@
 3477:
   title: VU - KARTE - PUT OKO SVETA KVIZ
   price: 499.02
-  futog: 1
+  futog: 0
 3478:
   title: VU - KARTE - UČIM I IGRAM SE - BEBA UČI PRVE REČI
   price: 499.02
@@ -7414,18 +7486,22 @@
 3493:
   title: VU - KNJIŽICA GLODALICA - BEBE ŽIVOTINJA
   price: 499.02
-  futog: 1
+  srbobran: 1
+  futog: 0
 3494:
   title: VU - KNJIŽICA GLODALICA - BROJEVI
   price: 499.02
-  futog: 1
+  srbobran: 1
+  futog: 0
 3495:
   title: VU - KNJIŽICA GLODALICA - LJUBIMCI
   price: 499.02
+  srbobran: 1
   futog: 1
 3496:
   title: VU - KNJIŽICA GLODALICA - VOZILA
   price: 499.02
+  srbobran: 1
   futog: 1
 3497:
   title: VU - KNJIŽICE SKRIVALICE - ZEKA I DRUGARI
@@ -7456,10 +7532,12 @@
 3506:
   title: VU - MALA BIBLIOTEKA - PRVE ŽIVOTINJE
   price: 1499.04
-  futog: 0
+  srbobran: 1
+  futog: 1
 3507:
   title: VU - MALI PRINC - PAOLO PROJETI
   price: 1499.04
+  srbobran: 1
   futog: 1
 3508:
   title: VU - MALI UMETNICI BOJENJE PO BROJEVIMA - ŽIVOTINJE
@@ -7468,16 +7546,18 @@
 3509:
   title: VU - MEKANA KNJIŽICA - PRVE REČI
   price: 599.03
-  futog: 1
+  futog: 0
 3510:
   title: VU - MIRABEL I PONOĆNA GOZBA
   price: 799.01
+  srbobran: 0
   futog: 1
 3512:
   title: VU - MIRABEL PREUZIMA ODGOVORNOST
 3514:
   title: VU - MOJ LEKSIKON - PLAVI
   price: 399.01
+  srbobran: 1
   futog: 2
 3515:
   title: VU - MOJ LEKSIKON - ROZE
@@ -7486,6 +7566,7 @@
 3516:
   title: VU - MOJ MODNI DNEVNIK
   price: 799.01
+  srbobran: 1
   futog: 1
 3517:
   title: VU - MOJ PRVI SALON LEPOTE 1
@@ -7510,17 +7591,23 @@
 3522:
   title: VU - MOJA PRVA SLIKOVNA ENCIKLOPEDIJA - ČULA
   price: 699.01
+  srbobran: 1
   futog: 1
 3523:
   title: VU - MOJA PRVA SLIKOVNA ENCIKLOPEDIJA - ŠUMSKE ŽIVOTINJE
   price: 699.01
+  srbobran: 1
   futog: 1
 3524:
   title: VU - MOJA PRVA SLIKOVNA ENCIKLOPEDIJA - VOZILA
   price: 699.01
+  srbobran: 1
   futog: 1
 3525:
   title: VU - MOJA PRVA ŠUŠKAVA KNJIŽICA - FARMA
+  price: 1299.03
+  srbobran: 1
+  futog: 1
 3526:
   title: VU - MOJA RAZIGRANA TORBICA - JEDNOROZI
   price: 399.01
@@ -7536,7 +7623,7 @@
 3529:
   title: VU - MOJA VELIKA KNJIGA ISKAKALICA - LJUDSKO TELO
   price: 1699.05
-  futog: 1
+  futog: 0
 3530:
   title: VU - MOJA VELIKA KNJIGA ISKAKALICA - SVET
   price: 1699.05
@@ -7554,9 +7641,13 @@
 3534:
   title: VU - MOJA ZABAVNA DINO TORBICA
   price: 599.03
+  srbobran: 1
   futog: 1
 3536:
   title: VU - MOJA ZABAVNA ROZE TORBICA
+  price: 599.03
+  srbobran: 1
+  futog: 1
 3537:
   title: VU - VIZIJA U BELOM - AKCIJA
   price: 399.0
@@ -7608,7 +7699,7 @@
 3549:
   title: PČ - PRIČE IZ ŠUME - CELOVITO IZDANJE - NIKOLETA NOVAK
   price: 2250.03
-  futog: 0
+  futog: 1
 3550:
   title: VU - OBOJTE JEDNOROGE 1
   price: 399.01
@@ -7648,10 +7739,12 @@
 3560:
   title: VU - PRVA OTKRIĆA - ATLAS PRIRODE
   price: 1499.04
+  srbobran: 1
   futog: 1
 3561:
   title: VU - PRVA OTKRIĆA - ATLAS SVETA
   price: 1499.04
+  srbobran: 1
   futog: 1
 3562:
   title: VU - PRVE NALEPNICE - FARMA
@@ -7710,7 +7803,7 @@
 3576:
   title: VU - SLIKOVNI REČNIK - SVET OKO NAS
   price: 599.03
-  futog: 1
+  futog: 0
 3577:
   title: VU - SOVA SVEZNALICA
   price: 599.03
@@ -7718,9 +7811,12 @@
 3579:
   title: VU - SPORTSKE PRIČE - KOŠARKAŠKE LEGENDE
   price: 2199.04
+  srbobran: 1
   futog: 1
 3580:
   title: VU - SPORTSKE PRIČE - LEGENDARNI FUDBALSKI KLUBOVI
+  price: 2199.04
+  srbobran: 1
 3581:
   title: VU - SVEOBUHVATNI VODIČ ZA GAJENJE ZMAJEVA
   price: 899.02
@@ -7728,7 +7824,7 @@
 3582:
   title: VU - TEA STILTON - KARNEVAL U VENECIJI
   price: 1399.02
-  futog: 1
+  futog: 0
 3583:
   title: VU - TEA STILTON - KOLAČI IZ SNOVA
   price: 999.02
@@ -7740,7 +7836,7 @@
 3585:
   title: VU - TEA STILTON - PRINC OKEANA
   price: 1399.02
-  futog: 1
+  futog: 0
 3586:
   title: VU - TEA STILTON - SLUČAJNE DIZAJNERKE
   price: 999.02
@@ -7756,6 +7852,7 @@
 3589:
   title: VU - UPOZNAJEM I OTKRIVAM - ŠUMSKE ŽIVOTINJE
   price: 299.0
+  srbobran: 1
   futog: 1
 3590:
   title: VU - VELIKA KNJIGA PITANJA I ODGOVORA SA PROZORČIĆIMA - LJUDSKO TELO
@@ -7796,7 +7893,7 @@
 3602:
   title: VU - ZABAVNI KVIZ - ŽIVOTINJE
   price: 599.03
-  futog: 1
+  futog: 0
 3603:
   title: VU - ZABAVNI ZADACI ZA RADOZNALCE 1
   price: 549.01
@@ -7808,10 +7905,12 @@
 3605:
   title: VU - ZANIMLJIVI VODIČ - 101 ČINJENICA O LJUDSKOM TELU
   price: 1299.03
+  srbobran: 1
   futog: 1
 3606:
   title: VU - ZANIMLJIVI VODIČ - 101 ČINJENICA O NAŠOJ PLANETI
   price: 1299.03
+  srbobran: 1
   futog: 1
 3607:
   title: VU - ZRNCE KARTICE - GODIŠNJA DOBA
@@ -7820,7 +7919,7 @@
 3608:
   title: VU - ZRNCE KARTICE - UČIMO AZBUKU
   price: 499.02
-  futog: 1
+  futog: 0
 3609:
   title: VU - ZRNCE KARTICE - UČIMO BOJE I OBLIKE LATINICA
   price: 499.02
@@ -7832,7 +7931,7 @@
 3611:
   title: VU - ZRNCE KARTICE - ZABAVNI KVIZ LATINICA
   price: 499.02
-  futog: 1
+  futog: 0
 3612:
   title: VU - ZRNCE KARTICE - ZABAVNI KVIZ
   price: 499.02
@@ -7911,7 +8010,7 @@
   title: PP - SLIKAMO PRSTIĆIMA - MODNE KREACIJE
   price: 599.01
   srbobran: 2
-  futog: 2
+  futog: 0
 3650:
   title: PP - SLIKAMO PRSTIĆIMA - FARMA
   price: 599.01
@@ -7929,23 +8028,23 @@
 3653:
   title: PP - ČAROBNA BOJANKA - PRINCEZE
   price: 599.01
-  srbobran: 2
+  srbobran: 1
   futog: 2
 3654:
   title: PP - ČAROBNA BOJANKA - DINOSAURUSI
   price: 599.01
   srbobran: 2
-  futog: 2
+  futog: 1
 3655:
   title: PP - ZVUČNA KNJIGA - KUCA
   price: 699.01
-  srbobran: 1
-  futog: 1
+  srbobran: 0
+  futog: 0
 3656:
   title: PP - ZVUČNA KNJIGA - MACA
   price: 699.01
-  srbobran: 1
-  futog: 1
+  srbobran: 0
+  futog: 0
 3657:
   title: PP - ZVUČNA KNJIGA- PATKA
   price: 699.01
@@ -7953,7 +8052,7 @@
 3658:
   title: PP - ZVUČNA KNJIGA - VATROGASNI KAMION
   price: 699.01
-  srbobran: 2
+  srbobran: 1
 3659:
   title: PP - BOJANKA - JEDNOROZI ( 12 VOŠTANIH BOJICA )
   price: 599.01
@@ -8027,8 +8126,8 @@
 3676:
   title: PP - ČAROBNA AZBUKA - KOMPLET
   price: 1599.01
-  srbobran: 2
-  futog: 1
+  srbobran: 0
+  futog: 0
 3677:
   title: PP - ČAROBNA ABECEDA - KOMPLET
   price: 1599.01
@@ -8042,18 +8141,18 @@
 3679:
   title: PP - ČAROBNA AZBUKA - ŠTAMPANA SLOVA ĆIRILICE
   price: 599.01
-  srbobran: 1
-  futog: 2
+  srbobran: 0
+  futog: 0
 3680:
   title: PP - ČAROBNA AZBUKA - PISANA SLOVA ĆIRILICE
   price: 599.01
   srbobran: 2
-  futog: 2
+  futog: 1
 3681:
   title: PP - ČAROBNA ABECEDA - ŠTAMPANA SLOVA LATINICE
   price: 599.01
   srbobran: 2
-  futog: 2
+  futog: 0
 3682:
   title: PP - ČAROBNA ABECEDA - PISANA SLOVA LATINICE
   price: 599.01
@@ -8062,8 +8161,8 @@
 3683:
   title: PP - ČAROBNA CRTALICA - GRAFOMOTORIČKE VEŽBE
   price: 599.01
-  srbobran: 1
-  futog: 2
+  srbobran: 0
+  futog: 0
 3684:
   title: PP - PIŠI-BRIŠI ŽIVOTINJE - KNJIGA SA AKTIVNOSTIMA
   price: 599.01
@@ -8155,7 +8254,7 @@
 3706:
   title: OD - DNEVNIK JEDNE SKORO PA TINEJDŽERKE 2 - KO ŠIŠA OVCE
   price: 792.01
-  futog: 1
+  futog: 0
 3707:
   title: OD - DNEVNIK JEDNE SKORO PA TINEJDŽERKE 1 - KUNIĆI NA SVE STRANE
   price: 780.0
@@ -8184,7 +8283,7 @@
 3714:
   title: OD - MARGO IMA NOVČANIH PROBLEMA
   price: 1320.03
-  futog: 2
+  futog: 1
 3716:
   title: OD - IZUZETNE ŽENE GRAND HOTELA
   price: 1210.02
@@ -8224,23 +8323,81 @@
 3730:
   title: OD - DORA MALA OPASNICA
   price: 792.01
-  futog: 1
+  futog: 0
 3731:
   title: OD - PIPI DUGA ČARAPA - NOVA
   price: 792.02
   futog: 2
+3734:
+  title: DS - SPASIMO PLANETU - VODA
+  price: 1499.04
+  futog: 1
+3735:
+  title: DS - SREĆKOVE ČAROBNE REČI - HVALA
+  price: 199.01
+  futog: 1
+3737:
+  title: DS - SREĆKOVE ČAROBNE REČI - IZVINI
+  price: 199.01
+  futog: 1
+3738:
+  title: 'DS - SREĆKOVE ČAROBNE REČI - MOLIM TE '
+  price: 195.0
+  srbobran: 0
+  futog: 1
+3739:
+  title: DS - SREĆKOVE ČAROBNE REČI - ŽAO MI JE
+  price: 199.01
+  futog: 1
+3740:
+  title: DS - ZANIMLJIVA ISTORIJA
+  price: 1999.03
+  futog: 1
 3741:
-  title: 'L - '
+  title: DS - LIDER U TEŠKIM VREMENIMA
   price: 1999.0
   srbobran: 0
+  futog: 1
+3742:
+  title: DS - MINDFUCK - POSAO
+  price: 1099.01
+  futog: 1
+3743:
+  title: DS - MALIŠANI PRED EKRANIMA
+  price: 1299.03
+  futog: 1
 3744:
-  title: 'L - '
+  title: DS - JA 2.0
   price: 1999.0
   srbobran: 0
+  futog: 1
+3745:
+  title: DS - KAKO USPEŠNI LJUDI RASTU
+  price: 210.0
+  srbobran: 0
+  futog: 1
+3746:
+  title: DS - UČINITE DAN VREDNIM
+  price: 165.0
+  srbobran: 0
+  futog: 1
+3747:
+  title: DS - ZAKONI POBEDNIKA
+  price: 1099.01
+  futog: 1
 3748:
-  title: 'L - '
+  title: DS - LJUBAV ILI TRIP
   price: 699.0
   srbobran: 0
+  futog: 1
+3749:
+  title: DS - KAKO USPEŠNI LJUDI PREDVODE
+  price: 1099.01
+  futog: 1
+3750:
+  title: DS - SVET JE U MOJIM RUKAMA
+  price: 1099.01
+  futog: 1
 3751:
   title: VU - ZABAVA SA NALEPNICAMA - DINOSAURI - AKCIJA
   price: 1299.0
@@ -8250,30 +8407,165 @@
   title: VU - BEBA OTKRIVA SVET
   price: 1699.0
   srbobran: 1
+3754:
+  title: DS - POBEĐUJ KAO VUK
+  price: 1199.02
+  futog: 1
+3755:
+  title: DS - KAKO USPEŠNI LJUDI POBEĐUJU
+  price: 1099.01
+  futog: 1
+3756:
+  title: DS - AGRESIJA I KULTURA
+  price: 1099.01
+  futog: 1
+3757:
+  title: DS - SNOVI PSIHOLOŠKO TUMAČENJE
+  price: 1099.01
+  futog: 1
+3758:
+  title: DS - MOĆ PREGOVARANJA
+  price: 1499.04
+  futog: 1
+3759:
+  title: DS - MINDFUCK
+  price: 1099.01
+  futog: 1
+3760:
+  title: DS - 7 TAJNI USPEHA DRUGO IZDANJE
+  price: 1390.03
+  futog: 1
+3761:
+  title: DS - OTVORI SVOJ ŽIVOT
+  price: 1099.01
+  futog: 1
+3762:
+  title: DS - KAKO USPEŠNI LJUDI MISLE
+  price: 1099.01
+  futog: 1
+3763:
+  title: DS - NADŽIVETI ŽIVOT
+  price: 1390.03
+  futog: 1
+3764:
+  title: DS - MINDFUCK - LJUBAV
+  price: 1099.01
+  futog: 1
+3765:
+  title: DS - PRODAJ ILI SE PREDAJ
+  price: 1099.01
+  futog: 1
+3766:
+  title: DS - PAZI KOJEG VUKA HRANIŠ
+  price: 1390.03
+  futog: 0
+3767:
+  title: DS - JA TO MOGU
+  price: 1199.02
+  futog: 1
+3769:
+  title: DS - TATA I JA
+  price: 599.03
+  futog: 0
+3770:
+  title: DS - MOJA VELIKA PIŠI BRIŠI KNJIGA - BROJEVI
+  price: 759.01
+  futog: 1
+3771:
+  title: DS - MOJA KNJIGA ZA KOLICA - DOMAĆE ŽIVOTINJE
+  price: 495.0
+  srbobran: 0
+  futog: 1
+3772:
+  title: DS - MOJA KNJIGA ZA KOLICA - DIVLJE ŽIVOTINJE
+  price: 499.41
+  futog: 1
+3773:
+  title: DS - CRTAJ, BOJI, LEPI S 300 NALEPNICA
+  price: 358.61
+  futog: 1
+3774:
+  title: DS - SPIDERMAN MEGA ZABAVA
+  price: 549.01
+  futog: 1
+3775:
+  title: DS - MAMA I JA
+  price: 599.03
+  futog: 0
+3776:
+  title: DS - DISNEY ZALEĐENO KRALJEVSTVO - UČIMO BROJEVE
+  price: 399.31
+  futog: 1
+3778:
+  title: DS - DISNEY - VESELI BROJEVI
+  price: 30.0
+  srbobran: 0
+  futog: 1
+3779:
+  title: DS - DISNEY - ČUDESNI SVET BOJANKA
+  price: 319.01
+  futog: 1
+3780:
+  title: DS - DISNEY ČUDESNI SVET
+  price: 1039.04
+  futog: 1
+3781:
+  title: DS - WINNIE THE POOH ZAMISLI ŽELJU
+  price: 959.01
+  futog: 1
+3782:
+  title: DS - PEPPA PIG - HOY, HOY, HOY
+  price: 799.01
+  futog: 1
+3783:
+  title: DS - PAW PATROL - KUCE U ŠKOLI
+  price: 85.0
+  srbobran: 0
+  futog: 1
+3784:
+  title: DS - DISNEY PRINCEZA -  ŠKOLA ZA PRINCEZE
+  price: 530.0
+  futog: 1
+3785:
+  title: DS - DISNEY LAVLJA ŠKOLA
+  price: 480.01
+  futog: 1
+3786:
+  title: DS - PAW PATROL - VELIKA BOJANKA
+  price: 549.01
+  futog: 1
 3789:
   title: VU - BEBA UPOZNAJE
   price: 699.0
   srbobran: 1
+3790:
+  title: DS - BARBIE MODNA ZABAVA
+  price: 499.02
+  futog: 1
 3791:
-  title: 'L - '
+  title: DS - PEPA PRASE - PEPINA PORODIČNA ZABAVA
   price: 1499.0
   srbobran: 0
+  futog: 1
 3792:
   title: VU - BOJANKA
   price: 199.0
   srbobran: 4
 3793:
-  title: 'L - '
+  title: DS - DISNEY ENCANTO - ČAROBNI ZADACI
   price: 499.0
   srbobran: 0
+  futog: 1
 3794:
-  title: 'L - '
+  title: DS - L.O.L. SURPRISE ! MOJA UMETNIČKA SVESKA
   price: 2090.0
   srbobran: 0
+  futog: 1
 3795:
-  title: 'L - '
+  title: DS - RAJA I POSLEDNJI ZMAJ  - RAJINA PUSTOLOVINA - SUPER ZABAVA SA NALEPNICAMA
   price: 499.0
   srbobran: 0
+  futog: 0
 3796:
   title: VU - LEPEZICE SVEZNALICE
   price: 599.0
@@ -8286,34 +8578,101 @@
   title: VU - MOJ NEVEROVATNI DNEVNIK
   price: 799.0
   srbobran: 1
+3799:
+  title: DS - PAW PATROL - ZABAVA U GRADU PUSTOLOVINA
+  price: 399.01
+  futog: 1
+3800:
+  title: 'DS - L.O.L. SURPRISE! 100% ZABAVA '
+  price: 349.01
+  futog: 1
+3801:
+  title: DS - L.O.L. SURPRISE! 100% IGRA
+  price: 349.01
+  futog: 0
+3802:
+  title: DS - DISNEY PRINCEZA - SUPER ZABAVA SA NALEPNICAMA
+  price: 349.01
+  futog: 1
+3803:
+  title: DS - DISNEY ENCANTO - BOJANKA SA NALEPNICAMA
+  price: 279.02
+  futog: 0
+3804:
+  title: DS - DISNEY POCRVENELA PANDA
+  price: 349.01
+  futog: 1
 3806:
   title: VU - MOJA PRVA SLIKOVNA ENCIKLOPEDIJA
   price: 699.0
   srbobran: 3
 3807:
-  title: MOJA PRVA SUSKAVA KNJIZICA
+  title: DS - DISNEY BAZ SVETLOSNI
   price: 1199.0
   srbobran: 0
+  futog: 1
 3808:
   title: VU - MOJA PRVA ZVUCNA KNJIGA
   price: 1399.0
   srbobran: 0
+3809:
+  title: DS - L.O.L. SURPRISE! MISIJA IGRE
+  price: 270.01
+  futog: 1
+3810:
+  title: DS - VOĆNA BOJANKA
+  price: 149.0
+  futog: 1
+3811:
+  title: DS - VESELA BOJANKA
+  price: 149.0
+  futog: 1
+3812:
+  title: DS - CVETNA BOJANKA - OBOJ, SAZNAJ I NAUČI
+  price: 149.0
+  futog: 1
+3813:
+  title: DS - L.O.L. SURPEISE! MOJA VELIKA BOJANKA
+  price: 349.01
+  futog: 1
+3815:
+  title: DS - PAW PATROL - UČIMO SLOVA
+  price: 349.01
+  futog: 0
+3816:
+  title: DS - DISNEY ZALEĐENO KRALJEVSTVO - UČIM DA PIŠEM
+  price: 239.01
+  futog: 1
+3817:
+  title: DS - PAW PATROL MOĆNI FILM
+  price: 499.02
+  futog: 1
+3818:
+  title: DS- DISNEY SPIDERMAN - UČIM DA BROJIM
+  price: 239.01
+  futog: 1
 3819:
-  title: 'L - '
+  title: DS - ZAČARANA ŠUMA - BOJANKA SA NALEPNICAMA I FIGURAMA OD KARTONA
+  price: 530.0
+  futog: 1
 3820:
   title: VU - MUDRE GLAVICE
   price: 799.0
   srbobran: 2
 3821:
-  title: 'L - '
+  title: DS - PAW PATROL - ZABAVA VITEZOVA
+  price: 299.0
+  futog: 1
 3822:
-  title: 'L - '
+  title: DS - PAW PATROL - VOLIM SLOVA VEŽBANKA
   price: 1299.0
   srbobran: 0
+  futog: 1
 3823:
-  title: 'L - '
+  title: DS - BARBIE MOJA BOJANKA
   price: 2490.0
   srbobran: 0
+  futog: 1
 3824:
   title: VU - NAJLEPSE PRICE SVIH VREMENA
   price: 2290.0
@@ -8322,44 +8681,531 @@
   title: VU - NEVEROVATNA STVORENJA
   price: 550.0
   srbobran: 1
+3826:
+  title: DS - PAW PATROL MOĆNI FILM - BOJANKA SA NALEPNICAMA
+  price: 249.0
+  srbobran: 0
+  futog: 1
+3827:
+  title: DS - DISNEY - MOJIH PRVIH 1000 REČI
+  price: 1199.02
+  futog: 1
+3828:
+  title: DS - PAW PATROL - VOLIM BROJEVE VEŽBANKA
+  price: 449.01
+  futog: 1
+3829:
+  title: DS - DISNEY 100 PROSLAVA SA PRINCEZAMA - ZABAVA SA NALEPNICAMA
+  price: 299.0
+  futog: 1
 3831:
   title: VU - PET PRIJATELJA
   price: 799.0
   srbobran: 1
 3832:
-  title: 'L - '
+  title: DS - PAW PATROL SUPERKUCE SPAŠAVAJU DAN
   price: 799.0
   srbobran: 0
+  futog: 1
+3833:
+  title: DS - DISNEY SPIDERMAN - UČIM DA PIŠEM
+  price: 239.01
+  futog: 1
 3834:
   title: VU - PODIGNI PROZORCICE I UPOZNAJ
   price: 699.0
   srbobran: 2
+3836:
+  title: DS - DISNEY MOJA PRVA VELIKA KNJIGA SA NALEPNICAMA
+  price: 40.0
+  srbobran: 0
+  futog: 1
 3837:
   title: VU - PONESI ME
   price: 499.0
   srbobran: 1
+3838:
+  title: DS - DISNEY PIXAR - STIŽU NAM PRAZNICI
+  price: 1199.02
+  futog: 1
 3839:
-  title: 'L - '
+  title: DS- DISNEY ELEMENTAL - BOJANKA
   price: 799.0
   srbobran: 0
+  futog: 1
+3840:
+  title: DS - DISNEY 100 DAMBO
+  price: 799.01
+  futog: 1
+3841:
+  title: DS - DISNEY KLASICI CRTANJE PRSTIMA
+  price: 879.01
+  futog: 1
+3842:
+  title: DS - MALI PRINC - MOJA KNJIGA OSEĆANJA
+  price: 899.02
+  futog: 1
+3843:
+  title: DS - DISNEY MOJE PRVE PRIČE ZA SLATKE SNOVE
+  price: 799.01
+  futog: 1
+3844:
+  title: DS - DISNEY ZALEĐENO KRALJEVSTVO - UČIM DA BROJIM
+  price: 239.01
+  futog: 1
+3845:
+  title: DS - DISNE MOJA PRVA VELIKA BOJANKA
+  price: 799.01
+  futog: 1
+3847:
+  title: DS - MOJA KNJIGA ZA KOLICA BOJE
+  price: 499.02
+  futog: 0
+3849:
+  title: DS - MOJA KNJIGA ZA KOLICA PRVE REČI
+  price: 499.02
+  futog: 1
+3850:
+  title: DS - DISNEY ZALEĐENO KRALJEVSTVO VELIKA BOJANKA
+  price: 600.0
+  futog: 1
+3851:
+  title: DS - BARBIE BOJANKA IZ SNOVA
+  price: 499.02
+  futog: 1
 3853:
   title: VU - PRIČE KRATKE
   price: 999.0
   srbobran: 2
+3854:
+  title: DS - MOJA KNJIGA ZA KOLICA BROJEVI
+  price: 499.02
+  futog: 1
+3855:
+  title: DS - PAW PATROL - VESELA BOJANKA
+  price: 2025.0
+  srbobran: 0
+  futog: 1
+3856:
+  title: DS - MALI PRINC - GDE SI LISICE ?
+  price: 559.02
+  futog: 1
 3857:
-  title: VU - SERLOK NJUSKALOMS
-  price: 999.0
-  srbobran: 1
+  title: VU - ŠERLOK NJUŠKALOMS
+  price: 999.02
+  srbobran: 2
+  futog: 1
 3858:
-  title: 'L - '
+  title: DS - DISNEY SPIDERMAN BOJANKA ZA HEROJE
   price: 1999.0
   srbobran: 0
+  futog: 1
+3859:
+  title: DS - DISNEY STICH MOJ DNEVNIK
+  price: 1199.02
+  futog: 1
+3860:
+  title: DS - DISNEY ZLATNA SERIJA 8 - 101 DALMATINAC
+  price: 799.01
+  futog: 1
+3861:
+  title: DS - PRINCEZA TRAŽI I NAĐI
+  price: 569.01
+  futog: 1
+3862:
+  title: DS - DISNEY VINI PU SLIKOVNICA
+  price: 799.01
+  futog: 1
+3863:
+  title: DS - DISNEY KLUB MIKIJA MAUSA LET BALONOM
+  price: 599.03
+  futog: 1
+3864:
+  title: DS - L.O.L. SURPRISE BLISTAVA ŽURKA
+  price: 959.01
+  futog: 1
+3865:
+  title: DS - PAW PATROL - PIŠI BRIŠI
+  price: 480.01
+  futog: 1
+3866:
+  title: DS - L.O.L. SURPRISE BELEŽNICA
+  price: 1199.02
+  futog: 1
+3867:
+  title: DS - DISNEY PRINCEZA - VELIKA BOJANKA
+  price: 439.0
+  futog: 1
+3868:
+  title: DS - PIXAR 7 PRIČA ZA LAKU NOĆ
+  price: 1119.02
+  futog: 1
+3869:
+  title: VU - 5 MINUTA ZA PRIČU O DINOSAURIMA
+  price: 899.02
+  srbobran: 1
+  futog: 1
+3870:
+  title: VU - 5 MINUTA ZA PRIČU O JEDNOROZIMA
+  price: 899.02
+  srbobran: 1
+  futog: 1
+3871:
+  title: VU - BEKSTVO IZ SOBE
+  price: 699.01
+  srbobran: 2
+  futog: 2
+3872:
+  title: VU - ČAROBNO DALEKO DRVO - ZAČARANA ŠUMA
+  price: 799.01
+  srbobran: 1
+  futog: 0
+3873:
+  title: VU - DODIRNI I ZAVIRI
+  price: 699.01
+  srbobran: 2
+  futog: 2
+3874:
+  title: VU - DRUGARI SA FARME - DODIRNI I OTKRIJ
+  price: 699.01
+  srbobran: 1
+  futog: 0
+3875:
+  title: VU - EMERALD I ODBEGLI PRINC
+  price: 799.01
+  srbobran: 1
+  futog: 1
+3876:
+  title: VU - FUDBALSKE PRIČE
+  price: 599.03
+  srbobran: 3
+  futog: 2
+3877:
+  title: VU - FUDBALSKE ZVEZDE
+  price: 699.01
+  srbobran: 9
+  futog: 7
+3878:
+  title: VU - KAPETAN GAĆERONE I NAPAD KLOZETSKIH ŠOLJURDI
+  price: 999.02
+  srbobran: 1
+  futog: 1
+3879:
+  title: VU - KITI I STATUA ZLATNOG TIGRA
+  price: 699.01
+  srbobran: 1
+  futog: 1
+3880:
+  title: VU - KLASIČNE BAJKE SA ISKAKALICAMA
+  price: 399.01
+  srbobran: 4
+  futog: 3
+3881:
+  title: VU - MAGIČNI FLOMASTER
+  price: 399.01
+  srbobran: 4
+  futog: 4
+3882:
+  title: 'VU - MOJA MALA ZVUČNA KNJIGA '
+  price: 1099.02
+  srbobran: 1
+  futog: 1
+3883:
+  title: VU - MOJA PRVA VELIKA KNJIGA O SVEMU
+  price: 599.03
+  srbobran: 1
+  futog: 1
+3884:
+  title: VU - NAJLEPŠE PRIČE IZ ŠUME
+  price: 1199.02
+  srbobran: 1
+  futog: 1
+3885:
+  title: VU - PANORAMA BOJANKA
+  price: 199.01
+  srbobran: 2
+  futog: 2
+3886:
+  title: VU - PIŠI-BRIŠI
+  price: 599.03
+  srbobran: 2
+  futog: 2
+3887:
+  title: VU - PRIČE ZA DECU
+  price: 799.01
+  srbobran: 3
+  futog: 3
+3888:
+  title: VU - PRVIH 100 REČI
+  price: 699.01
+  srbobran: 3
+  futog: 3
+3889:
+  title: VU - RASTIMO BEZBRIŽNO
+  price: 599.03
+  srbobran: 4
+  futog: 4
+3890:
+  title: VU - U MOJOJ ULICI
+  price: 499.02
+  srbobran: 2
+  futog: 2
+3891:
+  title: VU - UPOZNAJ I NAUČI
+  price: 599.03
+  srbobran: 2
+  futog: 2
+3892:
+  title: VU - VELIKA KNJIGA PITANJA I ODGOVORA SA PROZORČIĆIMA
+  price: 1399.02
+  srbobran: 2
+  futog: 2
+3893:
+  title: VU - ZANIMLJIVI VODIČ - 101 ČINJENICA O FUDBALU I DRUGIM SPORTOVIMA
+  price: 1299.03
+  srbobran: 1
+  futog: 1
+3894:
+  title: VU - ZEKA PROTIV MAJMUNA
+  price: 1199.02
+  srbobran: 1
+  futog: 1
+3895:
+  title: VU - ZRNCE KARTICE - UČIMO ENGLESKI 3-5
+  price: 499.02
+  srbobran: 1
+  futog: 1
+3896:
+  title: VU - ZRNCE KARTICE - UČIMO NEMAČKI 3-5
+  price: 499.02
+  srbobran: 1
+  futog: 1
+3903:
+  title: VU - ANŽELIK
+  price: 1199.02
+  futog: 1
+3905:
+  title: VU - DA SAM JOJ REKAO
+  price: 1199.02
+  futog: 1
+3906:
+  title: VU - DECA ZLA
+  price: 1399.02
+  futog: 0
+3907:
+  title: VU - DERVIŠ I SMRT
+  price: 1099.02
+  futog: 1
+3908:
+  title: VU - DOBRE DEVOJKE - PRVO UBISTVO
+  price: 1090.02
+  futog: 1
+3909:
+  title: VU - FRANCUSKA SVILA
+  price: 1299.03
+  futog: 1
+3910:
+  title: VU - HODAM U SNU
+  price: 1499.04
+  futog: 1
+3911:
+  title: VU - JOŠ NISAM MRTVA
+  price: 1299.03
+  futog: 1
+3912:
+  title: VU - KAFE PIKANTNA BUNDEVICA
+  price: 1299.03
+  futog: 1
+3913:
+  title: VU - KAKO ZADOBITI PRIJATELJE I UTICATI NA LJUDE - DOPUNJENO IZDANJE
+  price: 1199.02
+  futog: 1
+3914:
+  title: VU - KALUĐER KOJI JE PRODAO SVOJ FERARI
+  price: 1199.02
+  futog: 1
+3915:
+  title: VU - KNJIŽARA CIMET ROLNICA
+  price: 1299.03
+  futog: 1
+3916:
+  title: VU - KUĆA BEZ SEĆANJA
+  price: 1199.0
+  futog: 1
+3919:
+  title: VU - KUĆNA POMOĆNICA TE POSMATRA
+  price: 1099.02
+  futog: 1
+3920:
+  title: VU - KUĆNA POMOĆNICA
+  price: 1099.02
+  futog: 0
+3921:
+  title: VU - LISTA
+  price: 1199.02
+  futog: 1
+3922:
+  title: VU - MANIFESTUJ - ZARONI DUBLJE
+  price: 999.02
+  futog: 1
+3923:
+  title: VU - NIKAD NE LAŽI
+  price: 1099.02
+  futog: 1
+3924:
+  title: VU - OKRUŽEN NARCISIMA
+  price: 1199.02
+  futog: 1
+3925:
+  title: VU - OSTRVO PELIKANA
+  price: 1399.02
+  futog: 0
+3926:
+  title: VU - POD TUĐIM SUNCEM
+  price: 1399.02
+  futog: 0
+3927:
+  title: VU - PRIZNANJE
+  price: 1399.03
+  futog: 0
+3928:
+  title: VU - SVE ŠTO ČUVAMO SAMO ZA SEBE
+  price: 1299.03
+  futog: 1
+3929:
+  title: VU - TAJNA KUĆNE POMOĆNICE
+  price: 1099.02
+  futog: 1
+3932:
+  title: VU - UKLJUČI SE U IGRU
+  price: 1499.04
+  futog: 1
+3933:
+  title: VU - VASPITANJE LEPTIRA
+  price: 1299.03
+  futog: 1
+3936:
+  title: VU - VEŽI ME ČVRSTO
+  price: 1499.04
+  futog: 1
+3937:
+  title: VU - VIŠE NIKAD DOBRA DEVOJKA
+  price: 1399.02
+  futog: 1
+3938:
+  title: PČ - ARČI I DORA - LETNJA ZABAVA
+  price: 750.01
+  futog: 1
+3939:
+  title: PČ - BONTON - BOJANA JOVANOVIĆ
+  price: 550.01
+  futog: 1
+3940:
+  title: PČ - JOŠ SAMO OVO DA TI KAŽEM - OLIVERA NEDELJKOVIĆ
+  price: 680.02
+  futog: 1
+3941:
+  title: 'PČ - KAD ZEMLJA SPAVA - GORAN MARKOVIĆ '
+  price: 850.0
+  futog: 1
+3942:
+  title: PČ - MORSKI ČISTKO - NIKOLETA NOVAK
+  price: 1580.03
+  futog: 1
+3943:
+  title: PČ - STEFAN NEMANJA DOBIJA SINA RASTKA
+  price: 580.01
+  futog: 1
+3944:
+  title: PČ - VEŠTICA NOĆKA U POTRAZI ZA - ALEKSANDRA FILIPOVIĆ
+  price: 980.01
+  futog: 1
+3945:
+  title: PČ - VISOKO DO ZVEZDA - ALEKSANDRA ČOTRIĆ
+  price: 980.01
+  futog: 1
+3949:
+  title: L - RODITELJI KUĆNIH LJUBIMACA - MILICA VUČKOVIĆ
+  price: 999.02
+  futog: 1
+3951:
+  title: L - SVI ZNAKOVI - DŽESI ROZEN
+  price: 999.02
+  futog: 0
+3952:
+  title: L - GRČKA TAJNA - FRANČESKA KETLOU
+  price: 1199.02
+  futog: 1
+3953:
+  title: L - OVA KNJIGA ME JE PODSETILA NA TEBE - LIBI PEJDŽ
+  price: 1099.03
+  futog: 1
+3954:
+  title: L - LETO KAD JE NESTALA SARA LEROJ - MARI VAREJ
+  price: 999.02
+  futog: 1
+3955:
+  title: L - KROJAČEV SIN - JELENA BAČIĆ ALIMPIĆ
+  price: 1099.02
+  srbobran: 0
+  futog: 0
+3956:
+  title: L - MALA CVEĆARA U TOKIJU - JUKIHISA JAMAMOTO
+  price: 849.01
+  futog: 1
+3957:
+  title: L - PUTER - ASAKO JUZUKI
+  price: 1499.04
+  futog: 1
+3958:
+  title: L - UZNEMIRENI LJUDI - FREDRIK BAKMAN
+  price: 1199.02
+  futog: 1
+3961:
+  title: KC - ZARE CAR.IDEMO!
+  price: 900.0
+  futog: 1
+3962:
+  title: KC- ZARE CAR2. AAAIAAAAIAAAAAA!
+  price: 900.0
+  futog: 1
 3963:
-  title: 'L - '
+  title: KC - MIS MACA 1 - SLUČAJ KANARINAC
+  price: 1250.0
+  futog: 1
+3964:
+  title: KC - MIS MACA 2 - SLUČAJ OFARBANI VILENJAK
+  price: 1250.0
+  futog: 1
 3966:
-  title: 'L - '
+  title: KC - VIŠNJA NA SELU
   price: 399.0
   srbobran: 0
+  futog: 1
+3967:
+  title: KC - PIP I POZI - ROĐENDANSKO SLAVLJE
+  price: 1050.01
+  futog: 2
+3968:
+  title: KC - PIP I POZI - NOVI DRUGAR
+  price: 1050.01
+  futog: 2
+3970:
+  title: KC - GROZONOVO DETE - NOVO IZDANJE - MEKI POVEZ
+  price: 1050.01
+  futog: 2
+3971:
+  title: KC - PIP I POZI - SLIKOVNI REČNIK
+  price: 2250.02
+  futog: 1
+3977:
+  title: PČ - PAPIRNA ESKADRILA - VESNA ALEKSIĆ
+  price: 1180.01
+  futog: 1
+3978:
+  title: PČ - ŠKRABALICA NOVA - MAJA KORAKSIĆ
+  price: 650.02
+  futog: 1
 4085:
   title: 'L - '
   price: 499.0
@@ -8423,7 +9269,7 @@
 4466:
   title: PP - GUSARI - 25 ČUDESNIH LAVIRINATA
   price: 299.0
-  futog: 1
+  futog: 0
 4467:
   title: PP - JEDNOROZI - 30 ČUDESNIH LAVIRINATA
   price: 299.0
@@ -8607,5 +9453,5 @@
 4509:
   title: PP - DRUGARI SE SAKRIVAJU - FARMA
   price: 299.0
-  srbobran: 1
+  srbobran: 0
   futog: 1

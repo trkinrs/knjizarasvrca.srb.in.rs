@@ -2,12 +2,12 @@
 14:
   title: PODMETAČ A/4
   price: 30.0
-  srbobran: 21
-  futog: 9
+  srbobran: 27
+  futog: 59
 15:
   title: SIGNIR PELIKAN
   price: 150.0
-  srbobran: 26
+  srbobran: 23
   futog: 0
 16:
   title: DRVENA BOJA 1/12 CC
@@ -17,52 +17,52 @@
 24:
   title: UVIJAČ A/4 SAMOLEPLJIV
   price: 40.0
-  srbobran: 236
-  futog: 125
+  srbobran: 26
+  futog: 12
 26:
   title: NOTNA SVESKA A/4
   price: 150.0
-  srbobran: 4
-  futog: 10
+  srbobran: 1
+  futog: 12
 29:
   title: BLOK IV
   price: 90.0
-  srbobran: 7
-  futog: 9
+  srbobran: 29
+  futog: 27
 30:
   title: BLOK V
   price: 150.0
-  srbobran: 11
-  futog: 42
+  srbobran: 73
+  futog: 41
 32:
   title: KOLAŽ B/5 SL
-  price: 130.0
-  srbobran: 7
-  futog: 18
+  price: 150.0
+  srbobran: 23
+  futog: 21
 42:
   title: TO 0,5 PILOT
   price: 240.0
-  srbobran: 8
-  futog: 9
+  srbobran: 7
+  futog: 6
 43:
   title: OHO LEPAK 40G
   price: 220.0
-  srbobran: 6
+  srbobran: 0
   futog: 28
 46:
   title: TOUGAO PVC
   price: 49.0
   srbobran: 4
-  futog: 3
+  futog: 2
 50:
   title: LENJIR 15/17CM
   price: 30.0
-  srbobran: 3
+  srbobran: 2
   futog: 2
 51:
   title: LENJIR 30CM
   price: 50.0
-  srbobran: 5
+  srbobran: 4
   futog: 5
 52:
   title: LENJIR 50CM
@@ -71,7 +71,7 @@
 53:
   title: LENJIR 40CM
   price: 170.0
-  srbobran: 1
+  srbobran: 0
   futog: 1
 55:
   title: UGALJ ZA CRTANJE 1/1
@@ -85,13 +85,13 @@
 57:
   title: UVIJAČ A/5
   price: 20.0
-  srbobran: 395
-  futog: 100
+  srbobran: 215
+  futog: 69
 58:
   title: UVIJAČ A/4
   price: 50.0
-  srbobran: 39
-  futog: 45
+  srbobran: 9
+  futog: 40
 59:
   title: TABLA PLUTA
   price: 25.0
@@ -104,12 +104,12 @@
   title: KESA ZA BLOK V
   price: 75.0
   srbobran: 41
-  futog: 49
+  futog: 47
 65:
   title: TEMPERA 1/12 6ML
   price: 260.0
-  srbobran: 10
-  futog: 3
+  srbobran: 6
+  futog: 0
 66:
   title: TEMPERA 1/1 16ML
   price: 99.0
@@ -117,7 +117,7 @@
 67:
   title: TEMPERA 1/1 45ML
   price: 140.0
-  srbobran: 15
+  srbobran: 13
 68:
   title: TEMPERA 1/1 16ML
   price: 50.0
@@ -125,41 +125,42 @@
 70:
   title: TEMPERA 1/1 16ML
   price: 85.0
-  srbobran: 21
+  srbobran: 20
 71:
-  title: SVESKA A/4 TP 500L
-  price: 1825.0
-  srbobran: 0
+  title: SVESKA A/5 52L
+  price: 70.0
+  srbobran: 305
+  futog: 375
 72:
   title: DRVENA BOJA 1/14
   price: 195.0
-  srbobran: 16
-  futog: 10
+  srbobran: 15
+  futog: 9
 73:
   title: TEMPERA 1/10 16ML
   price: 455.0
-  srbobran: 23
-  futog: 5
+  srbobran: 16
+  futog: 11
 76:
   title: DRVENA BOJA PASTEL 1/12
   price: 180.0
-  srbobran: 6
-  futog: 12
+  srbobran: 5
+  futog: 7
 77:
   title: VEŽBANKA
   price: 40.0
-  srbobran: 42
-  futog: 40
+  srbobran: 44
+  futog: 17
 84:
   title: DRVENA BOJA 1/12 STAEDTLER
   price: 465.0
   srbobran: 0
-  futog: 1
+  futog: 0
 85:
   title: ŠESTAR BLUE/PINK
   price: 310.0
-  srbobran: 8
-  futog: 3
+  srbobran: 4
+  futog: 1
 87:
   title: GUMICA JUMBO
   price: 80.0
@@ -167,32 +168,32 @@
 89:
   title: DAS MASA 500G
   price: 435.0
-  srbobran: 2
+  srbobran: 1
   futog: 2
 91:
   title: MINE 0,7 HB MEGAPOLIS
   price: 80.0
-  srbobran: 18
+  srbobran: 13
 92:
   title: TO MEGAPOLIS 0,5
   price: 95.0
-  srbobran: 0
-  futog: 4
+  srbobran: 25
+  futog: 18
 93:
   title: FLOMASTERI GIOTTO 1/12
   price: 360.0
-  srbobran: 7
-  futog: 13
+  srbobran: 11
+  futog: 8
 94:
   title: DRVENA BOJA 1/12 MAPED
   price: 440.0
   srbobran: 6
-  futog: 6
+  futog: 4
 95:
   title: DRVENA BOJA 1/12 SC
   price: 220.0
-  srbobran: 12
-  futog: 5
+  srbobran: 5
+  futog: 0
 96:
   title: TUŠ CRNI KOHINOOR
   price: 135.0
@@ -201,8 +202,8 @@
 97:
   title: PATRONA 1/1
   price: 10.0
-  srbobran: 25
-  futog: 9
+  srbobran: 15
+  futog: 0
 98:
   title: OL STAEDTLER NORIS
   price: 99.0
@@ -210,17 +211,17 @@
 99:
   title: OL HB STABILO NEON
   price: 50.0
-  srbobran: 49
-  futog: 48
+  srbobran: 14
+  futog: 44
 103:
   title: OL HB SC
   price: 30.0
-  srbobran: 13
+  srbobran: 4
 104:
   title: TO 0,5 EK
   price: 70.0
-  srbobran: 8
-  futog: 4
+  srbobran: 6
+  futog: 3
 107:
   title: OL B-H KOHINOOR
   price: 60.0
@@ -242,12 +243,12 @@
 115:
   title: OL HB ART
   price: 40.0
-  srbobran: 80
-  futog: 52
+  srbobran: 73
+  futog: 50
 121:
   title: MINE 0,5 STAEDTLER
   price: 135.0
-  srbobran: 16
+  srbobran: 3
 123:
   title: MINE 0,5 HB STABILO DUPLE
   price: 120.0
@@ -255,48 +256,49 @@
 124:
   title: MINE 0,7 HB STABILO
   price: 140.0
-  srbobran: 1
+  srbobran: 0
 125:
   title: MINE 0,5 HB KOHINOOR
   price: 55.0
-  srbobran: 11
+  srbobran: 0
 127:
   title: MINE 0,5 HB/B/2B SC
   price: 30.0
   srbobran: 3
-  futog: 10
+  futog: 3
 130:
   title: PRVARICA
   price: 190.0
   srbobran: 1
-  futog: 1
+  futog: 0
 132:
   title: GUMICA SOFTY
   price: 95.0
-  srbobran: 13
-  futog: 9
-133:
-  title: GUMICA SC-319
-  price: 90.0
   srbobran: 1
+  futog: 1
+133:
+  title: GUMICA OF 228
+  price: 30.0
+  srbobran: 15
+  futog: 28
 134:
   title: GUMICA OF
   price: 60.0
   srbobran: 0
-  futog: 35
+  futog: 13
 135:
   title: GUMICA STABILO
   price: 40.0
-  srbobran: 19
+  srbobran: 16
 137:
   title: SEGMENTNA OLOVKA
   price: 40.0
-  srbobran: 4
+  srbobran: 3
 138:
   title: GUMICA SOFTY MINI
   price: 45.0
-  srbobran: 6
-  futog: 11
+  srbobran: 45
+  futog: 6
 139:
   title: MINE 2MM
   price: 80.0
@@ -309,33 +311,33 @@
 142:
   title: REZAČ MAPED MINI BOOGY
   price: 60.0
-  srbobran: 0
-  futog: 20
+  srbobran: 45
+  futog: 45
 143:
   title: TEMPERA 42ML
   price: 190.0
-  srbobran: 31
-  futog: 6
+  srbobran: 23
+  futog: 5
 145:
   title: ŠESTAR SC
   price: 130.0
-  srbobran: 14
-  futog: 12
+  srbobran: 20
+  futog: 20
 147:
   title: REZAČ YL 231687
   price: 30.0
-  srbobran: 15
-  futog: 16
+  srbobran: 10
+  futog: 11
 148:
   title: LEPAK STICK 10G
-  price: 120.0
-  srbobran: 0
-  futog: 36
+  price: 90.0
+  srbobran: 15
+  futog: 11
 157:
   title: NP
   price: 90.0
-  srbobran: 3
-  futog: 3
+  srbobran: 1
+  futog: 1
 162:
   title: ŠESTAR MAPED STOP
   price: 550.0
@@ -348,27 +350,28 @@
 174:
   title: MILIMETARSKI BLOK A/3
   price: 275.0
-  srbobran: 8
+  srbobran: 7
   futog: 4
 175:
   title: HAMER A/3 BELI
   price: 40.0
   srbobran: 0
-  futog: 73
+  futog: 71
 177:
   title: HAMER B/1 BOJA
   price: 170.0
-  srbobran: 30
-  futog: 39
+  srbobran: 23
+  futog: 38
 178:
   title: HAMER B/1 BELI
   price: 80.0
   srbobran: 0
   futog: 0
 179:
-  title: TO AH 0,5
+  title: TO LINC 0,5
   price: 90.0
-  srbobran: 1
+  srbobran: 7
+  futog: 6
 182:
   title: ČETKICA PL-12
   price: 90.0
@@ -376,7 +379,7 @@
 184:
   title: LEPAK OF STICK 21G
   price: 90.0
-  srbobran: 2
+  srbobran: 0
 189:
   title: ČETKICA PL-4
   price: 40.0
@@ -395,58 +398,59 @@
   srbobran: 0
 196:
   title: SET ČETKICA 1/6
-  price: 320.0
-  srbobran: 5
-  futog: 6
+  price: 345.0
+  srbobran: 10
+  futog: 15
 207:
   title: TO PENTEL 0,5
-  price: 110.0
-  srbobran: 0
+  price: 125.0
+  srbobran: 22
+  futog: 21
 210:
   title: GUMICA B-20
   price: 140.0
   srbobran: 0
-  futog: 25
+  futog: 16
 220:
   title: FLAŠICA ZA VODU AL
   price: 499.0
   srbobran: 0
-  futog: 1
+  futog: 0
 223:
   title: MINE 0,5 MEGAPOLIS
   price: 80.0
-  srbobran: 6
-  futog: 16
+  srbobran: 0
+  futog: 11
 224:
-  title: MINE 0,5 2B STABILO DUPLE
-  price: 150.0
-  srbobran: 1
-  futog: 0
+  title: MINE ZA ŠESTAR 4872
+  price: 130.0
+  srbobran: 3
+  futog: 5
 228:
   title: PLASTELIN 1/10 SPEKTRA
   price: 130.0
-  srbobran: 5
+  srbobran: 0
   futog: 2
 233:
   title: OL HB SC
   price: 30.0
   srbobran: 0
-  futog: 45
+  futog: 22
 261:
   title: MINE 0,5 HB CONNECT
   price: 40.0
-  srbobran: 12
-  futog: 12
+  srbobran: 0
+  futog: 9
 266:
   title: REZAČ YL 241606
   price: 150.0
-  srbobran: 8
-  futog: 11
+  srbobran: 7
+  futog: 8
 273:
   title: GUMICA B-30
   price: 100.0
-  srbobran: 29
-  futog: 39
+  srbobran: 10
+  futog: 34
 277:
   title: TUŠ U BOJI 1/6
   price: 695.0
@@ -455,12 +459,12 @@
 278:
   title: REZAČ IGLOO 2
   price: 210.0
-  srbobran: 27
+  srbobran: 19
   futog: 30
 279:
   title: MINE 0,5 HB STABILO
   price: 120.0
-  srbobran: 17
+  srbobran: 0
   futog: 18
 316:
   title: HAMER A/4 ZAGLAVLJE
@@ -469,12 +473,13 @@
 331:
   title: TO 0,5 SC
   price: 45.0
-  srbobran: 6
+  srbobran: 5
   futog: 5
 335:
-  title: SET ČETKICE 1/3
-  price: 150.0
-  srbobran: 1
+  title: SET ČETKICA 1/3
+  price: 110.0
+  srbobran: 8
+  futog: 8
 354:
   title: BLOK FLAUTA
   price: 350.0
@@ -504,7 +509,7 @@
 408:
   title: UDARALJKE ZA METALOFON
   price: 120.0
-  srbobran: 2
+  srbobran: 0
   futog: 4
 420:
   title: PLOČA ZA LINOREZ
@@ -517,13 +522,13 @@
 497:
   title: ŠTILO ZA PERO
   price: 80.0
-  srbobran: 30
-  futog: 10
+  srbobran: 25
+  futog: 15
 500:
   title: SET LENJIRA 1/4
   price: 255.0
-  srbobran: 3
-  futog: 6
+  srbobran: 0
+  futog: 5
 511:
   title: ISTORIJSKI ATLAS
   price: 675.0
@@ -532,13 +537,13 @@
 521:
   title: TEMPERA 1/12 12ML
   price: 365.0
-  srbobran: 18
-  futog: 6
+  srbobran: 11
+  futog: 11
 527:
   title: UVIJAČ A/4
   price: 30.0
-  srbobran: 500
-  futog: 200
+  srbobran: 5
+  futog: 7
 546:
   title: HAMER A/3 BOJA
   price: 25.0
@@ -546,52 +551,54 @@
 561:
   title: 'TO BLACK POINTER 0,5 '
   price: 140.0
-  srbobran: 3
-  futog: 7
+  srbobran: 19
+  futog: 30
 581:
-  title: LEPAK OF
-  price: 50.0
-  srbobran: 0
+  title: LEPAK STICK OF 9G
+  price: 60.0
+  srbobran: 3
+  futog: 1
 603:
   title: ŠESTAR SC
   price: 450.0
   srbobran: 3
-  futog: 2
+  futog: 1
 619:
   title: DRVENA BOJA 1/12 GIOTTO
   price: 360.0
-  srbobran: 3
+  srbobran: 1
   futog: 0
 622:
-  title: LEPAK ŠLJOKICE
-  price: 35.0
-  srbobran: 0
+  title: OHO LEPAK 40G
+  price: 170.0
+  srbobran: 23
+  futog: 22
 670:
   title: OHO LEPAK 20G
   price: 160.0
   srbobran: 11
-  futog: 34
+  futog: 28
 697:
   title: OL HB MAPED
   price: 40.0
-  srbobran: 16
-  futog: 87
+  srbobran: 2
+  futog: 53
 704:
   title: SET ČETKICA 1/3
   price: 95.0
-  srbobran: 3
-  futog: 4
+  srbobran: 5
+  futog: 2
 726:
   title: ČETKICA PL-6
 745:
   title: POSTER
   price: 99.0
-  srbobran: 20
-  futog: 15
+  srbobran: 19
+  futog: 11
 749:
   title: UVIJAČ A5 SL
   price: 20.0
-  srbobran: 21
+  srbobran: 16
 798:
   title: UGLOMER
   price: 30.0
@@ -600,46 +607,47 @@
 807:
   title: OL HB SC
   price: 30.0
-  srbobran: 16
+  srbobran: 1
 826:
   title: DRVENA BOJA 1/12 STAEDTLER
   price: 295.0
-  srbobran: 9
-  futog: 10
+  srbobran: 6
+  futog: 9
 880:
-  title: REZAČ SC
-  price: 75.0
-  srbobran: 0
+  title: REZAČ GUMICA SC2724
+  price: 110.0
+  srbobran: 14
+  futog: 8
 889:
   title: DNEVNIK PRAKSE
   price: 220.0
-  srbobran: 6
+  srbobran: 5
   futog: 1
 892:
   title: REZAČ MAPED METALNI
   price: 120.0
-  srbobran: 4
-  futog: 16
+  srbobran: 10
+  futog: 26
 893:
   title: DRVENA BOJA 1/24 SC
   price: 465.0
-  srbobran: 1
-  futog: 1
+  srbobran: 0
+  futog: 0
 898:
   title: GUMICA B-40
   price: 70.0
-  srbobran: 38
-  futog: 60
+  srbobran: 23
+  futog: 36
 909:
   title: GUMICA ZA AKTA 50G
   price: 120.0
-  srbobran: 6
+  srbobran: 3
   futog: 1
 917:
   title: FLOMASTERI OBOSTRANI SC
   price: 360.0
   srbobran: 6
-  futog: 6
+  futog: 5
 924:
   title: FLAŠICA ZA VODU PVC
   price: 425.0
@@ -652,17 +660,17 @@
 946:
   title: REZAČ METALNI MAPED SATELIT
   price: 130.0
-  srbobran: 13
-  futog: 16
+  srbobran: 5
+  futog: 15
 949:
   title: REZAČ IGLOO 1
   price: 130.0
-  srbobran: 29
-  futog: 44
+  srbobran: 16
+  futog: 35
 955:
   title: FLOMASTERI 1/12 SC
   price: 240.0
-  srbobran: 3
+  srbobran: 2
   futog: 0
 958:
   title: ČETKICA PL-0/2
@@ -675,18 +683,18 @@
 968:
   title: OL HB NORIS
   price: 90.0
-  srbobran: 18
-  futog: 61
+  srbobran: 0
+  futog: 51
 988:
   title: MATEMATIČKI LENJIR
   price: 70.0
   srbobran: 18
-  futog: 6
+  futog: 14
 991:
   title: BLOK III
   price: 80.0
-  srbobran: 21
-  futog: 10
+  srbobran: 20
+  futog: 3
 993:
   title: GUMICA PIŠI-BRIŠI
   price: 55.0
@@ -694,23 +702,23 @@
 997:
   title: GLINA 500G
   price: 180.0
-  srbobran: 4
+  srbobran: 3
   futog: 3
 998:
   title: PLASTELIN 1/10
-  price: 120.0
-  srbobran: 0
-  futog: 10
+  price: 220.0
+  srbobran: 5
+  futog: 3
 1003:
   title: OL HB PEPS GUMICA
   price: 50.0
-  srbobran: 79
-  futog: 125
+  srbobran: 40
+  futog: 101
 1012:
   title: SET LENJIRA FLEX 1/4
   price: 180.0
   srbobran: 2
-  futog: 2
+  futog: 0
 1018:
   title: SET DRVENIH BOJICA PAINTER
   price: 299.0
@@ -724,16 +732,17 @@
   title: LENJIR FLEXY 30CM
   price: 60.0
   srbobran: 16
-  futog: 15
+  futog: 13
 1083:
   title: MINE ZA ŠESTAR 2MM
   price: 90.0
-  futog: 10
+  srbobran: 4
+  futog: 6
 1088:
   title: MINE 0,5 HB MAPED
   price: 90.0
-  srbobran: 5
-  futog: 17
+  srbobran: 0
+  futog: 9
 1089:
   title: KREDA ZA TEKSTIL BELA 1/1
   price: 30.0
@@ -742,7 +751,7 @@
 1091:
   title: NALEPNICE ZA SVESKE
   price: 45.0
-  srbobran: 53
+  srbobran: 35
 1095:
   title: ČETKICA AK-2
   price: 30.0
@@ -759,12 +768,12 @@
   title: HO ROTRING 0,5
   price: 610.0
   srbobran: 0
-  futog: 5
+  futog: 4
 1176:
   title: LEPAK TEČNI OF
   price: 80.0
-  srbobran: 42
-  futog: 12
+  srbobran: 28
+  futog: 23
 1187:
   title: TEMPERA U STICKU PASTEL 1/10
   price: 750.0
@@ -774,7 +783,7 @@
   title: GUMICA SC
   price: 75.0
   srbobran: 3
-  futog: 4
+  futog: 1
 1200:
   title: SKICEN BLOK
   price: 70.0
@@ -783,7 +792,7 @@
 1205:
   title: START RAM
   price: 540.0
-  srbobran: 2
+  srbobran: 1
   futog: 1
 1206:
   title: GUMICA OF
@@ -796,11 +805,11 @@
   title: DRVENA BOJA MAGIC 1/1
   price: 180.0
   srbobran: 9
-  futog: 9
+  futog: 6
 1251:
   title: TESTERICE 1/12
   price: 80.0
-  srbobran: 8
+  srbobran: 7
   futog: 26
 1264:
   title: ŠESTAR SC PROFI
@@ -820,13 +829,13 @@
 1296:
   title: FLAŠICA ZA VODU URBAN
   price: 895.0
-  srbobran: 1
-  futog: 3
+  srbobran: 0
+  futog: 1
 1307:
   title: ŠESTAR MAPED
   price: 390.0
-  srbobran: 4
-  futog: 3
+  srbobran: 1
+  futog: 1
 1318:
   title: LENJIR 30CM
   price: 880.0
@@ -835,23 +844,24 @@
   title: FLOMASTERI 1/12 JUMBO
   price: 280.0
   srbobran: 5
-  futog: 3
+  futog: 2
 1348:
   title: UVIJAČ B5+
   price: 50.0
-  srbobran: 50
-  futog: 16
+  srbobran: 19
+  futog: 4
 1385:
   title: ČETKICA PL-8
 1390:
   title: ČETKICA PL-14
   price: 80.0
   srbobran: 24
+  futog: 0
 1403:
   title: RASPORED ČASOVA
   price: 30.0
-  srbobran: 8
-  futog: 5
+  srbobran: 32
+  futog: 21
 1414:
   title: BLOKČIĆ
   price: 135.0
@@ -859,7 +869,7 @@
 1435:
   title: REZAČ MAPED VIVO
   price: 60.0
-  srbobran: 4
+  srbobran: 0
 1466:
   title: SEGMENTNA OLOVKA
 1486:
@@ -871,23 +881,23 @@
 1496:
   title: PODMETAČ A/5
   price: 20.0
-  srbobran: 75
+  srbobran: 73
   futog: 18
 1500:
   title: KARTA SRBIJE
   price: 310.0
   srbobran: 5
-  futog: 5
+  futog: 4
 1517:
   title: ČAŠA ZA LIKOVNO
   price: 140.0
-  srbobran: 4
-  futog: 3
+  srbobran: 10
+  futog: 8
 1527:
   title: REČNIK A/6 2/3 KOLONE
   price: 40.0
-  srbobran: 10
-  futog: 8
+  srbobran: 8
+  futog: 6
 1808:
   title: METALOFON ŠKOLSKI SREDNJI
   price: 2750.0
@@ -900,14 +910,14 @@
 1878:
   title: PALETA ZA LIKOVNO
   price: 80.0
-  srbobran: 6
-  futog: 5
+  srbobran: 16
+  futog: 14
 1892:
   title: PALETA
 1927:
   title: OTO PLOČA
   price: 190.0
-  srbobran: 20
+  srbobran: 10
   futog: 7
 1932:
   title: ČAŠA ZA OLOVKE DIZNI
@@ -931,43 +941,43 @@
 1997:
   title: DVOBOJAC KOH-I-NOOR
   price: 60.0
-  srbobran: 3
-  futog: 12
+  srbobran: 7
+  futog: 24
 2003:
   title: BLOKČIĆ A/6 S
   price: 80.0
   srbobran: 0
 2017:
-  title: VOŠTANE BOJE 1/12 SC
+  title: 'VOŠTANE BOJE 1/12 '
   price: 85.0
-  srbobran: 10
-  futog: 8
+  srbobran: 19
+  futog: 15
 2021:
   title: VOŠTANE BOJE 1/12 JUMBO SC
   price: 160.0
-  srbobran: 2
+  srbobran: 1
 2043:
   title: MUŠEMA ZA LIKOVNO
-  price: 100.0
-  srbobran: 2
-  futog: 3
+  price: 120.0
+  srbobran: 8
+  futog: 13
 2047:
   title: MUZIČKI ŠTAPIĆI
   price: 180.0
-  srbobran: 4
+  srbobran: 2
   futog: 1
 2104:
   title: HAMER A/4 BOJA
   price: 20.0
-  srbobran: 152
+  srbobran: 151
   futog: 56
 2105:
   title: DRVENA BOJA MAPED 12+12
 2107:
   title: VODENE BOJE 1/12 SC
   price: 225.0
-  srbobran: 6
-  futog: 7
+  srbobran: 11
+  futog: 14
 2114:
   title: GUMICA SC
   price: 20.0
@@ -975,13 +985,13 @@
 2119:
   title: TO MARS 0,5
   price: 240.0
-  srbobran: 6
-  futog: 9
+  srbobran: 5
+  futog: 5
 2125:
   title: RAČUNALJKA PVC
   price: 430.0
   srbobran: 2
-  futog: 2
+  futog: 1
 2164:
   title: ČETKICA PL-14
   price: 60.0
@@ -990,7 +1000,7 @@
   title: MINE 0,7 SC
   price: 40.0
   srbobran: 0
-  futog: 49
+  futog: 48
 2186:
   title: TEMPERA BRILLIO
   price: 60.0
@@ -1001,29 +1011,29 @@
   title: TROUGAO WIMBO
   price: 115.0
   srbobran: 8
-  futog: 7
+  futog: 6
 2200:
   title: OL HB FC
   price: 120.0
-  srbobran: 23
+  srbobran: 0
   futog: 21
 2201:
   title: FLOMASTER CP AG/AU
   price: 120.0
-  srbobran: 8
-  futog: 10
+  srbobran: 7
+  futog: 7
 2205:
   title: GUMICA FC NATUR
   price: 20.0
-  srbobran: 14
+  srbobran: 12
 2212:
   title: KREDE ZA BETON
   price: 160.0
-  srbobran: 2
+  srbobran: 1
 2226:
   title: TO DELTA 0,5
   price: 50.0
-  srbobran: 1
+  srbobran: 0
 2228:
   title: NALIV PERO OF
   price: 150.0
@@ -1036,17 +1046,17 @@
 2275:
   title: TO SCOOL COOL 0,5
   price: 50.0
-  srbobran: 9
-  futog: 19
+  srbobran: 34
+  futog: 57
 2289:
   title: OL HB CENTROPEN
   price: 25.0
-  futog: 17
+  futog: 0
 2440:
   title: OL HB CENTROPEN SA GUMICOM
   price: 30.0
   srbobran: 0
-  futog: 3
+  futog: 0
 2518:
   title: ČETKICA PL-10
   price: 70.0
@@ -1054,8 +1064,8 @@
 2557:
   title: GEOGRAFSKI ATLAS
   price: 1550.0
-  srbobran: 1
-  futog: 2
+  srbobran: 0
+  futog: 1
 2558:
   title: GEOGRAFSKI ATLAS M
   price: 1450.0
@@ -1092,12 +1102,12 @@
 2620:
   title: KARTA SRBIJE
   price: 150.0
-  srbobran: 1
+  srbobran: 0
 2705:
   title: DRVENA BOJA 1/12 OBOSTRANA
   price: 299.0
   srbobran: 4
-  futog: 2
+  futog: 1
 2751:
   title: KRIVULJARI
   price: 150.0
@@ -1105,7 +1115,7 @@
 2797:
   title: SIGNIR STAEDTLER
   price: 125.0
-  futog: 59
+  futog: 56
 2857:
   title: GUMICA OF
   price: 15.0
@@ -1113,13 +1123,13 @@
 2989:
   title: NOTNA SVESKA B/5
   price: 40.0
-  srbobran: 11
-  futog: 7
+  srbobran: 2
+  futog: 25
 3036:
   title: TORBA ZA BLOK V
   price: 199.0
-  srbobran: 30
-  futog: 15
+  srbobran: 42
+  futog: 30
 3133:
   title: TO+REZAC ST
   price: 730.0
@@ -1142,8 +1152,8 @@
 3408:
   title: NALEPNICE ZA SVESKE 30/1
   price: 100.0
-  srbobran: 20
-  futog: 17
+  srbobran: 1
+  futog: 1
 3616:
   title: FLOMASTER 2549/10 MAGIČNI
   price: 350.0
@@ -1152,12 +1162,12 @@
 3617:
   title: HAMER B1 BELI 250G
   price: 140.0
-  srbobran: 5
+  srbobran: 0
   futog: 7
 3624:
   title: 'HAMER A/4 '
   price: 20.0
-  srbobran: 34
+  srbobran: 33
   futog: 34
 3628:
   title: OL HB MINERVA
@@ -1176,17 +1186,36 @@
   title: CETKICA PL-2
   price: 30.0
   srbobran: 6
-3778:
-  title: TO CONNECT 0,7
-  price: 30.0
-  srbobran: 0
 3835:
   title: HAMER B/1 BOJA
   price: 170.0
-  srbobran: 6
+  srbobran: 5
   futog: 0
-3970:
-  title: HO SC
+3946:
+  title: GEOMETRIJSKI SET VEĆI
+  price: 130.0
+  srbobran: 8
+  futog: 12
+3947:
+  title: REZAČ GUMICA SC 3513
+  price: 80.0
+  srbobran: 16
+  futog: 19
+3948:
+  title: FLOMASTERI SPEKTRA 1/12
+  price: 130.0
+  srbobran: 9
+  futog: 11
+3959:
+  title: PLASTELIN 10/1 PAPYLLON
+  price: 150.0
+  srbobran: 15
+  futog: 15
+3960:
+  title: RAČUNALJKA PAPYLLON
+  price: 330.0
+  srbobran: 5
+  futog: 4
 4078:
   title: PERIODNI SISTEM A/4
   price: 40.0

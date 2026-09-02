@@ -1,5 +1,5 @@
 ---
 layout: article
-title: VU - SERLOK NJUSKALOMS
+title: VU - ŠERLOK NJUŠKALOMS
 sku: 3857
 ---

@@ -2,8 +2,8 @@
 9:
   title: BALON SB10P 23CM
   price: 30.0
-  srbobran: 379
-  futog: 345
+  srbobran: 350
+  futog: 338
 10:
   title: BALLON TAILS HB SILVER
   price: 180.0
@@ -39,7 +39,7 @@
 40:
   title: 18*FBQ F/BALON/IF
   price: 380.0
-  srbobran: 9
+  srbobran: 8
   futog: 4
 44:
   title: BUBBLE BALON 22" ST/KAE
@@ -49,8 +49,8 @@
 45:
   title: GRABO SREDNJI BROJEVI
   price: 470.0
-  srbobran: 44
-  futog: 45
+  srbobran: 40
+  futog: 44
 54:
   title: PM*FP TRAKA 30MM
   price: 530.0
@@ -59,7 +59,7 @@
   title: PM*TEGIĆ SMAJLI PP 16G
   price: 60.0
   srbobran: 0
-  futog: 2
+  futog: 0
 61:
   title: HRV BUDUĆA MLADA
   price: 935.0
@@ -68,7 +68,7 @@
 64:
   title: FB - BROJ - PW
   price: 450.0
-  srbobran: 17
+  srbobran: 15
   futog: 11
 69:
   title: GRABO 18" PRINTED
@@ -106,12 +106,12 @@
 102:
   title: FB - HEART -  45CM
   price: 200.0
-  srbobran: 4
+  srbobran: 3
   futog: 4
 105:
   title: FB - STAR - 45CM
   price: 200.0
-  srbobran: 5
+  srbobran: 4
   futog: 5
 106:
   title: FB - CANDY - 45CM
@@ -134,13 +134,13 @@
 116:
   title: FB - BUTTERFLY - 69CM
   price: 420.0
-  srbobran: 3
+  srbobran: 1
   futog: 0
 117:
   title: FB - HAPPY BIRTHDAY - 45CM/46CM
   price: 350.0
   srbobran: 5
-  futog: 5
+  futog: 4
 120:
   title: FOLIJA BP 290
   price: 495.0
@@ -179,7 +179,7 @@
 159:
   title: VR PM TEG 170G
   price: 230.0
-  srbobran: 13
+  srbobran: 8
   futog: 0
 161:
   title: HOLOGRAPHIC 1ST B CUPCAKE PINK
@@ -220,7 +220,7 @@
 1347:
   title: HELLO WORLD
   price: 520.0
-  srbobran: 1
+  srbobran: 0
 1349:
   title: HEY BABY!
   price: 520.0
@@ -248,8 +248,8 @@
 1357:
   title: BALON 30CM
   price: 70.0
-  srbobran: 141
-  futog: 111
+  srbobran: 139
+  futog: 109
 1358:
   title: BRIDE TO BE GOLD 30CM
   price: 45.0
@@ -322,7 +322,7 @@
   title: GLOSSY BALLONS 30CM
   price: 60.0
   srbobran: 0
-  futog: 46
+  futog: 45
 1392:
   title: POSTOLJE ZA BALONE PARTY
   price: 5113.2

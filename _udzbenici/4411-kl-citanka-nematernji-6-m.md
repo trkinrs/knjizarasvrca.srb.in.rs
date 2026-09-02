@@ -1,5 +1,5 @@
 ---
 layout: article
-title: KL-CITANKA NEMATERNJI 6/M
+title: KL-ČITANKA NEMATERNJI 6/M
 sku: 4411
 ---
