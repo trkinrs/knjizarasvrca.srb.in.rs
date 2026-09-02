@@ -43,7 +43,7 @@
   title: TO 0,5 PILOT
   price: 240.0
   srbobran: 7
-  futog: 6
+  futog: 5
 43:
   title: OHO LEPAK 40G
   price: 220.0
@@ -410,7 +410,7 @@
   title: GUMICA B-20
   price: 140.0
   srbobran: 0
-  futog: 16
+  futog: 15
 220:
   title: FLAŠICA ZA VODU AL
   price: 499.0
@@ -420,7 +420,7 @@
   title: MINE 0,5 MEGAPOLIS
   price: 80.0
   srbobran: 0
-  futog: 11
+  futog: 10
 224:
   title: MINE ZA ŠESTAR 4872
   price: 130.0
@@ -552,7 +552,7 @@
   title: 'TO BLACK POINTER 0,5 '
   price: 140.0
   srbobran: 19
-  futog: 30
+  futog: 29
 581:
   title: LEPAK STICK OF 9G
   price: 60.0
@@ -1047,7 +1047,7 @@
   title: TO SCOOL COOL 0,5
   price: 50.0
   srbobran: 34
-  futog: 57
+  futog: 56
 2289:
   title: OL HB CENTROPEN
   price: 25.0
