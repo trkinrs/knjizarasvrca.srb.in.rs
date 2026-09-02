@@ -2,7 +2,7 @@
 14:
   title: PODMETAČ A/4
   price: 30.0
-  srbobran: 27
+  srbobran: 26
   futog: 59
 15:
   title: SIGNIR PELIKAN
@@ -85,7 +85,7 @@
 57:
   title: UVIJAČ A/5
   price: 20.0
-  srbobran: 215
+  srbobran: 209
   futog: 69
 58:
   title: UVIJAČ A/4
@@ -285,7 +285,7 @@
   title: GUMICA OF
   price: 60.0
   srbobran: 0
-  futog: 13
+  futog: 12
 135:
   title: GUMICA STABILO
   price: 40.0
@@ -321,7 +321,7 @@
 145:
   title: ŠESTAR SC
   price: 130.0
-  srbobran: 20
+  srbobran: 19
   futog: 20
 147:
   title: REZAČ YL 231687
@@ -404,7 +404,7 @@
 207:
   title: TO PENTEL 0,5
   price: 125.0
-  srbobran: 22
+  srbobran: 21
   futog: 21
 210:
   title: GUMICA B-20
@@ -459,7 +459,7 @@
 278:
   title: REZAČ IGLOO 2
   price: 210.0
-  srbobran: 19
+  srbobran: 18
   futog: 30
 279:
   title: MINE 0,5 HB STABILO
@@ -612,7 +612,7 @@
   title: DRVENA BOJA 1/12 STAEDTLER
   price: 295.0
   srbobran: 6
-  futog: 9
+  futog: 8
 880:
   title: REZAČ GUMICA SC2724
   price: 110.0
@@ -665,7 +665,7 @@
 949:
   title: REZAČ IGLOO 1
   price: 130.0
-  srbobran: 16
+  srbobran: 15
   futog: 35
 955:
   title: FLOMASTERI 1/12 SC
@@ -751,7 +751,7 @@
 1091:
   title: NALEPNICE ZA SVESKE
   price: 45.0
-  srbobran: 35
+  srbobran: 28
 1095:
   title: ČETKICA AK-2
   price: 30.0
