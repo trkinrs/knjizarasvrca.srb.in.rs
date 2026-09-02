@@ -86,7 +86,7 @@
   title: UVIJAČ A/5
   price: 20.0
   srbobran: 198
-  futog: 69
+  futog: 68
 58:
   title: UVIJAČ A/4
   price: 50.0
@@ -130,7 +130,7 @@
   title: SVESKA A/5 52L
   price: 70.0
   srbobran: 303
-  futog: 363
+  futog: 361
 72:
   title: DRVENA BOJA 1/14
   price: 195.0
@@ -450,7 +450,7 @@
   title: GUMICA B-30
   price: 100.0
   srbobran: 10
-  futog: 34
+  futog: 33
 277:
   title: TUŠ U BOJI 1/6
   price: 695.0
@@ -557,7 +557,7 @@
   title: LEPAK STICK OF 9G
   price: 60.0
   srbobran: 3
-  futog: 1
+  futog: 0
 603:
   title: ŠESTAR SC
   price: 450.0
@@ -582,7 +582,7 @@
   title: OL HB MAPED
   price: 40.0
   srbobran: 2
-  futog: 53
+  futog: 50
 704:
   title: SET ČETKICA 1/3
   price: 95.0
@@ -594,7 +594,7 @@
   title: POSTER
   price: 99.0
   srbobran: 19
-  futog: 10
+  futog: 8
 749:
   title: UVIJAČ A5 SL
   price: 20.0
@@ -861,7 +861,7 @@
   title: RASPORED ČASOVA
   price: 30.0
   srbobran: 32
-  futog: 21
+  futog: 20
 1414:
   title: BLOKČIĆ
   price: 135.0
