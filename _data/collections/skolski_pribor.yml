@@ -2,7 +2,7 @@
 14:
   title: PODMETAČ A/4
   price: 30.0
-  srbobran: 26
+  srbobran: 25
   futog: 59
 15:
   title: SIGNIR PELIKAN
@@ -53,7 +53,7 @@
   title: TOUGAO PVC
   price: 49.0
   srbobran: 4
-  futog: 2
+  futog: 1
 50:
   title: LENJIR 15/17CM
   price: 30.0
@@ -85,7 +85,7 @@
 57:
   title: UVIJAČ A/5
   price: 20.0
-  srbobran: 209
+  srbobran: 198
   futog: 69
 58:
   title: UVIJAČ A/4
@@ -129,8 +129,8 @@
 71:
   title: SVESKA A/5 52L
   price: 70.0
-  srbobran: 305
-  futog: 374
+  srbobran: 303
+  futog: 363
 72:
   title: DRVENA BOJA 1/14
   price: 195.0
@@ -182,7 +182,7 @@
 93:
   title: FLOMASTERI GIOTTO 1/12
   price: 360.0
-  srbobran: 11
+  srbobran: 10
   futog: 7
 94:
   title: DRVENA BOJA 1/12 MAPED
@@ -265,7 +265,7 @@
   title: MINE 0,5 HB/B/2B SC
   price: 30.0
   srbobran: 3
-  futog: 3
+  futog: 2
 130:
   title: PRVARICA
   price: 190.0
@@ -275,7 +275,7 @@
   title: GUMICA SOFTY
   price: 95.0
   srbobran: 1
-  futog: 1
+  futog: 0
 133:
   title: GUMICA OF 228
   price: 30.0
@@ -289,7 +289,7 @@
 135:
   title: GUMICA STABILO
   price: 40.0
-  srbobran: 16
+  srbobran: 15
 137:
   title: SEGMENTNA OLOVKA
   price: 40.0
@@ -405,7 +405,7 @@
   title: TO PENTEL 0,5
   price: 125.0
   srbobran: 21
-  futog: 21
+  futog: 20
 210:
   title: GUMICA B-20
   price: 140.0
@@ -552,7 +552,7 @@
   title: 'TO BLACK POINTER 0,5 '
   price: 140.0
   srbobran: 19
-  futog: 29
+  futog: 28
 581:
   title: LEPAK STICK OF 9G
   price: 60.0
@@ -562,7 +562,7 @@
   title: ŠESTAR SC
   price: 450.0
   srbobran: 3
-  futog: 1
+  futog: 0
 619:
   title: DRVENA BOJA 1/12 GIOTTO
   price: 360.0
@@ -577,7 +577,7 @@
   title: OHO LEPAK 20G
   price: 160.0
   srbobran: 11
-  futog: 28
+  futog: 27
 697:
   title: OL HB MAPED
   price: 40.0
@@ -594,7 +594,7 @@
   title: POSTER
   price: 99.0
   srbobran: 19
-  futog: 11
+  futog: 10
 749:
   title: UVIJAČ A5 SL
   price: 20.0
@@ -621,7 +621,7 @@
 889:
   title: DNEVNIK PRAKSE
   price: 220.0
-  srbobran: 5
+  srbobran: 4
   futog: 1
 892:
   title: REZAČ MAPED METALNI
@@ -1011,7 +1011,7 @@
   title: TROUGAO WIMBO
   price: 115.0
   srbobran: 8
-  futog: 6
+  futog: 5
 2200:
   title: OL HB FC
   price: 120.0
@@ -1195,7 +1195,7 @@
   title: GEOMETRIJSKI SET VEĆI
   price: 130.0
   srbobran: 8
-  futog: 12
+  futog: 11
 3947:
   title: REZAČ GUMICA SC 3513
   price: 80.0
