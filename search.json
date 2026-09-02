@@ -934,7 +934,7 @@
     "collection": "baloni",
     "image": "/assets/images/9/balon-sb10p-23cm-1.jpg",
     "price": 30.0,
-    "srbobran": 350,
+    "srbobran": 349,
     "futog": 338
   }
     
@@ -2887,7 +2887,7 @@
     "image": "/assets/images/2178/dosije-11-rupa-80mic-1.jpg",
     "price": 15.0,
     "srbobran": 485,
-    "futog": 14
+    "futog": 13
   }
     
   ,
@@ -12080,7 +12080,7 @@
     "image": null,
     "price": 399.0,
     "srbobran": null,
-    "futog": 1
+    "futog": 0
   }
     
   ,
@@ -40256,7 +40256,7 @@
     "collection": "poslovne_knjige",
     "image": "/assets/images/820/sanitarna-knjizica-1.jpg",
     "price": 120.0,
-    "srbobran": 5,
+    "srbobran": 4,
     "futog": 4
   }
     
@@ -41092,7 +41092,7 @@
     "collection": "rancevi_i_peratonice",
     "image": null,
     "price": 985.0,
-    "srbobran": 17,
+    "srbobran": 16,
     "futog": 13
   }
     
@@ -41863,7 +41863,7 @@
     "collection": "skolski_pribor",
     "image": "/assets/images/1091/nalepnice-za-sveske-1.jpg",
     "price": 45.0,
-    "srbobran": 35,
+    "srbobran": 28,
     "futog": null
   }
     
@@ -42280,7 +42280,7 @@
     "image": "/assets/images/134/gumica-of-1.jpg",
     "price": 60.0,
     "srbobran": 0,
-    "futog": 13
+    "futog": 12
   }
     
   ,
@@ -42383,7 +42383,7 @@
     "collection": "skolski_pribor",
     "image": null,
     "price": 30.0,
-    "srbobran": 27,
+    "srbobran": 26,
     "futog": 59
   }
     
@@ -42474,7 +42474,7 @@
     "collection": "skolski_pribor",
     "image": "/assets/images/145/sestar-sc-1.jpg",
     "price": 130.0,
-    "srbobran": 20,
+    "srbobran": 19,
     "futog": 20
   }
     
@@ -43020,7 +43020,7 @@
     "collection": "skolski_pribor",
     "image": "/assets/images/207/to-pentel-0-5-1.jpg",
     "price": 125.0,
-    "srbobran": 22,
+    "srbobran": 21,
     "futog": 21
   }
     
@@ -43631,7 +43631,7 @@
     "collection": "skolski_pribor",
     "image": "/assets/images/278/rezac-igloo-2-1.jpg",
     "price": 210.0,
-    "srbobran": 19,
+    "srbobran": 18,
     "futog": 30
   }
     
@@ -44437,7 +44437,7 @@
     "collection": "skolski_pribor",
     "image": "/assets/images/57/uvijac-a-5-1.jpg",
     "price": 20.0,
-    "srbobran": 215,
+    "srbobran": 209,
     "futog": 69
   }
     
@@ -44789,7 +44789,7 @@
     "image": null,
     "price": 295.0,
     "srbobran": 6,
-    "futog": 9
+    "futog": 8
   }
     
   ,
@@ -45035,7 +45035,7 @@
     "collection": "skolski_pribor",
     "image": "/assets/images/949/rezac-igloo-1-1.jpg",
     "price": 130.0,
-    "srbobran": 16,
+    "srbobran": 15,
     "futog": 35
   }
     
@@ -45401,7 +45401,7 @@
     "collection": "sveska",
     "image": "/assets/images/27/sveska-a-4-tp-1.jpg",
     "price": 320.0,
-    "srbobran": 48,
+    "srbobran": 47,
     "futog": 18
   }
     
@@ -45453,7 +45453,7 @@
     "collection": "sveska",
     "image": null,
     "price": 270.0,
-    "srbobran": 61,
+    "srbobran": 60,
     "futog": 25
   }
     
@@ -50569,7 +50569,7 @@
     "image": null,
     "price": 20.0,
     "srbobran": -968,
-    "futog": -782
+    "futog": -785
   }
     
   ,
