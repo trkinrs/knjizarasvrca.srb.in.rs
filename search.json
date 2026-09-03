@@ -6137,7 +6137,7 @@
     "image": null,
     "price": 160.0,
     "srbobran": 0,
-    "futog": 4
+    "futog": 3
   }
     
   ,
@@ -35765,7 +35765,7 @@
     "collection": "komision",
     "image": "/assets/images/868/l-bubasvabe-ju-nesbe-1.jpg",
     "price": 1299.0,
-    "srbobran": 2,
+    "srbobran": 1,
     "futog": 2
   }
     
@@ -41197,7 +41197,7 @@
     "image": "/assets/images/2079/pernica-1-1-puna-1.jpg",
     "price": 775.0,
     "srbobran": 3,
-    "futog": 1
+    "futog": 0
   }
     
   ,
@@ -42903,7 +42903,7 @@
     "collection": "skolski_pribor",
     "image": "/assets/images/1947/torba-za-blok-iv-1.jpg",
     "price": 199.0,
-    "srbobran": 17,
+    "srbobran": 16,
     "futog": 9
   }
     
@@ -44853,7 +44853,7 @@
     "collection": "skolski_pribor",
     "image": "/assets/images/889/dnevnik-prakse-1.jpg",
     "price": 220.0,
-    "srbobran": 3,
+    "srbobran": 2,
     "futog": 1
   }
     
@@ -45178,7 +45178,7 @@
     "collection": "skolski_pribor",
     "image": "/assets/images/991/blok-iii-1.jpg",
     "price": 80.0,
-    "srbobran": 20,
+    "srbobran": 19,
     "futog": 3
   }
     
@@ -45532,7 +45532,7 @@
     "image": null,
     "price": 130.0,
     "srbobran": 356,
-    "futog": 395
+    "futog": 394
   }
     
   ,
