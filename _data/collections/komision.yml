@@ -3283,7 +3283,7 @@
 2322:
   title: VU - PRIČE KRATKE ZA SNOVE SLATKE - PRINCEZE - AKCIJA
   price: 799.0
-  futog: 1
+  futog: 0
 2323:
   title: L - CILKIN PUT - HEDER MORIS
   price: 799.0
@@ -8516,7 +8516,7 @@
 3782:
   title: DS - PEPPA PIG - HOY, HOY, HOY
   price: 799.01
-  futog: 1
+  futog: 0
 3783:
   title: DS - PAW PATROL - KUCE U ŠKOLI
   price: 85.0
@@ -8546,7 +8546,7 @@
   title: DS - PEPA PRASE - PEPINA PORODIČNA ZABAVA
   price: 1499.0
   srbobran: 0
-  futog: 1
+  futog: 0
 3792:
   title: VU - BOJANKA
   price: 199.0
@@ -8964,7 +8964,7 @@
   title: VU - ZANIMLJIVI VODIČ - 101 ČINJENICA O FUDBALU I DRUGIM SPORTOVIMA
   price: 1299.03
   srbobran: 1
-  futog: 1
+  futog: 0
 3894:
   title: VU - ZEKA PROTIV MAJMUNA
   price: 1199.02

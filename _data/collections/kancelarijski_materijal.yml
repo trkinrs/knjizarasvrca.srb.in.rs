@@ -1044,7 +1044,7 @@
   title: KALKULATOR 82MS-D
   price: 425.0
   srbobran: 1
-  futog: 1
+  futog: 0
 1022:
   title: KALKULATOR OF-232
 1023:
@@ -1172,7 +1172,7 @@
   title: KOVERAT B/6
   price: 7.0
   srbobran: 118
-  futog: 87
+  futog: 86
 1263:
   title: MARKER KOSI OF
   price: 50.0
@@ -1844,4 +1844,4 @@
   title: BATERIJA AA/AAA
   price: 65.0
   srbobran: 16
-  futog: 22
+  futog: 20
