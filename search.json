@@ -988,8 +988,8 @@
     "collection": "kancelarijski_materijal",
     "image": null,
     "price": 425.0,
-    "srbobran": 0,
-    "futog": 2
+    "srbobran": 1,
+    "futog": 1
   }
     
   ,
@@ -2040,9 +2040,9 @@
     "url": "/kancelarijski_materijal/160-kalkulator-tto-dg-900a/",
     "collection": "kancelarijski_materijal",
     "image": "/assets/images/160/kalkulator-eleven-cmb-1201-bk-1.jpg",
-    "price": 1025.0,
-    "srbobran": 0,
-    "futog": 1
+    "price": 760.0,
+    "srbobran": 1,
+    "futog": 0
   }
     
   ,
@@ -3250,8 +3250,8 @@
     "collection": "kancelarijski_materijal",
     "image": "/assets/images/2684/kalkulator-ol-lcd-9210-1.jpg",
     "price": 2455.0,
-    "srbobran": 0,
-    "futog": 1
+    "srbobran": 1,
+    "futog": 0
   }
     
   ,
@@ -4264,8 +4264,8 @@
     "collection": "kancelarijski_materijal",
     "image": null,
     "price": 5.0,
-    "srbobran": 67,
-    "futog": 64
+    "srbobran": 97,
+    "futog": 34
   }
     
   ,
@@ -4628,8 +4628,8 @@
     "collection": "kancelarijski_materijal",
     "image": null,
     "price": 410.0,
-    "srbobran": 0,
-    "futog": 1
+    "srbobran": 1,
+    "futog": 0
   }
     
   ,
@@ -4654,8 +4654,8 @@
     "collection": "kancelarijski_materijal",
     "image": "/assets/images/538/stalak-za-selotejp-of186-1.jpg",
     "price": 350.0,
-    "srbobran": 0,
-    "futog": 1
+    "srbobran": 1,
+    "futog": 0
   }
     
   ,
@@ -5083,8 +5083,8 @@
     "collection": "kancelarijski_materijal",
     "image": "/assets/images/598/dosije-sa-gumom-1.jpg",
     "price": 120.0,
-    "srbobran": 31,
-    "futog": 24
+    "srbobran": 38,
+    "futog": 17
   }
     
   ,
@@ -5291,8 +5291,8 @@
     "collection": "kancelarijski_materijal",
     "image": null,
     "price": 3750.0,
-    "srbobran": 1,
-    "futog": 1
+    "srbobran": 2,
+    "futog": 0
   }
     
   ,
@@ -5564,8 +5564,8 @@
     "collection": "kancelarijski_materijal",
     "image": "/assets/images/680/samolepljive-strelice-1.jpg",
     "price": 50.0,
-    "srbobran": 0,
-    "futog": 10
+    "srbobran": 5,
+    "futog": 5
   }
     
   ,
@@ -6188,8 +6188,8 @@
     "collection": "kancelarijski_materijal",
     "image": "/assets/images/934/korektor-cetkica-1.jpg",
     "price": 130.0,
-    "srbobran": 5,
-    "futog": 13
+    "srbobran": 11,
+    "futog": 7
   }
     
   ,
@@ -40439,7 +40439,7 @@
     "image": "/assets/images/861/otpremnica-a-5-1.jpg",
     "price": 180.0,
     "srbobran": 9,
-    "futog": 5
+    "futog": 4
   }
     
   ,
@@ -41707,8 +41707,8 @@
     "collection": "skolski_pribor",
     "image": "/assets/images/1003/ol-hb-peps-gumica-1.jpg",
     "price": 50.0,
-    "srbobran": 40,
-    "futog": 101
+    "srbobran": 60,
+    "futog": 81
   }
     
   ,
@@ -41824,8 +41824,8 @@
     "collection": "skolski_pribor",
     "image": "/assets/images/1088/mine-0-5-hb-maped-1.jpg",
     "price": 90.0,
-    "srbobran": 0,
-    "futog": 9
+    "srbobran": 9,
+    "futog": 0
   }
     
   ,
@@ -42695,8 +42695,8 @@
     "collection": "skolski_pribor",
     "image": "/assets/images/177/hamer-b-1-boja-1.jpg",
     "price": 170.0,
-    "srbobran": 23,
-    "futog": 38
+    "srbobran": 36,
+    "futog": 25
   }
     
   ,
@@ -43202,8 +43202,8 @@
     "collection": "skolski_pribor",
     "image": null,
     "price": 120.0,
-    "srbobran": 0,
-    "futog": 21
+    "srbobran": 21,
+    "futog": 0
   }
     
   ,
@@ -43372,7 +43372,7 @@
     "image": "/assets/images/24/uvijac-a-4-samolepljiv-1.jpg",
     "price": 40.0,
     "srbobran": 26,
-    "futog": 10
+    "futog": 0
   }
     
   ,
@@ -43527,8 +43527,8 @@
     "collection": "skolski_pribor",
     "image": "/assets/images/26/notna-sveska-a-4-1.jpg",
     "price": 150.0,
-    "srbobran": 1,
-    "futog": 12
+    "srbobran": 8,
+    "futog": 5
   }
     
   ,
@@ -43644,8 +43644,8 @@
     "collection": "skolski_pribor",
     "image": "/assets/images/279/mine-0-5-hb-stabilo-1.jpg",
     "price": 120.0,
-    "srbobran": 0,
-    "futog": 18
+    "srbobran": 9,
+    "futog": 9
   }
     
   ,
@@ -43696,8 +43696,8 @@
     "collection": "skolski_pribor",
     "image": "/assets/images/2989/notna-sveska-b-5-1.jpg",
     "price": 40.0,
-    "srbobran": 2,
-    "futog": 25
+    "srbobran": 17,
+    "futog": 10
   }
     
   ,
@@ -43865,8 +43865,8 @@
     "collection": "skolski_pribor",
     "image": null,
     "price": 350.0,
-    "srbobran": 2,
-    "futog": 2
+    "srbobran": 4,
+    "futog": 0
   }
     
   ,
@@ -43904,8 +43904,8 @@
     "collection": "skolski_pribor",
     "image": null,
     "price": 140.0,
-    "srbobran": 0,
-    "futog": 7
+    "srbobran": 4,
+    "futog": 3
   }
     
   ,
@@ -44229,8 +44229,8 @@
     "collection": "skolski_pribor",
     "image": "/assets/images/43/oho-lepak-40g-1.jpg",
     "price": 220.0,
-    "srbobran": 0,
-    "futog": 28
+    "srbobran": 25,
+    "futog": 3
   }
     
   ,
@@ -44294,8 +44294,8 @@
     "collection": "skolski_pribor",
     "image": "/assets/images/500/set-lenjira-1-4-1.jpg",
     "price": 255.0,
-    "srbobran": 0,
-    "futog": 5
+    "srbobran": 5,
+    "futog": 0
   }
     
   ,
@@ -44360,7 +44360,7 @@
     "image": null,
     "price": 30.0,
     "srbobran": 5,
-    "futog": 7
+    "futog": 2
   }
     
   ,
@@ -44619,8 +44619,8 @@
     "collection": "skolski_pribor",
     "image": null,
     "price": 40.0,
-    "srbobran": 2,
-    "futog": 47
+    "srbobran": 22,
+    "futog": 27
   }
     
   ,
@@ -44659,7 +44659,7 @@
     "image": "/assets/images/71/sveska-a-4-tp-500l-1.jpg",
     "price": 70.0,
     "srbobran": 295,
-    "futog": 360
+    "futog": 354
   }
     
   ,
@@ -45113,8 +45113,8 @@
     "collection": "skolski_pribor",
     "image": "/assets/images/968/ol-hb-noris-1.jpg",
     "price": 90.0,
-    "srbobran": 0,
-    "futog": 51
+    "srbobran": 20,
+    "futog": 31
   }
     
   ,
@@ -45165,8 +45165,8 @@
     "collection": "skolski_pribor",
     "image": null,
     "price": 50.0,
-    "srbobran": 14,
-    "futog": 44
+    "srbobran": 34,
+    "futog": 24
   }
     
   ,
@@ -45218,7 +45218,7 @@
     "image": null,
     "price": 220.0,
     "srbobran": 5,
-    "futog": 1
+    "futog": 0
   }
     
   
@@ -45532,7 +45532,7 @@
     "image": null,
     "price": 130.0,
     "srbobran": 356,
-    "futog": 399
+    "futog": 395
   }
     
   ,
