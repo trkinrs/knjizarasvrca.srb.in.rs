@@ -5097,7 +5097,7 @@
     "image": "/assets/images/599/dosije-boja-1.jpg",
     "price": 60.0,
     "srbobran": 53,
-    "futog": 45
+    "futog": 44
   }
     
   ,
@@ -5889,7 +5889,7 @@
     "collection": "kancelarijski_materijal",
     "image": "/assets/images/777/blok-a-6-c-5-sp-1.jpg",
     "price": 130.0,
-    "srbobran": 15,
+    "srbobran": 14,
     "futog": 9
   }
     
@@ -42617,7 +42617,7 @@
     "collection": "skolski_pribor",
     "image": "/assets/images/157/np-1.jpg",
     "price": 90.0,
-    "srbobran": 1,
+    "srbobran": 0,
     "futog": 1
   }
     
@@ -43333,7 +43333,7 @@
     "image": "/assets/images/228/plastelin-1-10-spektra-1.jpg",
     "price": 130.0,
     "srbobran": 0,
-    "futog": 2
+    "futog": 1
   }
     
   ,
@@ -43411,7 +43411,7 @@
     "image": "/assets/images/2557/geografski-atlas-1.jpg",
     "price": 1550.0,
     "srbobran": 0,
-    "futog": 1
+    "futog": 0
   }
     
   ,
@@ -43722,7 +43722,7 @@
     "collection": "skolski_pribor",
     "image": "/assets/images/3036/torba-za-blok-v-1.jpg",
     "price": 199.0,
-    "srbobran": 42,
+    "srbobran": 41,
     "futog": 30
   }
     
@@ -44919,7 +44919,7 @@
     "image": "/assets/images/909/gumica-sc-1.jpg",
     "price": 120.0,
     "srbobran": 3,
-    "futog": 1
+    "futog": 0
   }
     
   ,
@@ -45126,7 +45126,7 @@
     "collection": "skolski_pribor",
     "image": "/assets/images/97/patrona-1-1-1.jpg",
     "price": 10.0,
-    "srbobran": 15,
+    "srbobran": 10,
     "futog": 0
   }
     
@@ -45218,7 +45218,7 @@
     "image": null,
     "price": 220.0,
     "srbobran": 5,
-    "futog": 3
+    "futog": 2
   }
     
   
@@ -45401,7 +45401,7 @@
     "collection": "sveska",
     "image": "/assets/images/27/sveska-a-4-tp-1.jpg",
     "price": 320.0,
-    "srbobran": 46,
+    "srbobran": 44,
     "futog": 18
   }
     
@@ -45453,7 +45453,7 @@
     "collection": "sveska",
     "image": null,
     "price": 270.0,
-    "srbobran": 60,
+    "srbobran": 59,
     "futog": 24
   }
     
@@ -45532,7 +45532,7 @@
     "image": null,
     "price": 130.0,
     "srbobran": 356,
-    "futog": 400
+    "futog": 399
   }
     
   ,
@@ -50556,7 +50556,7 @@
     "image": null,
     "price": 15.0,
     "srbobran": -245,
-    "futog": -1218
+    "futog": -1220
   }
     
   ,
@@ -50569,7 +50569,7 @@
     "image": null,
     "price": 20.0,
     "srbobran": -968,
-    "futog": -787
+    "futog": -793
   }
     
   ,
