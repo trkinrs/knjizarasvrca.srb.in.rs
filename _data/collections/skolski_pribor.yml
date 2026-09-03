@@ -202,7 +202,7 @@
 97:
   title: PATRONA 1/1
   price: 10.0
-  srbobran: 15
+  srbobran: 10
   futog: 0
 98:
   title: OL STAEDTLER NORIS
@@ -336,7 +336,7 @@
 157:
   title: NP
   price: 90.0
-  srbobran: 1
+  srbobran: 0
   futog: 1
 162:
   title: ŠESTAR MAPED STOP
@@ -430,7 +430,7 @@
   title: PLASTELIN 1/10 SPEKTRA
   price: 130.0
   srbobran: 0
-  futog: 2
+  futog: 1
 233:
   title: OL HB SC
   price: 30.0
@@ -642,7 +642,7 @@
   title: GUMICA ZA AKTA 50G
   price: 120.0
   srbobran: 3
-  futog: 1
+  futog: 0
 917:
   title: FLOMASTERI OBOSTRANI SC
   price: 360.0
@@ -708,7 +708,7 @@
   title: PLASTELIN 1/10
   price: 220.0
   srbobran: 5
-  futog: 3
+  futog: 2
 1003:
   title: OL HB PEPS GUMICA
   price: 50.0
@@ -1065,7 +1065,7 @@
   title: GEOGRAFSKI ATLAS
   price: 1550.0
   srbobran: 0
-  futog: 1
+  futog: 0
 2558:
   title: GEOGRAFSKI ATLAS M
   price: 1450.0
@@ -1128,7 +1128,7 @@
 3036:
   title: TORBA ZA BLOK V
   price: 199.0
-  srbobran: 42
+  srbobran: 41
   futog: 30
 3133:
   title: TO+REZAC ST
