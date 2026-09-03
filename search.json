@@ -989,7 +989,7 @@
     "image": null,
     "price": 425.0,
     "srbobran": 1,
-    "futog": 1
+    "futog": 0
   }
     
   ,
@@ -1418,7 +1418,7 @@
     "image": "/assets/images/1252/koverat-b-6-1.jpg",
     "price": 7.0,
     "srbobran": 118,
-    "futog": 87
+    "futog": 86
   }
     
   ,
@@ -4083,7 +4083,7 @@
     "image": "/assets/images/4263/baterija-aa-aaa-1.jpg",
     "price": 65.0,
     "srbobran": 16,
-    "futog": 22
+    "futog": 20
   }
     
   ,
@@ -12600,7 +12600,7 @@
     "image": null,
     "price": 799.0,
     "srbobran": null,
-    "futog": 1
+    "futog": 0
   }
     
   ,
@@ -29812,7 +29812,7 @@
     "image": null,
     "price": 799.01,
     "srbobran": null,
-    "futog": 1
+    "futog": 0
   }
     
   ,
@@ -29903,7 +29903,7 @@
     "image": "/assets/images/3791/l-1.jpg",
     "price": 1499.0,
     "srbobran": 0,
-    "futog": 1
+    "futog": 0
   }
     
   ,
@@ -31216,7 +31216,7 @@
     "image": null,
     "price": 1299.03,
     "srbobran": 1,
-    "futog": 1
+    "futog": 0
   }
     
   ,
@@ -36251,7 +36251,7 @@
     "image": null,
     "price": 110.0,
     "srbobran": 34,
-    "futog": 25
+    "futog": 24
   }
     
   ,
@@ -44074,7 +44074,7 @@
     "image": null,
     "price": 150.0,
     "srbobran": 15,
-    "futog": 15
+    "futog": 13
   }
     
   ,
@@ -45402,7 +45402,7 @@
     "image": "/assets/images/27/sveska-a-4-tp-1.jpg",
     "price": 320.0,
     "srbobran": 44,
-    "futog": 18
+    "futog": 17
   }
     
   ,
@@ -45532,7 +45532,7 @@
     "image": null,
     "price": 130.0,
     "srbobran": 355,
-    "futog": 394
+    "futog": 393
   }
     
   ,
@@ -50528,7 +50528,7 @@
     "image": "/assets/images/451/ukrasna-kesa-1.jpg",
     "price": 180.0,
     "srbobran": 7,
-    "futog": 5
+    "futog": 3
   }
     
   ,
@@ -50556,7 +50556,7 @@
     "image": null,
     "price": 15.0,
     "srbobran": -245,
-    "futog": -1228
+    "futog": -1232
   }
     
   ,
@@ -50595,7 +50595,7 @@
     "image": null,
     "price": 30.0,
     "srbobran": -34,
-    "futog": -58
+    "futog": -60
   }
     
   ,
