@@ -2600,7 +2600,7 @@
     "collection": "kancelarijski_materijal",
     "image": "/assets/images/1991/registrator-a-4-n-1.jpg",
     "price": 330.0,
-    "srbobran": 24,
+    "srbobran": 23,
     "futog": 10
   }
     
@@ -3341,7 +3341,7 @@
     "collection": "kancelarijski_materijal",
     "image": null,
     "price": 10.0,
-    "srbobran": 526,
+    "srbobran": 523,
     "futog": 478
   }
     
@@ -4407,7 +4407,7 @@
     "collection": "kancelarijski_materijal",
     "image": "/assets/images/482/ho-ah-567-1.jpg",
     "price": 40.0,
-    "srbobran": 94,
+    "srbobran": 93,
     "futog": 22
   }
     
@@ -4602,7 +4602,7 @@
     "collection": "kancelarijski_materijal",
     "image": null,
     "price": 250.0,
-    "srbobran": 2,
+    "srbobran": 1,
     "futog": 5
   }
     
@@ -5135,7 +5135,7 @@
     "collection": "kancelarijski_materijal",
     "image": null,
     "price": 8.0,
-    "srbobran": 24,
+    "srbobran": 4,
     "futog": 0
   }
     
@@ -5681,7 +5681,7 @@
     "collection": "kancelarijski_materijal",
     "image": null,
     "price": 20.0,
-    "srbobran": 8,
+    "srbobran": 7,
     "futog": 7
   }
     
@@ -28355,7 +28355,7 @@
     "collection": "komision",
     "image": null,
     "price": 699.01,
-    "srbobran": 1,
+    "srbobran": 0,
     "futog": null
   }
     
@@ -37069,7 +37069,7 @@
     "collection": "ostalo",
     "image": null,
     "price": 70.0,
-    "srbobran": 20,
+    "srbobran": 19,
     "futog": 0
   }
     
@@ -42994,7 +42994,7 @@
     "collection": "skolski_pribor",
     "image": "/assets/images/2043/musema-za-likovno-1.jpg",
     "price": 120.0,
-    "srbobran": 7,
+    "srbobran": 6,
     "futog": 13
   }
     
@@ -44034,7 +44034,7 @@
     "collection": "skolski_pribor",
     "image": null,
     "price": 130.0,
-    "srbobran": 8,
+    "srbobran": 7,
     "futog": 11
   }
     
@@ -44853,7 +44853,7 @@
     "collection": "skolski_pribor",
     "image": "/assets/images/889/dnevnik-prakse-1.jpg",
     "price": 220.0,
-    "srbobran": 4,
+    "srbobran": 3,
     "futog": 1
   }
     
@@ -45401,7 +45401,7 @@
     "collection": "sveska",
     "image": "/assets/images/27/sveska-a-4-tp-1.jpg",
     "price": 320.0,
-    "srbobran": 47,
+    "srbobran": 46,
     "futog": 18
   }
     
@@ -50673,7 +50673,7 @@
     "image": null,
     "price": 300.0,
     "srbobran": -255,
-    "futog": -50
+    "futog": -51
   }
     
   
