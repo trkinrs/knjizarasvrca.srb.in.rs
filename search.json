@@ -791,7 +791,7 @@
     "collection": "baloni",
     "image": "/assets/images/45/grabo-srednji-brojevi-1.jpg",
     "price": 470.0,
-    "srbobran": 40,
+    "srbobran": 39,
     "futog": 42
   }
     
@@ -4265,7 +4265,7 @@
     "image": null,
     "price": 5.0,
     "srbobran": 97,
-    "futog": 34
+    "futog": 29
   }
     
   ,
@@ -41707,7 +41707,7 @@
     "collection": "skolski_pribor",
     "image": "/assets/images/1003/ol-hb-peps-gumica-1.jpg",
     "price": 50.0,
-    "srbobran": 60,
+    "srbobran": 55,
     "futog": 81
   }
     
@@ -42253,7 +42253,7 @@
     "collection": "skolski_pribor",
     "image": "/assets/images/133/gumica-sc-319-1.jpg",
     "price": 30.0,
-    "srbobran": 15,
+    "srbobran": 14,
     "futog": 28
   }
     
@@ -45454,7 +45454,7 @@
     "image": null,
     "price": 270.0,
     "srbobran": 59,
-    "futog": 24
+    "futog": 23
   }
     
   ,
@@ -45531,7 +45531,7 @@
     "collection": "sveska",
     "image": null,
     "price": 130.0,
-    "srbobran": 356,
+    "srbobran": 355,
     "futog": 394
   }
     
@@ -50672,7 +50672,7 @@
     "collection": "usluga",
     "image": null,
     "price": 300.0,
-    "srbobran": -255,
+    "srbobran": -258,
     "futog": -51
   }
     
