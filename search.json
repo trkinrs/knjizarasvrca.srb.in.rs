@@ -792,7 +792,7 @@
     "image": "/assets/images/45/grabo-srednji-brojevi-1.jpg",
     "price": 470.0,
     "srbobran": 40,
-    "futog": 44
+    "futog": 42
   }
     
   ,
@@ -4135,7 +4135,7 @@
     "image": "/assets/images/439/ho-sc-restyle-1.jpg",
     "price": 60.0,
     "srbobran": 15,
-    "futog": 23
+    "futog": 22
   }
     
   ,
@@ -4395,7 +4395,7 @@
     "image": "/assets/images/481/ho-vinson-fashion-1.jpg",
     "price": 50.0,
     "srbobran": 19,
-    "futog": 31
+    "futog": 30
   }
     
   ,
@@ -5044,7 +5044,7 @@
     "collection": "kancelarijski_materijal",
     "image": "/assets/images/595/koverat-a-4-sl-1.jpg",
     "price": 30.0,
-    "srbobran": 60,
+    "srbobran": 56,
     "futog": 50
   }
     
@@ -30072,7 +30072,7 @@
     "image": null,
     "price": 349.01,
     "srbobran": null,
-    "futog": 1
+    "futog": 0
   }
     
   ,
@@ -42098,7 +42098,7 @@
     "image": null,
     "price": 180.0,
     "srbobran": 9,
-    "futog": 6
+    "futog": 5
   }
     
   ,
@@ -42267,7 +42267,7 @@
     "image": "/assets/images/1338/flomasteri-1-12-jumbo-1.jpg",
     "price": 280.0,
     "srbobran": 5,
-    "futog": 2
+    "futog": 1
   }
     
   ,
@@ -43034,7 +43034,7 @@
     "image": "/assets/images/210/gumica-b-20-1.jpg",
     "price": 140.0,
     "srbobran": 0,
-    "futog": 15
+    "futog": 13
   }
     
   ,
@@ -44620,7 +44620,7 @@
     "image": null,
     "price": 40.0,
     "srbobran": 2,
-    "futog": 50
+    "futog": 47
   }
     
   ,
@@ -44906,7 +44906,7 @@
     "image": "/assets/images/898/gumica-b-40-1.jpg",
     "price": 70.0,
     "srbobran": 23,
-    "futog": 36
+    "futog": 33
   }
     
   ,
@@ -45454,7 +45454,7 @@
     "image": null,
     "price": 270.0,
     "srbobran": 60,
-    "futog": 25
+    "futog": 24
   }
     
   ,
@@ -45532,7 +45532,7 @@
     "image": null,
     "price": 130.0,
     "srbobran": 356,
-    "futog": 404
+    "futog": 400
   }
     
   ,
@@ -50556,7 +50556,7 @@
     "image": null,
     "price": 15.0,
     "srbobran": -245,
-    "futog": -1212
+    "futog": -1218
   }
     
   ,
@@ -50569,7 +50569,7 @@
     "image": null,
     "price": 20.0,
     "srbobran": -968,
-    "futog": -786
+    "futog": -787
   }
     
   ,
