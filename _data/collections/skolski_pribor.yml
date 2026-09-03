@@ -621,7 +621,7 @@
 889:
   title: DNEVNIK PRAKSE
   price: 220.0
-  srbobran: 3
+  srbobran: 2
   futog: 1
 892:
   title: REZAČ MAPED METALNI
@@ -693,7 +693,7 @@
 991:
   title: BLOK III
   price: 80.0
-  srbobran: 20
+  srbobran: 19
   futog: 3
 993:
   title: GUMICA PIŠI-BRIŠI
@@ -931,7 +931,7 @@
 1947:
   title: TORBA ZA BLOK IV
   price: 199.0
-  srbobran: 17
+  srbobran: 16
   futog: 9
 1950:
   title: 'ČAŠA ZA OLOVKE '
