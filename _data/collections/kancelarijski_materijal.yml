@@ -55,9 +55,9 @@
   futog: 0
 160:
   title: KALKULATOR TTO DG 900A
-  price: 1025.0
-  srbobran: 0
-  futog: 1
+  price: 760.0
+  srbobran: 1
+  futog: 0
 167:
   title: OBOSTRANO LEPLJIVA TRAKA 18MM
   price: 180.0
@@ -308,8 +308,8 @@
 458:
   title: UL ZA HO PVC
   price: 5.0
-  srbobran: 67
-  futog: 64
+  srbobran: 97
+  futog: 34
 459:
   title: UL ZA HO PARKER METALNI
   price: 30.0
@@ -432,8 +432,8 @@
 536:
   title: STALAK ZA SELOTEJP
   price: 410.0
-  srbobran: 0
-  futog: 1
+  srbobran: 1
+  futog: 0
 537:
   title: STALAK ZA SELOTEJP OF185
   price: 250.0
@@ -441,8 +441,8 @@
 538:
   title: STALAK ZA SELOTEJP OF186
   price: 350.0
-  srbobran: 0
-  futog: 1
+  srbobran: 1
+  futog: 0
 539:
   title: STALAK ZA SELOTEJP
 543:
@@ -593,8 +593,8 @@
 598:
   title: DOSIJE SA GUMOM
   price: 120.0
-  srbobran: 31
-  futog: 24
+  srbobran: 38
+  futog: 17
 599:
   title: DOSIJE BOJA
   price: 60.0
@@ -666,8 +666,8 @@
 632:
   title: PAPIR A/4 80G
   price: 3750.0
-  srbobran: 1
-  futog: 1
+  srbobran: 2
+  futog: 0
 633:
   title: PAPIR A/4 80G
   price: 680.0
@@ -755,8 +755,8 @@
 680:
   title: SAMOLEPLJIVE STRELICE
   price: 50.0
-  srbobran: 0
-  futog: 10
+  srbobran: 5
+  futog: 5
 683:
   title: MARKER BIC
   price: 170.0
@@ -944,8 +944,8 @@
 934:
   title: KOREKTOR ČETKICA
   price: 130.0
-  srbobran: 5
-  futog: 13
+  srbobran: 11
+  futog: 7
 940:
   title: TABLA PLUTA 60*40
   price: 799.0
@@ -1043,8 +1043,8 @@
 1021:
   title: KALKULATOR 82MS-D
   price: 425.0
-  srbobran: 0
-  futog: 2
+  srbobran: 1
+  futog: 1
 1022:
   title: KALKULATOR OF-232
 1023:
@@ -1663,8 +1663,8 @@
 2684:
   title: KALKULATOR OL LCD-9210
   price: 2455.0
-  srbobran: 0
-  futog: 1
+  srbobran: 1
+  futog: 0
 2718:
   title: BLOK BELESKE T4
   price: 155.0
