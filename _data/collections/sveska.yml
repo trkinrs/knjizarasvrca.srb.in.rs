@@ -47,7 +47,7 @@
 49:
   title: SVESKA A/4 52L
   price: 130.0
-  srbobran: 355
+  srbobran: 349
   futog: 393
 486:
   title: SVESKA A/5 60L
@@ -55,7 +55,10 @@
   srbobran: 15
   futog: 12
 490:
-  title: SVESKA A/4 SC
+  title: SVESKA A/4 SP 100L
+  price: 390.0
+  srbobran: 5
+  futog: 5
 491:
   title: SVESKA A/5 SC
   price: 70.0
@@ -64,7 +67,7 @@
 494:
   title: SVESKA A/4 SC
   price: 170.0
-  srbobran: 13
+  srbobran: 12
   futog: 7
 496:
   title: SVESKA A/5  200L

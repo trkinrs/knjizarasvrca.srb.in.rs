@@ -149,8 +149,8 @@
 77:
   title: VEŽBANKA
   price: 40.0
-  srbobran: 44
-  futog: 17
+  srbobran: 64
+  futog: 47
 84:
   title: DRVENA BOJA 1/12 STAEDTLER
   price: 465.0
@@ -269,7 +269,7 @@
 130:
   title: PRVARICA
   price: 190.0
-  srbobran: 1
+  srbobran: 0
   futog: 0
 132:
   title: GUMICA SOFTY
@@ -279,7 +279,7 @@
 133:
   title: GUMICA OF 228
   price: 30.0
-  srbobran: 14
+  srbobran: 13
   futog: 28
 134:
   title: GUMICA OF

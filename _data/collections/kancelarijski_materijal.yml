@@ -397,13 +397,13 @@
 524:
   title: TERMO ROLNA 57/40MM
   price: 65.0
-  srbobran: 44
-  futog: 20
+  srbobran: 84
+  futog: 30
 525:
   title: TERMO ROLNA 80/60
   price: 165.0
-  srbobran: 15
-  futog: 9
+  srbobran: 45
+  futog: 15
 528:
   title: SELOTEJP 50/50 T/M
 529:
@@ -503,9 +503,10 @@
   srbobran: 2
   futog: 4
 572:
-  title: BLOK SL 1/400
-  price: 180.0
-  srbobran: 0
+  title: BLOK SL 1/300
+  price: 160.0
+  srbobran: 4
+  futog: 1
 573:
   title: BLOK KOCKA
   price: 180.0
@@ -666,12 +667,12 @@
 632:
   title: PAPIR A/4 80G
   price: 3750.0
-  srbobran: 2
+  srbobran: 4
   futog: 0
 633:
   title: PAPIR A/4 80G
   price: 680.0
-  srbobran: 7
+  srbobran: 19
   futog: 12
 635:
   title: PAPIR A4 U BOJI 1/100
@@ -768,8 +769,9 @@
   srbobran: 1
 686:
   title: REGISTRATOR A/4 N PRESTIGE
-  price: 755.0
-  srbobran: 0
+  price: 550.0
+  srbobran: 11
+  futog: 0
 687:
   title: REGISTRATOR A/5 N
   price: 395.0
@@ -869,7 +871,7 @@
   title: BLOK A/6 C/5 SP
   price: 130.0
   srbobran: 14
-  futog: 9
+  futog: 7
 780:
   title: ŠTIPALJKA 19MM
   price: 6.0
@@ -1043,8 +1045,8 @@
 1021:
   title: KALKULATOR 82MS-D
   price: 425.0
-  srbobran: 1
-  futog: 0
+  srbobran: 0
+  futog: 1
 1022:
   title: KALKULATOR OF-232
 1023:
@@ -1490,8 +1492,8 @@
 1988:
   title: FASCIKLA 3CM
   price: 435.0
-  srbobran: 0
-  futog: 0
+  srbobran: 7
+  futog: 7
 1990:
   title: FASCIKLA DUGME AMERIKEN
   price: 160.0
@@ -1499,7 +1501,7 @@
 1991:
   title: REGISTRATOR A/4 N
   price: 330.0
-  srbobran: 23
+  srbobran: 18
   futog: 10
 1993:
   title: REGISTRATOR A/4 N
