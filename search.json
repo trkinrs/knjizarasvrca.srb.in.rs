@@ -1417,7 +1417,7 @@
     "collection": "kancelarijski_materijal",
     "image": "/assets/images/1252/koverat-b-6-1.jpg",
     "price": 7.0,
-    "srbobran": 118,
+    "srbobran": 117,
     "futog": 86
   }
     
@@ -20205,7 +20205,7 @@
     "image": null,
     "price": 1180.03,
     "srbobran": null,
-    "futog": 1
+    "futog": 0
   }
     
   ,
@@ -42331,7 +42331,7 @@
     "collection": "skolski_pribor",
     "image": "/assets/images/138/gumica-softy-mini-1.jpg",
     "price": 45.0,
-    "srbobran": 45,
+    "srbobran": 43,
     "futog": 6
   }
     
