@@ -2562,7 +2562,7 @@
     "image": null,
     "price": 435.0,
     "srbobran": 7,
-    "futog": 7
+    "futog": 6
   }
     
   ,
@@ -4083,7 +4083,7 @@
     "image": "/assets/images/4263/baterija-aa-aaa-1.jpg",
     "price": 65.0,
     "srbobran": 16,
-    "futog": 20
+    "futog": 16
   }
     
   ,
@@ -8622,7 +8622,7 @@
     "image": null,
     "price": 1200.01,
     "srbobran": null,
-    "futog": 1
+    "futog": 0
   }
     
   ,
@@ -36784,7 +36784,7 @@
     "image": "/assets/images/1525/cestitka-1.jpg",
     "price": 130.0,
     "srbobran": 28,
-    "futog": 20
+    "futog": 19
   }
     
   ,
@@ -37187,7 +37187,7 @@
     "image": null,
     "price": 170.0,
     "srbobran": null,
-    "futog": 1
+    "futog": 0
   }
     
   ,
@@ -37369,7 +37369,7 @@
     "image": null,
     "price": 430.0,
     "srbobran": 0,
-    "futog": 2
+    "futog": 1
   }
     
   ,
@@ -41707,7 +41707,7 @@
     "collection": "skolski_pribor",
     "image": "/assets/images/1003/ol-hb-peps-gumica-1.jpg",
     "price": 50.0,
-    "srbobran": 55,
+    "srbobran": 54,
     "futog": 81
   }
     
@@ -44789,7 +44789,7 @@
     "image": null,
     "price": 295.0,
     "srbobran": 6,
-    "futog": 8
+    "futog": 7
   }
     
   ,
@@ -45532,7 +45532,7 @@
     "image": null,
     "price": 130.0,
     "srbobran": 347,
-    "futog": 393
+    "futog": 392
   }
     
   ,
