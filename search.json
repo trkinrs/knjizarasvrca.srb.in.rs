@@ -988,8 +988,8 @@
     "collection": "kancelarijski_materijal",
     "image": null,
     "price": 425.0,
-    "srbobran": 1,
-    "futog": 0
+    "srbobran": 0,
+    "futog": 1
   }
     
   ,
@@ -2561,8 +2561,8 @@
     "collection": "kancelarijski_materijal",
     "image": null,
     "price": 435.0,
-    "srbobran": 0,
-    "futog": 0
+    "srbobran": 7,
+    "futog": 7
   }
     
   ,
@@ -2600,7 +2600,7 @@
     "collection": "kancelarijski_materijal",
     "image": "/assets/images/1991/registrator-a-4-n-1.jpg",
     "price": 330.0,
-    "srbobran": 23,
+    "srbobran": 18,
     "futog": 10
   }
     
@@ -4524,8 +4524,8 @@
     "collection": "kancelarijski_materijal",
     "image": "/assets/images/524/termo-rolna-57-40mm-1.jpg",
     "price": 65.0,
-    "srbobran": 44,
-    "futog": 20
+    "srbobran": 84,
+    "futog": 30
   }
     
   ,
@@ -4537,8 +4537,8 @@
     "collection": "kancelarijski_materijal",
     "image": null,
     "price": 165.0,
-    "srbobran": 15,
-    "futog": 9
+    "srbobran": 45,
+    "futog": 15
   }
     
   ,
@@ -4830,14 +4830,14 @@
   ,
   
   {
-    "title": "BLOK SL 1/400",
+    "title": "BLOK SL 1/300",
     "sku": 572,
-    "url": "/kancelarijski_materijal/572-blok-sl-1-400/",
+    "url": "/kancelarijski_materijal/572-blok-sl-1-300/",
     "collection": "kancelarijski_materijal",
     "image": "/assets/images/572/blok-sl-1-400-1.jpg",
-    "price": 180.0,
-    "srbobran": 0,
-    "futog": null
+    "price": 160.0,
+    "srbobran": 4,
+    "futog": 1
   }
     
   ,
@@ -5291,7 +5291,7 @@
     "collection": "kancelarijski_materijal",
     "image": null,
     "price": 3750.0,
-    "srbobran": 2,
+    "srbobran": 4,
     "futog": 0
   }
     
@@ -5304,7 +5304,7 @@
     "collection": "kancelarijski_materijal",
     "image": null,
     "price": 680.0,
-    "srbobran": 7,
+    "srbobran": 19,
     "futog": 12
   }
     
@@ -5602,9 +5602,9 @@
     "url": "/kancelarijski_materijal/686-registrator-a-4-n-prestige/",
     "collection": "kancelarijski_materijal",
     "image": null,
-    "price": 755.0,
-    "srbobran": 0,
-    "futog": null
+    "price": 550.0,
+    "srbobran": 11,
+    "futog": 0
   }
     
   ,
@@ -5890,7 +5890,7 @@
     "image": "/assets/images/777/blok-a-6-c-5-sp-1.jpg",
     "price": 130.0,
     "srbobran": 14,
-    "futog": 9
+    "futog": 7
   }
     
   ,
@@ -42201,7 +42201,7 @@
     "collection": "skolski_pribor",
     "image": "/assets/images/130/prvarica-1.jpg",
     "price": 190.0,
-    "srbobran": 1,
+    "srbobran": 0,
     "futog": 0
   }
     
@@ -42253,7 +42253,7 @@
     "collection": "skolski_pribor",
     "image": "/assets/images/133/gumica-sc-319-1.jpg",
     "price": 30.0,
-    "srbobran": 14,
+    "srbobran": 13,
     "futog": 28
   }
     
@@ -44749,8 +44749,8 @@
     "collection": "skolski_pribor",
     "image": "/assets/images/77/vezbanka-1.jpg",
     "price": 40.0,
-    "srbobran": 44,
-    "futog": 17
+    "srbobran": 64,
+    "futog": 47
   }
     
   ,
@@ -45531,21 +45531,21 @@
     "collection": "sveska",
     "image": null,
     "price": 130.0,
-    "srbobran": 355,
+    "srbobran": 349,
     "futog": 393
   }
     
   ,
   
   {
-    "title": "SVESKA A/4 SC",
+    "title": "SVESKA A/4 SP 100L",
     "sku": 490,
-    "url": "/sveska/490-sveska-a-4-sc/",
+    "url": "/sveska/490-sveska-a-4-sp-100l/",
     "collection": "sveska",
     "image": null,
-    "price": null,
-    "srbobran": null,
-    "futog": null
+    "price": 390.0,
+    "srbobran": 5,
+    "futog": 5
   }
     
   ,
@@ -45570,7 +45570,7 @@
     "collection": "sveska",
     "image": "/assets/images/494/sveska-a-4-sc-1.jpg",
     "price": 170.0,
-    "srbobran": 13,
+    "srbobran": 12,
     "futog": 7
   }
     
