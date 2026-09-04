@@ -2770,7 +2770,7 @@
     "image": null,
     "price": 40.0,
     "srbobran": 77,
-    "futog": 21
+    "futog": 20
   }
     
   ,
@@ -5214,7 +5214,7 @@
     "image": "/assets/images/620/jederman-1.jpg",
     "price": 65.0,
     "srbobran": 27,
-    "futog": 22
+    "futog": 21
   }
     
   ,
@@ -5734,7 +5734,7 @@
     "image": "/assets/images/713/sponke-maped-s-10-1.jpg",
     "price": 45.0,
     "srbobran": 9,
-    "futog": 5
+    "futog": 4
   }
     
   ,
@@ -28278,7 +28278,7 @@
     "image": null,
     "price": 599.01,
     "srbobran": 2,
-    "futog": 2
+    "futog": 1
   }
     
   ,
@@ -36784,7 +36784,7 @@
     "image": "/assets/images/1525/cestitka-1.jpg",
     "price": 130.0,
     "srbobran": 28,
-    "futog": 21
+    "futog": 20
   }
     
   ,
@@ -41863,7 +41863,7 @@
     "collection": "skolski_pribor",
     "image": "/assets/images/1091/nalepnice-za-sveske-1.jpg",
     "price": 45.0,
-    "srbobran": 28,
+    "srbobran": 22,
     "futog": null
   }
     
@@ -44308,7 +44308,7 @@
     "image": "/assets/images/51/lenjir-30cm-1.jpg",
     "price": 50.0,
     "srbobran": 4,
-    "futog": 5
+    "futog": 4
   }
     
   ,
@@ -45531,7 +45531,7 @@
     "collection": "sveska",
     "image": null,
     "price": 130.0,
-    "srbobran": 349,
+    "srbobran": 347,
     "futog": 393
   }
     
@@ -50569,7 +50569,7 @@
     "image": null,
     "price": 20.0,
     "srbobran": -968,
-    "futog": -793
+    "futog": -794
   }
     
   ,
