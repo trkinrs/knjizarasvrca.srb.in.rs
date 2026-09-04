@@ -42500,7 +42500,7 @@
     "collection": "skolski_pribor",
     "image": null,
     "price": 30.0,
-    "srbobran": 10,
+    "srbobran": 9,
     "futog": 11
   }
     
@@ -44788,7 +44788,7 @@
     "collection": "skolski_pribor",
     "image": null,
     "price": 295.0,
-    "srbobran": 6,
+    "srbobran": 5,
     "futog": 7
   }
     
@@ -45401,7 +45401,7 @@
     "collection": "sveska",
     "image": "/assets/images/27/sveska-a-4-tp-1.jpg",
     "price": 320.0,
-    "srbobran": 44,
+    "srbobran": 43,
     "futog": 16
   }
     
@@ -45531,7 +45531,7 @@
     "collection": "sveska",
     "image": null,
     "price": 130.0,
-    "srbobran": 347,
+    "srbobran": 342,
     "futog": 391
   }
     
