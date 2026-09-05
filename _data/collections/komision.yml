@@ -128,7 +128,7 @@
   title: PP - AZBUKA - KARTONSKA SLIKOVNICA
   price: 300.0
   srbobran: 0
-  futog: 1
+  futog: 0
 306:
   title: PP - SUPROTNOSTI - KARTONSKA SLIKOVNICA
   price: 300.0
@@ -7848,12 +7848,12 @@
 3588:
   title: VU - UPOZNAJEM I OTKRIVAM - DOMAĆE ŽIVOTINJE
   price: 299.0
-  futog: 1
+  futog: 0
 3589:
   title: VU - UPOZNAJEM I OTKRIVAM - ŠUMSKE ŽIVOTINJE
   price: 299.0
   srbobran: 1
-  futog: 1
+  futog: 0
 3590:
   title: VU - VELIKA KNJIGA PITANJA I ODGOVORA SA PROZORČIĆIMA - LJUDSKO TELO
   price: 1399.02
@@ -9353,7 +9353,7 @@
 4487:
   title: PP - DOMAĆE ŽIVOTINJE - KARTONSKA SLIKOVNICA
   price: 299.01
-  futog: 1
+  futog: 0
 4488:
   title: PP - PORODIČNO BLAGO - MAMA ME VOLI / TATA ME VOLI
   price: 499.01

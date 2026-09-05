@@ -35,7 +35,7 @@
   title: ČESTITKA ROĐENDAN
   price: 120.0
   srbobran: 66
-  futog: 31
+  futog: 30
 201:
   title: SALVETE 38*38/40
   price: 330.0
@@ -1281,4 +1281,4 @@
 4522:
   title: ŠTAMPANJE ETIKETA
   price: 250.0
-  futog: -2
+  futog: -3
