@@ -5733,7 +5733,7 @@
     "collection": "kancelarijski_materijal",
     "image": "/assets/images/713/sponke-maped-s-10-1.jpg",
     "price": 45.0,
-    "srbobran": 9,
+    "srbobran": 5,
     "futog": 4
   }
     
@@ -5889,7 +5889,7 @@
     "collection": "kancelarijski_materijal",
     "image": "/assets/images/777/blok-a-6-c-5-sp-1.jpg",
     "price": 130.0,
-    "srbobran": 14,
+    "srbobran": 13,
     "futog": 7
   }
     
@@ -6357,7 +6357,7 @@
     "collection": "kancelarijski_materijal",
     "image": "/assets/images/966/roler-ah-832-1.jpg",
     "price": 50.0,
-    "srbobran": 5,
+    "srbobran": 1,
     "futog": 17
   }
     
@@ -33517,7 +33517,7 @@
     "image": "/assets/images/510/pp-zivotinje-otkrivalice-dzungla-1.jpg",
     "price": 980.0,
     "srbobran": 2,
-    "futog": 1
+    "futog": 0
   }
     
   ,
@@ -36420,7 +36420,7 @@
     "image": null,
     "price": 120.0,
     "srbobran": 4,
-    "futog": 3
+    "futog": 2
   }
     
   ,
@@ -41707,7 +41707,7 @@
     "collection": "skolski_pribor",
     "image": "/assets/images/1003/ol-hb-peps-gumica-1.jpg",
     "price": 50.0,
-    "srbobran": 54,
+    "srbobran": 53,
     "futog": 81
   }
     
@@ -42253,7 +42253,7 @@
     "collection": "skolski_pribor",
     "image": "/assets/images/133/gumica-sc-319-1.jpg",
     "price": 30.0,
-    "srbobran": 13,
+    "srbobran": 12,
     "futog": 28
   }
     
@@ -43281,7 +43281,7 @@
     "image": "/assets/images/223/mine-0-5-megapolis-1.jpg",
     "price": 80.0,
     "srbobran": 0,
-    "futog": 10
+    "futog": 8
   }
     
   ,
@@ -44463,7 +44463,7 @@
     "collection": "skolski_pribor",
     "image": "/assets/images/581/lepak-of-1.jpg",
     "price": 60.0,
-    "srbobran": 2,
+    "srbobran": 1,
     "futog": 0
   }
     
@@ -44879,7 +44879,7 @@
     "collection": "skolski_pribor",
     "image": "/assets/images/892/rezac-maped-metalni-1.jpg",
     "price": 120.0,
-    "srbobran": 10,
+    "srbobran": 9,
     "futog": 26
   }
     
@@ -45178,7 +45178,7 @@
     "collection": "skolski_pribor",
     "image": "/assets/images/991/blok-iii-1.jpg",
     "price": 80.0,
-    "srbobran": 19,
+    "srbobran": 18,
     "futog": 3
   }
     
@@ -45531,7 +45531,7 @@
     "collection": "sveska",
     "image": null,
     "price": 130.0,
-    "srbobran": 341,
+    "srbobran": 337,
     "futog": 391
   }
     
