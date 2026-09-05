@@ -1470,7 +1470,7 @@
     "image": null,
     "price": 85.0,
     "srbobran": 10,
-    "futog": 0
+    "futog": 27
   }
     
   ,
@@ -3613,8 +3613,8 @@
     "url": "/kancelarijski_materijal/3467-marker-bt-of/",
     "collection": "kancelarijski_materijal",
     "image": null,
-    "price": 54.0,
-    "srbobran": 28,
+    "price": 50.0,
+    "srbobran": 76,
     "futog": 0
   }
     
@@ -4342,7 +4342,7 @@
     "collection": "kancelarijski_materijal",
     "image": "/assets/images/467/gel-olovka-pisi-brisi-1.jpg",
     "price": 210.0,
-    "srbobran": 0,
+    "srbobran": 12,
     "futog": 1
   }
     
@@ -4901,8 +4901,8 @@
     "collection": "kancelarijski_materijal",
     "image": null,
     "price": 7.0,
-    "srbobran": 129,
-    "futog": 124
+    "srbobran": 189,
+    "futog": 64
   }
     
   ,
@@ -4914,8 +4914,8 @@
     "collection": "kancelarijski_materijal",
     "image": null,
     "price": 5.0,
-    "srbobran": 100,
-    "futog": 300
+    "srbobran": 300,
+    "futog": 100
   }
     
   ,
@@ -5148,7 +5148,7 @@
     "collection": "kancelarijski_materijal",
     "image": "/assets/images/612/casa-0-2-1.jpg",
     "price": 5.0,
-    "srbobran": 0,
+    "srbobran": 300,
     "futog": 0
   }
     
@@ -5877,7 +5877,7 @@
     "image": "/assets/images/776/marker-bt-con-1.jpg",
     "price": 99.0,
     "srbobran": 39,
-    "futog": 34
+    "futog": 30
   }
     
   ,
@@ -41105,8 +41105,8 @@
     "collection": "rancevi_i_peratonice",
     "image": null,
     "price": 345.0,
-    "srbobran": 0,
-    "futog": 3
+    "srbobran": 1,
+    "futog": 2
   }
     
   ,
@@ -41209,8 +41209,8 @@
     "collection": "rancevi_i_peratonice",
     "image": null,
     "price": 345.0,
-    "srbobran": 1,
-    "futog": 2
+    "srbobran": 2,
+    "futog": 1
   }
     
   ,
@@ -42098,7 +42098,7 @@
     "image": null,
     "price": 180.0,
     "srbobran": 9,
-    "futog": 5
+    "futog": 2
   }
     
   ,
@@ -44359,8 +44359,8 @@
     "collection": "skolski_pribor",
     "image": null,
     "price": 30.0,
-    "srbobran": 5,
-    "futog": -8
+    "srbobran": 805,
+    "futog": 192
   }
     
   ,
@@ -44891,9 +44891,9 @@
     "url": "/skolski_pribor/893-drvena-boja-1-24-sc/",
     "collection": "skolski_pribor",
     "image": "/assets/images/893/drvena-boja-1-24-sc-1.jpg",
-    "price": 465.0,
-    "srbobran": 0,
-    "futog": 0
+    "price": 365.0,
+    "srbobran": 2,
+    "futog": 1
   }
     
   ,
@@ -45453,8 +45453,8 @@
     "collection": "sveska",
     "image": null,
     "price": 270.0,
-    "srbobran": 59,
-    "futog": 23
+    "srbobran": 79,
+    "futog": 33
   }
     
   ,
