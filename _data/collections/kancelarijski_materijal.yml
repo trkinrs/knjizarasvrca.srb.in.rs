@@ -12,7 +12,7 @@
 81:
   title: DOSIJE 30 DŽEPOVA
   price: 315.0
-  srbobran: 1
+  srbobran: 0
 83:
   title: ROKOVNIK B/5 CROCO
   price: 700.0
@@ -299,8 +299,8 @@
 456:
   title: HO R301
   price: 40.0
-  srbobran: 32
-  futog: 45
+  srbobran: 31
+  futog: 43
 457:
   title: UL ZA HO PENAC 1/2
   price: 299.0
@@ -358,8 +358,8 @@
 482:
   title: HO AH 567
   price: 40.0
-  srbobran: 93
-  futog: 22
+  srbobran: 90
+  futog: 19
 484:
   title: UL HO OF441
   price: 25.0
@@ -371,12 +371,12 @@
 499:
   title: SIGNIR CONNECT
   price: 85.0
-  srbobran: 9
+  srbobran: 5
   futog: 0
 502:
   title: SIGNIR OF
   price: 55.0
-  srbobran: 8
+  srbobran: 6
   futog: 0
 503:
   title: SIGNIR MAPED
@@ -677,7 +677,7 @@
 635:
   title: PAPIR A4 U BOJI 1/100
   price: 295.0
-  srbobran: 2
+  srbobran: 1
   futog: 0
 643:
   title: PAPIR INTENZIVNI MIX 1/100
@@ -730,7 +730,7 @@
   title: KOREKTOR TRAKA 8M
   price: 120.0
   srbobran: 9
-  futog: 2
+  futog: 1
 669:
   title: KOREKTOR TRAKA 12M
   price: 150.0
@@ -799,7 +799,7 @@
   title: 'HO '
   price: 20.0
   srbobran: 7
-  futog: 7
+  futog: 5
 703:
   title: HEFT MAŠINA MINI 24/6
   price: 250.0
@@ -973,7 +973,7 @@
   title: GEL OLOVKA 0,5
   price: 30.0
   srbobran: 16
-  futog: 19
+  futog: 17
 957:
   title: SPONKE KORES S-10
   price: 70.0
@@ -1573,7 +1573,7 @@
   title: ID KARTICA SA TRAKOM
   price: 110.0
   srbobran: 12
-  futog: 9
+  futog: 7
 2178:
   title: DOSIJE 11 RUPA 80MIC
   price: 15.0
@@ -1611,7 +1611,7 @@
 2314:
   title: GEL OL PIŠI-BRIŠI
   price: 190.0
-  srbobran: 2
+  srbobran: 1
 2473:
   title: KUTIJA ZA PAPIR METALNA
   price: 200.0
