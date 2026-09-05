@@ -2874,7 +2874,7 @@
     "image": null,
     "price": 110.0,
     "srbobran": 12,
-    "futog": 9
+    "futog": 7
   }
     
   ,
@@ -3029,7 +3029,7 @@
     "collection": "kancelarijski_materijal",
     "image": "/assets/images/2314/gel-ol-pisi-brisi-1.jpg",
     "price": 190.0,
-    "srbobran": 2,
+    "srbobran": 1,
     "futog": null
   }
     
@@ -4238,8 +4238,8 @@
     "collection": "kancelarijski_materijal",
     "image": "/assets/images/456/ho-r301-1.jpg",
     "price": 40.0,
-    "srbobran": 32,
-    "futog": 45
+    "srbobran": 31,
+    "futog": 43
   }
     
   ,
@@ -4407,8 +4407,8 @@
     "collection": "kancelarijski_materijal",
     "image": "/assets/images/482/ho-ah-567-1.jpg",
     "price": 40.0,
-    "srbobran": 93,
-    "futog": 22
+    "srbobran": 90,
+    "futog": 19
   }
     
   ,
@@ -4446,7 +4446,7 @@
     "collection": "kancelarijski_materijal",
     "image": null,
     "price": 85.0,
-    "srbobran": 9,
+    "srbobran": 5,
     "futog": 0
   }
     
@@ -4459,7 +4459,7 @@
     "collection": "kancelarijski_materijal",
     "image": "/assets/images/502/signir-of-1.jpg",
     "price": 55.0,
-    "srbobran": 8,
+    "srbobran": 6,
     "futog": 0
   }
     
@@ -5317,7 +5317,7 @@
     "collection": "kancelarijski_materijal",
     "image": null,
     "price": 295.0,
-    "srbobran": 2,
+    "srbobran": 1,
     "futog": 0
   }
     
@@ -5487,7 +5487,7 @@
     "image": null,
     "price": 120.0,
     "srbobran": 9,
-    "futog": 2
+    "futog": 1
   }
     
   ,
@@ -5682,7 +5682,7 @@
     "image": null,
     "price": 20.0,
     "srbobran": 7,
-    "futog": 7
+    "futog": 5
   }
     
   ,
@@ -5967,7 +5967,7 @@
     "collection": "kancelarijski_materijal",
     "image": "/assets/images/81/dosije-30-dzepova-1.jpg",
     "price": 315.0,
-    "srbobran": 1,
+    "srbobran": 0,
     "futog": null
   }
     
@@ -6267,7 +6267,7 @@
     "image": null,
     "price": 30.0,
     "srbobran": 16,
-    "futog": 19
+    "futog": 17
   }
     
   ,
@@ -42293,7 +42293,7 @@
     "image": "/assets/images/1348/uvijac-b5-1.jpg",
     "price": 50.0,
     "srbobran": 19,
-    "futog": 4
+    "futog": 2
   }
     
   ,
@@ -42436,7 +42436,7 @@
     "image": "/assets/images/142/rezac-maped-mini-boogy-1.jpg",
     "price": 60.0,
     "srbobran": 45,
-    "futog": 45
+    "futog": 44
   }
     
   ,
@@ -42474,7 +42474,7 @@
     "collection": "skolski_pribor",
     "image": "/assets/images/145/sestar-sc-1.jpg",
     "price": 130.0,
-    "srbobran": 19,
+    "srbobran": 17,
     "futog": 20
   }
     
@@ -44451,7 +44451,7 @@
     "image": null,
     "price": 50.0,
     "srbobran": 9,
-    "futog": 40
+    "futog": 37
   }
     
   ,
@@ -44620,7 +44620,7 @@
     "image": null,
     "price": 40.0,
     "srbobran": 22,
-    "futog": 27
+    "futog": 26
   }
     
   ,
@@ -44931,7 +44931,7 @@
     "collection": "skolski_pribor",
     "image": "/assets/images/91/mine-0-7-hb-megapolis-1.jpg",
     "price": 80.0,
-    "srbobran": 13,
+    "srbobran": 11,
     "futog": null
   }
     
@@ -45259,7 +45259,7 @@
     "image": null,
     "price": 160.0,
     "srbobran": 0,
-    "futog": 7
+    "futog": 6
   }
     
   ,
@@ -45453,7 +45453,7 @@
     "collection": "sveska",
     "image": null,
     "price": 270.0,
-    "srbobran": 79,
+    "srbobran": 77,
     "futog": 33
   }
     
