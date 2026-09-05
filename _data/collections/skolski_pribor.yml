@@ -542,8 +542,8 @@
 527:
   title: UVIJAČ A/4
   price: 30.0
-  srbobran: 5
-  futog: -8
+  srbobran: 805
+  futog: 192
 546:
   title: HAMER A/3 BOJA
   price: 25.0
@@ -630,9 +630,9 @@
   futog: 26
 893:
   title: DRVENA BOJA 1/24 SC
-  price: 465.0
-  srbobran: 0
-  futog: 0
+  price: 365.0
+  srbobran: 2
+  futog: 1
 898:
   title: GUMICA B-40
   price: 70.0
@@ -805,7 +805,7 @@
   title: DRVENA BOJA MAGIC 1/1
   price: 180.0
   srbobran: 9
-  futog: 5
+  futog: 2
 1251:
   title: TESTERICE 1/12
   price: 80.0

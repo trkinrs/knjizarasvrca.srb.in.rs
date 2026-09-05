@@ -16,8 +16,8 @@
 202:
   title: 'PERNICA '
   price: 345.0
-  srbobran: 0
-  futog: 3
+  srbobran: 1
+  futog: 2
 204:
   title: PERNICA JEDNODELNA
   price: 875.0
@@ -26,8 +26,8 @@
 208:
   title: PERNICA TTS
   price: 345.0
-  srbobran: 1
-  futog: 2
+  srbobran: 2
+  futog: 1
 209:
   title: PERNICA DVODELNA PUNA
   price: 1095.0

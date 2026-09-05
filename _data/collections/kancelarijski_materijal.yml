@@ -336,7 +336,7 @@
 467:
   title: GEL OLOVKA PIŠI-BRIŠI
   price: 210.0
-  srbobran: 0
+  srbobran: 12
   futog: 1
 477:
   title: HO BIC ROUND
@@ -529,13 +529,13 @@
 580:
   title: KOVERAT AMERIKEN SL
   price: 7.0
-  srbobran: 129
-  futog: 124
+  srbobran: 189
+  futog: 64
 582:
   title: KOVERAT AMERIKEN SL
   price: 5.0
-  srbobran: 100
-  futog: 300
+  srbobran: 300
+  futog: 100
 583:
   title: KOVERAT B/6 SL
   price: 5.0
@@ -617,7 +617,7 @@
 612:
   title: ČAŠA 0,2
   price: 5.0
-  srbobran: 0
+  srbobran: 300
   futog: 0
 613:
   title: ČAŠA ŽIČANA
@@ -866,7 +866,7 @@
   title: MARKER BT CON
   price: 99.0
   srbobran: 39
-  futog: 34
+  futog: 30
 777:
   title: BLOK A/6 C/5 SP
   price: 130.0
@@ -1192,7 +1192,7 @@
   title: ULOŽAK PIŠI-BRIŠI
   price: 85.0
   srbobran: 10
-  futog: 0
+  futog: 27
 1314:
   title: PAK PAPIR BELI
   price: 40.0
@@ -1740,8 +1740,8 @@
   srbobran: 2
 3467:
   title: MARKER BT OF
-  price: 54.0
-  srbobran: 28
+  price: 50.0
+  srbobran: 76
   futog: 0
 3500:
   title: DOSIJE 11 RUPA 120MIC
