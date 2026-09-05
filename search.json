@@ -21115,7 +21115,7 @@
     "image": "/assets/images/305/pp-azbuka-kartonska-slikovnica-1.jpg",
     "price": 300.0,
     "srbobran": 0,
-    "futog": 1
+    "futog": 0
   }
     
   ,
@@ -27732,7 +27732,7 @@
     "image": null,
     "price": 299.0,
     "srbobran": null,
-    "futog": 1
+    "futog": 0
   }
     
   ,
@@ -27745,7 +27745,7 @@
     "image": null,
     "price": 299.0,
     "srbobran": 1,
-    "futog": 1
+    "futog": 0
   }
     
   ,
@@ -32880,7 +32880,7 @@
     "image": null,
     "price": 299.01,
     "srbobran": null,
-    "futog": 1
+    "futog": 0
   }
     
   ,
@@ -36953,7 +36953,7 @@
     "image": "/assets/images/198/cestitka-rodjendan-1.jpg",
     "price": 120.0,
     "srbobran": 66,
-    "futog": 31
+    "futog": 30
   }
     
   ,
@@ -39527,7 +39527,7 @@
     "image": null,
     "price": 250.0,
     "srbobran": null,
-    "futog": -2
+    "futog": -3
   }
     
   ,
@@ -43008,7 +43008,7 @@
     "image": "/assets/images/2047/muzicki-stapici-1.jpg",
     "price": 180.0,
     "srbobran": 2,
-    "futog": 1
+    "futog": 0
   }
     
   ,
