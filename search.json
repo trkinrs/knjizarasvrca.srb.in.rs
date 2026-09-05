@@ -38,7 +38,7 @@
     "image": "/assets/images/102/fb-heart-45cm-red-1.jpg",
     "price": 200.0,
     "srbobran": 3,
-    "futog": 4
+    "futog": 3
   }
     
   ,
@@ -168,7 +168,7 @@
     "image": null,
     "price": 395.0,
     "srbobran": 7,
-    "futog": 7
+    "futog": 6
   }
     
   ,
@@ -506,7 +506,7 @@
     "image": null,
     "price": 60.0,
     "srbobran": 0,
-    "futog": 45
+    "futog": 43
   }
     
   ,
@@ -597,7 +597,7 @@
     "image": null,
     "price": 1450.0,
     "srbobran": 0,
-    "futog": 1
+    "futog": 0
   }
     
   ,
@@ -1638,7 +1638,7 @@
     "collection": "kancelarijski_materijal",
     "image": "/assets/images/1373/dosije-11-rupa-40mic-1.jpg",
     "price": 6.0,
-    "srbobran": 113,
+    "srbobran": 112,
     "futog": 74
   }
     
@@ -36420,7 +36420,7 @@
     "image": null,
     "price": 120.0,
     "srbobran": 4,
-    "futog": 4
+    "futog": 3
   }
     
   ,
@@ -44360,7 +44360,7 @@
     "image": null,
     "price": 30.0,
     "srbobran": 5,
-    "futog": 2
+    "futog": -8
   }
     
   ,
@@ -50673,7 +50673,7 @@
     "image": null,
     "price": 300.0,
     "srbobran": -258,
-    "futog": -51
+    "futog": -54
   }
     
   
